@@ -172,3 +172,5 @@ scripts/adhoc_tests/test_video.py
 scripts/adhoc_tests/test_video_mocked.py
 scripts/adhoc_tests/test_voice.py
 scripts/adhoc_tests/test_voice2.py
+.aider*
+.codex-runtime/

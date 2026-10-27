@@ -1,0 +1,1746 @@
+
+===== PAGE 1 =====
+CÁC KHÁI NIỆM CƠ BẢN TRONG
+PHÂN TÍCH VÀ THIẾT KẾ HƯỚNG
+          ĐỐI TƯỢNG
+
+===== PAGE 2 =====
+CNPM Hướng đối tượng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Lập trình cấu trúc
+
+                                                       2
+
+===== PAGE 3 =====
+CNPM Hướng đối tượng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           3
+
+===== PAGE 4 =====
+CNPM Hướng đối tượng – Các giai đoạn
+
+•Phân tích hướng đối tượng (Object Oriented Analysis - OOA)
+•Thiết kế hướng đối      tượng    (Object Oriented Design      - OOD)
+•Lập trình hướng đối tượng (Object Oriented Programming - OOP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                           4
+
+===== PAGE 5 =====
+CNPM Hướng đối tượng – tư tưởng chính
+
+•Tạo các đối tượng trong máy tính tương ứng đối tượng có thật và
+ phân công trách nhiệm cho chúng để thực hiện yêu cầu người dùng
+•Các đối tượng được tạo lập sẽ được tái sử dụng
+•Các đối tượng có thể phối hợp nhau qua cơ chế đặc biệt – cơ chế đa
+ hình
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          5
+
+===== PAGE 6 =====
+  CNPM Hướng đối tượng – Quy trình
+• Kết quả của các giai đoạn đều là sự mô tả các đối tượng từ tổng quát đến
+  chi tiết
+• Hoạt động chung
+    • Nhận kết quả
+    • Xử lý: mô tả chi tiết hơn
+    • Chuyển giao kết quả
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                 6
+
+===== PAGE 7 =====
+CNPM Hướng đối tượng – Các giai đoạn
+
+• Object Oriented Analysis – OOA
+    • Giai đọan phát triển một mô hình chính xác và súc tích của vấn đề
+    • Thành phần là các đối tượng và khái niệm đời thực
+    • Vấn đề được trình bày bằng các thuật ngữ tương ứng với các đối tượng có
+      thực
+    • Mô hình thiết kế sẽ chứa các thực thể trong một vấn đề có thực và giữ
+      nguyên các mẫu hình về cấu trúc, quan hệ cũng như hành vi của chúng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                     7
+
+===== PAGE 8 =====
+CNPM Hướng đối tượng – Các giai đoạn
+
+• Object Oriented Analysis – OOA
+    • Ví dụ: một phòng bán ô tô sẽ có các thực thể
+         • Khách hàng
+         • Người bán hàng
+         • Phiếu đặt hàng
+         • Phiếu (hoá đơn) thanh toán
+         • Xe ô tô
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                         8
+
+===== PAGE 9 =====
+CNPM Hướng đối tượng – Các giai đoạn
+
+• Object Oriented Analysis – OOA
+    •  Ví dụ: một phòng bán ô tô - tương tác và quan hệ giữa các đối tượng trên là:
+         • Người bán hàng dẫn khách hàng tham quan phòng trưng bày xe
+         • Khách hàng chọn một chiếc      xe
+         • Khách hàng viết phiếu    đặt xe
+         • Khách hàng trả tiền xe
+         • Xe ô tô được giao đến cho khách hàng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              9
+
+===== PAGE 10 =====
+CNPM Hướng đối tượng – tư tưởng chính
+
+• Object Oriented Analysis – OOA
+    •  Ví dụ: ngân hàng – thực thể
+         •  Loại tài khoản: ATM (rút tiền tự động), Savings (tiết kiệm), Current (bình thường), Fixed
+            (đầu tư), ...
+         •  Khách hàng
+         •  Nhân viên
+         •  Phòng máy tính
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                10
+
+===== PAGE 11 =====
+CNPM Hướng đối tượng – tư tưởng chính
+
+• Object Oriented Analysis – OOA
+    •  Ví dụ: ngân hàng – tương tác và quan hệ
+         •  Một khách hàng mới mở một tài khoản tiết kiệm
+         •  Chuyển tiền từ tài khoản tiết kiệm sang tài khoản đầu tư
+         •  Chuyển tiền từ tài khoản tiết kiệm sang tài khoản ATM
+         •  .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              11
+
+===== PAGE 12 =====
+CNPM Hướng đối tượng – Các giai đoạn
+
+• Object Oriented Design - OOD
+    •  Giai đoạn tổ chức chương trình thành các tập hợp đối tượng cộng tác
+         •  Mỗi đối tượng trong đó là thực thể của một lớp
+         •  Các lớp là thành viên của một cây cấu trúc với mối quan hệ thừa kế
+    •  Tạo thiết kế dựa trên
+         •  Kết quả của giai đoạn OOA,
+         •  Những quy định phi chức năng,
+         •  Những yêu cầu về môi trường,
+         •  Những yêu   cầu  về khả năng thực thi
+
+
+
+
+
+
+
+
+
+
+
+                                                                                               12
+
+===== PAGE 13 =====
+CNPM Hướng đối tượng – Các giai đoạn
+
+• Object Oriented Design - OOD
+    •  Trong giai đoạn OOD, nhà thiết kế định nghĩa
+         •  các chức năng, thủ tục (operations),
+         •  thuộc tính (attributes)
+         •  mối quan hệ của một hay nhiều lớp (class) và quyết         định chúng cần phải được điều
+            chỉnh sao cho phù hợp với môi trường phát triển
+         •  thiết kế ngân hàng dữ liệu và áp dụng các kỹ thuật tiêu chuẩn hóa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                 13
+
+===== PAGE 14 =====
+CNPM Hướng đối tượng – Các giai đoạn
+
+• Object Oriented Design - OOD
+    •  Cuối giai đoạn OOD đưa ra một loạt các biểu đồ (diagram):
+         • biểu đồ tĩnh biểu thị các lớp và đối tượng
+         • biểu đồ động biểu thị tương tác giữa các lớp và phương thức hoạt động chính xác của
+           chúng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                            14
+
+===== PAGE 15 =====
+CNPM Hướng đối tượng – Các giai đoạn
+
+•Lập trình hướng đối tượng (Object Oriented Programming - OOP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          15
+
+===== PAGE 16 =====
+Quan hệ giữa các lớp đối tượng
+
+
+❖ Quan hệ tổng quát hóa (Generalization)
+❖ Quan hệ Association
+❖ Quan hệ Aggregation
+❖ Quan hệ Composition
+❖ Quan hệ Dependency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                               16
+
+===== PAGE 17 =====
+❖ Quan hệ tổng quát hóa (Generalization)
+ • Quan hệ Generalization: Thể hiện rằng một lớp A kế thừa
+   từ một lớp B (Hay A là trường hợp riêng của B; B là tổng
+   quát của A)
+ • Tên  gọi  khác:
+     • Quan  hệ  kế thừa
+     • Quan hệ khái quát hóa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                      17
+
+===== PAGE 18 =====
+❖  Quan hệ tổng quát hóa (Generalization)
+  • Đây   là quan    hệ  Là một    (Is a)
+  ▪ Ví dụ:
+      • Tam giác   cân  là một  tam  giác
+      • Hình  chữ  nhật   là một  hình  đa  giác
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                 18
+
+===== PAGE 19 =====
+❖  Quan hệ tổng quát hóa (Generalization)
+
+
+
+
+
+
+
+
+
+     ClassB kế thừa      từ ClassA
+     ClassB là một trường hợp đặc biệt của ClassA
+     ClassA là trường hợp tổng quát của ClassB
+
+
+
+
+
+                                                                                             19
+
+===== PAGE 20 =====
+❖   Quan hệ tổng quát hóa (Generalization)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                       20
+
+===== PAGE 21 =====
+Quan hệ Association
+
+•Giữa 2 đối tượng của 2 lớp có sự ghép cặp:
+   • Ví dụ: vợ –  chồng , khách hàng –      hóa đơn …
+•Tập hợp các kết nối cùng loại (cùng ý nghĩa) giữa các đối tượng
+ của 2 lớp tạo thành mối liên kết association
+•Mỗi liên kết giữa 2 lớp có role,           role là tên vai trò của mối liên kết
+ :
+   • Ví dụ như : của, cho, có, liên kết tới, trao đối với , …. (thường role có
+     kèm theo 1 mũi tên để chỉ hướng quan hệ áp dụng từ lớp nào sang lớp
+     nào)
+
+
+
+
+
+
+                                                                                        21
+
+===== PAGE 22 =====
+Quan hệ Association
+
+
+
+
+      Đọc là:
+          Trong ClassA có thuộc tính có kiểu là ClassB
+      Hoặc:
+          Trong ClassB có thuộc tính có kiểu là ClassA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              22
+
+===== PAGE 23 =====
+Quan hệ Association
+
+
+
+
+
+  Ví dụ: Mỗi người trong lớp Nguoi có thể không có hoặc có
+  nhiều ô tô (thuộc lớp Oto) và ngược lại một ô tô phải là sở
+  hữu của ít nhất một người nào đó thuộc lớp Nguoi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  23
+
+===== PAGE 24 =====
+Quan hệ Association
+  Nhận xét:
+  ❖  Về mặt lập trình, thuộc tính có thể được lưu trữ dạng biến
+     đơn, biến mảng, hay biến con trỏ
+  ❖  Có hoặc không có bản số cũng được
+  ❖  Có hoặc không có mũi tên cũng được:
+     ▪   Nếu có mũi tên 1 chiều, chỉ ra chiều đối tượng thuộc lớp
+         này chỉ có gọi đối tượng của lớp kia, không có chiều
+         ngược lại
+     ▪   Nếu không có mũi tên nào thì tương đương là mũi tên 2
+         chiều , hoặc chiều không quan trọng.
+
+
+
+
+
+
+
+                                                                              24
+
+===== PAGE 25 =====
+Quan hệ Aggregation
+   ❖  Đã xác định được ClassA và ClassB có quan hệ Association với nhau
+   ❖  Xác định rõ hơn:
+        ▪  Trong   object   của   ClassA   có  chứa   (trong   phần   thuộc    tính)  object  của
+           ClassB
+        ▪  ObjectX của ClassA bị hủy thì ObjectY của ClassB (bên trong ObjectX)
+           vẫn có thể còn tồn tại
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                      25
+
+===== PAGE 26 =====
+Quan hệ Aggregation
+  ❖  Dùng để mô hình hóa quan hệ toàn thể - bộ phận giữa một kết tập và bộ
+     phận của nó.
+  ❖  Còn gọi là shared-aggregation.Một dạng của nối kết, trong đó một phần tử
+     này chứa các phần tử khác.
+  ❖  Ý nghĩa : còn gọi là Whole A –          Part B   . Nghĩa là A được tạo từ nhiều
+     B kết hợp lại , và B có thể tạo ra độc lập , không cần phải tạo ra A , B
+     có thể cùng thuộc 1 whole khác A.
+  ❖  Chú ý    : Từ  share   ở đây có nghĩa là , B có thể là bộ phận
+     của  whole   khác, do đó A bị hủy thì chưa chắc B bị hủy .
+
+
+
+
+
+
+
+
+
+
+
+                                                                                               26
+
+===== PAGE 27 =====
+Quan hệ Aggregation
+
+
+
+
+
+
+    Mỗi dự án có thể có nhiều người tham gia và mỗi người lại có thể tham gia
+    nhiều nhất là hai dự án.
+    Trong quan hệ này, ta có thể loại bỏ một dự án (whole) nhưng không nhất
+    thiết  phải loại bỏ những người tham gia (part)
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             27
+
+===== PAGE 28 =====
+Quan hệ Aggregation
+    Ví dụ:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                       28
+
+===== PAGE 29 =====
+Quan hệ Composition
+
+
+
+
+     ❖  Đã xác định được ClassA và ClassB có quan hệ Association với nhau
+     ❖  Xác định rõ hơn:
+         ▪  Trong object của ClassA có chứa (trong phần thuộc             tính) object của
+            ClassB
+         ▪  ObjectX của ClassA bị hủy thì ObjectY của ClassB (bên trong
+            ObjectX) không thể còn tồn tại
+         ▪  Thể hiện rằng một lớp A bao hàm lớp B. Nhưng lớp B không
+            thể tồn tại độc lập (không thuộc lớp nào khác). Tức là, nếu có
+            B thì phải suy ra được A
+
+
+
+
+
+                                                                                                 29
+
+===== PAGE 30 =====
+Quan hệ Composition
+
+
+
+
+      ❖  Là loại aggregation       chặt chẽ hơn , còn gọi là non-shared
+         aggregation
+      ❖  Còn gọi là   Whole A –     Part B  . Nghĩa là A được tạo từ nhiều B
+         kết hợp lại , nhưng B không thể đứng 1 mình được , B chỉ là
+         thuộc A mà thôi không thể cùng thuộc Whole khác được.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                          30
+
+===== PAGE 31 =====
+Quan hệ Composition
+
+
+
+
+      Ví dụ:
+      Ta có thể loại bỏ một số tàu chiến của một hạm đội sao cho số còn
+      lại ít nhất là 3, tương tự có thể bổ sung vào một số tàu chiến sao
+      cho không quá 10.
+      Nhưng khi đã loại bỏ một hạm đội thì phải loại bỏ tất cả các tàu
+      chiến của hạm đội đó vì mỗi tàu chiến chỉ thuộc một hạm đội.
+
+
+
+
+
+
+
+
+
+
+
+                                                                                               31
+
+===== PAGE 32 =====
+Quan hệ Composition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                 32
+
+===== PAGE 33 =====
+Quan hệ Composition
+
+     Chú ý :
+     ❖  B  chỉ có thể là bộ phận     của whole A
+     ❖  A chết thì tất cả B chết
+     ❖  B chết không      ảnh hưởng đến A
+     ❖  Bản số của Whole A luôn là 1, nghĩa là B luôn thuộc 1 A thôi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                           33
+
+===== PAGE 34 =====
+Quan hệ Dependency
+
+     ❖  Là quan hệ giữa 2 phần tử trong mô hình mà thay đổi ở
+        phần tử này (phần tử độc lập) có thể gây ra thay đổi ở phần
+        tử kia (phần tử phụ thuộc).
+     ❖  ClassA và ClassB không có quan hệ Association
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           34
+
+===== PAGE 35 =====
+Quan hệ Dependency
+
+
+
+
+
+      ❖   Ký hiệu:    A use-a   B  , bằng mũi tên 1 chiều nét đứt , từ bên phụ
+          thuộc sang bên độc lập ;
+      ❖   ClassA “phụ thuộc” vào ClassB ;
+      ❖   Client –> Supplier (phần tử phụ thuộc –> phần tử độc lập)
+
+
+
+
+
+
+
+
+
+
+
+                                               35
+
+===== PAGE 36 =====
+Quan hệ Dependency
+
+
+
+
+
+      ❖  Trong ClassA     có sử dụng     biến toàn cục (kiểu B), hoặc sử
+         dụng   phương thức/thuộc tính       static của ClassB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            36
+
+===== PAGE 37 =====
+Quan hệ Dependency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     37
+
+===== PAGE 38 =====
+Quan hệ Dependency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     38
+
+===== PAGE 39 =====
+Quan hệ Dependency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     39
+
+===== PAGE 40 =====
+Chiều của quan hệ (Association, Aggregation, Composition)
+
+             • Chiều của quan hệ (Association, Aggregation,
+               Composition)
+
+
+
+
+
+                 • Nếu quan hệ là 1 chiều: có mũi tên
+                 • Nếu quan hệ là 2 chiều: không vẽ mũi tên
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                    40
+
+===== PAGE 41 =====
+Bản số• Bản số - Multiplicity (Association, Aggregation,
+
+        Composition)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                         41
+
+===== PAGE 42 =====
+Bản số
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                            42
+
+===== PAGE 43 =====
+Bản số
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                            43
+
+===== PAGE 44 =====
+Bản số
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                            44
+
+===== PAGE 45 =====
+Bản số
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                            45
+
+===== PAGE 46 =====
+Ví dụ minh họa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                        46
+
+===== PAGE 47 =====
+       UML(Unified Modeling Language)
+
+
+❖ Phương pháp Booch + phương pháp OMT 🡪           UP (Unified Process)
+  (1994)
+❖  Jacobson đã nỗ lực tích hợp phương pháp UP + OOSE 🡪         UML đầu tiên
+  (1996)
+❖ UML 1.0 công bố (1/1997)
+❖ UML 2.0 công bố (2004)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        47
+
+===== PAGE 48 =====
+                                 UML
+
+
+                                                                         UML 2.x
+                                                                         (2004)
+                                                                     UML 1.5
+                                                                     (2003)
+                                                                UML 1.3 (99)
+
+                                                        UML 1.2 (98)
+
+        Chuẩn hoá bởi OMG                   UML 1.1 (11- 97)
+
+                               UML 1.0 (1- 97)
+
+                       UML 0.9 (96)
+
+        UML 0.8 (95)                                   Các thành viên công nghiệp
+                                         OOSE          (HP, IBM,Oracle, Microsoft,
+Booch        OMT         Các phương pháp khác           Rational,…)
+
+
+
+
+                                               48
+
+===== PAGE 49 =====
+UML
+❖  Các đặc trưng của một tiến trình sử dụng UML:
+    ▪ Tính lặp (iterative)
+    ▪ Gia tăng (incremental)
+    ▪ Tập trung vào người dùng (user – concentrated)
+    ▪ Hướng kiến trúc (well-defined structure)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       49
+
+===== PAGE 50 =====
+ UML
+❖ Năm khung nhìn về hệ thống
+
+
+
+    Khung nhìn luận lý                     Khung nhìn thực hiện
+       (logical view)                     (implementation view)
+                          Khung nhìn use
+                          case (Use case
+                               view)
+Khung nhìn xử lý (proces                   Khung nhìn triển khai
+            view)                            (deployment view)
+
+
+
+
+
+
+
+
+
+
+                                 50
+
+===== PAGE 51 =====
+UML
+❖  Các sơ đồ mô tả khía cạnh tĩnh
+    ▪  Sơ đồ đối tượng (object diagram)
+    ▪  Sơ đồ lớp (class diagram)
+    ▪  Sơ đồ use case (use case diagram)
+    ▪  Sơ đồ thành phần (component diagram)
+    ▪  Sơ đồ triển khai (deployment diragram)
+❖  Các sơ đồ mô tả khía cạnh động
+    ▪  Các sơ đồ tương tác (interaction diagram)
+        •  Sơ đồ tuần tự (sequence diagram)
+        •  Sơ đồ hợp tác (collaboration diagram)
+    ▪  Sơ đồ hoạt động (activity diagram)
+    ▪  Sơ đồ chuyển dịch trạng thái (state transition diagram)
+
+
+
+
+
+
+                                                                                            51
+
+===== PAGE 52 =====
+UML
+
+
+
+                   Tài xế                 Sở hữu                Xe
+                     1          0..1                  1..*
+
+                          Của
+                     *
+
+                   Bằng lái                Xe tải             Xe ô tô            Xe mô tô
+                       xe
+
+
+
+                          Tác giả                                    Sách
+                    tênTácGiả: string     1          1..*    tựaSách: string
+
+                    địaChỉ: string                           nămXuấtBản:
+                                                             integer
+
+           Sơ đồ lớp
+
+                                                      52
+
+===== PAGE 53 =====
+UML
+
+
+
+
+                                                                 UML:Sách
+
+                                                           tựaSách =’UML’
+                    Hoàng:Tác giả                          nămXuấtBản=1998
+
+
+             tênTácGiả =’Nguyễn Văn                          Cơ sở dữ liệu:Sách
+             Hoàng’
+             địaChỉ=’123-Nguyễn Văn
+             Cừ - Q5’                                      tựaSách =’UML’
+                                                           nămXuấtBản=1997
+
+
+
+         Sơ đồ đối tượng
+
+
+
+
+
+
+
+                                                   53
+
+===== PAGE 54 =====
+UML
+
+
+
+                                           Mượn
+                                           sách
+
+                                         Trả sách                       Thủ thư
+
+
+
+                                          Mượn tại
+                                             chổ
+              Đọc giả
+                                          Đọc sách,
+                                              báo
+
+                                          Mua sách
+                                                                        Nhà cung cấp
+
+         Sơ đồ Use case
+                                                  54
+
+===== PAGE 55 =====
+UML
+
+
+
+
+                                            Tiện ích
+
+
+
+                  Giao diện                                            Cơ sở dữ liệu
+
+
+
+
+                                             Xử lý
+
+
+
+          Sơ đồ thành phần
+
+
+
+
+
+
+
+                                                  55
+
+===== PAGE 56 =====
+UML
+
+
+
+
+
+               Node 1 (phòng quản trị):Server                      Node 3 (đọc giả):APP
+                             CSDL
+                                                                           Giao diện
+
+
+
+
+
+                Node 2 (phòng quản trị):APP
+                             Server                                  Node 4 (thủ thư):APP
+                       Tiện ích          Cơ sở dữ
+                                         liệu                              Giao diện
+
+                       Xử lý
+
+
+
+            Sơ đồ triển khai
+                                                           56
+
+===== PAGE 57 =====
+UML
+
+
+                    :Người gọi         :Máy gọi      Tổng đài        :Máy nhận     :Người nhận
+
+                              Nhấc
+                              máyTín hiệu
+
+
+
+                              Quay số          Kết nối
+                                                              Tín          Đổ chuông
+                                                              hiệu
+                                                                             Nhấc máy               Sơ đồ tuần tự
+
+                                                                              Tín hiệu
+
+
+
+                                                           Tín hiệu gác máy   Gác máy
+
+                           Tin hiệu gác máyTín hiệu gác máy
+
+
+
+
+
+
+
+
+
+
+
+                                                                   57
+
+===== PAGE 58 =====
+UML
+
+
+
+
+                                                                   Muợn
+
+                                             Sẵn sàng cho mượn     Trả                Đang mượn
+
+
+                          Nhập kho lưu         Chấm dứt lưu hành   Đánh mất                Đánh mất
+                          trữ
+
+                     Lưu trữ                    Hết lưu hành      Đánh mất                Mất
+                                   Nhập kho
+                                                   Đánh mất
+
+                             Thanh lý
+
+
+             Sơ đồ trạng thái
+
+
+
+
+
+
+                                                             58
+
+===== PAGE 59 =====
+UML
+
+
+
+
+                                    Kiểm tra các sách đã mượn
+             [Độc giả đến mượn
+             sách]                                    [Sách đã mượn<=3]
+
+                  Từ chối mượn sách                                         Lấy sách
+                                        [Sách đã mượn>3]
+
+
+
+                                                                  Cập nhật thông tin muợn
+
+
+
+            Sơ đồ hoạt động
+
+
+
+
+
+
+
+
+
+                                                       59

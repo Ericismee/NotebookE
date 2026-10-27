@@ -8,6 +8,17 @@ export interface Model {
   updated: string
 }
 
+export interface TtsVoice {
+  preview_key?: string | null
+  preview_ready?: boolean
+  model_id?: string
+  id: string
+  name: string
+  description?: string | null
+  gender?: string | null
+  language_code?: string | null
+}
+
 export interface CreateModelRequest {
   name: string
   provider: string

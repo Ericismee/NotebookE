@@ -1,0 +1,667 @@
+
+===== PAGE 1 =====
+MÔ HÌNH HÓA YÊU CẦU (TT)
+
+===== PAGE 2 =====
+                            Nội dung
+
+❖ Biểu đồ tuần tự (Sequence Diagram)
+❖ Biểu đồ hoạt động (Actvity Diagram)
+❖ Biểu đồ cộng tác (Collaboration Diagram)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         2
+
+===== PAGE 3 =====
+                      Sequence diagram
+
+❖ Mô hình hóa khía cạnh động của hệ thống
+❖ Nhấn mạnh sự tương tác giữa các đối tượng theo thời gian.
+❖ Biểu đồ chỉ ra tập các đối tượng và các thông điệp trao đổi giữa
+  chúng, diễn tả các hoạt động như thế nào theo trình tự thời gian
+❖ Phân biệt:
+   ▪ Sequence diagram tập trung vào luồng điều khiển
+   ▪ Collaboration diagram tập trung vào luồng dữ liệu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                      3
+
+===== PAGE 4 =====
+                    Sequence diagram
+
+❖ Biểu đồ trình tự có thể sử dụng cho nhiều cách:
+   ▪ Lập mô hình tương tác ở mức cao giữa các đối tượng hoạt
+     động trong một hệ thống
+   ▪ Dùng để mô hình hóa giao tác giữa các hệ thống con
+   ▪ Lập mô hình tương tác giữa các đối tượng nhằm thực hiện
+     một use case
+   ▪ …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            4
+
+===== PAGE 5 =====
+                    Sequence diagram
+
+❖ Biểu đồ trình tự gồm các phần tử mô hình như sau:
+   ▪ Đối tượng (object)
+   ▪ Đường sống, sinh tồn (life line)
+   ▪ Thông điệp (message)
+   ▪ Vùng hoạt động (activation)
+   ▪ Chú thích (note) và ràng buộc (constraint)
+❖ Ngoài ra biểu đồ trình tự chứa các tác nhân kích hoạt
+  biểu đồ. Tuy nhiên tác nhân không phải là phần tử của
+  biểu đồ
+
+
+
+
+
+
+
+
+                                                                            5
+
+===== PAGE 6 =====
+                   Sequence diagram
+
+❖ Biểu đồ chứa một loạt các đối tượng sắp xếp theo hàng
+  ngang. Còn thời gian biểu diễn theo trục thẳng đứng
+❖ Chu kỳ sống của đối tượng được biểu diễn bằng các
+  đường thẳng đứng gọi là đường sinh tồn
+❖ Các thông điệp là các đường ngang nối liền các đường
+  sinh tồn giữa các đối tượng
+❖ Có nhiều loại thông điệp có ký hiệu và ngữ nghĩa khác
+  nhau.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                       6
+
+===== PAGE 7 =====
+          Sequence diagram
+
+
+❖ Đối tượng:
+   ▪ Biểu diễn bằng hình chữ nhật, bên
+     trong là tên đối tượng
+❖ Đường sinh tồn:
+   ▪ Biểu diễn bằng đường gạch thẳng
+     đứt nét cho biết thời gian sống
+     của đối tượng
+❖ Vùng hoạt động:
+   ▪ Biểu diễn bằng hình chữ nhật hẹp
+     dọc theo đường sinh tồn
+   ▪ Cho biết thời gian thực thi một
+     hoạt động tương ứng.
+
+
+
+
+                                                                        7
+
+===== PAGE 8 =====
+         Sequence diagram
+
+
+❖ Thông điệp đơn giản
+   ▪ Thông điệp được gởi đi giữa
+     các đối tượng, đây là thao tác
+     lớp được định nghĩa sau này.
+   ▪ Thông điệp biểu diễn một đối
+     tượng gọi thao tác của đối
+     tượng khác
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    8
+
+===== PAGE 9 =====
+                    Sequence diagram
+
+❖ Thông điệp phản thân:
+   ▪ Đối tượng gọi chính thao tác của mình
+
+❖ Thông điệp đồng bộ:
+   ▪ Đối tượng gởi thông điệp và chờ đến khi thông điệp được giải
+     quyết xong
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                           9
+
+===== PAGE 10 =====
+           Sequence diagram
+
+
+❖ Thông điệp bất đồng bộ:
+   ▪  Đối tượng gởi thông điệp đến đối
+      tượng nhận. Sau đó đối tượng gởi
+      tiếp tục làm công việc khác. Không
+      quan tâm đến thông điệp đó có được
+      xử lý hay không.
+❖ Thông điệp đáp ứng:
+   ▪  Sau khi nhận thông điệp từ đối tượng
+      gởi nào đó. Một đối tượng có thể gởi
+      thông điệp đáp ứng cho đối tượng
+      gởi.
+
+
+
+
+                                                                             10
+
+===== PAGE 11 =====
+         Sequence diagram
+
+
+❖ Thông điệp thủ tục:
+   ▪ Đối tượng gởi thông điệp và chờ
+     cho đến khi nó xử lý xong
+   ▪ Bao gồm việc chờ cho đến khi
+     nào hoàn tất hoạt động được gọi
+     bởi đối tượng nhận trên những
+     đối tượng khác.
+❖ Thông điệp hủy đối tượng:
+   ▪ Hủy bỏ đối tượng
+
+
+
+
+
+                                                                  11
+
+===== PAGE 12 =====
+                        Sequence diagram
+❖ Các bước thực hiện biểu đồ tuần tự
+   ▪  Xác định ngữ cảnh tương tác: hệ thống, hệ thống con, use
+      case hoặc thao tác.
+   ▪  Xem xét các kịch bản thay thế
+   ▪  Vẽ các biểu đồ thể hiện
+       • Đặt các đối tượng từ trái sang phải
+       • Bắt đầu bằng thông điệp khởi đầu tương tác, đặt các thông điệp theo
+         chiều từ trên xuống dưới theo trục thời gian. Biểu diễn các đặc tính của
+         các thông điệp cần thiết để giải thích ngữ nghĩa tương tác.
+       • Thêm các vùng hoạt động nếu cần để trực quan hóa hành động
+       • Thêm các ràng buộc khác nếu cần (thời gian)
+       • Thêm các chú thích vào biểu đồ.
+
+
+
+
+                                                                                          12
+
+===== PAGE 13 =====
+                       Sequence diagram
+
+❖ Khi xây dựng biểu đồ tương tác, ban đầu chỉ tập trung vào các
+  thông tin liên quan đến khách hàng.
+   ▪ Chưa ánh xạ thông điệp thành thao tác
+   ▪ Chỉ đặc tả thông điệp không hình thức
+   ▪ Chưa ánh xạ đối tượng thành lớp
+❖ Biểu đồ tạo ra trong giai đoạn này chỉ quan tâm đến luồng tác
+  nghiệp
+❖ Sau đó biểu đồ sẽ được bổ sung chi tiết hơn như ánh xạ đối tượng
+  thành lớp, thông điệp thành thao tác, bổ sung một số đối tượng
+  khác như giao diện, điều khiển.
+
+
+
+
+
+
+
+
+
+
+                                                                                     13
+
+===== PAGE 14 =====
+          Sequence diagram
+
+
+❖ Biểu đồ trình
+  tự của hệ
+  thống ATM ban
+  đầu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                           14
+
+===== PAGE 15 =====
+        Sequence diagram
+
+
+❖ Biểu đồ trình tự ở
+  mức chi tiết hơn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                           15
+
+===== PAGE 16 =====
+                 Sequence diagram
+
+❖ Thể hiện một thao tác của một lớp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  16
+
+===== PAGE 17 =====
+                              Sequence diagram
+❖  Minh họa chức năng tính tiền:
+    ▪  Các đối tượng:
+         • Người bán hàng
+         • Máy tính tiền
+         • Phiên bán hàng
+         • Thanh toán
+    ▪  Các thao tác (kịch bản)
+         • Người bán hàng gởi thông điệp thanh toán với số tiền tương ứng
+         • Máy tính tiền yêu cầu phiên bán hàng thanh toán với các thông tin trên
+         • Phiên bán hàng thực thi các công việc sau:
+              – Tạo đối tượng thanh toán
+              – Yêu cầu thanh toán với thông tin vừa nhận
+              – Đối tượng thanh toán trả về số tiền dư
+              – Thông điệp hủy đối tượng thanh toán
+         • Phiên bán hàng trả thông tin số dư về cho máy tính tiền
+         • Máy tính tiền thực hiện thông điệp trả tiền dư về cho người bán hàng.
+
+
+
+
+                                                                                                                 17
+
+===== PAGE 18 =====
+                 Sequence diagram
+
+❖ Chức năng tính tiền
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                 18
+
+===== PAGE 19 =====
+              Vẽ SD cho việc phúc khảo
+
+1. Sinh viên gởi đơn phúc khảo cho PĐT
+2. PĐT kiểm tra thông tin trong đơn
+3. PĐT gởi đơn cho khoa quản lý lớp học
+4. Khoa kiểm tra thông tin đơn
+5. Khoa gởi đơn cho gv
+6. GV kiểm tra thông tin, chấm lại bài, điền kết quả phúc
+   khảo vào đơn và gởi lại khoa
+7. Khoa xác nhận kết quả và gởi lại đơn cho PĐT
+8. PĐT kiểm tra, cập nhật điểm trên daa và thông báo kết
+   quả
+
+
+
+
+                                    19
+
+===== PAGE 20 =====
+                Collaboration diagram
+
+❖ Trong hệ thống HĐT, các đối tượng phối hợp hoạt động
+  với nhau tạo ra chức năng mà người sử dụng yêu cầu.
+❖ Để phối hợp hoạt động, các đối tượng cần giao tiếp với
+  nhau bằng cách gởi thông điệp.
+❖ Hoạt động như vậy gọi là cộng tác.
+❖ Biểu đồ cộng tác mô tả sự tương tác giữa các đối tượng
+  bằng việc nhấn mạnh cấu trúc kết hợp giữa các đối tượng
+  và những thông điệp trau đổi của chúng.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                       20
+
+===== PAGE 21 =====
+                 Collaboration diagram
+
+❖ Biểu đồ cộng tác hiển thị luồng dữ liệu khác với biểu đồ
+  tuần tự hiển thị luồng điều khiển.
+❖ Biểu đồ cộng tác là sự mở rộng của biểu đồ đối tượng
+❖ Biểu đồ cộng tác chỉ ra:
+   ▪ Thứ tự gởi các thông điệp: mỗi thông điệp được gán một số
+     tuần tự
+   ▪ Điều kiện gởi các thông điệp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            21
+
+===== PAGE 22 =====
+                 Collaboration diagram
+
+❖ Biểu đồ cộng tác bao gồm các đối tượng cùng các liên kết
+  biểu diễn đường thẳng nối các đối tượng để chỉ ra dòng
+  chảy thông điệp giữa các đối tượng.
+❖ Các phần tử mô hình biểu diễn trong biểu đồ cộng tác:
+   ▪ Đối tượng (object)
+   ▪ Liên kết (link)
+   ▪ Thông điệp (message)
+   ▪ Luồng dữ liệu (data token)
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          22
+
+===== PAGE 23 =====
+                Collaboration diagram
+
+❖ Ví dụ biểu đồ cộng tác
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                     23
+
+===== PAGE 24 =====
+                     Activities Diagram
+
+
+                                      Start        Sơ đồ mô tả luồng xử lý của hệ thống
+            Fork                                   gồm tập các hoạt động diễn ra từ lúc
+Action                                             bắt đầu đến lúc kết thúc
+
+
+                         Branch
+
+
+
+
+
+
+
+Merge                                      Joint
+
+
+                                         End

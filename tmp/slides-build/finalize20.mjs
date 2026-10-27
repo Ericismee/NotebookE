@@ -1,0 +1,5 @@
+import path from 'node:path';
+import {pathToFileURL} from 'node:url';
+const ROOT=process.cwd(),S='C:/Users/Mera/.codex/plugins/cache/openai-primary-runtime/presentations/26.909.12148/skills/presentations';
+const {finalizePresentation}=await import(pathToFileURL(S+'/container_tools/artifact_tool_utils.mjs'));
+const r=await finalizePresentation({workspaceDir:ROOT,candidatePath:path.join(ROOT,'tmp/slides-build/new/candidate20.pptx'),finalPath:path.join(ROOT,'output/presentations/NotebookE_20_slide_Canva_EAG55MKxPGw.pptx'),pythonExecutable:'C:/Users/Mera/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe',integrityValidatorPath:S+'/container_tools/inspect_presentation_package_integrity.py',layoutValidatorPath:S+'/container_tools/inspect_presentation_layout_geometry.py',layoutArgs:['--expected-slide-size-emu','18288000,10287000'],explicitTotalSlideCount:20,verifyArtifactToolImport:true,receiptPath:path.join(ROOT,'tmp/slides-build/new/validation20.json')});console.log(r.finalPath);

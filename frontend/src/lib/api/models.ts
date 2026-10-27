@@ -1,6 +1,7 @@
 import apiClient from './client'
 import {
   Model,
+  TtsVoice,
   CreateModelRequest,
   ModelDefaults,
   ProviderAvailability,
@@ -13,6 +14,18 @@ import {
 } from '@/lib/types/models'
 
 export const modelsApi = {
+  cachedVoicePreview: async (id: string, voice: string, language: string, sample: string, signal?: AbortSignal) => {
+    const response = await apiClient.get<Blob>(`/models/${encodeURIComponent(id)}/voices/preview`, { params: { voice, language, sample }, responseType: 'blob', signal })
+    return response.data
+  },
+  voices: async (id: string, language?: string) => {
+    const response = await apiClient.get<TtsVoice[]>(`/models/${encodeURIComponent(id)}/voices`, { params: { language } })
+    return response.data
+  },
+  previewVoice: async (id: string, voice: string, language: string, signal?: AbortSignal) => {
+    const response = await apiClient.post<Blob>(`/models/${encodeURIComponent(id)}/voices/preview`, { voice, language }, { responseType: 'blob', signal })
+    return response.data
+  },
   list: async () => {
     const response = await apiClient.get<Model[]>('/models')
     return response.data

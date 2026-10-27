@@ -1,0 +1,1908 @@
+
+===== PAGE 1 =====
+YÊU CẦU NGƯỜI SỬ DỤNG
+
+===== PAGE 2 =====
+Nội dung
+
+
+
+1. Giai đoạn khảo sát hiện trạng
+
+
+2. Xác định và thu thập yêu cầu
+
+
+        2.1 Phân loại yêu cầu
+
+
+        2.2. Kỹ thuật thu thập yêu cầu
+
+
+
+
+
+
+
+
+
+
+
+             2
+
+===== PAGE 3 =====
+       Giai đoạn khảo sát hiện trạng
+
+❖ Hiện trạng tổ chức
+❖ Hiện trạng nghiệp vụ
+❖ Hiện trạng Tin học (phần cứng, phần mềm, con
+  người)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                3
+
+===== PAGE 4 =====
+      Giai đoạn khảo sát hiện trạng
+
+Mục tiêu của Khảo sát hiện trạng là tìm hiểu về thế giới
+thực liên quan đến phần mềm.
+
+
+                   Thế giới thực
+
+
+                     Phần mềm
+
+
+
+
+
+
+
+
+
+                               4
+
+===== PAGE 5 =====
+               Hiện trạng tổ chức
+
+❖ Đối nội: ➔ Cơ cấu tổ chức nội bộ
+   ▪  Bản thân tổ chức là một hệ thống, có cơ cấu tổ chức
+   ▪  Sơ đồ cơ cấu tổ chức nội bộ
+      ➔ Cách nhìn tổng thể về 1 tổ chức
+❖ Đối ngoại:
+   ▪  Tổ chức Môi trường của tổ chức
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 5
+
+===== PAGE 6 =====
+           Hiện trạng tổ chức
+
+❖ Ví dụ: khi khảo sát phần mềm quản lý kho
+❖ Đối nội: chính là cơ cấu tổ chức của người
+  sử dụng: gồm có các phòng ban và các vai
+  trò người dùng trong tổ chức của người sử
+  dụng
+   ▪ ví dụ: ban giám đốc, phòng kế toán, phòng
+     thu mua, kho hàng, các vai trò: như giám đốc,
+     kế toán trưởng, nhân viên thu mua, nhân viên
+     quản lý kho…
+
+
+
+
+
+
+
+
+
+
+                            6
+
+===== PAGE 7 =====
+           Hiện trạng tổ chức
+
+❖ Đối ngoại: là các tổ chức, các đối tượng
+  có liên quan đến hoạt động của tổ chức
+❖ Ví dụ: nhà thầu, nhà cung cấp, khách
+  hàng…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           7
+
+===== PAGE 8 =====
+       Giai đoạn khảo sát hiện trạng
+
+❖ Hiện trạng tổ chức
+❖ Hiện trạng nghiệp vụ
+❖ Hiện trạng Tin học (phần cứng, phần mềm, con người)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  8
+
+===== PAGE 9 =====
+           Hiện trạng nghiệp vụ
+
+❖ Hiểu   được  quy   trình  nghiệp   vụ:  Mục   tiêu  quan
+  trọng nhất của khảo sát hiện trạng
+❖ Phân tích hiện trạng nghiệp vụ nhằm:
+   ▪ Tiếp cận với lĩnh vực, môi trường, hoạt động,
+     nghiệp vụ chuyên môn của tổ chức.
+   ▪ Tìm hiểu được chức năng, nhiệm vụ và
+     phương thức hoạt động của tổ chức.
+   ▪ Nêu được các ưu điểm của nghiệp vụ đang
+     vận hành để tiếp tục kế thừa và những nhược
+     điểm đang tồn tại để khắc phục.
+
+
+
+
+                              9
+
+===== PAGE 10 =====
+            Hiện trạng nghiệp vụ
+
+Khi phân tích hiện trạng HTTT cần phải trả lời nhiều
+câu hỏi, cụ thể như:
+❖ Có bao nhiêu nghiệp vụ, bao nhiêu quy trình?
+   ▪  Dưới  góc  nhìn  của  người  làm  quản  lý, không   phải của
+      chuyên viên Tin học
+❖ Nghiệp vụ được thực hiện như thế nào?
+   ▪  Các công đoạn, bộ phận liên quan…
+❖ Tần suất? Thời điểm thực hiện
+   ▪  Nghiệp vụ có thường xuyên được thực hiện hay không?
+   ▪  Mỗi ngày, mỗi tuần, mỗi tháng…?
+
+
+
+
+                                  10
+
+===== PAGE 11 =====
+         Hiện trạng nghiệp vụ(tt)
+
+❖ Khối lượng tác vụ/quyết định?
+❖ Đánh giá nghiệp vụ hiện tại
+   ▪  Cần  có  những   nhận  xét của  những   người   chuyên   môn
+      trong guồng máy công tác hiện tại
+❖ Có    vấn   đề/khó      khăn    gì  hiện    tại  hay    không?
+  Nguyên nhân?
+   ▪  Vấn đề/khó khăn độc lập với công nghệ, chỉ liên quan đến
+      chuyên môn nghiệp vụ  cần giải quyết
+
+
+
+
+
+
+
+
+
+                                  11
+
+===== PAGE 12 =====
+          Ví dụ minh họa – Ví dụ 1
+
+❖  Tiếp nhận bệnh nhân:
+    ▪  Khi bệnh nhân đến bệnh viện và có yêu cầu được khám bệnh,
+       nhân viên tiếp nhận hồ sơ sẽ tiếp nhận bệnh nhân.
+    ▪  Việc tiếp nhận bệnh nhân được thực hiện bằng việc:
+         • Ghi nhận thông tin vào phiếu tiếp nhận bệnh nhân
+         • Đồng thời cập nhật sổ tiếp nhận bệnh nhân.
+    ▪  Dựa trên phiếu tiếp nhận bệnh nhân, nhân viên quản lý hồ sơ sẽ
+       lập hồ sơ bệnh nhân, đồng thời cập nhật hồ sơ bệnh nhân và
+       cho ra sổ khám bệnh cũng như phiếu thu tiền.
+    ▪  Bác sĩ khám bệnh sẽ ghi thông tin liên quan đến bệnh án của
+       bệnh nhân vào sổ khám bệnh và ghi toa thuốc.
+    ▪  Từ những thông tin của bác sĩ, nhân viên quản lý hồ sơ sẽ cập
+       nhật hồ sơ bệnh án, đưa toa thuốc cùng sổ khám bệnh cho bệnh
+       nhân.
+
+===== PAGE 13 =====
+
+
+===== PAGE 14 =====
+        Ví dụ minh họa – Ví dụ 2
+❖Quản lý kho: Nhập hàng
+   ▪  Dựa vào danh sách mặt hàng và phiếu vật tư, nhân
+      viên quản lý kho sẽ lập phiếu  đặt hàng để chuyển
+      hàng cho nhà thầu, đồng thời cập nhật sổ đặt hàng.
+   ▪  Khi giao hàng, nhà thầu sẽ gởi kèm phiếu cung ứng.
+   ▪  Nhân viên quản lý kho sẽ nhập hàng và kiểm hàng,
+      lập phiếu nhận hàng và chuyển cho nhà thầu.
+   ▪  Khi có hóa đơn do nhà thầu gửi đến, nhân viên quản
+      lý kho tiến hành cập nhật chứng từ gồm: Sổ hóa đơn
+      và phiếu vật tư.
+❖ Bảng mô tả hồ sơ quản lý nhập hàng vào
+  kho
+
+===== PAGE 15 =====
+
+
+===== PAGE 16 =====
+
+
+===== PAGE 17 =====
+                                                          Phân tích mức tổ chức
+                     Mô tả công việc
+
+❖  Bảng mô tả công việc để liệt kể các thông tin liên quan đến
+   các công việc đã được thể hiện trong sơ đồ hiện trạng
+❖  Bao gồm những thông tin:
+     ▪  Tên công việc: đặt tên thích hợp để dễ nhận dạng và tránh nhầm lẫn.
+     ▪  Điều kiện khởi động: Thể hiện qua các sự kiện xẩy ra từ bên ngoài
+        hoặc từ các vị trí làm việc khác.
+     ▪  Tần suất và thời lượng công việc: Thường được ước lượng giá trị trung
+        bình.
+     ▪  Các quy tắc liên quan:  các quy tắc chi phối hoạt động của công việc:
+          • Quy  tắc quản lý
+          • Quy tắc tổ chức
+          • Quy tắc kỹ thuật
+❖  Ví dụ: từ sơ đồ hiện trạng quản lý nhập hàng vào kho, ta có bảng
+   mô tả công việc
+
+===== PAGE 18 =====
+
+
+===== PAGE 19 =====
+       Giai đoạn khảo sát hiện trạng
+
+❖ Hiện trạng tổ chức
+❖ Hiện trạng nghiệp vụ
+❖ Hiện trạng Tin học (phần cứng, phần mềm, con
+  người)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 19
+
+===== PAGE 20 =====
+               Hiện trạng Tin học
+
+❖  Phần cứng:
+    ▪ Các thiết bị hiện tại,
+    ▪ Số lượng,
+    ▪ Cấu hình,
+    ▪ Vị trí (vật lý),
+    ▪ Tình hình kết nối mạng,
+    ▪ Loại kết nối…
+❖  Phần mềm:
+    ▪ Hệ điều hành
+    ▪ Hệ quản trị CSDL
+    ▪ Các phần mềm tiện ích khác
+❖  Con người:
+    ▪ Trình độ chuyên môn Tin học
+
+
+                                     20
+
+===== PAGE 21 =====
+        Xác định và thu thập yêu cầu
+
+❖  1 yêu cầu (requirement) diễn tả chức năng hệ thống phải
+   làm hoặc đặc điểm hệ thống phải có
+❖  Phân loại yêu cầu:
+    ▪ Yêu cầu chức năng:
+        • Lưu trữ
+        • Tra cứu
+        • Tính toán
+        • Kết xuất
+    ▪ Yêu cầu phi chức năng
+        • ?
+
+
+
+
+
+                                    21
+
+===== PAGE 22 =====
+Xác định và thu thập yêu cầu
+
+▪ Yêu   cầu  phi  chức    năng:   Không    đề  cập   trực
+  tiếp tới các chức năng cụ thể của hệ thống
+   • Yêu cầu bảo mật
+   • Mã hóa dữ liệu
+   • Sao lưu định kỳ
+   • Phục hồi khi có sự cố,
+   • …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           22
+
+===== PAGE 23 =====
+    Xác định và thu thập yêu cầu
+
+❖ Tài liệu định nghĩa yêu cầu (requirement
+  definition):
+   ▪ Là văn bản liệt kê các yêu cầu chức năng và
+     yêu cầu không chức năng
+   ▪ Cung cấp đầu vào cho các bước tiếp theo
+     trong quá trình phân tích hệ thống cũng như
+     quá trình thiết kế
+   ▪ Mục đích quan trọng nhất của tài liệu định
+     nghĩa yêu cầu là định nghĩa phạm vi của hệ
+     thống
+
+
+
+
+
+
+                              23
+
+===== PAGE 24 =====
+    Xác định và thu thập yêu cầu
+
+❖ Xây dựng tài liệu định nghĩa yêu cầu
+   ▪ Xác định các loại yêu cầu chức năng và
+     không chức năng
+   ▪ Sử dụng các kỹ thuật thu thập yêu cầu để thu
+     thập thông tin
+   ▪ Sử dụng các kỹ thuật phân tích yêu cầu để
+     kiểm tra, thay đổi và hoàn thiện các yêu cầu
+     thu thập được và xác định mức độ quan trọng
+     của các yêu cầu
+
+
+
+
+
+
+
+
+
+
+                              24
+
+===== PAGE 25 =====
+       Xác định và thu thập yêu cầu
+
+❖ Kỹ thuật thu thập yêu cầu:
+   ▪ Phỏng vấn
+   ▪ Bảng câu hỏi
+   ▪ Nghiên cứu các tài liệu
+   ▪ Quan sát thực tế
+   ▪ Phân tích thiết kế nhóm (JAD)
+   ▪ …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              25
+
+===== PAGE 26 =====
+       Xác định và thu thập yêu cầu
+
+❖ Kỹ thuật thu thập yêu cầu:
+   ▪ Phỏng vấn
+   ▪ Bảng câu hỏi
+   ▪ Nghiên cứu các tài liệu
+   ▪ Quan sát thực tế
+   ▪ Phân tích thiết kế nhóm (JAD)
+   ▪ …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              26
+
+===== PAGE 27 =====
+                 Phỏng vấn
+
+❖ Phần lớn sử dụng các kỹ thuật thông
+  thường
+❖ Rất tự nhiên
+   ▪ Nếu cần biết một số điều hỏi một vài người
+❖ 5 bước cơ bản
+   ▪ Chọn người
+   ▪ Thiết kế câu hỏi
+   ▪ Chuẩn bị
+   ▪ Hướng dẫn
+   ▪ Thực hiện công việc sau phỏng vấn
+
+
+
+                            27
+
+===== PAGE 28 =====
+       Phỏng vấn – chọn người
+
+❖  Dựa vào các thông tin cần thu thập
+❖  Chọn người đựơc phỏng vấn ở các vị trí
+   khác nhau để có thông tin từ nhiều góc
+   độ:
+   ▪ Người quản lý
+   ▪ Người sử dụng
+   ▪ Những người có ảnh hưởng hoặc bị ảnh
+     hưởng bởi hệ thống mới (stakeholder)
+
+
+
+
+
+
+
+
+
+
+
+
+                           28
+
+===== PAGE 29 =====
+Phỏng vấn – thiết kế câu hỏi
+
+
+
+
+      Kiểu câu hỏi                               Ví dụ
+
+                                  •Có bao nhiêu cuộc điện thoại
+     Câu hỏi đóng                 trên ngày?
+                                  •Có bao nhiêu loại khách hàng?
+                                  •Phầm mềm phải đạt được gì?
+                                  •Bạn nghĩ gì về hệ thống quản lý
+                                  hiện tại?
+       Câu hỏi mở                 •Các vấn đề khó khăn hàng ngày
+                                  là gì?
+
+
+                                  •Tại sao?
+   Câu hỏi tìm kiếm               •Bạn có thể cho tôi một số ví dụ?
+      (câu hỏi dò)                •Bạn có thể giải thích chi tiết
+                                  hơn?
+
+
+
+
+
+                                     29
+
+===== PAGE 30 =====
+    Phỏng vấn – thiết kế câu hỏi
+
+❖ Câu hỏi đóng
+   ▪ Đòi hỏi phải có câu trả lời cụ thể
+   ▪ Thường có nhiều lựa chọn
+   ▪ Cho đặc trưng thông tin rõ ràng
+       •Không hỏi “có nhiều yêu cầu?”
+       •Hỏi: “có bao nhiêu yêu cầu?”
+   ▪ Hỏi càng nhiều, thông tin càng sâu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               30
+
+===== PAGE 31 =====
+    Phỏng vấn – thiết kế câu hỏi
+
+❖ Câu hỏi tìm kiếm
+   ▪ Thường là các câu hỏi để tiếp tục
+   ▪ Có gạn lọc
+   ▪ Khuyến khích mở rộng câu trả lời
+   ▪ Chỉ ra những gì quan tâm và thích thú
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             31
+
+===== PAGE 32 =====
+     Phỏng vấn – thiết kế câu hỏi
+
+❖ Không hỏi thông tin có thể đạt được ở chỗ
+  khác
+❖ Không có kiểu câu hỏi nào là tốt nhất
+❖ Khởi đầu từ phỏng vấn không cấu trúc để
+  xác định hệ thống thế nào(câu hỏi mở)
+❖ Khi người phân tích có sự hiểu biết, phỏng
+  vấn có cấu trúc được sử dụng(câu hỏi đóng)
+❖ Phỏng vấn không cấu trúc
+   ▪Rộng, thông tin đại thể
+❖ Phỏng vấn có cấu trúc
+   ▪Thông tin cụ thể hơn
+                            32
+
+===== PAGE 33 =====
+         Phỏng vấn - chuẩn bị
+
+❖  Chuẩn bị kế hoạch phỏng vấn tổng thế
+   ▪ Liệt kê các câu hỏi
+   ▪ Dự đoán trước câu trả lời và câu hỏi tiếp
+     theo
+❖  Khẳng định lại lĩnh vực kiến thức
+
+❖  Xác định các câu hỏi, lĩnh vực ưu tiên
+   trong trường hợp không đủ thời gian
+❖  Chuẩn bị cho người được phỏng vấn
+   ▪ Xếp lịch
+   ▪ Thông báo lý do phỏng vấn
+   ▪ Thông báo các lĩnh vực thảo luận
+                            33
+
+===== PAGE 34 =====
+          Phỏng vấn – thực hiện
+
+❖  Phải gây được thiện cảm với người được phỏng
+   vấn: tỏ ra chuyên nghiệp  và không thiên vị
+❖  ghi lại tất cả thông tin
+❖  Kiểm tra về chính sách ghi âm cuộc phỏng vấn
+❖  Phải đảm bảo hiểu tất cả các vấn đề và thuật ngữ
+❖  Phân biệt rõ sự kiện với ý kiến bình luận
+❖  Dành thời gian cho người đựơc phỏng vấn đặt câu
+   hỏi
+❖  Nhớ cảm ơn người được phỏng vấn và thông báo
+   công việc tiếp theo sau cuộc phỏng vấn
+❖  Kết thúc đúng giờ
+
+
+
+
+
+                               34
+
+===== PAGE 35 =====
+                  Phỏng vấn – xử lý
+
+❖   Chuẩn bị báo cáo về cuộc phỏng vấn trong vòng 48 tiếng
+❖   Gửi báo cáo cho người được phỏng vấn để sửa chữa, bổ
+    sung nếu cần
+
+                             INTERVIEW REPORT
+
+
+        Interview notes approved by: ____________
+
+        Person interviewed       ______________
+        Interviewer                _______________
+        Date                          _______________
+        Primary Purpose:
+
+        Summary of Interview:
+
+        Open Items:
+
+        Detailed Notes:
+
+
+
+                                           35
+
+===== PAGE 36 =====
+                     Phỏng vấn
+
+▪  Phỏng vấn cá nhân/phỏng vấn nhóm?
+     • Phỏng vấn cá nhân
+     • Phỏng vấn nhóm
+▪  Phỏng vấn tự do/phỏng vấn có định hướng?
+     • Phỏng vấn tự do
+          –  Người được hỏi có cảm giác thoải mái, cung cấp nhiều thông tin sâu sắc
+          –  Nguy cơ: không có được những thông tin cần thiết, thông tin khó hệ
+             thống được
+     • Phỏng vấn có định hướng
+          –  Người được hỏi có thể cảm thấy không thoải mái, ít có khả năng ghi nhận
+             được nhận xét, ý kiến, suy nghĩ riêng của người được phỏng vấn, ít cảm
+             nhận được thái độ của họ đối với hiện trạng.
+          –  Có thể định hướng nội dung cần tìm hiểu, có thể hệ thống hóa các vấn đề
+             ghi nhận được
+
+
+
+
+
+                                         36
+
+===== PAGE 37 =====
+                   Phỏng vấn
+
+❖ Làm việc với cấp lãnh đạo để nắm mục tiêu của hệ
+  thống phần mềm cần xây dựng, những đối tượng cần
+  phỏng vấn
+❖ Yêu cầu cấp lãnh đạo thông báo xuống các phòng
+  ban, đơn vị để hợp tác
+❖ Phân tích để xác định đúng và đủ những đối tượng cần
+  phỏng vấn
+❖ Hẹn lịch làm việc
+❖ Xác định trước vị trí/trách nhiệm của người sắp phỏng
+  vấn
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 37
+
+===== PAGE 38 =====
+                   Phỏng vấn
+❖ Khi tìm hiểu, cần ghi nhận các thông tin:
+   ▪  Nội dung: cái gì?
+   ▪  Bao giờ có: thời gian + thời hạn
+   ▪  Bằng cách nào có nội dung thông tin đó
+   ▪  Nội dung đó ở dạng gì?
+   ▪  Đánh giá của người được phỏng vấn về tình hình
+      hiện tại thực hiện nghiệp vụ
+❖ Không nên:
+   ▪  Đưa nhận xét cá nhân của người phỏng vấn
+   ▪  Dùng thuật ngữ/ngôn ngữ Tin học
+
+
+
+
+
+
+
+                                 38
+
+===== PAGE 39 =====
+       Xác định và thu thập yêu cầu
+
+❖ Kỹ thuật thu thập yêu cầu:
+   ▪ Phỏng vấn
+   ▪ Bảng câu hỏi
+   ▪ Nghiên cứu các tài liệu
+   ▪ Quan sát thực tế
+   ▪ Phân tích thiết kế nhóm (JAD)
+   ▪ …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              39
+
+===== PAGE 40 =====
+                 Bảng câu hỏi
+
+❖ Phải trình bày rõ:
+   ▪  Mục đích của bảng câu hỏi,
+   ▪  Mục đích sử dụng những thông tin trong bảng câu hỏi,
+   ▪  Tính bảo mật thông tin trả lời (không tiết lộ ai là người
+      cung cấp thông tin, không để lộ ra ngoài tổ chức…)
+   ▪  Phân biệt câu hỏi hướng sự việc(câu hỏi xác định) và
+      câu hỏi quan điểm(Y/N)
+❖ Hướng dẫn cách điền: rất cần thiết, cần lưu ý
+  để tránh hiểu nhầm
+❖ Thời hạn trả về
+   ▪  Cần nhắc khi gần đến thời hạn
+
+
+                                  40
+
+===== PAGE 41 =====
+                Bảng câu hỏi
+
+❖ Câu hỏi trình bày rõ ràng
+
+❖ Hình thức bảng câu hỏi phải dễ dàng để
+  xử lý tự động
+
+❖ Cần để dành chỗ để ghi câu trả lời.
+   ▪ Thêm chỗ cho lời bình
+   ▪ Không phải chỉ ở cuối trang, hay cuối bảng câu hỏi,
+   ▪ Nên dự kiến những câu hỏi nào sẽ có ý kiến thêm thì
+     nên có sẵn chỗ để ghi lời bình ngay dưới câu hỏi đó)
+
+
+
+
+
+
+
+
+                               41
+
+===== PAGE 42 =====
+ Bảng câu hỏi – thiết kế câu hỏi tốt
+
+❖ Bắt đầu với câu hỏi không “đe dọa” và thú
+  vị.
+❖ Nhóm các mục trong các phần mạch lạc
+  logic
+❖ Đừng đặt những mục quan trọng ở cuối
+❖ Tránh tóm tắt, thành kiến, gợi ý
+❖ Không đánh số lộn xộn
+❖ Tránh các câu hỏi gây bối rối, khó hiểu
+
+
+
+
+
+
+
+
+
+
+
+
+                          42
+
+===== PAGE 43 =====
+       Xác định và thu thập yêu cầu
+
+❖ Kỹ thuật thu thập yêu cầu:
+   ▪ Phỏng vấn
+   ▪ Bảng câu hỏi
+   ▪ Nghiên cứu các tài liệu
+   ▪ Quan sát thực tế
+   ▪ Phân tích thiết kế nhóm (JAD)
+   ▪ …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              43
+
+===== PAGE 44 =====
+       Nghiên cứu các tài liệu
+
+❖ Các tài liệu (có thể tìm hiểu những văn bản chung)
+   ▪  Tài liệu giao dịch
+   ▪  Tài liệu lưu
+   ▪  Tài liệu tổng hợp
+❖ Những quy định nội bộ
+❖ Các báo cáo liên quan
+❖ Những quy định về quy trình nghiệp vụ
+   ▪  Rất khó có đầy đủ văn bản quy định về quy trình nghiệp vụ
+   ▪  Đơn vị đạt chuẩn ISO?
+❖ Những quy định “bất thành văn” !!!
+
+
+
+
+
+
+
+
+
+                                 44
+
+===== PAGE 45 =====
+      Nghiên cứu các tài liệu
+
+❖ Thường dễ tiến    hành hơn    kỹ thuật  phỏng vấn
+  hay bảng câu hỏi
+❖ Thường được tiến hành trước làm cơ sở chuẩn
+  bị cho việc phỏng vấn hay dùng bảng câu hỏi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           45
+
+===== PAGE 46 =====
+       Xác định và thu thập yêu cầu
+
+❖ Kỹ thuật thu thập yêu cầu:
+   ▪ Phỏng vấn
+   ▪ Bảng câu hỏi
+   ▪ Nghiên cứu các tài liệu
+   ▪ Quan sát thực tế
+   ▪ Phân tích thiết kế nhóm (JAD)
+   ▪ …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              46
+
+===== PAGE 47 =====
+             Quan sát thực tế
+
+❖ Người quản lý/người sử dụng không nhớ
+  những điều mà họ thực hiện
+❖ Tiến hành sau cùng (nếu cần thiết)
+❖ Kiểm tra lại:
+   ▪ Đã hiểu đúng nghiệp vụ hiện tại?
+   ▪ Có những ngoại lệ?
+   ▪ Phát hiện những khó khăn, lỗ hổng trong quy trình nghiệp
+     vụ
+❖ Cẩn thận không bỏ qua các hoạt động định kỳ
+   ▪ Hàng tuần, hàng tháng, hàng năm
+
+
+
+
+
+
+
+
+
+
+                                47
+
+===== PAGE 48 =====
+       Xác định và thu thập yêu cầu
+
+❖ Kỹ thuật thu thập yêu cầu:
+   ▪ Phỏng vấn
+   ▪ Bảng câu hỏi
+   ▪ Nghiên cứu các tài liệu
+   ▪ Quan sát thực tế
+   ▪ Phân tích thiết kế nhóm (JAD)
+   ▪ …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              48
+
+===== PAGE 49 =====
+        Phân tích thiết kế nhóm
+
+▪ Joint Application Design - JAD
+▪ Do IBM đề nghị
+▪ Làm việc tập thể, từ 8-12 người
+   • Bao gồm chuyên viên hệ thống.
+   • Những người sử dụng tương lai sẽ tham gia nhiều
+     nhất vào hệ thống.
+   • Những    người  có  quyền   yêu  cầu  và quyết  định  về
+     chức năng của hệ thống
+
+
+
+
+
+
+
+
+
+
+                             49
+
+===== PAGE 50 =====
+         Kỹ thuật thu thập yêu cầu
+
+❖ Một số tiêu chí để chọn kỹ thuật phù hợp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         50
+
+===== PAGE 51 =====
+    Phần mềm quản lý học sinh
+
+❖Hệ thống các yêu cầu
+
+  ▪ Các yêu cầu nghiệp vụ
+
+  ▪ Các yêu cầu chất lượng
+
+  ▪ Các yêu cầu hệ thống
+
+  ▪ Các yêu cầu công nghệ
+
+
+
+
+
+
+
+
+
+
+
+                        51
+
+===== PAGE 52 =====
+Yêu cầu nghiệp vụ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              52
+
+===== PAGE 53 =====
+ Yêu cầu tiếp nhận hồ sơ học sinh
+
+❖ BM1:
+
+
+
+
+
+
+
+
+
+
+
+❖ QĐ1:Tuổi từ15 đến 20
+                        53
+
+===== PAGE 54 =====
+           Yêu cầu xếp lớp
+
+❖ BM2:
+
+
+
+
+
+
+
+
+
+
+❖ QĐ2:Có 3 khối lớp, mỗi khối có 4 lớp,mỗi
+  lớp không quá 30 học sinh
+
+
+                         54
+
+===== PAGE 55 =====
+Bảng trách nhiệm yêu cầu nghiệp vụ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         55
+
+===== PAGE 56 =====
+Yêu cầu tiến hóa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             56
+
+===== PAGE 57 =====
+Bảng trách nhiệm yêu cầu tiến hoá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        57
+
+===== PAGE 58 =====
+           Yêu cầu hiệu quả
+
+❖ Máy tính với CPU Pentium IV 2.4, RAM
+  1GB
+❖ Đĩa cứng:100GB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         58
+
+===== PAGE 59 =====
+Bảng trách nhiệm yêu cầu hiệu quả
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        59
+
+===== PAGE 60 =====
+Yêu cầu tiện dụng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              60
+
+===== PAGE 61 =====
+Bảng trách nhiệm yêu cầu tiện dụng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         61
+
+===== PAGE 62 =====
+Yêu cầu tương thích
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               62
+
+===== PAGE 63 =====
+Yêu cầu bảo mật
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             63
+
+===== PAGE 64 =====
+Bảng trách nhiệm yêu cầu bảo mật
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        64
+
+===== PAGE 65 =====
+Yêu cầu an toàn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             65
+
+===== PAGE 66 =====
+Bảng trách nhiệm yêu cầu an toàn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        66
+
+===== PAGE 67 =====
+Yêu cầu công nghệ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              67

@@ -1,0 +1,142 @@
+{
+  "file": "OOAD_KhaiNiemCoBan.pdf",
+  "pages": 59,
+  "title": null,
+  "author": "Đặng Việt Dũng",
+  "text_file": "OOAD_KhaiNiemCoBan\\text.txt",
+  "text_chars": 23311,
+  "images": [
+    {
+      "page": 1,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p001-i01.png",
+      "bytes": 63697,
+      "source_name": "Image6.png"
+    },
+    {
+      "page": 1,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p001-i02.png",
+      "bytes": 19961,
+      "source_name": "Image14.png"
+    },
+    {
+      "page": 1,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p001-i03.png",
+      "bytes": 66086,
+      "source_name": "Image18.png"
+    },
+    {
+      "page": 1,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p001-i04.png",
+      "bytes": 35762,
+      "source_name": "Image20.png"
+    },
+    {
+      "page": 2,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p002-i01.png",
+      "bytes": 63061,
+      "source_name": "Image31.png"
+    },
+    {
+      "page": 3,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p003-i01.png",
+      "bytes": 67528,
+      "source_name": "Image41.png"
+    },
+    {
+      "page": 23,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p023-i01.png",
+      "bytes": 5935,
+      "source_name": "Image118.png"
+    },
+    {
+      "page": 27,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p027-i01.png",
+      "bytes": 4282,
+      "source_name": "Image130.png"
+    },
+    {
+      "page": 28,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p028-i01.png",
+      "bytes": 4979,
+      "source_name": "Image133.png"
+    },
+    {
+      "page": 31,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p031-i01.png",
+      "bytes": 4357,
+      "source_name": "Image141.png"
+    },
+    {
+      "page": 32,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p032-i01.png",
+      "bytes": 10732,
+      "source_name": "Image144.png"
+    },
+    {
+      "page": 32,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p032-i02.png",
+      "bytes": 6345,
+      "source_name": "Image145.png"
+    },
+    {
+      "page": 32,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p032-i03.png",
+      "bytes": 7313,
+      "source_name": "Image146.png"
+    },
+    {
+      "page": 37,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p037-i01.png",
+      "bytes": 18723,
+      "source_name": "Image163.png"
+    },
+    {
+      "page": 38,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p038-i01.png",
+      "bytes": 16836,
+      "source_name": "Image166.png"
+    },
+    {
+      "page": 39,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p039-i01.png",
+      "bytes": 22240,
+      "source_name": "Image169.png"
+    },
+    {
+      "page": 40,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p040-i01.png",
+      "bytes": 14717,
+      "source_name": "Image173.png"
+    },
+    {
+      "page": 42,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p042-i01.png",
+      "bytes": 6287,
+      "source_name": "Image179.png"
+    },
+    {
+      "page": 43,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p043-i01.png",
+      "bytes": 16753,
+      "source_name": "Image182.png"
+    },
+    {
+      "page": 44,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p044-i01.png",
+      "bytes": 16318,
+      "source_name": "Image185.png"
+    },
+    {
+      "page": 45,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p045-i01.png",
+      "bytes": 16310,
+      "source_name": "Image188.png"
+    },
+    {
+      "page": 46,
+      "file": "OOAD_KhaiNiemCoBan\\images\\p046-i01.png",
+      "bytes": 52652,
+      "source_name": "Image191.png"
+    }
+  ]
+}

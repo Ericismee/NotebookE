@@ -1,0 +1,1 @@
+REMOVE FIELD IF EXISTS voice_model ON video_episode;

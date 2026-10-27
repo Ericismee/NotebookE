@@ -1,0 +1,1536 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/udsvah03",
+    "id": "udsvah03",
+    "slide": 9,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#F1F1F1",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Times New Roman",
+      "Times New Roman Bold"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "8/1/2011",
+          "textPreview": "8/1/2011",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "8/1/2011",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "8/1/2011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "text": "8/1/2011",
+          "textPreview": "8/1/2011",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "8/1/2011",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "8/1/2011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cfmhgne",
+      "id": "2",
+      "name": "Freeform 2",
+      "bbox": [
+        1683.22,
+        -52.88,
+        530.23,
+        282.35
+      ],
+      "rotation": 41.67,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image38.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 562171
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0b65obm9",
+      "id": "3",
+      "name": "Freeform 3",
+      "bbox": [
+        -145.33,
+        969.35,
+        530.23,
+        282.35
+      ],
+      "rotation": 41.67,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image38.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 562171
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdonql4z",
+      "id": "5",
+      "name": "Freeform 5",
+      "bbox": [
+        28.98,
+        216.51,
+        71.75,
+        71.75
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#6CD9FF"
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gzml0nq",
+      "id": "6",
+      "name": "TextBox 6",
+      "bbox": [
+        35.71,
+        219.03,
+        58.3,
+        62.5
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "1",
+      "textPreview": "1",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bih4na5w",
+      "id": "8",
+      "name": "Freeform 8",
+      "bbox": [
+        28.98,
+        360.01,
+        71.75,
+        71.75
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#6CD9FF"
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ah8nu54b",
+      "id": "9",
+      "name": "TextBox 9",
+      "bbox": [
+        35.71,
+        362.53,
+        58.3,
+        62.5
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "2",
+      "textPreview": "2",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0ji9kf2",
+      "id": "11",
+      "name": "Freeform 11",
+      "bbox": [
+        28.98,
+        488.5,
+        71.75,
+        71.75
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#6CD9FF"
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2xsjepgb",
+      "id": "12",
+      "name": "TextBox 12",
+      "bbox": [
+        35.71,
+        491.02,
+        58.3,
+        62.5
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "3",
+      "textPreview": "3",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cnu1kzyd",
+      "id": "14",
+      "name": "Freeform 14",
+      "bbox": [
+        28.98,
+        623.99,
+        71.75,
+        71.75
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#6CD9FF"
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/do3id4fy",
+      "id": "15",
+      "name": "TextBox 15",
+      "bbox": [
+        35.71,
+        626.51,
+        58.3,
+        62.5
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "4",
+      "textPreview": "4",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bml0buxs",
+      "id": "17",
+      "name": "Freeform 17",
+      "bbox": [
+        534.31,
+        872.54,
+        1385.29,
+        433.32
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#20E5F6"
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0ru1ozyp",
+      "id": "18",
+      "name": "TextBox 18",
+      "bbox": [
+        534.31,
+        847.74,
+        1385.29,
+        371.1
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lsn2h4fa",
+      "id": "19",
+      "name": "Freeform 19",
+      "bbox": [
+        775.08,
+        100,
+        1158.81,
+        772.54
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image41.png",
+        "contentType": "image/png",
+        "byteLength": 1209557
+      }
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/98ji147e",
+      "id": "20",
+      "name": "TextBox 20",
+      "bbox": [
+        20.63,
+        -6,
+        1541.65,
+        82.15
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Luồng Xử Lý: Ask -Tìm Kiếm Thông Minh",
+      "textPreview": "Luồng Xử Lý: Ask -Tìm Kiếm Thông Minh",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Luồng Xử Lý: Ask -Tìm Kiếm Thông Minh"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Luồng Xử Lý: Ask -Tìm Kiếm Thông Minh",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Luồng Xử Lý: Ask -Tìm Kiếm Thông Minh",
+              "fontSize": 64.15,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87a18zqt",
+      "id": "21",
+      "name": "TextBox 21",
+      "bbox": [
+        117.89,
+        199.33,
+        603.09,
+        151.49
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Agent — Plan Strategy\nLLM phân tích câu hỏi \n→ sinh ra Strategy: danh sách search terms + instructions\n",
+      "textPreview": "Agent — Plan Strategy | LLM phân tích câu hỏi  | → sinh ra Strategy: danh sách search terms + instructions |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agent — Plan Strategy"
+          },
+          {
+            "index": 2,
+            "text": "LLM phân tích câu hỏi"
+          },
+          {
+            "index": 3,
+            "text": "→ sinh ra Strategy: danh sách search terms +"
+          },
+          {
+            "index": 4,
+            "text": "instructions"
+          },
+          {
+            "index": 5,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agent — Plan Strategy",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ag",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "ent — Plan Strategy",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "LLM phân tích câu hỏi ",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LLM phân tích câu hỏi ",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "→ sinh ra Strategy: danh sách search terms + instructions",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "→ sinh ra Strategy: danh sách search terms + instructions",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/76h0zup8",
+      "id": "22",
+      "name": "TextBox 22",
+      "bbox": [
+        117.89,
+        355.01,
+        655.19,
+        113.49
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Trigger Queries (Fan-out)\nMỗi search term → Send(\"provide_answer\") - chạy song song\n",
+      "textPreview": "Trigger Queries (Fan-out) | Mỗi search term → Send(\"provide_answer\") - chạy song song |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Trigger Queries (Fan-out)"
+          },
+          {
+            "index": 2,
+            "text": "Mỗi search term → Send(\"provide_answer\") - chạy song"
+          },
+          {
+            "index": 3,
+            "text": "song"
+          },
+          {
+            "index": 4,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Trigger Queries (Fan-out)",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "T",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "rigger Queries (Fan-out)",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Mỗi search term → Send(\"provide_answer\") - chạy song song",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Mỗi search term → Send(\"provide_answer\") - chạy song song",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ml8j6p8n",
+      "id": "23",
+      "name": "TextBox 23",
+      "bbox": [
+        110.79,
+        472.5,
+        504.86,
+        151.49
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Provide Answer (×N)\nVector search (cosine similarity) \n→ top 10 kết quả → LLM tổng hợp sub-answer\n",
+      "textPreview": "Provide Answer (×N) | Vector search (cosine similarity)  | → top 10 kết quả → LLM tổng hợp sub-answer |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Provide Answer (×N)"
+          },
+          {
+            "index": 2,
+            "text": "Vector search (cosine similarity)"
+          },
+          {
+            "index": 3,
+            "text": "→ top 10 kết quả → LLM tổng hợp"
+          },
+          {
+            "index": 4,
+            "text": "sub-answer"
+          },
+          {
+            "index": 5,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Provide Answer (×N)",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Prov",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "ide",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": " Answer (×N)",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Vector search (cosine similarity) ",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Vector search (cosine similarity) ",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "→ top 10 kết quả → LLM tổng hợp sub-answer",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "→ top 10 kết quả → LLM tổng hợp sub-answer",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcji5o7a",
+      "id": "24",
+      "name": "TextBox 24",
+      "bbox": [
+        116.89,
+        618.99,
+        639.3,
+        113.49
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Write Final Answer\nLLM tổng hợp tất cả sub-answers → final answer + citations\n",
+      "textPreview": "Write Final Answer | LLM tổng hợp tất cả sub-answers → final answer + citations |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Write Final Answer"
+          },
+          {
+            "index": 2,
+            "text": "LLM tổng hợp tất cả sub-answers → final answer +"
+          },
+          {
+            "index": 3,
+            "text": "citations"
+          },
+          {
+            "index": 4,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Write Final Answer",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Writ",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "e Final Answer",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "LLM tổng hợp tất cả sub-answers → final answer + citations",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LLM tổng hợp tất cả sub-answers → final answer + citations",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wba1cjqp",
+      "id": "25",
+      "name": "TextBox 25",
+      "bbox": [
+        -3.37,
+        70.51,
+        830.09,
+        37.49
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "LangGraph Workflow — AI lập chiến lược tìm kiếm, tổng hợp câu trả lời",
+      "textPreview": "LangGraph Workflow — AI lập chiến lược tìm kiếm, tổng hợp câu trả lời",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LangGraph Workflow — AI lập chiến lược tìm kiếm, tổng hợp câu trả lời"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LangGraph Workflow — AI lập chiến lược tìm kiếm, tổng hợp câu trả lời",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LangGraph Workflow — AI lập chiến lược tìm kiếm, tổng hợp câu trả lời",
+              "fontSize": 27.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/va103ep4",
+      "id": "26",
+      "name": "TextBox 26",
+      "bbox": [
+        551.22,
+        873.54,
+        1368.78,
+        231.06
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Đặc điểm\nStreaming thời gian thực: Truyền kết quả theo từng giai đoạn: strategy → answers → final_answer.\nXử lý song song: Nhiều truy vấn tìm kiếm được thực hiện đồng thời, giúp giảm thời gian phản hồi.\nTìm kiếm kép (Dual Search): Kết hợp Full-text Search (BM25) và Vector Search (Cosine Similarity) để tăng độ chính xác.\nTrích dẫn nguồn (Citations): Đính kèm nguồn tham khảo trực tiếp trong kết quả, giúp tăng tính minh bạch và độ tin cậy.\n",
+      "textPreview": "Đặc điểm | Streaming thời gian thực: Truyền kết quả theo từng giai đoạn: strategy → answers → final_answer. | Xử lý song song: Nhiều truy...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 6,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Đặc điểm"
+          },
+          {
+            "index": 2,
+            "text": "•Streaming thời gian thực: Truyền kết quả theo từng giai đoạn: strategy → answers → final_answer."
+          },
+          {
+            "index": 3,
+            "text": "•Xử lý song song: Nhiều truy vấn tìm kiếm được thực hiện đồng thời, giúp giảm thời gian phản hồi."
+          },
+          {
+            "index": 4,
+            "text": "•Tìm kiếm kép (Dual Search): Kết hợp Full-text Search (BM25) và Vector Search (Cosine Similarity) để tăng độ chính xác."
+          },
+          {
+            "index": 5,
+            "text": "•Trích dẫn nguồn (Citations): Đính kèm nguồn tham khảo trực tiếp trong kết quả, giúp tăng tính minh bạch và độ tin cậy."
+          },
+          {
+            "index": 6,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Đặc điểm",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Đặc điểm",
+              "fontSize": 27.87,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Streaming thời gian thực: Truyền kết quả theo từng giai đoạn: strategy → answers → final_answer.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Stream",
+              "fontSize": 27.87,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": "ing thời gian thực: Truyền kết quả theo từng giai đoạn: strategy → answers → final_answer.",
+              "fontSize": 27.87,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 3,
+          "text": "Xử lý song song: Nhiều truy vấn tìm kiếm được thực hiện đồng thời, giúp giảm thời gian phản hồi.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Xử lý song song: Nhiều truy vấn tìm kiếm được thực hiện đồng thời, giúp giảm thời gian phản hồi.",
+              "fontSize": 27.87,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 4,
+          "text": "Tìm kiếm kép (Dual Search): Kết hợp Full-text Search (BM25) và Vector Search (Cosine Similarity) để tăng độ chính xác.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Tìm kiếm kép (Dual Search): Kết hợp Full-text Search (BM25) và Vector Search (Cosine Similarity) để tăng độ chính xác.",
+              "fontSize": 27.87,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 5,
+          "text": "Trích dẫn nguồn (Citations): Đính kèm nguồn tham khảo trực tiếp trong kết quả, giúp tăng tính minh bạch và độ tin cậy.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Trích dẫn nguồn (Citations): Đính kèm nguồn tham khảo trực tiếp trong kết quả, giúp tăng tính minh bạch và độ tin cậy.",
+              "fontSize": 27.87,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

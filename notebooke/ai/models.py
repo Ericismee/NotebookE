@@ -33,6 +33,15 @@ def _patched_create_tts(
     **kwargs: Any,
 ) -> TextToSpeechModel:
     normalized_provider = provider.lower().replace("-", "").replace("_", "")
+    if normalized_provider == "openaicompatible" and (model_name or "").lower().startswith("vieneu"):
+        from notebooke.ai.vieneu_tts_provider import VieNeuTTSProvider
+
+        merged_config = {**(config or {}), **kwargs}
+        if api_key is not None:
+            merged_config["api_key"] = api_key
+        if base_url is not None:
+            merged_config["base_url"] = base_url
+        return VieNeuTTSProvider(model_name=model_name, config=merged_config)
     if normalized_provider == "edgetts":
         merged_config = {**(config or {}), **kwargs}
         return EdgeTTSProvider(

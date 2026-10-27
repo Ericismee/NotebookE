@@ -25,6 +25,7 @@ import { Label } from '@/components/ui/label'
 import { Textarea } from '@/components/ui/textarea'
 import { Separator } from '@/components/ui/separator'
 import { ModelSelector } from '@/components/common/ModelSelector'
+import { VoiceSelector } from '@/components/common/VoiceSelector'
 
 import type { TFunction } from 'i18next'
 import { useTranslation } from '@/lib/hooks/use-translation'
@@ -100,6 +101,8 @@ export function SpeakerProfileFormDialog({
     register,
     handleSubmit,
     reset,
+    watch,
+    setValue,
     formState: { errors },
   } = useForm<SpeakerProfileFormValues>({
     resolver: zodResolver(speakerProfileSchema(t)),
@@ -270,11 +273,19 @@ export function SpeakerProfileFormDialog({
                   </div>
                   <div className="space-y-2">
                     <Label htmlFor={`speaker-voice-${index}`}>{t('podcasts.voiceId')} *</Label>
-                    <Input
-                      id={`speaker-voice-${index}`}
-                      {...register(`speakers.${index}.voice_id` as const)}
-                      placeholder="voice_123"
-                      autoComplete="off"
+                    <Controller
+                      control={control}
+                      name={`speakers.${index}.voice_id` as const}
+                      render={({ field }) => (
+                        <VoiceSelector
+                          id={`speaker-voice-${index}`}
+                          modelId={watch(`speakers.${index}.voice_model`) || watch('voice_model')}
+                          value={field.value}
+                          onChange={field.onChange}
+                          onModelChange={model => setValue(`speakers.${index}.voice_model`, model)}
+                          onBlur={field.onBlur}
+                        />
+                      )}
                     />
                     {errors.speakers?.[index]?.voice_id ? (
                       <p className="text-xs text-destructive">

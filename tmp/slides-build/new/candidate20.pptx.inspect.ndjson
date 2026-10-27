@@ -1,0 +1,768 @@
+{"kind":"deck","id":"pr/3uf9h7","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"subtitle","type":"subtitle","textPreview":"Click to edit Master subtitle style"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"Title and Content","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"Section Header","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"Two Content","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"Comparison","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 5","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"Title Only","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"Blank","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"Content with Caption","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"Picture with Caption","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"Title and Vertical Text","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"Vertical Title and Text","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/6jczat","slide":1,"title":"NOTEBOOKE","textShapes":4}
+{"kind":"shape","id":"sh/cvqd8zat","slide":1,"name":"Freeform 3","bbox":[108,108,99.31,85.35]}
+{"kind":"shape","id":"sh/3qxwbatc","slide":1,"name":"TextBox 4","bbox":[121.97,99.85,71.38,93.49]}
+{"kind":"shape","id":"sh/psfedkbi","slide":1,"name":"Freeform 6","bbox":[655.47,-31.35,360.78,310.04]}
+{"kind":"shape","id":"sh/or6d4fax","slide":1,"name":"TextBox 7","bbox":[706.21,-60.94,259.31,339.64]}
+{"kind":"shape","id":"sh/e14vy5sv","slide":1,"name":"Freeform 9","bbox":[1488.48,108,323.52,278.03]}
+{"kind":"shape","id":"sh/gb614vyp","slide":1,"name":"TextBox 10","bbox":[1533.97,81.46,232.53,304.57]}
+{"kind":"shape","id":"sh/u94z25gj","slide":1,"name":"Freeform 12","bbox":[1176.09,850.56,141.32,121.44]}
+{"kind":"shape","id":"sh/fad0vah4","slide":1,"name":"TextBox 13","bbox":[1195.97,838.96,101.57,133.04]}
+{"kind":"shape","id":"sh/t8vit0zy","slide":1,"name":"Freeform 15","bbox":[1388.64,540,722.75,621.11]}
+{"kind":"shape","id":"sh/6l4zylgn","slide":1,"name":"TextBox 16","bbox":[1490.28,480.71,519.48,680.4]}
+{"kind":"textbox","id":"sh/76d0rqh8","slide":1,"name":"NOTEBOOKE","text":"NOTEBOOKE","textPreview":"NOTEBOOKE","textChars":9,"textLines":1,"bbox":[236,108,520,80]}
+{"kind":"textbox","id":"sh/c3q1cfyx","slide":1,"name":"Phân tích &\nthiết kế hệ thống","text":"Phân tích &\nthiết kế hệ thống","textPreview":"Phân tích & | thiết kế hệ thống","textChars":29,"textLines":2,"bbox":[108,335,1200,230]}
+{"kind":"textbox","id":"sh/d4zi5kzi","slide":1,"name":"Trợ lý nghiên cứu AI • Tự lưu trữ • Đa nhà cung cấp","text":"Trợ lý nghiên cứu AI • Tự lưu trữ • Đa nhà cung cấp","textPreview":"Trợ lý nghiên cứu AI • Tự lưu trữ • Đa nhà cung cấp","textChars":51,"textLines":1,"bbox":[108,620,1120,110]}
+{"kind":"textbox","id":"sh/l0vipkrm","slide":1,"name":"Yêu cầu người dùng  /  Mô hình hóa yêu cầu  /  DFD\nHướng đối tượn","text":"Yêu cầu người dùng  /  Mô hình hóa yêu cầu  /  DFD\nHướng đối tượng  /  Lưu trữ  /  Giao diện","textPreview":"Yêu cầu người dùng  /  Mô hình hóa yêu cầu  /  DFD | Hướng đối tượng  /  Lưu trữ  /  Giao diện","textChars":92,"textLines":2,"bbox":[108,825,1100,110]}
+{"kind":"notes","id":"nt/6jczat","slide":1,"text":"Mẫu gốc Canva EAG55MKxPGw, bản sao DAHWsPzyk1E. Phân tích bám 9 PDF tại pdf/ và mã nguồn NotebookE."}
+{"kind":"slide","id":"sl/lvngxc","slide":2,"title":"NotebookE trong một phút","textShapes":12}
+{"kind":"shape","id":"sh/032psn65","slide":2,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/re9ovypo","slide":2,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/dgr6x8nu","slide":2,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/cfipo369","slide":2,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/a9k7yxon","slide":2,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/8zm5gj69","slide":2,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/x8bmh47m","slide":2,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/dsjupwve","slide":2,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/sratwrut","slide":2,"name":"NotebookE trong một phút","text":"NotebookE trong một phút","textPreview":"NotebookE trong một phút","textChars":24,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/rq1cnmd8","slide":2,"name":"GIỚI THIỆU","text":"GIỚI THIỆU","textPreview":"GIỚI THIỆU","textChars":10,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/qpsbuhcn","slide":2,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/5ozulcv2","slide":2,"name":"02 / 20","text":"02 / 20","textPreview":"02 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"textbox","id":"sh/4nqts7ux","slide":2,"name":"Từ tài liệu rời rạc\nđến tri thức có ngữ cảnh.","text":"Từ tài liệu rời rạc\nđến tri thức có ngữ cảnh.","textPreview":"Từ tài liệu rời rạc | đến tri thức có ngữ cảnh.","textChars":45,"textLines":2,"bbox":[110,275,770,160]}
+{"kind":"textbox","id":"sh/3mhcj2dc","slide":2,"name":"Tổ chức nguồn theo notebook; tìm kiếm, hỏi đáp, ghi chú và tạo po","text":"Tổ chức nguồn theo notebook; tìm kiếm, hỏi đáp, ghi chú và tạo podcast/video.\n\nNgười dùng tự kiểm soát dữ liệu và lựa chọn mô hình AI.","textPreview":"Tổ chức nguồn theo notebook; tìm kiếm, hỏi đáp, ghi chú và tạo podcast/video. |  | Người dùng tự kiểm soát dữ liệu và lựa chọn mô hình AI.","textChars":134,"textLines":3,"bbox":[110,480,740,330]}
+{"kind":"textbox","id":"sh/il8bqhcr","slide":2,"name":"Next.js\nGiao diện · 3000","text":"Next.js\nGiao diện · 3000","textPreview":"Next.js | Giao diện · 3000","textChars":24,"textLines":2,"bbox":[1040,270,670,120]}
+{"kind":"textbox","id":"sh/pk3uxgvm","slide":2,"name":"FastAPI\nAPI & workflow · 5055","text":"FastAPI\nAPI & workflow · 5055","textPreview":"FastAPI | API & workflow · 5055","textChars":29,"textLines":2,"bbox":[1040,470,670,120]}
+{"kind":"textbox","id":"sh/ojud4bu1","slide":2,"name":"SurrealDB + hệ thống tệp\nDữ liệu, chỉ mục & media","text":"SurrealDB + hệ thống tệp\nDữ liệu, chỉ mục & media","textPreview":"SurrealDB + hệ thống tệp | Dữ liệu, chỉ mục & media","textChars":49,"textLines":2,"bbox":[1040,700,670,120]}
+{"kind":"shape","id":"sh/m54rydsj","slide":2,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/76x8rit4","slide":2,"name":"Yêu cầu / phản hồi","text":"Yêu cầu / phản hồi","textPreview":"Yêu cầu / phản hồi","textChars":18,"textLines":1,"bbox":[1220,408,340,65]}
+{"kind":"shape","id":"sh/8r6903ap","slide":2,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/tsfat8bu","slide":2,"name":"Truy vấn async","text":"Truy vấn async","textPreview":"Truy vấn async","textChars":14,"textLines":1,"bbox":[1250,620,300,65]}
+{"kind":"textbox","id":"sh/y14ruts7","slide":2,"name":"Worker bắt buộc cho xử lý nguồn, embedding và media. Không mặc đị","text":"Worker bắt buộc cho xử lý nguồn, embedding và media. Không mặc định hệ thống đã được gia cố cho production.","textPreview":"Worker bắt buộc cho xử lý nguồn, embedding và media. Không mặc định hệ thống đã được gia cố cho production.","textChars":107,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/lvngxc","slide":2,"text":"Nguồn: VISION.md; AGENTS.md; docs/7-DEVELOPMENT/architecture.md\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/1zp5a5","slide":3,"title":"Người dùng cần gì?","textShapes":14}
+{"kind":"shape","id":"sh/adcvmtg7","slide":3,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/54nelsfa","slide":3,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/j2lcjix4","slide":3,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/ihcvqdgj","slide":3,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/07adgjy5","slide":3,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/a9sbe9s7","slide":3,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/r25cvy90","slide":3,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/365c3yps","slide":3,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/25wbato7","slide":3,"name":"Người dùng cần gì?","text":"Người dùng cần gì?","textPreview":"Người dùng cần gì?","textChars":18,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/p8nu587y","slide":3,"name":"YÊU CẦU NGƯỜI DÙNG","text":"YÊU CẦU NGƯỜI DÙNG","textPreview":"YÊU CẦU NGƯỜI DÙNG","textChars":18,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/o7etc36d","slide":3,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/fi5szepw","slide":3,"name":"03 / 20","text":"03 / 20","textPreview":"03 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"shape","id":"sh/ehcb698b","slide":3,"bbox":[110,280,510,500]}
+{"kind":"textbox","id":"sh/14nu1o72","slide":3,"name":"01","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[140,305,450,80]}
+{"kind":"textbox","id":"sh/gjet8jqh","slide":3,"name":"Người nghiên cứu","text":"Người nghiên cứu","textPreview":"Người nghiên cứu","textChars":16,"textLines":1,"bbox":[140,395,450,110]}
+{"kind":"textbox","id":"sh/relsvepk","slide":3,"name":"Gom tài liệu theo chủ đề\nTìm thông tin liên quan\nHỏi đáp có căn c","text":"Gom tài liệu theo chủ đề\nTìm thông tin liên quan\nHỏi đáp có căn cứ\nLưu ghi chú và nội dung","textPreview":"Gom tài liệu theo chủ đề | Tìm thông tin liên quan | Hỏi đáp có căn cứ | Lưu ghi chú và nội dung","textChars":90,"textLines":4,"bbox":[140,520,450,245]}
+{"kind":"shape","id":"sh/6dcb298f","slide":3,"bbox":[705,280,510,500]}
+{"kind":"textbox","id":"sh/wja9cf6x","slide":3,"name":"02","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[735,305,450,80]}
+{"kind":"textbox","id":"sh/xkjq5kni","slide":3,"name":"Người vận hành","text":"Người vận hành","textPreview":"Người vận hành","textChars":14,"textLines":1,"bbox":[735,395,450,110]}
+{"kind":"textbox","id":"sh/ah8ra5o7","slide":3,"name":"Tự lưu trữ dữ liệu\nCấu hình provider/model\nQuản lý khóa kết nối\nT","text":"Tự lưu trữ dữ liệu\nCấu hình provider/model\nQuản lý khóa kết nối\nTheo dõi và thử lại tác vụ","textPreview":"Tự lưu trữ dữ liệu | Cấu hình provider/model | Quản lý khóa kết nối | Theo dõi và thử lại tác vụ","textChars":90,"textLines":4,"bbox":[735,520,450,245]}
+{"kind":"shape","id":"sh/vih83a5c","slide":3,"bbox":[1300,280,510,500]}
+{"kind":"textbox","id":"sh/4na9gfm9","slide":3,"name":"03","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1330,305,450,80]}
+{"kind":"textbox","id":"sh/5ojq9knu","slide":3,"name":"Cách xác nhận nhu cầu","text":"Cách xác nhận nhu cầu","textPreview":"Cách xác nhận nhu cầu","textChars":21,"textLines":1,"bbox":[1330,395,450,110]}
+{"kind":"textbox","id":"sh/ilsrepo3","slide":3,"name":"Phỏng vấn theo nhiệm vụ\nQuan sát luồng nghiên cứu\nThử prototype g","text":"Phỏng vấn theo nhiệm vụ\nQuan sát luồng nghiên cứu\nThử prototype giao diện\nƯu tiên và nghiệm thu","textPreview":"Phỏng vấn theo nhiệm vụ | Quan sát luồng nghiên cứu | Thử prototype giao diện | Ưu tiên và nghiệm thu","textChars":95,"textLines":4,"bbox":[1330,520,450,245]}
+{"kind":"textbox","id":"sh/jm187a5o","slide":3,"name":"Hai nhóm vai trò và nhu cầu suy ra từ dự án; khảo sát, phỏng vấn ","text":"Hai nhóm vai trò và nhu cầu suy ra từ dự án; khảo sát, phỏng vấn và tiêu chí định lượng là đề xuất.","textPreview":"Hai nhóm vai trò và nhu cầu suy ra từ dự án; khảo sát, phỏng vấn và tiêu chí định lượng là đề xuất.","textChars":99,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/1zp5a5","slide":3,"text":"Nguồn: pdf/YeuCauNguoiSuDung.pdf; VISION.md; chức năng API/UI\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/9wbulu","slide":4,"title":"Yêu cầu hệ thống có thể truy vết","textShapes":9}
+{"kind":"shape","id":"sh/6dovedkb","slide":4,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/lcfe583q","slide":4,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/jaxc3yl0","slide":4,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/y94vatkf","slide":4,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/47qdo72p","slide":4,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/ap07qpkn","slide":4,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/7idore1g","slide":4,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/3m54j6hs","slide":4,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/2lw3a107","slide":4,"name":"Yêu cầu hệ thống có thể truy vết","text":"Yêu cầu hệ thống có thể truy vết","textPreview":"Yêu cầu hệ thống có thể truy vết","textChars":32,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/ponmlgzi","slide":4,"name":"MÔ HÌNH YÊU CẦU","text":"MÔ HÌNH YÊU CẦU","textPreview":"MÔ HÌNH YÊU CẦU","textChars":15,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/4nelcbid","slide":4,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/rq54nqho","slide":4,"name":"04 / 20","text":"04 / 20","textPreview":"04 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"textbox","id":"sh/qpw3el03","slide":4,"name":"Chức năng cốt lõi","text":"Chức năng cốt lõi","textPreview":"Chức năng cốt lõi","textChars":17,"textLines":1,"bbox":[110,260,850,65]}
+{"kind":"textbox","id":"sh/ds7mpgzu","slide":4,"name":"FR01  Quản lý notebook\nFR02  Tiếp nhận và xử lý nguồn\nFR03  Tìm k","text":"FR01  Quản lý notebook\nFR02  Tiếp nhận và xử lý nguồn\nFR03  Tìm kiếm toàn văn / ngữ nghĩa\nFR04  Hỏi đáp và chat theo ngữ cảnh\nFR05  Ghi chú và chuyển đổi nội dung\nFR06  Tạo podcast / video\nFR07  Cấu hình AI và theo dõi tác vụ","textPreview":"FR01  Quản lý notebook | FR02  Tiếp nhận và xử lý nguồn | FR03  Tìm kiếm toàn văn / ngữ nghĩa | FR04  Hỏi đáp và chat theo ngữ cảnh | FR0...","textChars":225,"textLines":7,"bbox":[110,355,850,500]}
+{"kind":"textbox","id":"sh/crylgbi9","slide":4,"name":"Ràng buộc & chất lượng","text":"Ràng buộc & chất lượng","textPreview":"Ràng buộc & chất lượng","textChars":22,"textLines":1,"bbox":[1040,260,770,65]}
+{"kind":"textbox","id":"sh/zup4rqh0","slide":4,"name":"Tự lưu trữ, nhiều provider\nDB / AI / workflow bất đồng bộ\nCredent","text":"Tự lưu trữ, nhiều provider\nDB / AI / workflow bất đồng bộ\nCredential mã hóa khi lưu\nPhản hồi rõ tiến độ và lỗi\nĐề xuất: đo độ trễ, chất lượng dẫn nguồn\nĐề xuất: kiểm tra phục hồi và sao lưu","textPreview":"Tự lưu trữ, nhiều provider | DB / AI / workflow bất đồng bộ | Credential mã hóa khi lưu | Phản hồi rõ tiến độ và lỗi | Đề xuất: đo độ trễ...","textChars":189,"textLines":6,"bbox":[1040,355,770,460]}
+{"kind":"textbox","id":"sh/etg3il0f","slide":4,"name":"Auth hiện là password middleware; CORS mở theo mặc định phát triể","text":"Auth hiện là password middleware; CORS mở theo mặc định phát triển. Đây không phải cam kết an toàn production.","textPreview":"Auth hiện là password middleware; CORS mở theo mặc định phát triển. Đây không phải cam kết an toàn production.","textChars":110,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/9wbulu","slide":4,"text":"Nguồn: pdf/MoHinhHoaYeuCau.pdf; pdf/YeuCauNguoiSuDung.pdf; api/routers\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/ru4jev","slide":5,"title":"Use case của NotebookE","textShapes":14}
+{"kind":"shape","id":"sh/8fu1k3qp","slide":5,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/vilkfipg","slide":5,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/x432hs7m","slide":5,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/wju1onq1","slide":5,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/ql8ja98r","slide":5,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/4bu10fq9","slide":5,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/tkjil0rm","slide":5,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/94r69sfe","slide":5,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/o3ip0net","slide":5,"name":"Use case của NotebookE","text":"Use case của NotebookE","textPreview":"Use case của NotebookE","textChars":22,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/n29o7ix8","slide":5,"name":"MÔ HÌNH YÊU CẦU","text":"MÔ HÌNH YÊU CẦU","textPreview":"MÔ HÌNH YÊU CẦU","textChars":15,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/2107ydwn","slide":5,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/xsrqdcfa","slide":5,"name":"21 / 20","text":"05 / 20","textPreview":"05 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"shape","id":"sh/wrip47ep","slide":5,"bbox":[470,245,1110,640]}
+{"kind":"textbox","id":"sh/bq98b2x4","slide":5,"name":"NotebookE","text":"NotebookE","textPreview":"NotebookE","textChars":9,"textLines":1,"bbox":[900,260,400,55]}
+{"kind":"textbox","id":"sh/a5072xwj","slide":5,"name":"«actor»\nNgười nghiên cứu","text":"«actor»\nNgười nghiên cứu","textPreview":"«actor» | Người nghiên cứu","textChars":24,"textLines":2,"bbox":[110,455,270,140]}
+{"kind":"textbox","id":"sh/lwbqhcf6","slide":5,"name":"«actor»\nNgười vận hành","text":"«actor»\nNgười vận hành","textPreview":"«actor» | Người vận hành","textChars":22,"textLines":2,"bbox":[1650,455,220,140]}
+{"kind":"textbox","id":"sh/kv2p87e1","slide":5,"name":"Quản lý notebook","text":"Quản lý notebook","textPreview":"Quản lý notebook","textChars":16,"textLines":1,"bbox":[530,350,430,100]}
+{"kind":"textbox","id":"sh/i1c329cj","slide":5,"name":"Thêm / xử lý nguồn","text":"Thêm / xử lý nguồn","textPreview":"Thêm / xử lý nguồn","textChars":18,"textLines":1,"bbox":[1080,350,430,100]}
+{"kind":"textbox","id":"sh/3254bedo","slide":5,"name":"Tìm kiếm & hỏi đáp","text":"Tìm kiếm & hỏi đáp","textPreview":"Tìm kiếm & hỏi đáp","textChars":18,"textLines":1,"bbox":[530,540,430,100]}
+{"kind":"textbox","id":"sh/43e54ju9","slide":5,"name":"Ghi chú / chuyển đổi","text":"Ghi chú / chuyển đổi","textPreview":"Ghi chú / chuyển đổi","textChars":20,"textLines":1,"bbox":[1080,540,430,100]}
+{"kind":"textbox","id":"sh/54nmdovu","slide":5,"name":"Tạo podcast / video","text":"Tạo podcast / video","textPreview":"Tạo podcast / video","textChars":19,"textLines":1,"bbox":[530,730,430,100]}
+{"kind":"textbox","id":"sh/q5wn69cf","slide":5,"name":"Cấu hình AI / tác vụ","text":"Cấu hình AI / tác vụ","textPreview":"Cấu hình AI / tác vụ","textChars":20,"textLines":1,"bbox":[1080,730,430,100]}
+{"kind":"shape","id":"sh/r654fed0","slide":5,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/s7e58jul","slide":5,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/d8nmhov6","slide":5,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/e9gnatcb","slide":5,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/fap4jydw","slide":5,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/nql4ny50","slide":5,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/mpc3ut4v","slide":5,"name":"Actor là vai trò nghiệp vụ, không suy diễn thành cơ chế phân quyề","text":"Actor là vai trò nghiệp vụ, không suy diễn thành cơ chế phân quyền đa người dùng đã triển khai.","textPreview":"Actor là vai trò nghiệp vụ, không suy diễn thành cơ chế phân quyền đa người dùng đã triển khai.","textChars":95,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/ru4jev","slide":5,"text":"Nguồn: pdf/MoHinhHoaYeuCau.pdf; api/routers\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/7byqcv","slide":6,"title":"Đặc tả UC04: hỏi đáp theo tài liệu","textShapes":14}
+{"kind":"shape","id":"sh/25cjah03","slide":6,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/xwn29wzq","slide":6,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/bu5k76h0","slide":6,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/atcje10f","slide":6,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/sza147i1","slide":6,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/al8jeh0b","slide":6,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/7e1kv6h4","slide":6,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/3il0jqxc","slide":6,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/2hsjalwr","slide":6,"name":"Đặc tả UC04: hỏi đáp theo tài liệu","text":"Đặc tả UC04: hỏi đáp theo tài liệu","textPreview":"Đặc tả UC04: hỏi đáp theo tài liệu","textChars":34,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/pk3ilgfi","slide":6,"name":"MÔ HÌNH YÊU CẦU","text":"MÔ HÌNH YÊU CẦU","textPreview":"MÔ HÌNH YÊU CẦU","textChars":15,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/oju1cbex","slide":6,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/fe10f6x0","slide":6,"name":"06 / 20","text":"06 / 20","textPreview":"06 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"shape","id":"sh/udsj61wv","slide":6,"bbox":[110,280,510,520]}
+{"kind":"textbox","id":"sh/1gjihgf6","slide":6,"name":"TRƯỚC","text":"TRƯỚC","textPreview":"TRƯỚC","textChars":5,"textLines":1,"bbox":[140,305,450,80]}
+{"kind":"textbox","id":"sh/gfa18bel","slide":6,"name":"Có nguồn và mô hình","text":"Có nguồn và mô hình","textPreview":"Có nguồn và mô hình","textChars":19,"textLines":1,"bbox":[140,395,450,110]}
+{"kind":"textbox","id":"sh/7qh0b6x4","slide":6,"name":"Nguồn đã xử lý, có chỉ mục\nCấu hình AI hợp lệ\nNgười dùng nhập câu","text":"Nguồn đã xử lý, có chỉ mục\nCấu hình AI hợp lệ\nNgười dùng nhập câu hỏi","textPreview":"Nguồn đã xử lý, có chỉ mục | Cấu hình AI hợp lệ | Người dùng nhập câu hỏi","textChars":69,"textLines":3,"bbox":[140,520,450,265]}
+{"kind":"shape","id":"sh/6p8z21wj","slide":6,"bbox":[705,280,510,520]}
+{"kind":"textbox","id":"sh/wv6xc7uh","slide":6,"name":"LUỒNG","text":"LUỒNG","textPreview":"LUỒNG","textChars":5,"textLines":1,"bbox":[735,305,450,80]}
+{"kind":"textbox","id":"sh/xwfylsv2","slide":6,"name":"Truy xuất rồi tổng hợp","text":"Truy xuất rồi tổng hợp","textPreview":"Truy xuất rồi tổng hợp","textChars":22,"textLines":1,"bbox":[735,395,450,110]}
+{"kind":"textbox","id":"sh/atofaxcb","slide":6,"name":"Lập chiến lược truy vấn\nTruy xuất các đoạn liên quan\nTrả lời từng","text":"Lập chiến lược truy vấn\nTruy xuất các đoạn liên quan\nTrả lời từng câu hỏi con\nTổng hợp, truyền kết quả","textPreview":"Lập chiến lược truy vấn | Truy xuất các đoạn liên quan | Trả lời từng câu hỏi con | Tổng hợp, truyền kết quả","textChars":102,"textLines":4,"bbox":[735,520,450,265]}
+{"kind":"shape","id":"sh/vuxgj2dw","slide":6,"bbox":[1300,280,510,520]}
+{"kind":"textbox","id":"sh/kjqxg7ud","slide":6,"name":"SAU / LỖI","text":"SAU / LỖI","textPreview":"SAU / LỖI","textChars":9,"textLines":1,"bbox":[1330,305,450,80]}
+{"kind":"textbox","id":"sh/5kzypcvy","slide":6,"name":"Kết quả theo bằng chứng","text":"Kết quả theo bằng chứng","textPreview":"Kết quả theo bằng chứng","textChars":23,"textLines":1,"bbox":[1330,395,450,110]}
+{"kind":"textbox","id":"sh/ixofexcn","slide":6,"name":"Nhận câu trả lời và nguồn\nThiếu ngữ cảnh: thông báo\nProvider lỗi:","text":"Nhận câu trả lời và nguồn\nThiếu ngữ cảnh: thông báo\nProvider lỗi: hiển thị lỗi\nCho phép người dùng thử lại","textPreview":"Nhận câu trả lời và nguồn | Thiếu ngữ cảnh: thông báo | Provider lỗi: hiển thị lỗi | Cho phép người dùng thử lại","textChars":106,"textLines":4,"bbox":[1330,520,450,265]}
+{"kind":"textbox","id":"sh/jyxgn2ds","slide":6,"name":"Phân biệt luồng chính, điều kiện trước/sau và ngoại lệ; không coi","text":"Phân biệt luồng chính, điều kiện trước/sau và ngoại lệ; không coi “AI luôn trả lời đúng” là yêu cầu đã đạt.","textPreview":"Phân biệt luồng chính, điều kiện trước/sau và ngoại lệ; không coi “AI luôn trả lời đúng” là yêu cầu đã đạt.","textChars":107,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/7byqcv","slide":6,"text":"Nguồn: pdf/MoHinhHoaYeuCau.pdf; notebooke/graphs/ask.py; api/routers/search.py\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/yck0a2","slide":7,"title":"DFD mức ngữ cảnh","textShapes":14}
+{"kind":"shape","id":"sh/gbm5ozut","slide":7,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/r6d4butc","slide":7,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/t8vmd4bi","slide":7,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/s7m5kzux","slide":7,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/q1onutcb","slide":7,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/ojadkfqd","slide":7,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/dsze5grq","slide":7,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/t8ru9cje","slide":7,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/s7itg7it","slide":7,"name":"DFD mức ngữ cảnh","text":"DFD mức ngữ cảnh","textPreview":"DFD mức ngữ cảnh","textChars":16,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/7m9c7218","slide":7,"name":"DFD","text":"DFD","textPreview":"DFD","textChars":3,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/6lgbeh03","slide":7,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/5k7u5cji","slide":7,"name":"21 / 20","text":"07 / 20","textPreview":"07 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"textbox","id":"sh/kjytc7ix","slide":7,"name":"Người dùng","text":"Người dùng","textPreview":"Người dùng","textChars":10,"textLines":1,"bbox":[110,390,300,150]}
+{"kind":"textbox","id":"sh/jipc321c","slide":7,"name":"0. NotebookE","text":"0. NotebookE","textPreview":"0. NotebookE","textChars":12,"textLines":1,"bbox":[745,375,420,180]}
+{"kind":"textbox","id":"sh/ihgbax0r","slide":7,"name":"Dịch vụ AI","text":"Dịch vụ AI","textPreview":"Dịch vụ AI","textChars":10,"textLines":1,"bbox":[1510,390,300,150]}
+{"kind":"textbox","id":"sh/pgbuhwjm","slide":7,"name":"Người vận hành","text":"Người vận hành","textPreview":"Người vận hành","textChars":14,"textLines":1,"bbox":[760,770,400,100]}
+{"kind":"shape","id":"sh/of2dori1","slide":7,"bbox":[410,425,1,1]}
+{"kind":"shape","id":"sh/mlcr2tgj","slide":7,"bbox":[745,425,1,1]}
+{"kind":"shape","id":"sh/nml8byh4","slide":7,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/8ne943yp","slide":7,"name":"Tài liệu, câu hỏi,\nyêu cầu nội dung","text":"Tài liệu, câu hỏi,\nyêu cầu nội dung","textPreview":"Tài liệu, câu hỏi, | yêu cầu nội dung","textChars":35,"textLines":2,"bbox":[420,305,320,65]}
+{"kind":"shape","id":"sh/9onqd8za","slide":7,"bbox":[745,510,1,1]}
+{"kind":"shape","id":"sh/yxcrytgn","slide":7,"bbox":[410,510,1,1]}
+{"kind":"shape","id":"sh/zil87eh8","slide":7,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/0ju90jyd","slide":7,"name":"Kết quả, nội dung,\ntrạng thái","text":"Kết quả, nội dung,\ntrạng thái","textPreview":"Kết quả, nội dung, | trạng thái","textChars":29,"textLines":2,"bbox":[420,545,320,65]}
+{"kind":"shape","id":"sh/lk3q9ozy","slide":7,"bbox":[1165,425,1,1]}
+{"kind":"shape","id":"sh/idwradgr","slide":7,"bbox":[1510,425,1,1]}
+{"kind":"shape","id":"sh/je5sjihc","slide":7,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/36l4fals","slide":7,"name":"Prompt, ngữ cảnh,\ncấu hình mô hình","text":"Prompt, ngữ cảnh,\ncấu hình mô hình","textPreview":"Prompt, ngữ cảnh, | cấu hình mô hình","textChars":34,"textLines":2,"bbox":[1180,305,310,65]}
+{"kind":"shape","id":"sh/25cn6pk7","slide":7,"bbox":[1510,510,1,1]}
+{"kind":"shape","id":"sh/p836hk3i","slide":7,"bbox":[1165,510,1,1]}
+{"kind":"shape","id":"sh/47u58f2d","slide":7,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/fil4balg","slide":7,"name":"Văn bản, vector,\nâm thanh, ảnh","text":"Văn bản, vector,\nâm thanh, ảnh","textPreview":"Văn bản, vector, | âm thanh, ảnh","textChars":30,"textLines":2,"bbox":[1180,545,310,65]}
+{"kind":"shape","id":"sh/uhcn25kv","slide":7,"bbox":[960,770,1,1]}
+{"kind":"shape","id":"sh/hk3mdk3m","slide":7,"bbox":[960,555,1,1]}
+{"kind":"shape","id":"sh/gju54f21","slide":7,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/ze5onu10","slide":7,"name":"Cấu hình hệ thống","text":"Cấu hình hệ thống","textPreview":"Cấu hình hệ thống","textChars":17,"textLines":1,"bbox":[980,675,330,65]}
+{"kind":"textbox","id":"sh/edwne9kf","slide":7,"name":"Tác nhân ngoài biên hệ thống; hai mũi tên riêng thể hiện rõ chiều","text":"Tác nhân ngoài biên hệ thống; hai mũi tên riêng thể hiện rõ chiều vào / ra.","textPreview":"Tác nhân ngoài biên hệ thống; hai mũi tên riêng thể hiện rõ chiều vào / ra.","textChars":75,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/yck0a2","slide":7,"text":"Nguồn: pdf/DFD.pdf; api/routers\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/qxl3ss","slide":8,"title":"DFD mức 1: bốn tiến trình chính","textShapes":33}
+{"kind":"shape","id":"sh/ut0bi5s3","slide":8,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/tsrap0ri","slide":8,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/76psnq9c","slide":8,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/65gbelsr","slide":8,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/k3ytcba1","slide":8,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/69w32hcz","slide":8,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/v2lkn2tc","slide":8,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/zah8fu5s","slide":8,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/e9or6po7","slide":8,"name":"DFD mức 1: bốn tiến trình chính","text":"DFD mức 1: bốn tiến trình chính","textPreview":"DFD mức 1: bốn tiến trình chính","textChars":31,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/1wzah4ny","slide":8,"name":"DFD","text":"DFD","textPreview":"DFD","textChars":3,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/0vq98z6d","slide":8,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/nyhsje5o","slide":8,"name":"21 / 20","text":"08 / 20","textPreview":"08 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"textbox","id":"sh/mx8ra9o3","slide":8,"name":"Người dùng","text":"Người dùng","textPreview":"Người dùng","textChars":10,"textLines":1,"bbox":[110,280,250,85]}
+{"kind":"textbox","id":"sh/90zal4nu","slide":8,"name":"1.0 Quản lý nguồn","text":"1.0 Quản lý nguồn","textPreview":"1.0 Quản lý nguồn","textChars":17,"textLines":1,"bbox":[600,280,430,85]}
+{"kind":"textbox","id":"sh/ozq9cj69","slide":8,"name":"K1 Nguồn / chỉ mục","text":"K1 Nguồn / chỉ mục","textPreview":"K1 Nguồn / chỉ mục","textChars":18,"textLines":1,"bbox":[1350,280,460,80]}
+{"kind":"shape","id":"sh/32x87a5k","slide":8,"bbox":[1350,280,460,2]}
+{"kind":"shape","id":"sh/214ry5oz","slide":8,"bbox":[1350,360,460,2]}
+{"kind":"shape","id":"sh/s72p8bmx","slide":8,"bbox":[360,298,1,1]}
+{"kind":"shape","id":"sh/t8b61g3i","slide":8,"bbox":[600,298,1,1]}
+{"kind":"shape","id":"sh/65kn614r","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/76toz6lc","slide":8,"name":"Tài liệu","text":"Tài liệu","textPreview":"Tài liệu","textChars":8,"textLines":1,"bbox":[365,245,225,65]}
+{"kind":"shape","id":"sh/kj254bml","slide":8,"bbox":[600,343,1,1]}
+{"kind":"shape","id":"sh/5kb6xw36","slide":8,"bbox":[360,343,1,1]}
+{"kind":"shape","id":"sh/ih0n214v","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/ji9ov6l0","slide":8,"name":"Trạng thái / mã nguồn","text":"Mã / trạng thái","textPreview":"Mã / trạng thái","textChars":15,"textLines":1,"bbox":[365,353,225,65]}
+{"kind":"shape","id":"sh/4fmpgvm5","slide":8,"bbox":[1030,298,1,1]}
+{"kind":"shape","id":"sh/pgv6903a","slide":8,"bbox":[1350,298,1,1]}
+{"kind":"shape","id":"sh/1k7m1sj2","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/0jel8n2h","slide":8,"name":"Nội dung / vector","text":"Nội dung / vector","textPreview":"Nội dung / vector","textChars":17,"textLines":1,"bbox":[1040,245,305,65]}
+{"kind":"shape","id":"sh/zi5kzi1w","slide":8,"bbox":[1350,343,1,1]}
+{"kind":"shape","id":"sh/ehw36dkb","slide":8,"bbox":[1030,343,1,1]}
+{"kind":"shape","id":"sh/9o7m5cjy","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/onylc72d","slide":8,"name":"Dữ liệu đã lưu","text":"Dữ liệu đã lưu","textPreview":"Dữ liệu đã lưu","textChars":14,"textLines":1,"bbox":[1040,353,305,65]}
+{"kind":"textbox","id":"sh/nmp4321s","slide":8,"name":"Người dùng","text":"Người dùng","textPreview":"Người dùng","textChars":10,"textLines":1,"bbox":[110,433,250,85]}
+{"kind":"textbox","id":"sh/mlg3axkn","slide":8,"name":"2.0 Nghiên cứu","text":"2.0 Nghiên cứu","textPreview":"2.0 Nghiên cứu","textChars":14,"textLines":1,"bbox":[600,433,430,85]}
+{"kind":"textbox","id":"sh/xcrm9cja","slide":8,"name":"K1 + K2 Tri thức","text":"K1 + K2 Tri thức","textPreview":"K1 + K2 Tri thức","textChars":16,"textLines":1,"bbox":[1350,433,460,80]}
+{"kind":"shape","id":"sh/wbilg72p","slide":8,"bbox":[1350,433,460,2]}
+{"kind":"shape","id":"sh/uxsja907","slide":8,"bbox":[1350,513,460,2]}
+{"kind":"shape","id":"sh/fy103ehs","slide":8,"bbox":[360,451,1,1]}
+{"kind":"shape","id":"sh/gza1cjix","slide":8,"bbox":[600,451,1,1]}
+{"kind":"shape","id":"sh/h0ji5ozi","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/2lcjet03","slide":8,"name":"Câu hỏi / ngữ cảnh","text":"Câu hỏi","textPreview":"Câu hỏi","textChars":7,"textLines":1,"bbox":[365,398,225,65]}
+{"kind":"shape","id":"sh/3ml07eho","slide":8,"bbox":[600,496,1,1]}
+{"kind":"shape","id":"sh/4nu1gji9","slide":8,"bbox":[360,496,1,1]}
+{"kind":"shape","id":"sh/po3i9ozu","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/qpcjit0f","slide":8,"name":"Kết quả / ghi chú","text":"Kết quả / ghi chú","textPreview":"Kết quả / ghi chú","textChars":17,"textLines":1,"bbox":[365,506,225,65]}
+{"kind":"shape","id":"sh/rql0byhk","slide":8,"bbox":[1030,451,1,1]}
+{"kind":"shape","id":"sh/nu50zyxs","slide":8,"bbox":[1350,451,1,1]}
+{"kind":"shape","id":"sh/mtwzqtg7","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/9wni18fy","slide":8,"name":"Nguồn / note / chat","text":"Nguồn / note / chat","textPreview":"Nguồn / note / chat","textChars":19,"textLines":1,"bbox":[1040,398,305,65]}
+{"kind":"shape","id":"sh/ovehs3yd","slide":8,"bbox":[1350,496,1,1]}
+{"kind":"shape","id":"sh/zql0vyxw","slide":8,"bbox":[1030,496,1,1]}
+{"kind":"shape","id":"sh/epczmtgb","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/1snixofm","slide":8,"name":"Dữ liệu đã lưu","text":"Dữ liệu đã lưu","textPreview":"Dữ liệu đã lưu","textChars":14,"textLines":1,"bbox":[1040,506,305,65]}
+{"kind":"textbox","id":"sh/0ruhojyh","slide":8,"name":"Người dùng","text":"Người dùng","textPreview":"Người dùng","textChars":10,"textLines":1,"bbox":[110,586,250,85]}
+{"kind":"textbox","id":"sh/r2lgrexk","slide":8,"name":"3.0 Tạo nội dung","text":"3.0 Tạo nội dung","textPreview":"3.0 Tạo nội dung","textChars":16,"textLines":1,"bbox":[600,586,430,85]}
+{"kind":"textbox","id":"sh/q1czi9gz","slide":8,"name":"K3 Media / command","text":"K3 Media / command","textPreview":"K3 Media / command","textChars":18,"textLines":1,"bbox":[1350,586,460,80]}
+{"kind":"shape","id":"sh/gvq5cbal","slide":8,"bbox":[1350,586,460,2]}
+{"kind":"shape","id":"sh/hwz65gr6","slide":8,"bbox":[1350,666,460,2]}
+{"kind":"shape","id":"sh/utonalsv","slide":8,"bbox":[360,604,1,1]}
+{"kind":"shape","id":"sh/vuxo3q9g","slide":8,"bbox":[600,604,1,1]}
+{"kind":"shape","id":"sh/4jq5gvax","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/5kz690ri","slide":8,"name":"Yêu cầu media","text":"Yêu cầu media","textPreview":"Yêu cầu media","textChars":13,"textLines":1,"bbox":[365,551,225,65]}
+{"kind":"shape","id":"sh/ix8nelsr","slide":8,"bbox":[600,649,1,1]}
+{"kind":"shape","id":"sh/3iho7q9c","slide":8,"bbox":[360,649,1,1]}
+{"kind":"shape","id":"sh/knm54rat","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/lofmxwry","slide":8,"name":"Nội dung / trạng thái","text":"Media / trạng thái","textPreview":"Media / trạng thái","textChars":18,"textLines":1,"bbox":[365,659,225,65]}
+{"kind":"shape","id":"sh/psb25s7q","slide":8,"bbox":[1030,604,1,1]}
+{"kind":"shape","id":"sh/o72lc7ql","slide":8,"bbox":[1350,604,1,1]}
+{"kind":"shape","id":"sh/n6tk32p0","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/25k3ax8f","slide":8,"name":"Kịch bản / tệp","text":"Kịch bản / tệp","textPreview":"Kịch bản / tệp","textChars":14,"textLines":1,"bbox":[1040,551,305,65]}
+{"kind":"shape","id":"sh/14b21s7u","slide":8,"bbox":[1350,649,1,1]}
+{"kind":"shape","id":"sh/03i18nq9","slide":8,"bbox":[1030,649,1,1]}
+{"kind":"shape","id":"sh/f29kzipo","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/e10j6d83","slide":8,"name":"Dữ liệu đã lưu","text":"Dữ liệu đã lưu","textPreview":"Dữ liệu đã lưu","textChars":14,"textLines":1,"bbox":[1040,659,305,65]}
+{"kind":"textbox","id":"sh/l0v2dc7y","slide":8,"name":"Người vận hành","text":"Người vận hành","textPreview":"Người vận hành","textChars":14,"textLines":1,"bbox":[110,739,250,85]}
+{"kind":"textbox","id":"sh/kzmlkrqd","slide":8,"name":"4.0 Cấu hình AI","text":"4.0 Cấu hình AI","textPreview":"4.0 Cấu hình AI","textChars":15,"textLines":1,"bbox":[600,739,430,85]}
+{"kind":"textbox","id":"sh/i5gze9ov","slide":8,"name":"K4 Model / credential","text":"K4 Model / credential","textPreview":"K4 Model / credential","textChars":21,"textLines":1,"bbox":[1350,739,460,80]}
+{"kind":"shape","id":"sh/36p07e5g","slide":8,"bbox":[1350,739,460,2]}
+{"kind":"shape","id":"sh/47yhgj61","slide":8,"bbox":[1350,819,460,2]}
+{"kind":"shape","id":"sh/587i9onm","slide":8,"bbox":[360,757,1,1]}
+{"kind":"shape","id":"sh/uhwza9oz","slide":8,"bbox":[600,757,1,1]}
+{"kind":"shape","id":"sh/vi503e5k","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/g3ehcj65","slide":8,"name":"Cấu hình hệ thống","text":"Cấu hình","textPreview":"Cấu hình","textChars":8,"textLines":1,"bbox":[365,704,225,65]}
+{"kind":"shape","id":"sh/h4ni54na","slide":8,"bbox":[600,802,1,1]}
+{"kind":"shape","id":"sh/ed0zmto3","slide":8,"bbox":[360,802,1,1]}
+{"kind":"shape","id":"sh/fy90fy5o","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/wbeto3mp","slide":8,"name":"Thông tin cấu hình","text":"Kết quả cấu hình","textPreview":"Kết quả cấu hình","textChars":16,"textLines":1,"bbox":[365,812,225,65]}
+{"kind":"shape","id":"sh/hcnah8nu","slide":8,"bbox":[1030,757,1,1]}
+{"kind":"shape","id":"sh/u9wbmt4j","slide":8,"bbox":[1350,757,1,1]}
+{"kind":"shape","id":"sh/va5sfy54","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/87etk3md","slide":8,"name":"Cấu hình AI","text":"Cấu hình AI","textPreview":"Cấu hình AI","textChars":11,"textLines":1,"bbox":[1040,704,305,65]}
+{"kind":"shape","id":"sh/98nad8ny","slide":8,"bbox":[1350,802,1,1]}
+{"kind":"shape","id":"sh/mlcbit47","slide":8,"bbox":[1030,802,1,1]}
+{"kind":"shape","id":"sh/7m5sby5s","slide":8,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/s3ytwnmx","slide":8,"name":"Dữ liệu đã lưu","text":"Dữ liệu đã lưu","textPreview":"Dữ liệu đã lưu","textChars":14,"textLines":1,"bbox":[1040,812,305,65]}
+{"kind":"textbox","id":"sh/d47upsn2","slide":8,"name":"1.0–3.0 ↔ Dịch vụ AI: prompt/ngữ cảnh ↔ văn bản/vector/media. K1:","text":"1.0–3.0 ↔ Dịch vụ AI: prompt/ngữ cảnh ↔ văn bản/vector/media. K1: nguồn; K2: notebook/note/chat. Kho / tác nhân lặp để dễ đọc.","textPreview":"1.0–3.0 ↔ Dịch vụ AI: prompt/ngữ cảnh ↔ văn bản/vector/media. K1: nguồn; K2: notebook/note/chat. Kho / tác nhân lặp để dễ đọc.","textChars":126,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/qxl3ss","slide":8,"text":"Nguồn: pdf/DFD.pdf; api/routers; migrations\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/t88bpn","slide":9,"title":"DFD mức 2: xử lý nguồn","textShapes":20}
+{"kind":"shape","id":"sh/cju9sza5","slide":9,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/zm5snetw","slide":9,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/lonapobm","slide":9,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/0ne9wja1","slide":9,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/upsripsr","slide":9,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/sfy9gvy1","slide":9,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/h87q1gze","slide":9,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/x4zq5sr2","slide":9,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/w36pc7qh","slide":9,"name":"DFD mức 2: xử lý nguồn","text":"DFD mức 2: xử lý nguồn","textPreview":"DFD mức 2: xử lý nguồn","textChars":22,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/b2xo329c","slide":9,"name":"DFD","text":"DFD","textPreview":"DFD","textChars":3,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/a1o7ax8r","slide":9,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/l8zq9cre","slide":9,"name":"21 / 20","text":"09 / 20","textPreview":"09 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"textbox","id":"sh/k7qp07qt","slide":9,"name":"1.1 Tiếp nhận","text":"1.1 Tiếp nhận","textPreview":"1.1 Tiếp nhận","textChars":13,"textLines":1,"bbox":[120,380,380,105]}
+{"kind":"textbox","id":"sh/j6h87298","slide":9,"name":"1.2 Trích xuất","text":"1.2 Trích xuất","textPreview":"1.2 Trích xuất","textChars":14,"textLines":1,"bbox":[760,380,380,105]}
+{"kind":"textbox","id":"sh/y587yx8n","slide":9,"name":"1.3 Lập chỉ mục","text":"1.3 Lập chỉ mục","textPreview":"1.3 Lập chỉ mục","textChars":15,"textLines":1,"bbox":[1400,380,380,105]}
+{"kind":"shape","id":"sh/twjqdcra","slide":9,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/8bqp4rqp","slide":9,"name":"Tệp / URL / văn bản","text":"Tệp / URL / văn bản","textPreview":"Tệp / URL / văn bản","textChars":19,"textLines":1,"bbox":[500,495,260,65]}
+{"kind":"shape","id":"sh/q50vipkb","slide":9,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/r69wrulg","slide":9,"name":"Văn bản / metadata","text":"Văn bản / metadata","textPreview":"Văn bản / metadata","textChars":18,"textLines":1,"bbox":[1140,315,260,65]}
+{"kind":"textbox","id":"sh/s7idkz21","slide":9,"name":"Người dùng","text":"Người dùng","textPreview":"Người dùng","textChars":10,"textLines":1,"bbox":[120,245,380,70]}
+{"kind":"shape","id":"sh/d8betk3m","slide":9,"bbox":[220,315,1,1]}
+{"kind":"shape","id":"sh/e9kvmpk7","slide":9,"bbox":[220,380,1,1]}
+{"kind":"shape","id":"sh/fatwvuls","slide":9,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/0v2doz2d","slide":9,"name":"Tài liệu","text":"Tài liệu","textPreview":"Tài liệu","textChars":8,"textLines":1,"bbox":[235,325,190,65]}
+{"kind":"shape","id":"sh/1wbeh43y","slide":9,"bbox":[420,380,1,1]}
+{"kind":"shape","id":"sh/2xkvq9k3","slide":9,"bbox":[420,315,1,1]}
+{"kind":"shape","id":"sh/nytwjelo","slide":9,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/bu9w3eds","slide":9,"name":"Mã / trạng thái","text":"Mã / trạng thái","textPreview":"Mã / trạng thái","textChars":15,"textLines":1,"bbox":[450,325,250,65]}
+{"kind":"textbox","id":"sh/atgva9cn","slide":9,"name":"K1  source · embedding · insight","text":"K1  source · embedding · insight","textPreview":"K1  source · embedding · insight","textChars":32,"textLines":1,"bbox":[500,720,780,80]}
+{"kind":"shape","id":"sh/xgre54vy","slide":9,"bbox":[500,720,780,2]}
+{"kind":"shape","id":"sh/wfidczud","slide":9,"bbox":[500,800,780,2]}
+{"kind":"shape","id":"sh/ji9w7ed4","slide":9,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/yh0ve9cj","slide":9,"name":"Bản ghi nguồn","text":"Bản ghi nguồn","textPreview":"Bản ghi nguồn","textChars":13,"textLines":1,"bbox":[130,575,300,65]}
+{"kind":"shape","id":"sh/lkre9ova","slide":9,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/kjidgjup","slide":9,"name":"Nội dung","text":"Nội dung","textPreview":"Nội dung","textChars":8,"textLines":1,"bbox":[775,605,250,65]}
+{"kind":"shape","id":"sh/zm5cvud0","slide":9,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/elwv2pcf","slide":9,"name":"Chunk / vector / insight","text":"Chunk / vector / insight","textPreview":"Chunk / vector / insight","textChars":24,"textLines":1,"bbox":[1320,590,430,65]}
+{"kind":"textbox","id":"sh/4rutcbax","slide":9,"name":"Dịch vụ AI","text":"Dịch vụ AI","textPreview":"Dịch vụ AI","textChars":10,"textLines":1,"bbox":[1450,755,330,80]}
+{"kind":"shape","id":"sh/ps3a5gbi","slide":9,"bbox":[1580,485,1,1]}
+{"kind":"shape","id":"sh/25crals7","slide":9,"bbox":[1580,755,1,1]}
+{"kind":"shape","id":"sh/3qls3qts","slide":9,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/g3u98ba1","slide":9,"name":"Văn bản / prompt","text":"Văn bản / prompt","textPreview":"Văn bản / prompt","textChars":16,"textLines":1,"bbox":[1600,630,230,65]}
+{"kind":"shape","id":"sh/h43a1gbm","slide":9,"bbox":[1450,785,1,1]}
+{"kind":"shape","id":"sh/u1sr61sv","slide":9,"bbox":[1400,465,1,1]}
+{"kind":"shape","id":"sh/f21sz6tg","slide":9,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/0zetkfa5","slide":9,"name":"Vector / insight","text":"Vector / insight","textPreview":"Vector / insight","textChars":16,"textLines":1,"bbox":[1260,660,240,65]}
+{"kind":"textbox","id":"sh/10nad0bq","slide":9,"name":"API tạo Source và command; worker thực thi xử lý. K1 là kho logic","text":"API tạo Source và command; worker thực thi xử lý. K1 là kho logic, không phải một bảng duy nhất.","textPreview":"API tạo Source và command; worker thực thi xử lý. K1 là kho logic, không phải một bảng duy nhất.","textChars":96,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/t88bpn","slide":9,"text":"Nguồn: pdf/DFD.pdf; api/routers/sources.py; commands\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/6ssy1v","slide":10,"title":"DFD mức 2: hỏi đáp RAG","textShapes":23}
+{"kind":"shape","id":"sh/gfa1wb65","slide":10,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/3i10r6pw","slide":10,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/5k3itgnm","slide":10,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/4ja10b6h","slide":10,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/qlcj2lo7","slide":10,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/kjup43eh","slide":10,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/hcnq5svu","slide":10,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/58j6psny","slide":10,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/47apwn6t","slide":10,"name":"DFD mức 2: hỏi đáp RAG","text":"DFD mức 2: hỏi đáp RAG","textPreview":"DFD mức 2: hỏi đáp RAG","textChars":22,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/361oni58","slide":10,"name":"DFD","text":"DFD","textPreview":"DFD","textChars":3,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/i587udon","slide":10,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/dwj6tsna","slide":10,"name":"21 / 20","text":"10 / 20","textPreview":"10 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"textbox","id":"sh/sbap0n6p","slide":10,"name":"Người dùng","text":"Người dùng","textPreview":"Người dùng","textChars":10,"textLines":1,"bbox":[120,240,1660,75]}
+{"kind":"textbox","id":"sh/ra1or254","slide":10,"name":"2.1 Lập chiến lược","text":"2.1 Lập chiến lược","textPreview":"2.1 Lập chiến lược","textChars":18,"textLines":1,"bbox":[120,425,380,105]}
+{"kind":"textbox","id":"sh/q9s7yxoj","slide":10,"name":"2.2 Truy xuất & trả lời","text":"2.2 Truy xuất & trả lời","textPreview":"2.2 Truy xuất & trả lời","textChars":23,"textLines":1,"bbox":[760,425,380,105]}
+{"kind":"textbox","id":"sh/tgz6h8n6","slide":10,"name":"2.3 Tổng hợp","text":"2.3 Tổng hợp","textPreview":"2.3 Tổng hợp","textChars":12,"textLines":1,"bbox":[1400,425,380,105]}
+{"kind":"shape","id":"sh/8fqpo36l","slide":10,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/yl43i943","slide":10,"name":"Truy vấn con","text":"Truy vấn con","textPreview":"Truy vấn con","textChars":12,"textLines":1,"bbox":[505,365,250,65]}
+{"kind":"shape","id":"sh/jmd4relo","slide":10,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/k76lkjm9","slide":10,"name":"Trả lời con / bằng chứng","text":"Trả lời con / bằng chứng","textPreview":"Trả lời con / bằng chứng","textChars":24,"textLines":1,"bbox":[1135,355,280,65]}
+{"kind":"shape","id":"sh/l8fmt43u","slide":10,"bbox":[300,315,1,1]}
+{"kind":"shape","id":"sh/69o3m94f","slide":10,"bbox":[300,425,1,1]}
+{"kind":"shape","id":"sh/7ax4vel0","slide":10,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/8b65ojml","slide":10,"name":"Câu hỏi / model","text":"Câu hỏi / model","textPreview":"Câu hỏi / model","textChars":15,"textLines":1,"bbox":[100,345,290,65]}
+{"kind":"shape","id":"sh/tcfmxo3q","slide":10,"bbox":[1590,425,1,1]}
+{"kind":"shape","id":"sh/mdk3ap4b","slide":10,"bbox":[1590,315,1,1]}
+{"kind":"shape","id":"sh/net4julg","slide":10,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/3ylsrm98","slide":10,"name":"Câu trả lời / nguồn","text":"Câu trả lời / nguồn","textPreview":"Câu trả lời / nguồn","textChars":19,"textLines":1,"bbox":[1420,345,380,65]}
+{"kind":"textbox","id":"sh/ixsbyhsn","slide":10,"name":"K1 Nguồn / chỉ mục","text":"K1 Nguồn / chỉ mục","textPreview":"K1 Nguồn / chỉ mục","textChars":18,"textLines":1,"bbox":[515,625,480,80]}
+{"kind":"shape","id":"sh/503atwre","slide":10,"bbox":[515,625,480,2]}
+{"kind":"shape","id":"sh/4zut0rat","slide":10,"bbox":[515,705,480,2]}
+{"kind":"shape","id":"sh/r2lsvm94","slide":10,"bbox":[775,530,1,1]}
+{"kind":"shape","id":"sh/q1cb2hsz","slide":10,"bbox":[670,625,1,1]}
+{"kind":"shape","id":"sh/d43axwra","slide":10,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/c3ut4rap","slide":10,"name":"Truy vấn / vector","text":"Truy vấn / vector","textPreview":"Truy vấn / vector","textChars":17,"textLines":1,"bbox":[450,555,300,65]}
+{"kind":"shape","id":"sh/zq5sz69g","slide":10,"bbox":[900,625,1,1]}
+{"kind":"shape","id":"sh/epwb61sv","slide":10,"bbox":[1020,530,1,1]}
+{"kind":"shape","id":"sh/wve9wbqt","slide":10,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/xwnapg7e","slide":10,"name":"Đoạn nguồn","text":"Đoạn nguồn","textPreview":"Đoạn nguồn","textChars":10,"textLines":1,"bbox":[950,575,230,65]}
+{"kind":"textbox","id":"sh/atwru183","slide":10,"name":"Dịch vụ AI","text":"Dịch vụ AI","textPreview":"Dịch vụ AI","textChars":10,"textLines":1,"bbox":[120,820,1660,80]}
+{"kind":"shape","id":"sh/bu5sn6po","slide":10,"bbox":[250,530,1,1]}
+{"kind":"shape","id":"sh/ore9srqx","slide":10,"bbox":[250,820,1,1]}
+{"kind":"shape","id":"sh/9snalw7i","slide":10,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/m5wrq18r","slide":10,"name":"Prompt chiến lược","text":"Prompt chiến lược","textPreview":"Prompt chiến lược","textChars":17,"textLines":1,"bbox":[30,740,300,65]}
+{"kind":"shape","id":"sh/nq5sj6pc","slide":10,"bbox":[350,820,1,1]}
+{"kind":"shape","id":"sh/03u9orq1","slide":10,"bbox":[350,530,1,1]}
+{"kind":"shape","id":"sh/143ahw76","slide":10,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/hkvql8za","slide":10,"name":"Chiến lược","text":"Chiến lược","textPreview":"Chiến lược","textChars":10,"textLines":1,"bbox":[290,770,300,65]}
+{"kind":"shape","id":"sh/gzmpsnip","slide":10,"bbox":[1050,530,1,1]}
+{"kind":"shape","id":"sh/fyd8jih4","slide":10,"bbox":[1050,820,1,1]}
+{"kind":"shape","id":"sh/ux47qd0j","slide":10,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/twvqh8zy","slide":10,"name":"Prompt / ngữ cảnh","text":"Prompt / ngữ cảnh","textPreview":"Prompt / ngữ cảnh","textChars":17,"textLines":1,"bbox":[830,740,300,65]}
+{"kind":"shape","id":"sh/svmpo3id","slide":10,"bbox":[1150,820,1,1]}
+{"kind":"shape","id":"sh/7udofyh8","slide":10,"bbox":[1150,530,1,1]}
+{"kind":"shape","id":"sh/6tk7mt0n","slide":10,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/dsfqtczi","slide":10,"name":"Vector / trả lời","text":"Vector / trả lời","textPreview":"Vector / trả lời","textChars":16,"textLines":1,"bbox":[1090,770,300,65]}
+{"kind":"shape","id":"sh/cr6p07ix","slide":10,"bbox":[1500,530,1,1]}
+{"kind":"shape","id":"sh/algvy5c3","slide":10,"bbox":[1500,820,1,1]}
+{"kind":"shape","id":"sh/bmpw7ato","slide":10,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/wnyd0fu9","slide":10,"name":"Prompt tổng hợp","text":"Prompt tổng hợp","textPreview":"Prompt tổng hợp","textChars":15,"textLines":1,"bbox":[1280,740,300,65]}
+{"kind":"shape","id":"sh/xo7e9kbu","slide":10,"bbox":[1600,820,1,1]}
+{"kind":"shape","id":"sh/mxgvulc7","slide":10,"bbox":[1600,530,1,1]}
+{"kind":"shape","id":"sh/nypw3qtc","slide":10,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/ojydwvux","slide":10,"name":"Văn bản tổng hợp","text":"Văn bản tổng hợp","textPreview":"Văn bản tổng hợp","textChars":16,"textLines":1,"bbox":[1540,770,300,65]}
+{"kind":"textbox","id":"sh/9k7e50bi","slide":10,"name":"Các đoạn truy xuất có thể lặp theo câu hỏi con. Các luồng AI tron","text":"Các đoạn truy xuất có thể lặp theo câu hỏi con. Các luồng AI trong cùng tác nhân được tách chiều rõ ràng.","textPreview":"Các đoạn truy xuất có thể lặp theo câu hỏi con. Các luồng AI trong cùng tác nhân được tách chiều rõ ràng.","textChars":105,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/6ssy1v","slide":10,"text":"Nguồn: pdf/DFD.pdf; notebooke/graphs/ask.py; api/routers/search.py\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/f4qb45","slide":11,"title":"Activity: xử lý nguồn và ngoại lệ","textShapes":17}
+{"kind":"shape","id":"sh/i1gfulw7","slide":11,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/t8ret0vu","slide":11,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/r6pwrqd4","slide":11,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/65gfylwj","slide":11,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/gbix4ful","slide":11,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/2lwf29of","slide":11,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/7elwnu5s","slide":11,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/vy1cvqlk","slide":11,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/axsv2l4z","slide":11,"name":"Activity: xử lý nguồn và ngoại lệ","text":"Activity: xử lý nguồn và ngoại lệ","textPreview":"Activity: xử lý nguồn và ngoại lệ","textChars":33,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/xkjux03q","slide":11,"name":"MÔ HÌNH HÀNH VI","text":"MÔ HÌNH HÀNH VI","textPreview":"MÔ HÌNH HÀNH VI","textChars":15,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/wzad4vm5","slide":11,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/nuhcr6lo","slide":11,"name":"21 / 20","text":"11 / 20","textPreview":"11 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"textbox","id":"sh/mt8by143","slide":11,"name":"●","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[110,340,90,90]}
+{"kind":"textbox","id":"sh/9wjutg3e","slide":11,"name":"Tiếp nhận nguồn","text":"Tiếp nhận nguồn","textPreview":"Tiếp nhận nguồn","textChars":15,"textLines":1,"bbox":[310,340,330,90]}
+{"kind":"textbox","id":"sh/8vqt0bm9","slide":11,"name":"Tạo command","text":"Tạo command","textPreview":"Tạo command","textChars":11,"textLines":1,"bbox":[810,340,330,90]}
+{"kind":"textbox","id":"sh/7qlc3als","slide":11,"name":"Worker xử lý","text":"Worker xử lý","textPreview":"Worker xử lý","textChars":12,"textLines":1,"bbox":[1330,340,390,90]}
+{"kind":"shape","id":"sh/6pcva547","slide":11,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/4vm9o72p","slide":11,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/pwvaxcja","slide":11,"name":"Hợp lệ","text":"Hợp lệ","textPreview":"Hợp lệ","textChars":6,"textLines":1,"bbox":[640,285,170,65]}
+{"kind":"shape","id":"sh/294rmxkj","slide":11,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/3udsv214","slide":11,"name":"Tác vụ","text":"Tác vụ","textPreview":"Tác vụ","textChars":6,"textLines":1,"bbox":[1140,285,190,65]}
+{"kind":"textbox","id":"sh/cz69s721","slide":11,"text":"Lỗi?","textPreview":"Lỗi?","textChars":4,"textLines":1,"bbox":[1450,530,155,115]}
+{"kind":"shape","id":"sh/d0fa1cj6","slide":11,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/qxorqhkv","slide":11,"name":"Lưu nội dung & chỉ mục","text":"Lưu nội dung & chỉ mục","textPreview":"Lưu nội dung & chỉ mục","textChars":22,"textLines":1,"bbox":[1040,760,670,100]}
+{"kind":"textbox","id":"sh/ryxsz21g","slide":11,"name":"Báo lỗi / chờ thử lại","text":"Báo lỗi / chờ thử lại","textPreview":"Báo lỗi / chờ thử lại","textChars":21,"textLines":1,"bbox":[260,580,650,100]}
+{"kind":"shape","id":"sh/0369wr2x","slide":11,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/14za5wji","slide":11,"name":"Có","text":"Có","textPreview":"Có","textChars":2,"textLines":1,"bbox":[960,560,230,65]}
+{"kind":"shape","id":"sh/l0nipsjm","slide":11,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/0ze1wn21","slide":11,"name":"Không","text":"Không","textPreview":"Không","textChars":5,"textLines":1,"bbox":[1540,660,220,65]}
+{"kind":"shape","id":"sh/zy50ni1g","slide":11,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/yxwjudkv","slide":11,"name":"Thử lại","text":"Thử lại","textPreview":"Thử lại","textChars":7,"textLines":1,"bbox":[510,450,220,65]}
+{"kind":"textbox","id":"sh/dwnil8ja","slide":11,"name":"Thành công khi dữ liệu được lưu và chỉ mục khả dụng; không chỉ kh","text":"Thành công khi dữ liệu được lưu và chỉ mục khả dụng; không chỉ khi API nhận file. Tác vụ thất bại có nhánh thử lại.","textPreview":"Thành công khi dữ liệu được lưu và chỉ mục khả dụng; không chỉ khi API nhận file. Tác vụ thất bại có nhánh thử lại.","textChars":115,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/f4qb45","slide":11,"text":"Nguồn: pdf/MoHinhHoaYeuCau_TT.pdf; commands; api/routers/sources.py\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/n0eumz","slide":12,"title":"Sequence: hỏi đáp theo ngữ cảnh","textShapes":15}
+{"kind":"shape","id":"sh/pgnadozu","slide":12,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/upcry9g7","slide":12,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/gru90jyd","slide":12,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/hs3a9ozy","slide":12,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/zmpsjyhw","slide":12,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/3ulonuhw","slide":12,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/y1w7290j","slide":12,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/ah0rudkr","slide":12,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/vi9sni1c","slide":12,"name":"Sequence: hỏi đáp theo ngữ cảnh","text":"Sequence: hỏi đáp theo ngữ cảnh","textPreview":"Sequence: hỏi đáp theo ngữ cảnh","textChars":31,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/wji9wn2x","slide":12,"name":"MÔ HÌNH HÀNH VI","text":"MÔ HÌNH HÀNH VI","textPreview":"MÔ HÌNH HÀNH VI","textChars":15,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/xkrapsji","slide":12,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/mtgrqdkv","slide":12,"name":"12 / 20","text":"12 / 20","textPreview":"12 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"textbox","id":"sh/nu9sjy1g","slide":12,"name":"Người dùng / UI","text":"Người dùng / UI","textPreview":"Người dùng / UI","textChars":15,"textLines":1,"bbox":[110,260,365,80]}
+{"kind":"shape","id":"sh/8vi9s321","slide":12,"bbox":[291,350,2,480]}
+{"kind":"textbox","id":"sh/9wral8j6","slide":12,"name":"API + Ask graph","text":"API + Ask graph","textPreview":"API + Ask graph","textChars":15,"textLines":1,"bbox":[555,260,365,80]}
+{"kind":"shape","id":"sh/6pkb2xkz","slide":12,"bbox":[736,350,2,480]}
+{"kind":"textbox","id":"sh/7qtsv21k","slide":12,"name":"SurrealDB","text":"SurrealDB","textPreview":"SurrealDB","textChars":9,"textLines":1,"bbox":[1000,260,365,80]}
+{"kind":"shape","id":"sh/1wfmh07y","slide":12,"bbox":[1181,350,2,480]}
+{"kind":"textbox","id":"sh/gv6l8vqd","slide":12,"name":"Provider AI","text":"Provider AI","textPreview":"Provider AI","textChars":11,"textLines":1,"bbox":[1445,260,365,80]}
+{"kind":"shape","id":"sh/fux4fqps","slide":12,"bbox":[1626,350,2,480]}
+{"kind":"shape","id":"sh/eto36l8n","slide":12,"bbox":[291,405,2,2]}
+{"kind":"shape","id":"sh/tsfmdg72","slide":12,"bbox":[736,405,2,2]}
+{"kind":"shape","id":"sh/sr6l4bqh","slide":12,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/rqdkb6pw","slide":12,"name":"1. Câu hỏi + lựa chọn model","text":"1. Câu hỏi + lựa chọn model","textPreview":"1. Câu hỏi + lựa chọn model","textChars":27,"textLines":1,"bbox":[130,360,745,45]}
+{"kind":"shape","id":"sh/6p432l8b","slide":12,"bbox":[736,490,2,2]}
+{"kind":"shape","id":"sh/xozmpk76","slide":12,"bbox":[1626,490,2,2]}
+{"kind":"shape","id":"sh/cnqlgfql","slide":12,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/kful0bm5","slide":12,"name":"2. Lập chiến lược / embedding truy vấn","text":"2. Lập chiến lược / embedding truy vấn","textPreview":"2. Lập chiến lược / embedding truy vấn","textChars":38,"textLines":1,"bbox":[575,445,1190,45]}
+{"kind":"shape","id":"sh/lgn2tg3q","slide":12,"bbox":[736,575,2,2]}
+{"kind":"shape","id":"sh/ytc3yl4z","slide":12,"bbox":[1181,575,2,2]}
+{"kind":"shape","id":"sh/julkr6lk","slide":12,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/8jelovm1","slide":12,"name":"3. Tìm vector + lấy đoạn nguồn","text":"3. Tìm vector + lấy đoạn nguồn","textPreview":"3. Tìm vector + lấy đoạn nguồn","textChars":30,"textLines":1,"bbox":[575,530,745,45]}
+{"kind":"shape","id":"sh/tknmx03m","slide":12,"bbox":[1181,660,2,2]}
+{"kind":"shape","id":"sh/6hw32l4b","slide":12,"bbox":[736,660,2,2]}
+{"kind":"shape","id":"sh/7i54vqlw","slide":12,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/gnelsvmd","slide":12,"name":"4. Đoạn tài liệu liên quan","text":"4. Đoạn tài liệu liên quan","textPreview":"4. Đoạn tài liệu liên quan","textChars":26,"textLines":1,"bbox":[575,615,745,45]}
+{"kind":"shape","id":"sh/ho7m103y","slide":12,"bbox":[736,745,2,2]}
+{"kind":"shape","id":"sh/ri9oru50","slide":12,"bbox":[1626,745,2,2]}
+{"kind":"shape","id":"sh/qh0ny9of","slide":12,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/dkr6t4n6","slide":12,"name":"5. Trả lời con + tổng hợp","text":"5. Trả lời con + tổng hợp","textPreview":"5. Trả lời con + tổng hợp","textChars":25,"textLines":1,"bbox":[575,700,1190,45]}
+{"kind":"shape","id":"sh/cji50z6l","slide":12,"bbox":[736,840,2,2]}
+{"kind":"shape","id":"sh/3eponu54","slide":12,"bbox":[291,840,2,2]}
+{"kind":"shape","id":"sh/2dgnupoj","slide":12,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/pgr6p4nu","slide":12,"name":"6. Truyền kết quả qua SSE","text":"6. Truyền kết quả qua SSE","textPreview":"6. Truyền kết quả qua SSE","textChars":25,"textLines":1,"bbox":[130,795,745,45]}
+{"kind":"textbox","id":"sh/4fy5wz69","slide":12,"name":"Có thể lặp bước truy xuất và trả lời cho nhiều câu hỏi con. Các A","text":"Có thể lặp bước truy xuất và trả lời cho nhiều câu hỏi con. Các API, truy vấn và lời gọi AI đều bất đồng bộ.","textPreview":"Có thể lặp bước truy xuất và trả lời cho nhiều câu hỏi con. Các API, truy vấn và lời gọi AI đều bất đồng bộ.","textChars":108,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/n0eumz","slide":12,"text":"Nguồn: pdf/MoHinhHoaYeuCau_TT.pdf; notebooke/graphs/ask.py; api/routers/search.py\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/4brz20","slide":13,"title":"OOAD: phân công trách nhiệm","textShapes":14}
+{"kind":"shape","id":"sh/o36t0vi9","slide":13,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/fydsn61s","slide":13,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/10fapgjy","slide":13,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/gz6twbid","slide":13,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/694rq1kb","slide":13,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/0z2hgr6h","slide":13,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/xsvihgna","slide":13,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/5w7qlcb2","slide":13,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/kvypc7ah","slide":13,"name":"OOAD: phân công trách nhiệm","text":"OOAD: phân công trách nhiệm","textPreview":"OOAD: phân công trách nhiệm","textChars":27,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/jup8j2tw","slide":13,"name":"HƯỚNG ĐỐI TƯỢNG","text":"HƯỚNG ĐỐI TƯỢNG","textPreview":"HƯỚNG ĐỐI TƯỢNG","textChars":15,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/i9g7ahsb","slide":13,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/x87qhcb6","slide":13,"name":"13 / 20","text":"13 / 20","textPreview":"13 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"shape","id":"sh/w7ep87al","slide":13,"bbox":[110,280,510,500]}
+{"kind":"textbox","id":"sh/v658f2t0","slide":13,"name":"BOUNDARY","text":"BOUNDARY","textPreview":"BOUNDARY","textChars":8,"textLines":1,"bbox":[140,305,450,80]}
+{"kind":"textbox","id":"sh/a5w76xcf","slide":13,"name":"Điểm tương tác","text":"Điểm tương tác","textPreview":"Điểm tương tác","textChars":14,"textLines":1,"bbox":[140,395,450,110]}
+{"kind":"textbox","id":"sh/94nqdsbu","slide":13,"name":"Màn hình notebook / nguồn\nForm nhập câu hỏi\nAPI request / respons","text":"Màn hình notebook / nguồn\nForm nhập câu hỏi\nAPI request / response\nHiển thị kết quả và lỗi","textPreview":"Màn hình notebook / nguồn | Form nhập câu hỏi | API request / response | Hiển thị kết quả và lỗi","textChars":90,"textLines":4,"bbox":[140,520,450,245]}
+{"kind":"shape","id":"sh/83ep4nu9","slide":13,"bbox":[705,280,510,500]}
+{"kind":"textbox","id":"sh/e9cnet87","slide":13,"name":"CONTROL","text":"CONTROL","textPreview":"CONTROL","textChars":7,"textLines":1,"bbox":[735,305,450,80]}
+{"kind":"textbox","id":"sh/zal4ny9s","slide":13,"name":"Điều phối use case","text":"Điều phối use case","textPreview":"Điều phối use case","textChars":18,"textLines":1,"bbox":[735,395,450,110]}
+{"kind":"textbox","id":"sh/0bu5g3qd","slide":13,"name":"Router và service\nAsk graph / source workflow\nCommand và worker\nP","text":"Router và service\nAsk graph / source workflow\nCommand và worker\nProvider adapter","textPreview":"Router và service | Ask graph / source workflow | Command và worker | Provider adapter","textChars":80,"textLines":4,"bbox":[735,520,450,245]}
+{"kind":"shape","id":"sh/1c36p8ry","slide":13,"bbox":[1300,280,510,500]}
+{"kind":"textbox","id":"sh/q5snatsb","slide":13,"name":"ENTITY","text":"ENTITY","textPreview":"ENTITY","textChars":6,"textLines":1,"bbox":[1330,305,450,80]}
+{"kind":"textbox","id":"sh/r614je9g","slide":13,"name":"Thông tin nghiệp vụ","text":"Thông tin nghiệp vụ","textPreview":"Thông tin nghiệp vụ","textChars":19,"textLines":1,"bbox":[1330,395,450,110]}
+{"kind":"textbox","id":"sh/c7a5cja1","slide":13,"name":"Notebook, Source, Note\nChatSession, SourceInsight\nSourceEmbedding","text":"Notebook, Source, Note\nChatSession, SourceInsight\nSourceEmbedding\nEpisode, Model, Credential","textPreview":"Notebook, Source, Note | ChatSession, SourceInsight | SourceEmbedding | Episode, Model, Credential","textChars":92,"textLines":4,"bbox":[1330,520,450,245]}
+{"kind":"textbox","id":"sh/d8jmlorm","slide":13,"name":"Boundary–Control–Entity là góc nhìn phân tích; không khẳng định m","text":"Boundary–Control–Entity là góc nhìn phân tích; không khẳng định mã nguồn triển khai nguyên mẫu BCE một cách cứng nhắc.","textPreview":"Boundary–Control–Entity là góc nhìn phân tích; không khẳng định mã nguồn triển khai nguyên mẫu BCE một cách cứng nhắc.","textChars":118,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/4brz20","slide":13,"text":"Nguồn: pdf/OOAD_KhaiNiemCoBan.pdf; pdf/PhanTichHuongDoiTuongP1.pdf; notebooke/domain\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/u1uwnv","slide":14,"title":"Mô hình lớp phân tích rút gọn","textShapes":22}
+{"kind":"shape","id":"sh/ilobix4v","slide":14,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/xkvu9snq","slide":14,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/vidc7i5k","slide":14,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/ax4bed4z","slide":14,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/gfqdsrm9","slide":14,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/ah43q547","slide":14,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/7qh4rulk","slide":14,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/3u90jmlc","slide":14,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/2t0jqhkr","slide":14,"name":"Mô hình lớp phân tích rút gọn","text":"Mô hình lớp phân tích rút gọn","textPreview":"Mô hình lớp phân tích rút gọn","textChars":29,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/pwrilwj2","slide":14,"name":"HƯỚNG ĐỐI TƯỢNG","text":"HƯỚNG ĐỐI TƯỢNG","textPreview":"HƯỚNG ĐỐI TƯỢNG","textChars":15,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/ovi1sr2h","slide":14,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/by9knm18","slide":14,"name":"14 / 20","text":"14 / 20","textPreview":"14 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"shape","id":"sh/qx0ju1kn","slide":14,"name":"Notebook\nname, description\nTổ chức chủ đề","bbox":[750,250,420,160]}
+{"kind":"shape","id":"sh/d0b2pwje","slide":14,"name":"Source\nasset, full_text, command\nQuản lý tài liệu","bbox":[110,520,480,175]}
+{"kind":"shape","id":"sh/cz21wr2t","slide":14,"name":"Note\ntitle, content\nLưu tri thức","bbox":[750,520,420,175]}
+{"kind":"shape","id":"sh/zmtkr61k","slide":14,"name":"ChatSession\ntitle, model_override\nDuy trì phiên","bbox":[1370,520,440,175]}
+{"kind":"shape","id":"sh/y1kjy1kz","slide":14,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/wrm1obix","slide":14,"name":"0..*  reference  0..*","text":"0..*  reference  0..*","textPreview":"0..*  reference  0..*","textChars":21,"textLines":1,"bbox":[300,420,430,65]}
+{"kind":"shape","id":"sh/xsvihgzi","slide":14,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/apkzm10r","slide":14,"name":"0..*  artifact  0..*","text":"0..*  artifact  0..*","textPreview":"0..*  artifact  0..*","textChars":20,"textLines":1,"bbox":[745,438,430,65]}
+{"kind":"shape","id":"sh/vqd0f6hc","slide":14,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/8n2hkri1","slide":14,"name":"refers_to","text":"refers_to","textPreview":"refers_to","textChars":9,"textLines":1,"bbox":[1270,420,310,65]}
+{"kind":"shape","id":"sh/9obidwzm","slide":14,"name":"SourceEmbedding\ncontent, embedding","bbox":[110,780,480,110]}
+{"kind":"shape","id":"sh/m1kzi10v","slide":14,"name":"SourceInsight\ninsight_type, content","bbox":[750,780,420,110]}
+{"kind":"shape","id":"sh/n2t0b6hg","slide":14,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/0z2hgrip","slide":14,"name":"1 → 0..*","text":"1 → 0..*","textPreview":"1 → 0..*","textChars":8,"textLines":1,"bbox":[230,710,250,65]}
+{"kind":"shape","id":"sh/l0bi9wza","slide":14,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/p47yhsf2","slide":14,"name":"1 → 0..*","text":"1 → 0..*","textPreview":"1 → 0..*","textChars":8,"textLines":1,"bbox":[570,716,260,65]}
+{"kind":"textbox","id":"sh/o3yx8nyh","slide":14,"name":"ChatSession có thể tham chiếu notebook hoặc source. Asset là đối ","text":"ChatSession có thể tham chiếu notebook hoặc source. Asset là đối tượng lồng trong Source; không phải bảng độc lập.","textPreview":"ChatSession có thể tham chiếu notebook hoặc source. Asset là đối tượng lồng trong Source; không phải bảng độc lập.","textChars":114,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"textbox","id":"sh/32pwfixw","slide":14,"name":"Notebook","text":"Notebook","textPreview":"Notebook","textChars":8,"textLines":1,"bbox":[760,258,400,45]}
+{"kind":"shape","id":"sh/21gf6dgr","slide":14,"bbox":[750,303,420,1]}
+{"kind":"textbox","id":"sh/d8rylsfe","slide":14,"name":"name, description\nTổ chức chủ đề","text":"name, description\nTổ chức chủ đề","textPreview":"name, description | Tổ chức chủ đề","textChars":32,"textLines":2,"bbox":[762,312,396,97]}
+{"kind":"textbox","id":"sh/c7ixc7yt","slide":14,"name":"Source","text":"Source","textPreview":"Source","textChars":6,"textLines":1,"bbox":[120,528,460,45]}
+{"kind":"shape","id":"sh/b69gj2x8","slide":14,"bbox":[110,573,480,1]}
+{"kind":"textbox","id":"sh/q5gfaxgn","slide":14,"name":"asset, full_text, command\nQuản lý tài liệu","text":"asset, full_text, command\nQuản lý tài liệu","textPreview":"asset, full_text, command | Quản lý tài liệu","textChars":42,"textLines":2,"bbox":[122,582,456,112]}
+{"kind":"textbox","id":"sh/tcne98fu","slide":14,"name":"Note","text":"Note","textPreview":"Note","textChars":4,"textLines":1,"bbox":[760,528,400,45]}
+{"kind":"shape","id":"sh/sbex03y9","slide":14,"bbox":[750,573,420,1]}
+{"kind":"textbox","id":"sh/y5s3u5sv","slide":14,"name":"title, content\nLưu tri thức","text":"title, content\nLưu tri thức","textPreview":"title, content | Lưu tri thức","textChars":27,"textLines":2,"bbox":[762,582,396,112]}
+{"kind":"textbox","id":"sh/j614na9g","slide":14,"name":"ChatSession","text":"ChatSession","textPreview":"ChatSession","textChars":11,"textLines":1,"bbox":[1380,528,420,45]}
+{"kind":"shape","id":"sh/k7alwfa1","slide":14,"bbox":[1370,573,440,1]}
+{"kind":"textbox","id":"sh/lsjmpkrm","slide":14,"name":"title, model_override\nDuy trì phiên","text":"title, model_override\nDuy trì phiên","textPreview":"title, model_override | Duy trì phiên","textChars":35,"textLines":2,"bbox":[1382,582,416,112]}
+{"kind":"textbox","id":"sh/6ts3yps7","slide":14,"name":"SourceEmbedding","text":"SourceEmbedding","textPreview":"SourceEmbedding","textChars":15,"textLines":1,"bbox":[120,788,460,45]}
+{"kind":"shape","id":"sh/7ul4ru9s","slide":14,"bbox":[110,833,480,1]}
+{"kind":"textbox","id":"sh/8vul0zax","slide":14,"name":"content, embedding","text":"content, embedding","textPreview":"content, embedding","textChars":18,"textLines":1,"bbox":[122,842,456,47]}
+{"kind":"textbox","id":"sh/tw3mtkri","slide":14,"name":"SourceInsight","text":"SourceInsight","textPreview":"SourceInsight","textChars":13,"textLines":1,"bbox":[760,788,400,45]}
+{"kind":"shape","id":"sh/mx83mlsn","slide":14,"bbox":[750,833,420,1]}
+{"kind":"textbox","id":"sh/nyhkfq98","slide":14,"name":"insight_type, content","text":"insight_type, content","textPreview":"insight_type, content","textChars":21,"textLines":1,"bbox":[762,842,396,47]}
+{"kind":"notes","id":"nt/u1uwnv","slide":14,"text":"Nguồn: pdf/PhanTichHuongDoiTuongP1.pdf; notebooke/domain/notebook.py; migrations\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/tjixzd","slide":15,"title":"Trạng thái nguồn: quan sát từ tác vụ","textShapes":13}
+{"kind":"shape","id":"sh/rm1onuto","slide":15,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/gru50ja5","slide":15,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/epcny9sz","slide":15,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/fqloretk","slide":15,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/pg36xobm","slide":15,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/hkv6h87u","slide":15,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/kr2503q1","slide":15,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/cb6pw3yx","slide":15,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/xcf6p8fi","slide":15,"name":"Trạng thái nguồn: quan sát từ tác vụ","text":"Trạng thái nguồn: quan sát từ tác vụ","textPreview":"Trạng thái nguồn: quan sát từ tác vụ","textChars":36,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/a947utgr","slide":15,"name":"HƯỚNG ĐỐI TƯỢNG","text":"HƯỚNG ĐỐI TƯỢNG","textPreview":"HƯỚNG ĐỐI TƯỢNG","textChars":15,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/baxonyxc","slide":15,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/kz6p03y9","slide":15,"name":"15 / 20","text":"15 / 20","textPreview":"15 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"textbox","id":"sh/l0f6t8fe","slide":15,"name":"Được tạo","text":"Được tạo","textPreview":"Được tạo","textChars":8,"textLines":1,"bbox":[110,360,350,130]}
+{"kind":"textbox","id":"sh/yxo7ytg3","slide":15,"name":"Đang xử lý","text":"Đang xử lý","textPreview":"Đang xử lý","textChars":10,"textLines":1,"bbox":[760,360,390,130]}
+{"kind":"textbox","id":"sh/zyxoryxo","slide":15,"name":"Sẵn sàng","text":"Sẵn sàng","textPreview":"Sẵn sàng","textChars":8,"textLines":1,"bbox":[1460,360,350,130]}
+{"kind":"textbox","id":"sh/83qp4ny5","slide":15,"name":"Thất bại","text":"Thất bại","textPreview":"Thất bại","textChars":8,"textLines":1,"bbox":[760,730,390,130]}
+{"kind":"shape","id":"sh/94z6xsfq","slide":15,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/3al0j6l4","slide":15,"name":"Worker nhận command","text":"Worker nhận command","textPreview":"Worker nhận command","textChars":19,"textLines":1,"bbox":[460,315,300,65]}
+{"kind":"shape","id":"sh/29cja14j","slide":15,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/pc3ilg3a","slide":15,"name":"Lưu nội dung / chỉ mục","text":"Lưu nội dung / chỉ mục","textPreview":"Lưu nội dung / chỉ mục","textChars":22,"textLines":1,"bbox":[1150,315,310,65]}
+{"kind":"shape","id":"sh/4bu1cbmp","slide":15,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/v610f6l8","slide":15,"name":"Lỗi xử lý","text":"Lỗi xử lý","textPreview":"Lỗi xử lý","textChars":9,"textLines":1,"bbox":[950,600,270,65]}
+{"kind":"shape","id":"sh/u5sz614n","slide":15,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/h83ihg3y","slide":15,"name":"Thử lại","text":"Thử lại","textPreview":"Thử lại","textChars":7,"textLines":1,"bbox":[490,585,260,65]}
+{"kind":"textbox","id":"sh/g7u18bmd","slide":15,"name":"Đây là trạng thái nghiệp vụ suy ra từ Source và Command; không gi","text":"Đây là trạng thái nghiệp vụ suy ra từ Source và Command; không giả định có một trường source.status thống nhất.","textPreview":"Đây là trạng thái nghiệp vụ suy ra từ Source và Command; không giả định có một trường source.status thống nhất.","textChars":111,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/tjixzd","slide":15,"text":"Nguồn: pdf/PhanTichHuongDoiTuongP2.pdf; api/routers/sources.py; surreal-commands\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/wrwaca","slide":16,"title":"Từ lớp nghiệp vụ đến dữ liệu lưu trữ","textShapes":14}
+{"kind":"shape","id":"sh/fy187ipg","slide":16,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/sbq9w365","slide":16,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/q98rutoz","slide":16,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/rah83ypk","slide":16,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/58zq187e","slide":16,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/5sfixore","slide":16,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/8z2hwzal","slide":16,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/0361czih","slide":16,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/l4fi54z2","slide":16,"name":"Từ lớp nghiệp vụ đến dữ liệu lưu trữ","text":"Từ lớp nghiệp vụ đến dữ liệu lưu trữ","textPreview":"Từ lớp nghiệp vụ đến dữ liệu lưu trữ","textChars":36,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/y1ojap0b","slide":16,"name":"LƯU TRỮ","text":"LƯU TRỮ","textPreview":"LƯU TRỮ","textChars":7,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/z2x03uhw","slide":16,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/cz618fi5","slide":16,"name":"16 / 20","text":"16 / 20","textPreview":"16 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"shape","id":"sh/d0fi1kzq","slide":16,"bbox":[110,280,510,500]}
+{"kind":"textbox","id":"sh/qd4j6p0f","slide":16,"name":"01","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[140,305,450,80]}
+{"kind":"textbox","id":"sh/bex0zahk","slide":16,"name":"Bản ghi & quan hệ","text":"Bản ghi & quan hệ","textPreview":"Bản ghi & quan hệ","textChars":17,"textLines":1,"bbox":[140,395,450,110]}
+{"kind":"textbox","id":"sh/wvq1kjip","slide":16,"name":"Lớp → bảng / record\nThuộc tính → field\nĐối tượng → record ID\nM:n ","text":"Lớp → bảng / record\nThuộc tính → field\nĐối tượng → record ID\nM:n → graph relation","textPreview":"Lớp → bảng / record | Thuộc tính → field | Đối tượng → record ID | M:n → graph relation","textChars":81,"textLines":4,"bbox":[140,520,450,245]}
+{"kind":"shape","id":"sh/hwz2doza","slide":16,"bbox":[705,280,510,500]}
+{"kind":"textbox","id":"sh/rql4ji1c","slide":16,"name":"02","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[735,305,450,80]}
+{"kind":"textbox","id":"sh/6pc3adkr","slide":16,"name":"SurrealDB","text":"SurrealDB","textPreview":"SurrealDB","textChars":9,"textLines":1,"bbox":[735,395,450,110]}
+{"kind":"textbox","id":"sh/ts3mlsji","slide":16,"name":"Notebook, source, note, chat\nVector + tìm kiếm toàn văn\nModel, cr","text":"Notebook, source, note, chat\nVector + tìm kiếm toàn văn\nModel, credential, profile\nEpisode và command","textPreview":"Notebook, source, note, chat | Vector + tìm kiếm toàn văn | Model, credential, profile | Episode và command","textChars":101,"textLines":4,"bbox":[735,520,450,245]}
+{"kind":"shape","id":"sh/srulcn2x","slide":16,"bbox":[1300,280,510,500]}
+{"kind":"textbox","id":"sh/ful4ni18","slide":16,"name":"03","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1330,305,450,80]}
+{"kind":"textbox","id":"sh/etc3edkn","slide":16,"name":"DB cùng hệ thống tệp","text":"DB cùng hệ thống tệp","textPreview":"DB cùng hệ thống tệp","textChars":20,"textLines":1,"bbox":[1330,395,450,110]}
+{"kind":"textbox","id":"sh/1wnmpsje","slide":16,"name":"Tệp upload và nguồn gốc\nPodcast, video, ảnh tạm\nDB giữ đường dẫn ","text":"Tệp upload và nguồn gốc\nPodcast, video, ảnh tạm\nDB giữ đường dẫn / metadata\nSao lưu cả DB và tệp","textPreview":"Tệp upload và nguồn gốc | Podcast, video, ảnh tạm | DB giữ đường dẫn / metadata | Sao lưu cả DB và tệp","textChars":96,"textLines":4,"bbox":[1330,520,450,245]}
+{"kind":"textbox","id":"sh/gvulgn2t","slide":16,"name":"Object/array dùng cho dữ liệu lồng nhau. Credential mã hóa cần kh","text":"Object/array dùng cho dữ liệu lồng nhau. Credential mã hóa cần khóa hệ thống; không trình bày thông tin xác thực thật.","textPreview":"Object/array dùng cho dữ liệu lồng nhau. Credential mã hóa cần khóa hệ thống; không trình bày thông tin xác thực thật.","textChars":118,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/wrwaca","slide":16,"text":"Nguồn: pdf/ThietKeDuLieuLuuTru.pdf; migrations; notebooke/database\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/jkvic5","slide":17,"title":"ERD lõi & mở rộng AI / media","textShapes":21}
+{"kind":"shape","id":"sh/yxg76twv","slide":17,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/94rqlsvi","slide":17,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/n2p8jidc","slide":17,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/m1g7adwr","slide":17,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/wripgnet","slide":17,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/m5kfidgb","slide":17,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/by9gjyho","slide":17,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/v6l4vqt4","slide":17,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/u5c325sj","slide":17,"name":"ERD lõi & mở rộng AI / media","text":"ERD lõi & mở rộng AI / media","textPreview":"ERD lõi & mở rộng AI / media","textChars":28,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/h8nmx0bu","slide":17,"name":"LƯU TRỮ","text":"LƯU TRỮ","textPreview":"LƯU TRỮ","textChars":7,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/g7ul4vap","slide":17,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/72l4rqts","slide":17,"name":"17 / 20","text":"17 / 20","textPreview":"17 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"shape","id":"sh/61c3ylc7","slide":17,"name":"notebook\nid · name · description","bbox":[735,255,450,125]}
+{"kind":"shape","id":"sh/t43mt0by","slide":17,"name":"source\nid · asset · full_text · command","bbox":[110,485,480,135]}
+{"kind":"shape","id":"sh/83ul0vad","slide":17,"name":"note\nid · title · content","bbox":[735,485,450,135]}
+{"kind":"shape","id":"sh/ry543atc","slide":17,"name":"chat_session\nid · title · model_override","bbox":[1370,485,450,135]}
+{"kind":"shape","id":"sh/qxwnapsr","slide":17,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/o3q1o7a9","slide":17,"name":"reference (m:n)","text":"reference (m:n)","textPreview":"reference (m:n)","textChars":15,"textLines":1,"bbox":[285,400,360,65]}
+{"kind":"shape","id":"sh/94zixcru","slide":17,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/mhojmhs3","slide":17,"name":"artifact (m:n)","text":"artifact (m:n)","textPreview":"artifact (m:n)","textChars":14,"textLines":1,"bbox":[770,405,350,65]}
+{"kind":"shape","id":"sh/nih0v29o","slide":17,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/w7q1srq5","slide":17,"name":"refers_to","text":"refers_to","textPreview":"refers_to","textChars":9,"textLines":1,"bbox":[1260,395,300,65]}
+{"kind":"shape","id":"sh/x8zi1wrq","slide":17,"name":"source_embedding / source_insight\nsource_id · content · vector / ","bbox":[110,750,750,115]}
+{"kind":"shape","id":"sh/a58jqh8z","slide":17,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/b6h0zm9k","slide":17,"name":"source_id · 1:n","text":"source_id · 1:n","textPreview":"source_id · 1:n","textChars":15,"textLines":1,"bbox":[240,658,350,65]}
+{"kind":"shape","id":"sh/kba1wrqh","slide":17,"name":"Mở rộng: model → credential\ntransformation → model\nepisode / vide","bbox":[1040,725,760,145]}
+{"kind":"textbox","id":"sh/lcj25wrm","slide":17,"name":"Storyboard là cấu trúc lồng trong video_episode, không có bảng VI","text":"Storyboard là cấu trúc lồng trong video_episode, không có bảng VIDEO_SCENE riêng. Xóa source kéo theo embedding / insight.","textPreview":"Storyboard là cấu trúc lồng trong video_episode, không có bảng VIDEO_SCENE riêng. Xóa source kéo theo embedding / insight.","textChars":122,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"textbox","id":"sh/5kb2lwv2","slide":17,"name":"notebook","text":"notebook","textPreview":"notebook","textChars":8,"textLines":1,"bbox":[745,263,430,45]}
+{"kind":"shape","id":"sh/4j21creh","slide":17,"bbox":[735,308,450,1]}
+{"kind":"textbox","id":"sh/ji9kjmdw","slide":17,"name":"id · name · description","text":"id · name · description","textPreview":"id · name · description","textChars":23,"textLines":1,"bbox":[747,317,426,62]}
+{"kind":"textbox","id":"sh/ih0jahwb","slide":17,"name":"source","text":"source","textPreview":"source","textChars":6,"textLines":1,"bbox":[120,493,460,45]}
+{"kind":"shape","id":"sh/hgrihcvq","slide":17,"bbox":[110,538,480,1]}
+{"kind":"textbox","id":"sh/wfi187el","slide":17,"name":"id · asset · full_text · command","text":"id · asset · full_text · command","textPreview":"id · asset · full_text · command","textChars":32,"textLines":1,"bbox":[122,547,456,72]}
+{"kind":"textbox","id":"sh/ve90f2d0","slide":17,"name":"note","text":"note","textPreview":"note","textChars":4,"textLines":1,"bbox":[745,493,430,45]}
+{"kind":"shape","id":"sh/ud0j6hwf","slide":17,"bbox":[735,538,450,1]}
+{"kind":"textbox","id":"sh/1cv2tgva","slide":17,"name":"id · title · content","text":"id · title · content","textPreview":"id · title · content","textChars":20,"textLines":1,"bbox":[747,547,426,72]}
+{"kind":"textbox","id":"sh/gbm1kbup","slide":17,"name":"chat_session","text":"chat_session","textPreview":"chat_session","textChars":12,"textLines":1,"bbox":[1380,493,430,45]}
+{"kind":"shape","id":"sh/ylc7y98v","slide":17,"bbox":[1370,538,450,1]}
+{"kind":"textbox","id":"sh/z6l8repg","slide":17,"name":"id · title · model_override","text":"id · title · model_override","textPreview":"id · title · model_override","textChars":27,"textLines":1,"bbox":[1382,547,426,72]}
+{"kind":"textbox","id":"sh/07ep0jq1","slide":17,"name":"source_embedding / source_insight","text":"source_embedding / source_insight","textPreview":"source_embedding / source_insight","textChars":33,"textLines":1,"bbox":[120,758,730,45]}
+{"kind":"shape","id":"sh/l8nqto7m","slide":17,"bbox":[110,803,750,1]}
+{"kind":"textbox","id":"sh/qhc7u98z","slide":17,"name":"source_id · content · vector / insight","text":"source_id · content · vector / insight","textPreview":"source_id · content · vector / insight","textChars":38,"textLines":1,"bbox":[122,812,726,52]}
+{"kind":"textbox","id":"sh/bil8nupk","slide":17,"name":"Mở rộng: model → credential","text":"Mở rộng: model → credential","textPreview":"Mở rộng: model → credential","textChars":27,"textLines":1,"bbox":[1050,733,740,45]}
+{"kind":"shape","id":"sh/cjupwzqp","slide":17,"bbox":[1040,778,760,1]}
+{"kind":"textbox","id":"sh/dk3qp47a","slide":17,"name":"transformation → model\nepisode / video_episode → notebook, comman","text":"transformation → model\nepisode / video_episode → notebook, command","textPreview":"transformation → model | episode / video_episode → notebook, command","textChars":66,"textLines":2,"bbox":[1052,787,736,82]}
+{"kind":"notes","id":"nt/jkvic5","slide":17,"text":"Nguồn: pdf/ThietKeDuLieuLuuTru.pdf; migrations; notebooke/domain\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/osqguy","slide":18,"title":"Thiết kế giao diện theo nhiệm vụ","textShapes":14}
+{"kind":"shape","id":"sh/svm5cn29","slide":18,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/j6dozi1s","slide":18,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/5sv61sji","slide":18,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/k7m58n2d","slide":18,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/a1kn2tkv","slide":18,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/s3a143a5","slide":18,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/pw325sby","slide":18,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/xcjips32","slide":18,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/cbq1gn2h","slide":18,"name":"Thiết kế giao diện theo nhiệm vụ","text":"Thiết kế giao diện theo nhiệm vụ","textPreview":"Thiết kế giao diện theo nhiệm vụ","textChars":32,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/bah0nilw","slide":18,"name":"GIAO DIỆN","text":"GIAO DIỆN","textPreview":"GIAO DIỆN","textChars":9,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/a98jexkb","slide":18,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/pozils3q","slide":18,"name":"18 / 20","text":"18 / 20","textPreview":"18 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"shape","id":"sh/onq1cn25","slide":18,"bbox":[110,280,510,500]}
+{"kind":"textbox","id":"sh/nmh0jil0","slide":18,"name":"ĐIỀU HƯỚNG","text":"ĐIỀU HƯỚNG","textPreview":"ĐIỀU HƯỚNG","textChars":10,"textLines":1,"bbox":[140,305,450,80]}
+{"kind":"textbox","id":"sh/2l8zadkf","slide":18,"name":"Giữ ngữ cảnh nghiên cứu","text":"Giữ ngữ cảnh nghiên cứu","textPreview":"Giữ ngữ cảnh nghiên cứu","textChars":23,"textLines":1,"bbox":[140,395,450,110]}
+{"kind":"textbox","id":"sh/1kfih83u","slide":18,"name":"Notebook làm điểm vào\nNguồn, chat và note liền mạch\nSearch / Ask ","text":"Notebook làm điểm vào\nNguồn, chat và note liền mạch\nSearch / Ask dễ nhận diện\nMedia và Settings tách rõ","textPreview":"Notebook làm điểm vào | Nguồn, chat và note liền mạch | Search / Ask dễ nhận diện | Media và Settings tách rõ","textChars":103,"textLines":4,"bbox":[140,520,450,245]}
+{"kind":"shape","id":"sh/0j6h8329","slide":18,"bbox":[705,280,510,500]}
+{"kind":"textbox","id":"sh/qp4fi907","slide":18,"name":"TƯƠNG TÁC","text":"TƯƠNG TÁC","textPreview":"TƯƠNG TÁC","textChars":9,"textLines":1,"bbox":[735,305,450,80]}
+{"kind":"textbox","id":"sh/rqdgre1s","slide":18,"name":"Giảm thao tác thừa","text":"Giảm thao tác thừa","textPreview":"Giảm thao tác thừa","textChars":18,"textLines":1,"bbox":[735,395,450,110]}
+{"kind":"textbox","id":"sh/srmxkjix","slide":18,"name":"Chọn nguồn / model phù hợp\nDùng mặc định hợp lý\nTìm kiếm → kết qu","text":"Chọn nguồn / model phù hợp\nDùng mặc định hợp lý\nTìm kiếm → kết quả → chi tiết\nKhông yêu cầu nhập lặp","textPreview":"Chọn nguồn / model phù hợp | Dùng mặc định hợp lý | Tìm kiếm → kết quả → chi tiết | Không yêu cầu nhập lặp","textChars":100,"textLines":4,"bbox":[735,520,450,245]}
+{"kind":"shape","id":"sh/dsvytoji","slide":18,"bbox":[1300,280,510,500]}
+{"kind":"textbox","id":"sh/il4fe90v","slide":18,"name":"PHẢN HỒI","text":"PHẢN HỒI","textPreview":"PHẢN HỒI","textChars":8,"textLines":1,"bbox":[1330,305,450,80]}
+{"kind":"textbox","id":"sh/jmdgnu1g","slide":18,"name":"Người dùng biết đang ở đâu","text":"Người dùng biết đang ở đâu","textPreview":"Người dùng biết đang ở đâu","textChars":26,"textLines":1,"bbox":[1330,395,450,110]}
+{"kind":"textbox","id":"sh/4nmxgzi1","slide":18,"name":"Tải / xử lý / sẵn sàng / lỗi\nThông báo lỗi có hướng xử lý\nThử lại","text":"Tải / xử lý / sẵn sàng / lỗi\nThông báo lỗi có hướng xử lý\nThử lại tác vụ thất bại\nXác nhận thao tác xóa","textPreview":"Tải / xử lý / sẵn sàng / lỗi | Thông báo lỗi có hướng xử lý | Thử lại tác vụ thất bại | Xác nhận thao tác xóa","textChars":103,"textLines":4,"bbox":[1330,520,450,245]}
+{"kind":"textbox","id":"sh/5ovyp4jm","slide":18,"name":"Các nguyên tắc là tiêu chí đánh giá UI dựa trên học phần; cần thử","text":"Các nguyên tắc là tiêu chí đánh giá UI dựa trên học phần; cần thử nghiệm nhiệm vụ với người dùng để xác nhận.","textPreview":"Các nguyên tắc là tiêu chí đánh giá UI dựa trên học phần; cần thử nghiệm nhiệm vụ với người dùng để xác nhận.","textChars":109,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/osqguy","slide":18,"text":"Nguồn: pdf/ThietKeGiaoDien.pdf; frontend/src; docs/assets\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/jal9zj","slide":19,"title":"Giao diện thực tế: workspace & hỏi đáp","textShapes":8}
+{"kind":"shape","id":"sh/uh03ex0f","slide":19,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/9gr2lsju","slide":19,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/7e9kj214","slide":19,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/md03ax0j","slide":19,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/sb2lorit","slide":19,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/at4zml8n","slide":19,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/7mx0na9g","slide":19,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/36pwf2ps","slide":19,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/25gv6xo7","slide":19,"name":"Giao diện thực tế: workspace & hỏi đáp","text":"Giao diện thực tế: workspace & hỏi đáp","textPreview":"Giao diện thực tế: workspace & hỏi đáp","textChars":38,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/psrehs7y","slide":19,"name":"GIAO DIỆN","text":"GIAO DIỆN","textPreview":"GIAO DIỆN","textChars":9,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/4rid8n6d","slide":19,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/ru9wj2po","slide":19,"name":"19 / 20","text":"19 / 20","textPreview":"19 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"textbox","id":"sh/cvixc769","slide":19,"name":"WORKSPACE","text":"WORKSPACE","textPreview":"WORKSPACE","textChars":9,"textLines":1,"bbox":[110,810,800,50]}
+{"kind":"textbox","id":"sh/zytwnmp0","slide":19,"name":"Tài liệu và ghi chú cùng ngữ cảnh notebook.","text":"Tài liệu và ghi chú cùng ngữ cảnh notebook.","textPreview":"Tài liệu và ghi chú cùng ngữ cảnh notebook.","textChars":43,"textLines":1,"bbox":[110,865,835,80]}
+{"kind":"textbox","id":"sh/ex0fehof","slide":19,"name":"ASK / SEARCH","text":"ASK / SEARCH","textPreview":"ASK / SEARCH","textChars":12,"textLines":1,"bbox":[1010,810,800,50]}
+{"kind":"textbox","id":"sh/w32d4rmt","slide":19,"name":"Câu hỏi, kết quả và bằng chứng trong một luồng.","text":"Câu hỏi, kết quả và bằng chứng trong một luồng.","textPreview":"Câu hỏi, kết quả và bằng chứng trong một luồng.","textChars":47,"textLines":1,"bbox":[1010,865,805,80]}
+{"kind":"image","id":"im/dgrqx47y","slide":19,"name":"","alt":"notebooke-workspace.png","bbox":[110,280,835,510]}
+{"kind":"image","id":"im/qd07mpo7","slide":19,"name":"","alt":"notebooke-ask-search.png","bbox":[1010,280,805,510]}
+{"kind":"notes","id":"nt/jal9zj","slide":19,"text":"Nguồn: docs/assets/notebooke-workspace.png; docs/assets/notebooke-ask-search.png; pdf/ThietKeGiaoDien.pdf\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}
+{"kind":"slide","id":"sl/p4ehhp","slide":20,"title":"Truy vết thiết kế & kết luận","textShapes":24}
+{"kind":"shape","id":"sh/nipcbm5g","slide":20,"name":"Freeform 3","bbox":[1399.42,108,412.58,96]}
+{"kind":"shape","id":"sh/0fytg765","slide":20,"name":"TextBox 4","bbox":[1415.12,98.84,381.17,105.16]}
+{"kind":"shape","id":"sh/ydgbehoz","slide":20,"name":"Freeform 6","bbox":[-113.2,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/zepcnm5k","slide":20,"name":"TextBox 7","bbox":[-81.36,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/dc7ulcne","slide":20,"name":"Freeform 9","bbox":[1693.6,982.72,226.4,194.56]}
+{"kind":"shape","id":"sh/5cnat4re","slide":20,"name":"TextBox 10","bbox":[1725.44,964.15,162.72,213.13]}
+{"kind":"shape","id":"sh/8ju9cfal","slide":20,"name":"Freeform 19","bbox":[1034.21,-185.1,306.06,263.02]}
+{"kind":"shape","id":"sh/0zi1ojmt","slide":20,"name":"TextBox 20","bbox":[1077.25,-210.2,219.98,288.13]}
+{"kind":"textbox","id":"sh/l0riho3e","slide":20,"name":"Truy vết yêu cầu → thiết kế → kiểm chứng","text":"Truy vết thiết kế & kết luận","textPreview":"Truy vết thiết kế & kết luận","textChars":28,"textLines":1,"bbox":[108,100,1260,100]}
+{"kind":"textbox","id":"sh/yx0jm94n","slide":20,"name":"KẾT LUẬN","text":"KẾT LUẬN","textPreview":"KẾT LUẬN","textChars":8,"textLines":1,"bbox":[1415,130,380,55]}
+{"kind":"textbox","id":"sh/zy90fel8","slide":20,"name":"NotebookE / Phân tích & thiết kế","text":"NotebookE / Phân tích & thiết kế","textPreview":"NotebookE / Phân tích & thiết kế","textChars":32,"textLines":1,"bbox":[120,965,1300,40]}
+{"kind":"textbox","id":"sh/cby1kjmh","slide":20,"name":"20 / 20","text":"20 / 20","textPreview":"20 / 20","textChars":7,"textLines":1,"bbox":[1550,965,220,40]}
+{"kind":"shape","id":"sh/dcrid432","slide":20,"bbox":[110,270,555,78]}
+{"kind":"textbox","id":"sh/q9gji94r","slide":20,"name":"YÊU CẦU","text":"YÊU CẦU","textPreview":"YÊU CẦU","textChars":7,"textLines":1,"bbox":[128,288,520,52]}
+{"kind":"shape","id":"sh/bap0belw","slide":20,"bbox":[675,270,555,78]}
+{"kind":"textbox","id":"sh/w721w3m1","slide":20,"name":"MÔ HÌNH / LƯU TRỮ","text":"MÔ HÌNH / LƯU TRỮ","textPreview":"MÔ HÌNH / LƯU TRỮ","textChars":17,"textLines":1,"bbox":[693,288,520,52]}
+{"kind":"shape","id":"sh/h8b2p836","slide":20,"bbox":[1240,270,555,78]}
+{"kind":"textbox","id":"sh/rmd4f25o","slide":20,"name":"GIAO DIỆN / KIỂM CHỨNG","text":"GIAO DIỆN / KIỂM CHỨNG","textPreview":"GIAO DIỆN / KIỂM CHỨNG","textChars":22,"textLines":1,"bbox":[1258,288,520,52]}
+{"kind":"shape","id":"sh/6143mxo3","slide":20,"bbox":[110,357,555,78]}
+{"kind":"textbox","id":"sh/tofmhcne","slide":20,"name":"FR02 · Xử lý nguồn","text":"FR02 · Xử lý nguồn","textPreview":"FR02 · Xử lý nguồn","textChars":18,"textLines":1,"bbox":[128,375,520,52]}
+{"kind":"shape","id":"sh/sn6lo769","slide":20,"bbox":[675,357,555,78]}
+{"kind":"textbox","id":"sh/fqx4jm5k","slide":20,"name":"DFD 1.x · Activity · Source","text":"DFD 1.x · Activity · Source","textPreview":"DFD 1.x · Activity · Source","textChars":27,"textLines":1,"bbox":[693,375,520,52]}
+{"kind":"shape","id":"sh/epo3qhoz","slide":20,"bbox":[1240,357,555,78]}
+{"kind":"textbox","id":"sh/1sfmlcnq","slide":20,"name":"Nguồn / trạng thái / thử lại","text":"Nguồn / trạng thái / thử lại","textPreview":"Nguồn / trạng thái / thử lại","textChars":28,"textLines":1,"bbox":[1258,375,520,52]}
+{"kind":"shape","id":"sh/gr6lsr65","slide":20,"bbox":[110,444,555,78]}
+{"kind":"textbox","id":"sh/vutk7i5g","slide":20,"name":"FR04 · Hỏi đáp","text":"FR04 · Hỏi đáp","textPreview":"FR04 · Hỏi đáp","textChars":14,"textLines":1,"bbox":[128,462,520,52]}
+{"kind":"shape","id":"sh/utk3edov","slide":20,"bbox":[675,444,555,78]}
+{"kind":"textbox","id":"sh/mdo3udwr","slide":20,"name":"UC04 · DFD 2.x · Sequence","text":"UC04 · DFD 2.x · Sequence","textPreview":"UC04 · DFD 2.x · Sequence","textChars":25,"textLines":1,"bbox":[693,462,520,52]}
+{"kind":"shape","id":"sh/nex43idc","slide":20,"bbox":[1240,444,555,78]}
+{"kind":"textbox","id":"sh/of6lwnex","slide":20,"name":"Ask / nguồn dẫn / chất lượng","text":"Ask / nguồn dẫn / chất lượng","textPreview":"Ask / nguồn dẫn / chất lượng","textChars":28,"textLines":1,"bbox":[1258,462,520,52]}
+{"kind":"shape","id":"sh/9gfm5sv2","slide":20,"bbox":[110,531,555,78]}
+{"kind":"textbox","id":"sh/ah83yxwn","slide":20,"name":"FR05 · Ghi chú","text":"FR05 · Ghi chú","textPreview":"FR05 · Ghi chú","textChars":14,"textLines":1,"bbox":[128,549,520,52]}
+{"kind":"shape","id":"sh/v2h472d8","slide":20,"bbox":[675,531,555,78]}
+{"kind":"textbox","id":"sh/w3q507et","slide":20,"name":"Note · artifact · notebook","text":"Note · artifact · notebook","textPreview":"Note · artifact · notebook","textChars":26,"textLines":1,"bbox":[693,549,520,52]}
+{"kind":"shape","id":"sh/x4zm9cve","slide":20,"bbox":[1240,531,555,78]}
+{"kind":"textbox","id":"sh/i58n2xwz","slide":20,"name":"Workspace / lưu & tìm lại","text":"Workspace / lưu & tìm lại","textPreview":"Workspace / lưu & tìm lại","textChars":25,"textLines":1,"bbox":[1258,549,520,52]}
+{"kind":"shape","id":"sh/j6h4b2dk","slide":20,"bbox":[110,618,555,78]}
+{"kind":"textbox","id":"sh/t0361wfm","slide":20,"name":"FR06 · Media","text":"FR06 · Media","textPreview":"FR06 · Media","textChars":12,"textLines":1,"bbox":[128,636,520,52]}
+{"kind":"shape","id":"sh/szapsby1","slide":20,"bbox":[675,618,555,78]}
+{"kind":"textbox","id":"sh/7y1oz6xg","slide":20,"name":"Episode · command · tệp","text":"Episode · command · tệp","textPreview":"Episode · command · tệp","textChars":23,"textLines":1,"bbox":[693,636,520,52]}
+{"kind":"shape","id":"sh/6xs7q1gv","slide":20,"bbox":[1240,618,555,78]}
+{"kind":"textbox","id":"sh/h4365gfi","slide":20,"name":"Podcast / video / lỗi tác vụ","text":"Podcast / video / lỗi tác vụ","textPreview":"Podcast / video / lỗi tác vụ","textChars":28,"textLines":1,"bbox":[1258,636,520,52]}
+{"kind":"shape","id":"sh/g3upwbyx","slide":20,"bbox":[110,705,555,78]}
+{"kind":"textbox","id":"sh/f2lo36xs","slide":20,"name":"FR07 · Cấu hình AI","text":"FR07 · Cấu hình AI","textPreview":"FR07 · Cấu hình AI","textChars":18,"textLines":1,"bbox":[128,723,520,52]}
+{"kind":"shape","id":"sh/u1c7u1g7","slide":20,"bbox":[675,705,555,78]}
+{"kind":"textbox","id":"sh/psnq90fu","slide":20,"name":"Model · Credential","text":"Model · Credential","textPreview":"Model · Credential","textChars":18,"textLines":1,"bbox":[693,723,520,52]}
+{"kind":"shape","id":"sh/47ep0vy9","slide":20,"bbox":[1240,705,555,78]}
+{"kind":"textbox","id":"sh/onmhsjqh","slide":20,"name":"Settings / mô hình hợp lệ","text":"Settings / mô hình hợp lệ","textPreview":"Settings / mô hình hợp lệ","textChars":25,"textLines":1,"bbox":[1258,723,520,52]}
+{"kind":"textbox","id":"sh/9ovilor2","slide":20,"name":"Tiếp theo: xác nhận nhu cầu • đo chất lượng dẫn nguồn • thử phục ","text":"Tiếp theo: xác nhận nhu cầu • đo chất lượng dẫn nguồn • thử phục hồi worker • kiểm tra sao lưu DB + media","textPreview":"Tiếp theo: xác nhận nhu cầu • đo chất lượng dẫn nguồn • thử phục hồi worker • kiểm tra sao lưu DB + media","textChars":105,"textLines":1,"bbox":[110,835,1700,100]}
+{"kind":"textbox","id":"sh/ml4zqtsr","slide":20,"name":"Cơ sở: 9 tài liệu học phần và mã nguồn NotebookE. Phân biệt chức ","text":"Cơ sở: 9 tài liệu học phần và mã nguồn NotebookE. Phân biệt chức năng hiện có, mô hình phân tích và tiêu chí đề xuất.","textPreview":"Cơ sở: 9 tài liệu học phần và mã nguồn NotebookE. Phân biệt chức năng hiện có, mô hình phân tích và tiêu chí đề xuất.","textChars":117,"textLines":1,"bbox":[115,913,1680,70]}
+{"kind":"notes","id":"nt/p4ehhp","slide":20,"text":"Nguồn: pdf/*.pdf; VISION.md; api/routers; notebooke/domain; frontend/src\nMẫu Canva EAG55MKxPGw. Nội dung được rút gọn từ tài liệu học phần và mã nguồn NotebookE. Nhu cầu là suy luận từ dự án, chưa phải kết quả phỏng vấn."}

@@ -46,7 +46,7 @@ dependencies = [
     "podcast-creator>=0.12.0,<1",
     "surreal-commands>=1.3.1,<2",
     "pixelle-video @ git+https://github.com/AIDC-AI/Pixelle-Video.git",
-    "edge-tts>=7.2.8",
+    "edge-tts>=7.3.1",
     "numpy>=2.4.1",
     "pycountry>=26.2.16",
     "babel>=2.18.0",
@@ -110,5 +110,5 @@ ignore = [
 override-dependencies = [
     "pillow>=12.2.0",
     "moviepy>=2.2.1",
-    "edge-tts>=7.2.8",
+    "edge-tts>=7.3.1",
 ]

@@ -1,0 +1,6896 @@
+[
+  {
+    "file": "DFD.pdf",
+    "pages": 42,
+    "title": "An Introduction to XQuery – The W3C Query Language",
+    "author": "Mike Champion",
+    "text_file": "DFD\\text.txt",
+    "text_chars": 14930,
+    "images": [
+      {
+        "page": 1,
+        "file": "DFD\\images\\p001-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 2,
+        "file": "DFD\\images\\p002-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 3,
+        "file": "DFD\\images\\p003-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 4,
+        "file": "DFD\\images\\p004-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 4,
+        "file": "DFD\\images\\p004-i02.png",
+        "bytes": 32322,
+        "source_name": "Image37.png"
+      },
+      {
+        "page": 5,
+        "file": "DFD\\images\\p005-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 6,
+        "file": "DFD\\images\\p006-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 7,
+        "file": "DFD\\images\\p007-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 8,
+        "file": "DFD\\images\\p008-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 9,
+        "file": "DFD\\images\\p009-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 10,
+        "file": "DFD\\images\\p010-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 11,
+        "file": "DFD\\images\\p011-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 12,
+        "file": "DFD\\images\\p012-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 12,
+        "file": "DFD\\images\\p012-i02.png",
+        "bytes": 14701,
+        "source_name": "Image66.png"
+      },
+      {
+        "page": 13,
+        "file": "DFD\\images\\p013-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 14,
+        "file": "DFD\\images\\p014-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 14,
+        "file": "DFD\\images\\p014-i02.png",
+        "bytes": 21293,
+        "source_name": "Image72.png"
+      },
+      {
+        "page": 15,
+        "file": "DFD\\images\\p015-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 15,
+        "file": "DFD\\images\\p015-i02.png",
+        "bytes": 21293,
+        "source_name": "Image72.png"
+      },
+      {
+        "page": 16,
+        "file": "DFD\\images\\p016-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 16,
+        "file": "DFD\\images\\p016-i02.png",
+        "bytes": 21293,
+        "source_name": "Image72.png"
+      },
+      {
+        "page": 17,
+        "file": "DFD\\images\\p017-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 18,
+        "file": "DFD\\images\\p018-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 19,
+        "file": "DFD\\images\\p019-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 20,
+        "file": "DFD\\images\\p020-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 21,
+        "file": "DFD\\images\\p021-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 22,
+        "file": "DFD\\images\\p022-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 23,
+        "file": "DFD\\images\\p023-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 23,
+        "file": "DFD\\images\\p023-i02.png",
+        "bytes": 9852,
+        "source_name": "Image91.png"
+      },
+      {
+        "page": 24,
+        "file": "DFD\\images\\p024-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 25,
+        "file": "DFD\\images\\p025-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 26,
+        "file": "DFD\\images\\p026-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 27,
+        "file": "DFD\\images\\p027-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 28,
+        "file": "DFD\\images\\p028-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 29,
+        "file": "DFD\\images\\p029-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 30,
+        "file": "DFD\\images\\p030-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 31,
+        "file": "DFD\\images\\p031-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 31,
+        "file": "DFD\\images\\p031-i02.png",
+        "bytes": 4958,
+        "source_name": "Image109.png"
+      },
+      {
+        "page": 32,
+        "file": "DFD\\images\\p032-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 33,
+        "file": "DFD\\images\\p033-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 34,
+        "file": "DFD\\images\\p034-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 35,
+        "file": "DFD\\images\\p035-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 36,
+        "file": "DFD\\images\\p036-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 37,
+        "file": "DFD\\images\\p037-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 38,
+        "file": "DFD\\images\\p038-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 38,
+        "file": "DFD\\images\\p038-i02.png",
+        "bytes": 7228,
+        "source_name": "Image125.png"
+      },
+      {
+        "page": 39,
+        "file": "DFD\\images\\p039-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 40,
+        "file": "DFD\\images\\p040-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 41,
+        "file": "DFD\\images\\p041-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 42,
+        "file": "DFD\\images\\p042-i01.jpg",
+        "bytes": 9810,
+        "source_name": "Image6.jpg"
+      }
+    ]
+  },
+  {
+    "file": "MoHinhHoaYeuCau.pdf",
+    "pages": 61,
+    "title": "Slide 1",
+    "author": "Tran Minh Triet",
+    "text_file": "MoHinhHoaYeuCau\\text.txt",
+    "text_chars": 29206,
+    "images": [
+      {
+        "page": 1,
+        "file": "MoHinhHoaYeuCau\\images\\p001-i01.jpg",
+        "bytes": 20472,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 1,
+        "file": "MoHinhHoaYeuCau\\images\\p001-i02.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 1,
+        "file": "MoHinhHoaYeuCau\\images\\p001-i03.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 1,
+        "file": "MoHinhHoaYeuCau\\images\\p001-i04.png",
+        "bytes": 51382,
+        "source_name": "Image11.png"
+      },
+      {
+        "page": 2,
+        "file": "MoHinhHoaYeuCau\\images\\p002-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 2,
+        "file": "MoHinhHoaYeuCau\\images\\p002-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 3,
+        "file": "MoHinhHoaYeuCau\\images\\p003-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 3,
+        "file": "MoHinhHoaYeuCau\\images\\p003-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 4,
+        "file": "MoHinhHoaYeuCau\\images\\p004-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 4,
+        "file": "MoHinhHoaYeuCau\\images\\p004-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 5,
+        "file": "MoHinhHoaYeuCau\\images\\p005-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 5,
+        "file": "MoHinhHoaYeuCau\\images\\p005-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 5,
+        "file": "MoHinhHoaYeuCau\\images\\p005-i03.jpg",
+        "bytes": 44618,
+        "source_name": "Image52.jpg"
+      },
+      {
+        "page": 6,
+        "file": "MoHinhHoaYeuCau\\images\\p006-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 6,
+        "file": "MoHinhHoaYeuCau\\images\\p006-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 6,
+        "file": "MoHinhHoaYeuCau\\images\\p006-i03.png",
+        "bytes": 7751,
+        "source_name": "Image66.png"
+      },
+      {
+        "page": 6,
+        "file": "MoHinhHoaYeuCau\\images\\p006-i04.jp2",
+        "bytes": 8122,
+        "source_name": "Image68.jp2"
+      },
+      {
+        "page": 6,
+        "file": "MoHinhHoaYeuCau\\images\\p006-i05.jp2",
+        "bytes": 111703,
+        "source_name": "Image70.jp2"
+      },
+      {
+        "page": 6,
+        "file": "MoHinhHoaYeuCau\\images\\p006-i06.png",
+        "bytes": 10013,
+        "source_name": "Image72.png"
+      },
+      {
+        "page": 6,
+        "file": "MoHinhHoaYeuCau\\images\\p006-i07.png",
+        "bytes": 6952,
+        "source_name": "Image74.png"
+      },
+      {
+        "page": 6,
+        "file": "MoHinhHoaYeuCau\\images\\p006-i08.jp2",
+        "bytes": 40562,
+        "source_name": "Image76.jp2"
+      },
+      {
+        "page": 6,
+        "file": "MoHinhHoaYeuCau\\images\\p006-i09.png",
+        "bytes": 10726,
+        "source_name": "Image78.png"
+      },
+      {
+        "page": 6,
+        "file": "MoHinhHoaYeuCau\\images\\p006-i10.png",
+        "bytes": 10632,
+        "source_name": "Image80.png"
+      },
+      {
+        "page": 6,
+        "file": "MoHinhHoaYeuCau\\images\\p006-i11.png",
+        "bytes": 13820,
+        "source_name": "Image82.png"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau\\images\\p007-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau\\images\\p007-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau\\images\\p007-i03.png",
+        "bytes": 7751,
+        "source_name": "Image66.png"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau\\images\\p007-i04.jp2",
+        "bytes": 8122,
+        "source_name": "Image68.jp2"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau\\images\\p007-i05.jp2",
+        "bytes": 111703,
+        "source_name": "Image70.jp2"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau\\images\\p007-i06.png",
+        "bytes": 10013,
+        "source_name": "Image72.png"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau\\images\\p007-i07.png",
+        "bytes": 6952,
+        "source_name": "Image74.png"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau\\images\\p007-i08.jp2",
+        "bytes": 40562,
+        "source_name": "Image76.jp2"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau\\images\\p007-i09.png",
+        "bytes": 10726,
+        "source_name": "Image78.png"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau\\images\\p007-i10.png",
+        "bytes": 10632,
+        "source_name": "Image80.png"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau\\images\\p007-i11.png",
+        "bytes": 13820,
+        "source_name": "Image82.png"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau\\images\\p007-i12.png",
+        "bytes": 8880,
+        "source_name": "Image90.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i03.png",
+        "bytes": 1433,
+        "source_name": "Image105.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i04.png",
+        "bytes": 183,
+        "source_name": "Image107.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i05.png",
+        "bytes": 192,
+        "source_name": "Image113.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i06.png",
+        "bytes": 220,
+        "source_name": "Image115.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i07.png",
+        "bytes": 269,
+        "source_name": "Image119.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i08.png",
+        "bytes": 214,
+        "source_name": "Image123.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i09.png",
+        "bytes": 353,
+        "source_name": "Image127.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i10.png",
+        "bytes": 307,
+        "source_name": "Image134.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i11.png",
+        "bytes": 261,
+        "source_name": "Image144.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i12.png",
+        "bytes": 206,
+        "source_name": "Image146.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i13.png",
+        "bytes": 655,
+        "source_name": "Image148.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i14.png",
+        "bytes": 482,
+        "source_name": "Image152.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i15.png",
+        "bytes": 428,
+        "source_name": "Image154.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau\\images\\p008-i16.png",
+        "bytes": 207,
+        "source_name": "Image156.png"
+      },
+      {
+        "page": 9,
+        "file": "MoHinhHoaYeuCau\\images\\p009-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 9,
+        "file": "MoHinhHoaYeuCau\\images\\p009-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 9,
+        "file": "MoHinhHoaYeuCau\\images\\p009-i03.png",
+        "bytes": 15523,
+        "source_name": "Image182.png"
+      },
+      {
+        "page": 10,
+        "file": "MoHinhHoaYeuCau\\images\\p010-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 10,
+        "file": "MoHinhHoaYeuCau\\images\\p010-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 11,
+        "file": "MoHinhHoaYeuCau\\images\\p011-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 11,
+        "file": "MoHinhHoaYeuCau\\images\\p011-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 11,
+        "file": "MoHinhHoaYeuCau\\images\\p011-i03.png",
+        "bytes": 15523,
+        "source_name": "Image182.png"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau\\images\\p012-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau\\images\\p012-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau\\images\\p012-i03.png",
+        "bytes": 7751,
+        "source_name": "Image66.png"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau\\images\\p012-i04.jp2",
+        "bytes": 8122,
+        "source_name": "Image68.jp2"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau\\images\\p012-i05.jp2",
+        "bytes": 111703,
+        "source_name": "Image70.jp2"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau\\images\\p012-i06.png",
+        "bytes": 10013,
+        "source_name": "Image72.png"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau\\images\\p012-i07.png",
+        "bytes": 6952,
+        "source_name": "Image74.png"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau\\images\\p012-i08.jp2",
+        "bytes": 40562,
+        "source_name": "Image76.jp2"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau\\images\\p012-i09.png",
+        "bytes": 10726,
+        "source_name": "Image78.png"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau\\images\\p012-i10.png",
+        "bytes": 10632,
+        "source_name": "Image80.png"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau\\images\\p012-i11.png",
+        "bytes": 13820,
+        "source_name": "Image82.png"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau\\images\\p012-i12.png",
+        "bytes": 8880,
+        "source_name": "Image196.png"
+      },
+      {
+        "page": 13,
+        "file": "MoHinhHoaYeuCau\\images\\p013-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 13,
+        "file": "MoHinhHoaYeuCau\\images\\p013-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 13,
+        "file": "MoHinhHoaYeuCau\\images\\p013-i03.jp2",
+        "bytes": 87623,
+        "source_name": "Image202.jp2"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau\\images\\p014-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau\\images\\p014-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau\\images\\p014-i03.png",
+        "bytes": 7751,
+        "source_name": "Image66.png"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau\\images\\p014-i04.jp2",
+        "bytes": 8122,
+        "source_name": "Image68.jp2"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau\\images\\p014-i05.jp2",
+        "bytes": 111703,
+        "source_name": "Image70.jp2"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau\\images\\p014-i06.png",
+        "bytes": 10013,
+        "source_name": "Image72.png"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau\\images\\p014-i07.png",
+        "bytes": 6952,
+        "source_name": "Image74.png"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau\\images\\p014-i08.jp2",
+        "bytes": 40562,
+        "source_name": "Image76.jp2"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau\\images\\p014-i09.png",
+        "bytes": 10726,
+        "source_name": "Image78.png"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau\\images\\p014-i10.png",
+        "bytes": 10632,
+        "source_name": "Image80.png"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau\\images\\p014-i11.png",
+        "bytes": 13820,
+        "source_name": "Image82.png"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau\\images\\p014-i12.png",
+        "bytes": 8880,
+        "source_name": "Image211.png"
+      },
+      {
+        "page": 15,
+        "file": "MoHinhHoaYeuCau\\images\\p015-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 15,
+        "file": "MoHinhHoaYeuCau\\images\\p015-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 16,
+        "file": "MoHinhHoaYeuCau\\images\\p016-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 16,
+        "file": "MoHinhHoaYeuCau\\images\\p016-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 17,
+        "file": "MoHinhHoaYeuCau\\images\\p017-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 17,
+        "file": "MoHinhHoaYeuCau\\images\\p017-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 18,
+        "file": "MoHinhHoaYeuCau\\images\\p018-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 18,
+        "file": "MoHinhHoaYeuCau\\images\\p018-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 18,
+        "file": "MoHinhHoaYeuCau\\images\\p018-i03.jpg",
+        "bytes": 25765,
+        "source_name": "Image227.jpg"
+      },
+      {
+        "page": 19,
+        "file": "MoHinhHoaYeuCau\\images\\p019-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 19,
+        "file": "MoHinhHoaYeuCau\\images\\p019-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 20,
+        "file": "MoHinhHoaYeuCau\\images\\p020-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 20,
+        "file": "MoHinhHoaYeuCau\\images\\p020-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 21,
+        "file": "MoHinhHoaYeuCau\\images\\p021-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 21,
+        "file": "MoHinhHoaYeuCau\\images\\p021-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 22,
+        "file": "MoHinhHoaYeuCau\\images\\p022-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 22,
+        "file": "MoHinhHoaYeuCau\\images\\p022-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 23,
+        "file": "MoHinhHoaYeuCau\\images\\p023-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 23,
+        "file": "MoHinhHoaYeuCau\\images\\p023-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 23,
+        "file": "MoHinhHoaYeuCau\\images\\p023-i03.png",
+        "bytes": 1378,
+        "source_name": "Image244.png"
+      },
+      {
+        "page": 24,
+        "file": "MoHinhHoaYeuCau\\images\\p024-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 24,
+        "file": "MoHinhHoaYeuCau\\images\\p024-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 25,
+        "file": "MoHinhHoaYeuCau\\images\\p025-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 25,
+        "file": "MoHinhHoaYeuCau\\images\\p025-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 26,
+        "file": "MoHinhHoaYeuCau\\images\\p026-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 26,
+        "file": "MoHinhHoaYeuCau\\images\\p026-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 27,
+        "file": "MoHinhHoaYeuCau\\images\\p027-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 27,
+        "file": "MoHinhHoaYeuCau\\images\\p027-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 28,
+        "file": "MoHinhHoaYeuCau\\images\\p028-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 28,
+        "file": "MoHinhHoaYeuCau\\images\\p028-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 29,
+        "file": "MoHinhHoaYeuCau\\images\\p029-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 29,
+        "file": "MoHinhHoaYeuCau\\images\\p029-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 30,
+        "file": "MoHinhHoaYeuCau\\images\\p030-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 30,
+        "file": "MoHinhHoaYeuCau\\images\\p030-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 31,
+        "file": "MoHinhHoaYeuCau\\images\\p031-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 31,
+        "file": "MoHinhHoaYeuCau\\images\\p031-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 32,
+        "file": "MoHinhHoaYeuCau\\images\\p032-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 32,
+        "file": "MoHinhHoaYeuCau\\images\\p032-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 33,
+        "file": "MoHinhHoaYeuCau\\images\\p033-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 33,
+        "file": "MoHinhHoaYeuCau\\images\\p033-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 34,
+        "file": "MoHinhHoaYeuCau\\images\\p034-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 34,
+        "file": "MoHinhHoaYeuCau\\images\\p034-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 35,
+        "file": "MoHinhHoaYeuCau\\images\\p035-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 35,
+        "file": "MoHinhHoaYeuCau\\images\\p035-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 36,
+        "file": "MoHinhHoaYeuCau\\images\\p036-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 36,
+        "file": "MoHinhHoaYeuCau\\images\\p036-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 37,
+        "file": "MoHinhHoaYeuCau\\images\\p037-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 37,
+        "file": "MoHinhHoaYeuCau\\images\\p037-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 38,
+        "file": "MoHinhHoaYeuCau\\images\\p038-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 38,
+        "file": "MoHinhHoaYeuCau\\images\\p038-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 39,
+        "file": "MoHinhHoaYeuCau\\images\\p039-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 39,
+        "file": "MoHinhHoaYeuCau\\images\\p039-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 40,
+        "file": "MoHinhHoaYeuCau\\images\\p040-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 40,
+        "file": "MoHinhHoaYeuCau\\images\\p040-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 41,
+        "file": "MoHinhHoaYeuCau\\images\\p041-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 41,
+        "file": "MoHinhHoaYeuCau\\images\\p041-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 41,
+        "file": "MoHinhHoaYeuCau\\images\\p041-i03.png",
+        "bytes": 10726,
+        "source_name": "Image307.png"
+      },
+      {
+        "page": 42,
+        "file": "MoHinhHoaYeuCau\\images\\p042-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 42,
+        "file": "MoHinhHoaYeuCau\\images\\p042-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 42,
+        "file": "MoHinhHoaYeuCau\\images\\p042-i03.png",
+        "bytes": 5825,
+        "source_name": "Image311.png"
+      },
+      {
+        "page": 43,
+        "file": "MoHinhHoaYeuCau\\images\\p043-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 43,
+        "file": "MoHinhHoaYeuCau\\images\\p043-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 44,
+        "file": "MoHinhHoaYeuCau\\images\\p044-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 44,
+        "file": "MoHinhHoaYeuCau\\images\\p044-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 44,
+        "file": "MoHinhHoaYeuCau\\images\\p044-i03.png",
+        "bytes": 13531,
+        "source_name": "Image318.png"
+      },
+      {
+        "page": 45,
+        "file": "MoHinhHoaYeuCau\\images\\p045-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 45,
+        "file": "MoHinhHoaYeuCau\\images\\p045-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 46,
+        "file": "MoHinhHoaYeuCau\\images\\p046-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 46,
+        "file": "MoHinhHoaYeuCau\\images\\p046-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 47,
+        "file": "MoHinhHoaYeuCau\\images\\p047-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 47,
+        "file": "MoHinhHoaYeuCau\\images\\p047-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 48,
+        "file": "MoHinhHoaYeuCau\\images\\p048-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 48,
+        "file": "MoHinhHoaYeuCau\\images\\p048-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 49,
+        "file": "MoHinhHoaYeuCau\\images\\p049-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 49,
+        "file": "MoHinhHoaYeuCau\\images\\p049-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 50,
+        "file": "MoHinhHoaYeuCau\\images\\p050-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 50,
+        "file": "MoHinhHoaYeuCau\\images\\p050-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 51,
+        "file": "MoHinhHoaYeuCau\\images\\p051-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 51,
+        "file": "MoHinhHoaYeuCau\\images\\p051-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 52,
+        "file": "MoHinhHoaYeuCau\\images\\p052-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 52,
+        "file": "MoHinhHoaYeuCau\\images\\p052-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 53,
+        "file": "MoHinhHoaYeuCau\\images\\p053-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 53,
+        "file": "MoHinhHoaYeuCau\\images\\p053-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 54,
+        "file": "MoHinhHoaYeuCau\\images\\p054-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 54,
+        "file": "MoHinhHoaYeuCau\\images\\p054-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 55,
+        "file": "MoHinhHoaYeuCau\\images\\p055-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 55,
+        "file": "MoHinhHoaYeuCau\\images\\p055-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 56,
+        "file": "MoHinhHoaYeuCau\\images\\p056-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 56,
+        "file": "MoHinhHoaYeuCau\\images\\p056-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 57,
+        "file": "MoHinhHoaYeuCau\\images\\p057-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 57,
+        "file": "MoHinhHoaYeuCau\\images\\p057-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 58,
+        "file": "MoHinhHoaYeuCau\\images\\p058-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 58,
+        "file": "MoHinhHoaYeuCau\\images\\p058-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 59,
+        "file": "MoHinhHoaYeuCau\\images\\p059-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 59,
+        "file": "MoHinhHoaYeuCau\\images\\p059-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 60,
+        "file": "MoHinhHoaYeuCau\\images\\p060-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 60,
+        "file": "MoHinhHoaYeuCau\\images\\p060-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 61,
+        "file": "MoHinhHoaYeuCau\\images\\p061-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 61,
+        "file": "MoHinhHoaYeuCau\\images\\p061-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      }
+    ]
+  },
+  {
+    "file": "MoHinhHoaYeuCau_TT.pdf",
+    "pages": 24,
+    "title": "Slide 1",
+    "author": "Tran Minh Triet",
+    "text_file": "MoHinhHoaYeuCau_TT\\text.txt",
+    "text_chars": 9928,
+    "images": [
+      {
+        "page": 1,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p001-i01.jpg",
+        "bytes": 20472,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 1,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p001-i02.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 1,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p001-i03.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 1,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p001-i04.png",
+        "bytes": 62922,
+        "source_name": "Image11.png"
+      },
+      {
+        "page": 2,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p002-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 2,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p002-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 3,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p003-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 3,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p003-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 4,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p004-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 4,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p004-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 5,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p005-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 5,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p005-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 6,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p006-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 6,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p006-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p007-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p007-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 7,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p007-i03.png",
+        "bytes": 785,
+        "source_name": "Image61.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p008-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p008-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 8,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p008-i03.png",
+        "bytes": 1097,
+        "source_name": "Image65.png"
+      },
+      {
+        "page": 9,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p009-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 9,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p009-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 9,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p009-i03.png",
+        "bytes": 910,
+        "source_name": "Image69.png"
+      },
+      {
+        "page": 9,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p009-i04.png",
+        "bytes": 1156,
+        "source_name": "Image70.png"
+      },
+      {
+        "page": 10,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p010-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 10,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p010-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 10,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p010-i03.png",
+        "bytes": 1038,
+        "source_name": "Image74.png"
+      },
+      {
+        "page": 10,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p010-i04.png",
+        "bytes": 1439,
+        "source_name": "Image75.png"
+      },
+      {
+        "page": 11,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p011-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 11,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p011-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 11,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p011-i03.png",
+        "bytes": 1085,
+        "source_name": "Image79.png"
+      },
+      {
+        "page": 11,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p011-i04.png",
+        "bytes": 1221,
+        "source_name": "Image80.png"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p012-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 12,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p012-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 13,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p013-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 13,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p013-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p014-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 14,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p014-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 15,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p015-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 15,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p015-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 16,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p016-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 16,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p016-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 16,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p016-i03.png",
+        "bytes": 11890,
+        "source_name": "Image100.png"
+      },
+      {
+        "page": 16,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p016-i04.png",
+        "bytes": 7687,
+        "source_name": "Image101.png"
+      },
+      {
+        "page": 16,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p016-i05.png",
+        "bytes": 698,
+        "source_name": "Image102.png"
+      },
+      {
+        "page": 17,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p017-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 17,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p017-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 18,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p018-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 18,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p018-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 19,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p019-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 19,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p019-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 20,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p020-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 20,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p020-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 21,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p021-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 21,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p021-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 22,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p022-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 22,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p022-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 22,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p022-i03.png",
+        "bytes": 3097,
+        "source_name": "Image129.png"
+      },
+      {
+        "page": 23,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p023-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 23,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p023-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 23,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p023-i03.png",
+        "bytes": 25135,
+        "source_name": "Image133.png"
+      },
+      {
+        "page": 24,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p024-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 24,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p024-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 24,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p024-i03.jpg",
+        "bytes": 30307,
+        "source_name": "Image137.jpg"
+      },
+      {
+        "page": 24,
+        "file": "MoHinhHoaYeuCau_TT\\images\\p024-i04.jpg",
+        "bytes": 36582,
+        "source_name": "Image138.jpg"
+      }
+    ]
+  },
+  {
+    "file": "OOAD_KhaiNiemCoBan.pdf",
+    "pages": 59,
+    "title": null,
+    "author": "Đặng Việt Dũng",
+    "text_file": "OOAD_KhaiNiemCoBan\\text.txt",
+    "text_chars": 23311,
+    "images": [
+      {
+        "page": 1,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p001-i01.png",
+        "bytes": 63697,
+        "source_name": "Image6.png"
+      },
+      {
+        "page": 1,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p001-i02.png",
+        "bytes": 19961,
+        "source_name": "Image14.png"
+      },
+      {
+        "page": 1,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p001-i03.png",
+        "bytes": 66086,
+        "source_name": "Image18.png"
+      },
+      {
+        "page": 1,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p001-i04.png",
+        "bytes": 35762,
+        "source_name": "Image20.png"
+      },
+      {
+        "page": 2,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p002-i01.png",
+        "bytes": 63061,
+        "source_name": "Image31.png"
+      },
+      {
+        "page": 3,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p003-i01.png",
+        "bytes": 67528,
+        "source_name": "Image41.png"
+      },
+      {
+        "page": 23,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p023-i01.png",
+        "bytes": 5935,
+        "source_name": "Image118.png"
+      },
+      {
+        "page": 27,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p027-i01.png",
+        "bytes": 4282,
+        "source_name": "Image130.png"
+      },
+      {
+        "page": 28,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p028-i01.png",
+        "bytes": 4979,
+        "source_name": "Image133.png"
+      },
+      {
+        "page": 31,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p031-i01.png",
+        "bytes": 4357,
+        "source_name": "Image141.png"
+      },
+      {
+        "page": 32,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p032-i01.png",
+        "bytes": 10732,
+        "source_name": "Image144.png"
+      },
+      {
+        "page": 32,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p032-i02.png",
+        "bytes": 6345,
+        "source_name": "Image145.png"
+      },
+      {
+        "page": 32,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p032-i03.png",
+        "bytes": 7313,
+        "source_name": "Image146.png"
+      },
+      {
+        "page": 37,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p037-i01.png",
+        "bytes": 18723,
+        "source_name": "Image163.png"
+      },
+      {
+        "page": 38,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p038-i01.png",
+        "bytes": 16836,
+        "source_name": "Image166.png"
+      },
+      {
+        "page": 39,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p039-i01.png",
+        "bytes": 22240,
+        "source_name": "Image169.png"
+      },
+      {
+        "page": 40,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p040-i01.png",
+        "bytes": 14717,
+        "source_name": "Image173.png"
+      },
+      {
+        "page": 42,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p042-i01.png",
+        "bytes": 6287,
+        "source_name": "Image179.png"
+      },
+      {
+        "page": 43,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p043-i01.png",
+        "bytes": 16753,
+        "source_name": "Image182.png"
+      },
+      {
+        "page": 44,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p044-i01.png",
+        "bytes": 16318,
+        "source_name": "Image185.png"
+      },
+      {
+        "page": 45,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p045-i01.png",
+        "bytes": 16310,
+        "source_name": "Image188.png"
+      },
+      {
+        "page": 46,
+        "file": "OOAD_KhaiNiemCoBan\\images\\p046-i01.png",
+        "bytes": 52652,
+        "source_name": "Image191.png"
+      }
+    ]
+  },
+  {
+    "file": "PhanTichHuongDoiTuongP1.pdf",
+    "pages": 59,
+    "title": "Slide 1",
+    "author": "Tran Minh Triet",
+    "text_file": "PhanTichHuongDoiTuongP1\\text.txt",
+    "text_chars": 23708,
+    "images": [
+      {
+        "page": 1,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p001-i01.jpg",
+        "bytes": 20472,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 1,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p001-i02.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 1,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p001-i03.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 1,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p001-i04.png",
+        "bytes": 53750,
+        "source_name": "Image11.png"
+      },
+      {
+        "page": 1,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p001-i05.png",
+        "bytes": 10012,
+        "source_name": "Image19.png"
+      },
+      {
+        "page": 2,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p002-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 2,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p002-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 3,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p003-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 3,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p003-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 4,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p004-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 4,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p004-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 5,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p005-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 5,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p005-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 6,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p006-i01.jpg",
+        "bytes": 20472,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 6,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p006-i02.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 7,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p007-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 7,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p007-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 8,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p008-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 8,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p008-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i03.png",
+        "bytes": 2836,
+        "source_name": "Image82.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i04.png",
+        "bytes": 115,
+        "source_name": "Image84.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i05.png",
+        "bytes": 5233,
+        "source_name": "Image86.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i06.png",
+        "bytes": 4766,
+        "source_name": "Image88.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i07.png",
+        "bytes": 2664,
+        "source_name": "Image90.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i08.png",
+        "bytes": 1674,
+        "source_name": "Image92.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i09.png",
+        "bytes": 6790,
+        "source_name": "Image96.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i10.png",
+        "bytes": 4860,
+        "source_name": "Image98.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i11.png",
+        "bytes": 3912,
+        "source_name": "Image100.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i12.png",
+        "bytes": 115,
+        "source_name": "Image102.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i13.png",
+        "bytes": 2577,
+        "source_name": "Image104.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i14.png",
+        "bytes": 4431,
+        "source_name": "Image106.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i15.png",
+        "bytes": 251,
+        "source_name": "Image108.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i16.png",
+        "bytes": 3513,
+        "source_name": "Image110.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i17.png",
+        "bytes": 6369,
+        "source_name": "Image112.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i18.png",
+        "bytes": 4544,
+        "source_name": "Image114.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i19.png",
+        "bytes": 3416,
+        "source_name": "Image116.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i20.png",
+        "bytes": 4892,
+        "source_name": "Image118.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i21.png",
+        "bytes": 18760,
+        "source_name": "Image122.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i22.png",
+        "bytes": 7836,
+        "source_name": "Image124.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i23.png",
+        "bytes": 9877,
+        "source_name": "Image126.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i24.png",
+        "bytes": 7355,
+        "source_name": "Image128.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i25.png",
+        "bytes": 9576,
+        "source_name": "Image130.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i26.png",
+        "bytes": 20597,
+        "source_name": "Image134.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i27.png",
+        "bytes": 11400,
+        "source_name": "Image136.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p009-i28.png",
+        "bytes": 11999,
+        "source_name": "Image138.png"
+      },
+      {
+        "page": 10,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p010-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 10,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p010-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 11,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p011-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 11,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p011-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 12,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p012-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 12,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p012-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 13,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p013-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 13,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p013-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 13,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p013-i03.png",
+        "bytes": 5935,
+        "source_name": "Image155.png"
+      },
+      {
+        "page": 14,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p014-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 14,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p014-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 15,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p015-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 15,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p015-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 15,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p015-i03.png",
+        "bytes": 4282,
+        "source_name": "Image163.png"
+      },
+      {
+        "page": 16,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p016-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 16,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p016-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 17,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p017-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 17,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p017-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 17,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p017-i03.png",
+        "bytes": 4357,
+        "source_name": "Image170.png"
+      },
+      {
+        "page": 18,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p018-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 18,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p018-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 18,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p018-i03.png",
+        "bytes": 14717,
+        "source_name": "Image175.png"
+      },
+      {
+        "page": 19,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p019-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 19,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p019-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 20,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p020-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 20,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p020-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 21,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p021-i01.jpg",
+        "bytes": 20472,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 21,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p021-i02.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 22,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p022-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 22,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p022-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 23,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p023-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 23,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p023-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 24,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p024-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 24,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p024-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 25,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p025-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 25,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p025-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 26,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p026-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 26,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p026-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 27,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p027-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 27,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p027-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 28,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p028-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 28,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p028-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 29,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p029-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 29,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p029-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 30,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p030-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 30,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p030-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 31,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p031-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 31,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p031-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 32,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p032-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 32,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p032-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 33,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p033-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 33,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p033-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 34,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p034-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 34,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p034-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 35,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p035-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 35,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p035-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 36,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p036-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 36,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p036-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 37,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p037-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 37,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p037-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 38,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p038-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 38,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p038-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 38,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p038-i03.png",
+        "bytes": 51201,
+        "source_name": "Image254.png"
+      },
+      {
+        "page": 39,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p039-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 39,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p039-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 39,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p039-i03.jpg",
+        "bytes": 24084,
+        "source_name": "Image258.jpg"
+      },
+      {
+        "page": 40,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p040-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 40,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p040-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 40,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p040-i03.png",
+        "bytes": 27957,
+        "source_name": "Image262.png"
+      },
+      {
+        "page": 41,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p041-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 41,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p041-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 41,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p041-i03.jpg",
+        "bytes": 49984,
+        "source_name": "Image266.jpg"
+      },
+      {
+        "page": 42,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p042-i01.jpg",
+        "bytes": 20472,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 42,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p042-i02.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 43,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p043-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 43,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p043-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 44,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p044-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 44,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p044-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 45,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p045-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 45,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p045-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 46,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p046-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 46,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p046-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 47,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p047-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 47,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p047-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 48,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p048-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 48,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p048-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 49,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p049-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 49,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p049-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 50,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p050-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 50,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p050-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 50,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p050-i03.jpg",
+        "bytes": 14908,
+        "source_name": "Image304.jpg"
+      },
+      {
+        "page": 51,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p051-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 51,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p051-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 52,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p052-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 52,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p052-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 53,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p053-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 53,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p053-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 54,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p054-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 54,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p054-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 54,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p054-i03.png",
+        "bytes": 7008,
+        "source_name": "Image317.png"
+      },
+      {
+        "page": 55,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p055-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 55,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p055-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 56,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p056-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 56,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p056-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 57,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p057-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 57,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p057-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 57,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p057-i03.png",
+        "bytes": 25095,
+        "source_name": "Image327.png"
+      },
+      {
+        "page": 58,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p058-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 58,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p058-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 59,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p059-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 59,
+        "file": "PhanTichHuongDoiTuongP1\\images\\p059-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      }
+    ]
+  },
+  {
+    "file": "PhanTichHuongDoiTuongP2.pdf",
+    "pages": 69,
+    "title": "PowerPoint  Template",
+    "author": "Pham Thi Vuong",
+    "text_file": "PhanTichHuongDoiTuongP2\\text.txt",
+    "text_chars": 37227,
+    "images": [
+      {
+        "page": 1,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p001-i01.jpg",
+        "bytes": 20472,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 1,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p001-i02.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 1,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p001-i03.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 1,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p001-i04.png",
+        "bytes": 67679,
+        "source_name": "Image11.png"
+      },
+      {
+        "page": 2,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p002-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 2,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p002-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 3,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p003-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 3,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p003-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 4,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p004-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 4,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p004-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 5,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p005-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 5,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p005-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 6,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p006-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 6,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p006-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 7,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p007-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 7,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p007-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 8,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p008-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 8,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p008-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i03.png",
+        "bytes": 6977,
+        "source_name": "Image62.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i04.png",
+        "bytes": 1977,
+        "source_name": "Image69.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i05.png",
+        "bytes": 1578,
+        "source_name": "Image73.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i06.png",
+        "bytes": 1803,
+        "source_name": "Image80.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i07.png",
+        "bytes": 2545,
+        "source_name": "Image82.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i08.png",
+        "bytes": 2269,
+        "source_name": "Image84.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i09.png",
+        "bytes": 4315,
+        "source_name": "Image86.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i10.png",
+        "bytes": 2096,
+        "source_name": "Image88.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i11.png",
+        "bytes": 1981,
+        "source_name": "Image90.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i12.png",
+        "bytes": 1862,
+        "source_name": "Image92.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i13.png",
+        "bytes": 2037,
+        "source_name": "Image94.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i14.png",
+        "bytes": 414,
+        "source_name": "Image96.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i15.png",
+        "bytes": 1141,
+        "source_name": "Image98.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i16.png",
+        "bytes": 1329,
+        "source_name": "Image100.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i17.png",
+        "bytes": 1927,
+        "source_name": "Image102.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i18.png",
+        "bytes": 1821,
+        "source_name": "Image104.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i19.png",
+        "bytes": 1833,
+        "source_name": "Image106.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i20.png",
+        "bytes": 2444,
+        "source_name": "Image108.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i21.png",
+        "bytes": 2771,
+        "source_name": "Image110.png"
+      },
+      {
+        "page": 9,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p009-i22.png",
+        "bytes": 2765,
+        "source_name": "Image112.png"
+      },
+      {
+        "page": 10,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p010-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 10,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p010-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 11,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p011-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 11,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p011-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 12,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p012-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 12,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p012-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 13,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p013-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 13,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p013-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 13,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p013-i03.png",
+        "bytes": 2068,
+        "source_name": "Image128.png"
+      },
+      {
+        "page": 14,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p014-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 14,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p014-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 14,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p014-i03.png",
+        "bytes": 2960,
+        "source_name": "Image135.png"
+      },
+      {
+        "page": 15,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p015-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 15,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p015-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 15,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p015-i03.png",
+        "bytes": 2941,
+        "source_name": "Image146.png"
+      },
+      {
+        "page": 16,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p016-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 16,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p016-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 17,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p017-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 17,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p017-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 17,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p017-i03.png",
+        "bytes": 2974,
+        "source_name": "Image160.png"
+      },
+      {
+        "page": 18,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p018-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 18,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p018-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 19,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p019-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 19,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p019-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 19,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p019-i03.png",
+        "bytes": 2974,
+        "source_name": "Image160.png"
+      },
+      {
+        "page": 20,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p020-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 20,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p020-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 21,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p021-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 21,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p021-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 21,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p021-i03.png",
+        "bytes": 2974,
+        "source_name": "Image160.png"
+      },
+      {
+        "page": 22,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p022-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 22,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p022-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 23,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p023-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 23,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p023-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 24,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p024-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 24,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p024-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 25,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p025-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 25,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p025-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 26,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p026-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 26,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p026-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 27,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p027-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 27,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p027-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 28,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p028-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 28,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p028-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 29,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p029-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 29,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p029-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 30,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p030-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 30,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p030-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 31,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p031-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 31,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p031-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 32,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p032-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 32,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p032-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 33,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p033-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 33,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p033-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 34,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p034-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 34,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p034-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 35,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p035-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 35,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p035-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 36,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p036-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 36,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p036-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 37,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p037-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 37,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p037-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 38,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p038-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 38,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p038-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 39,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p039-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 39,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p039-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 40,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p040-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 40,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p040-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 41,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p041-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 41,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p041-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 42,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p042-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 42,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p042-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 43,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p043-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 43,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p043-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 44,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p044-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 44,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p044-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 45,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p045-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 45,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p045-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 46,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p046-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 46,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p046-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 47,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p047-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 47,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p047-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 48,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p048-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 48,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p048-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 49,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p049-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 49,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p049-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 50,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p050-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 50,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p050-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 51,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p051-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 51,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p051-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 52,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p052-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 52,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p052-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 53,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p053-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 53,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p053-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 54,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p054-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 54,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p054-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 55,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p055-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 55,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p055-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 56,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p056-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 56,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p056-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 57,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p057-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 57,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p057-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 58,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p058-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 58,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p058-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 59,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p059-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 59,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p059-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 60,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p060-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 60,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p060-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 61,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p061-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 61,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p061-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 62,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p062-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 62,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p062-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 63,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p063-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 63,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p063-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 64,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p064-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 64,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p064-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 65,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p065-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 65,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p065-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 66,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p066-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 66,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p066-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 67,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p067-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 67,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p067-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 68,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p068-i01.jpg",
+        "bytes": 20472,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 68,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p068-i02.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 68,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p068-i03.png",
+        "bytes": 14618,
+        "source_name": "Image347.png"
+      },
+      {
+        "page": 69,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p069-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 69,
+        "file": "PhanTichHuongDoiTuongP2\\images\\p069-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      }
+    ]
+  },
+  {
+    "file": "ThietKeDuLieuLuuTru.pdf",
+    "pages": 44,
+    "title": null,
+    "author": "Tran Minh Triet",
+    "text_file": "ThietKeDuLieuLuuTru\\text.txt",
+    "text_chars": 16999,
+    "images": [
+      {
+        "page": 1,
+        "file": "ThietKeDuLieuLuuTru\\images\\p001-i01.jpg",
+        "bytes": 20472,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 1,
+        "file": "ThietKeDuLieuLuuTru\\images\\p001-i02.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 2,
+        "file": "ThietKeDuLieuLuuTru\\images\\p002-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeDuLieuLuuTru\\images\\p003-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 4,
+        "file": "ThietKeDuLieuLuuTru\\images\\p004-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeDuLieuLuuTru\\images\\p005-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeDuLieuLuuTru\\images\\p005-i02.png",
+        "bytes": 13617,
+        "source_name": "Image61.png"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeDuLieuLuuTru\\images\\p005-i03.png",
+        "bytes": 6645,
+        "source_name": "Image62.png"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeDuLieuLuuTru\\images\\p005-i04.png",
+        "bytes": 31007,
+        "source_name": "Image63.png"
+      },
+      {
+        "page": 6,
+        "file": "ThietKeDuLieuLuuTru\\images\\p006-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 7,
+        "file": "ThietKeDuLieuLuuTru\\images\\p007-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 8,
+        "file": "ThietKeDuLieuLuuTru\\images\\p008-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 9,
+        "file": "ThietKeDuLieuLuuTru\\images\\p009-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 10,
+        "file": "ThietKeDuLieuLuuTru\\images\\p010-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 11,
+        "file": "ThietKeDuLieuLuuTru\\images\\p011-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 11,
+        "file": "ThietKeDuLieuLuuTru\\images\\p011-i02.png",
+        "bytes": 30850,
+        "source_name": "Image150.png"
+      },
+      {
+        "page": 11,
+        "file": "ThietKeDuLieuLuuTru\\images\\p011-i03.png",
+        "bytes": 24003,
+        "source_name": "Image151.png"
+      },
+      {
+        "page": 12,
+        "file": "ThietKeDuLieuLuuTru\\images\\p012-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 12,
+        "file": "ThietKeDuLieuLuuTru\\images\\p012-i02.png",
+        "bytes": 21737,
+        "source_name": "Image154.png"
+      },
+      {
+        "page": 12,
+        "file": "ThietKeDuLieuLuuTru\\images\\p012-i03.png",
+        "bytes": 24003,
+        "source_name": "Image151.png"
+      },
+      {
+        "page": 13,
+        "file": "ThietKeDuLieuLuuTru\\images\\p013-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 14,
+        "file": "ThietKeDuLieuLuuTru\\images\\p014-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 15,
+        "file": "ThietKeDuLieuLuuTru\\images\\p015-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 16,
+        "file": "ThietKeDuLieuLuuTru\\images\\p016-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 16,
+        "file": "ThietKeDuLieuLuuTru\\images\\p016-i02.png",
+        "bytes": 25172,
+        "source_name": "Image163.png"
+      },
+      {
+        "page": 17,
+        "file": "ThietKeDuLieuLuuTru\\images\\p017-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 17,
+        "file": "ThietKeDuLieuLuuTru\\images\\p017-i02.png",
+        "bytes": 50342,
+        "source_name": "Image166.png"
+      },
+      {
+        "page": 18,
+        "file": "ThietKeDuLieuLuuTru\\images\\p018-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 18,
+        "file": "ThietKeDuLieuLuuTru\\images\\p018-i02.png",
+        "bytes": 86546,
+        "source_name": "Image169.png"
+      },
+      {
+        "page": 19,
+        "file": "ThietKeDuLieuLuuTru\\images\\p019-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 20,
+        "file": "ThietKeDuLieuLuuTru\\images\\p020-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 21,
+        "file": "ThietKeDuLieuLuuTru\\images\\p021-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 22,
+        "file": "ThietKeDuLieuLuuTru\\images\\p022-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 23,
+        "file": "ThietKeDuLieuLuuTru\\images\\p023-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 24,
+        "file": "ThietKeDuLieuLuuTru\\images\\p024-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 25,
+        "file": "ThietKeDuLieuLuuTru\\images\\p025-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 26,
+        "file": "ThietKeDuLieuLuuTru\\images\\p026-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 27,
+        "file": "ThietKeDuLieuLuuTru\\images\\p027-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 27,
+        "file": "ThietKeDuLieuLuuTru\\images\\p027-i02.png",
+        "bytes": 12586,
+        "source_name": "Image188.png"
+      },
+      {
+        "page": 27,
+        "file": "ThietKeDuLieuLuuTru\\images\\p027-i03.png",
+        "bytes": 3814,
+        "source_name": "Image190.png"
+      },
+      {
+        "page": 28,
+        "file": "ThietKeDuLieuLuuTru\\images\\p028-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 29,
+        "file": "ThietKeDuLieuLuuTru\\images\\p029-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 29,
+        "file": "ThietKeDuLieuLuuTru\\images\\p029-i02.png",
+        "bytes": 12282,
+        "source_name": "Image297.png"
+      },
+      {
+        "page": 29,
+        "file": "ThietKeDuLieuLuuTru\\images\\p029-i03.png",
+        "bytes": 4313,
+        "source_name": "Image299.png"
+      },
+      {
+        "page": 30,
+        "file": "ThietKeDuLieuLuuTru\\images\\p030-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 31,
+        "file": "ThietKeDuLieuLuuTru\\images\\p031-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 32,
+        "file": "ThietKeDuLieuLuuTru\\images\\p032-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 33,
+        "file": "ThietKeDuLieuLuuTru\\images\\p033-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 34,
+        "file": "ThietKeDuLieuLuuTru\\images\\p034-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 35,
+        "file": "ThietKeDuLieuLuuTru\\images\\p035-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 36,
+        "file": "ThietKeDuLieuLuuTru\\images\\p036-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 37,
+        "file": "ThietKeDuLieuLuuTru\\images\\p037-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 37,
+        "file": "ThietKeDuLieuLuuTru\\images\\p037-i02.png",
+        "bytes": 65912,
+        "source_name": "Image413.png"
+      },
+      {
+        "page": 38,
+        "file": "ThietKeDuLieuLuuTru\\images\\p038-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 38,
+        "file": "ThietKeDuLieuLuuTru\\images\\p038-i02.png",
+        "bytes": 42892,
+        "source_name": "Image416.png"
+      },
+      {
+        "page": 39,
+        "file": "ThietKeDuLieuLuuTru\\images\\p039-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 39,
+        "file": "ThietKeDuLieuLuuTru\\images\\p039-i02.png",
+        "bytes": 64722,
+        "source_name": "Image419.png"
+      },
+      {
+        "page": 40,
+        "file": "ThietKeDuLieuLuuTru\\images\\p040-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 40,
+        "file": "ThietKeDuLieuLuuTru\\images\\p040-i02.png",
+        "bytes": 76784,
+        "source_name": "Image422.png"
+      },
+      {
+        "page": 41,
+        "file": "ThietKeDuLieuLuuTru\\images\\p041-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 41,
+        "file": "ThietKeDuLieuLuuTru\\images\\p041-i02.png",
+        "bytes": 89701,
+        "source_name": "Image425.png"
+      },
+      {
+        "page": 42,
+        "file": "ThietKeDuLieuLuuTru\\images\\p042-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 42,
+        "file": "ThietKeDuLieuLuuTru\\images\\p042-i02.png",
+        "bytes": 100729,
+        "source_name": "Image428.png"
+      },
+      {
+        "page": 43,
+        "file": "ThietKeDuLieuLuuTru\\images\\p043-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 43,
+        "file": "ThietKeDuLieuLuuTru\\images\\p043-i02.png",
+        "bytes": 33302,
+        "source_name": "Image431.png"
+      },
+      {
+        "page": 44,
+        "file": "ThietKeDuLieuLuuTru\\images\\p044-i01.png",
+        "bytes": 27907,
+        "source_name": "Image7.png"
+      },
+      {
+        "page": 44,
+        "file": "ThietKeDuLieuLuuTru\\images\\p044-i02.png",
+        "bytes": 107079,
+        "source_name": "Image434.png"
+      }
+    ]
+  },
+  {
+    "file": "ThietKeGiaoDien.pdf",
+    "pages": 89,
+    "title": "PowerPoint  Template",
+    "author": "Pham Thi Vuong",
+    "text_file": "ThietKeGiaoDien\\text.txt",
+    "text_chars": 24124,
+    "images": [
+      {
+        "page": 1,
+        "file": "ThietKeGiaoDien\\images\\p001-i01.jpg",
+        "bytes": 20472,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 1,
+        "file": "ThietKeGiaoDien\\images\\p001-i02.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 1,
+        "file": "ThietKeGiaoDien\\images\\p001-i03.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 1,
+        "file": "ThietKeGiaoDien\\images\\p001-i04.png",
+        "bytes": 14983,
+        "source_name": "Image11.png"
+      },
+      {
+        "page": 1,
+        "file": "ThietKeGiaoDien\\images\\p001-i05.png",
+        "bytes": 255,
+        "source_name": "Image19.png"
+      },
+      {
+        "page": 1,
+        "file": "ThietKeGiaoDien\\images\\p001-i06.png",
+        "bytes": 11046,
+        "source_name": "Image23.png"
+      },
+      {
+        "page": 1,
+        "file": "ThietKeGiaoDien\\images\\p001-i07.png",
+        "bytes": 15589,
+        "source_name": "Image25.png"
+      },
+      {
+        "page": 1,
+        "file": "ThietKeGiaoDien\\images\\p001-i08.png",
+        "bytes": 15030,
+        "source_name": "Image27.png"
+      },
+      {
+        "page": 1,
+        "file": "ThietKeGiaoDien\\images\\p001-i09.png",
+        "bytes": 254,
+        "source_name": "Image29.png"
+      },
+      {
+        "page": 2,
+        "file": "ThietKeGiaoDien\\images\\p002-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 2,
+        "file": "ThietKeGiaoDien\\images\\p002-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i03.jp2",
+        "bytes": 466865,
+        "source_name": "Image49.jp2"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i04.jp2",
+        "bytes": 61243,
+        "source_name": "Image80.jp2"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i05.jp2",
+        "bytes": 13423,
+        "source_name": "Image82.jp2"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i06.png",
+        "bytes": 9541,
+        "source_name": "Image84.png"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i07.png",
+        "bytes": 8945,
+        "source_name": "Image86.png"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i08.png",
+        "bytes": 9677,
+        "source_name": "Image88.png"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i09.png",
+        "bytes": 12815,
+        "source_name": "Image90.png"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i10.jp2",
+        "bytes": 48121,
+        "source_name": "Image92.jp2"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i11.jp2",
+        "bytes": 58155,
+        "source_name": "Image96.jp2"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i12.jp2",
+        "bytes": 89212,
+        "source_name": "Image103.jp2"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i13.jp2",
+        "bytes": 44552,
+        "source_name": "Image105.jp2"
+      },
+      {
+        "page": 3,
+        "file": "ThietKeGiaoDien\\images\\p003-i14.jpg",
+        "bytes": 8950,
+        "source_name": "Image107.jpg"
+      },
+      {
+        "page": 4,
+        "file": "ThietKeGiaoDien\\images\\p004-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 4,
+        "file": "ThietKeGiaoDien\\images\\p004-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeGiaoDien\\images\\p005-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeGiaoDien\\images\\p005-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeGiaoDien\\images\\p005-i03.jp2",
+        "bytes": 48121,
+        "source_name": "Image92.jp2"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeGiaoDien\\images\\p005-i04.jp2",
+        "bytes": 58155,
+        "source_name": "Image96.jp2"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeGiaoDien\\images\\p005-i05.jp2",
+        "bytes": 89212,
+        "source_name": "Image103.jp2"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeGiaoDien\\images\\p005-i06.jp2",
+        "bytes": 44552,
+        "source_name": "Image105.jp2"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeGiaoDien\\images\\p005-i07.jpg",
+        "bytes": 8950,
+        "source_name": "Image107.jpg"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeGiaoDien\\images\\p005-i08.jp2",
+        "bytes": 89548,
+        "source_name": "Image131.jp2"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeGiaoDien\\images\\p005-i09.jp2",
+        "bytes": 141865,
+        "source_name": "Image138.jp2"
+      },
+      {
+        "page": 5,
+        "file": "ThietKeGiaoDien\\images\\p005-i10.jp2",
+        "bytes": 141856,
+        "source_name": "Image140.jp2"
+      },
+      {
+        "page": 6,
+        "file": "ThietKeGiaoDien\\images\\p006-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 6,
+        "file": "ThietKeGiaoDien\\images\\p006-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 7,
+        "file": "ThietKeGiaoDien\\images\\p007-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 7,
+        "file": "ThietKeGiaoDien\\images\\p007-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 7,
+        "file": "ThietKeGiaoDien\\images\\p007-i03.png",
+        "bytes": 72393,
+        "source_name": "Image148.png"
+      },
+      {
+        "page": 8,
+        "file": "ThietKeGiaoDien\\images\\p008-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 8,
+        "file": "ThietKeGiaoDien\\images\\p008-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 8,
+        "file": "ThietKeGiaoDien\\images\\p008-i03.png",
+        "bytes": 55997,
+        "source_name": "Image152.png"
+      },
+      {
+        "page": 9,
+        "file": "ThietKeGiaoDien\\images\\p009-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 9,
+        "file": "ThietKeGiaoDien\\images\\p009-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 9,
+        "file": "ThietKeGiaoDien\\images\\p009-i03.png",
+        "bytes": 122798,
+        "source_name": "Image156.png"
+      },
+      {
+        "page": 10,
+        "file": "ThietKeGiaoDien\\images\\p010-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 10,
+        "file": "ThietKeGiaoDien\\images\\p010-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 10,
+        "file": "ThietKeGiaoDien\\images\\p010-i03.png",
+        "bytes": 130355,
+        "source_name": "Image160.png"
+      },
+      {
+        "page": 11,
+        "file": "ThietKeGiaoDien\\images\\p011-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 11,
+        "file": "ThietKeGiaoDien\\images\\p011-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 11,
+        "file": "ThietKeGiaoDien\\images\\p011-i03.png",
+        "bytes": 141106,
+        "source_name": "Image164.png"
+      },
+      {
+        "page": 12,
+        "file": "ThietKeGiaoDien\\images\\p012-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 12,
+        "file": "ThietKeGiaoDien\\images\\p012-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 12,
+        "file": "ThietKeGiaoDien\\images\\p012-i03.png",
+        "bytes": 31693,
+        "source_name": "Image168.png"
+      },
+      {
+        "page": 13,
+        "file": "ThietKeGiaoDien\\images\\p013-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 13,
+        "file": "ThietKeGiaoDien\\images\\p013-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 13,
+        "file": "ThietKeGiaoDien\\images\\p013-i03.png",
+        "bytes": 124441,
+        "source_name": "Image172.png"
+      },
+      {
+        "page": 14,
+        "file": "ThietKeGiaoDien\\images\\p014-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 14,
+        "file": "ThietKeGiaoDien\\images\\p014-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 14,
+        "file": "ThietKeGiaoDien\\images\\p014-i03.png",
+        "bytes": 132277,
+        "source_name": "Image176.png"
+      },
+      {
+        "page": 15,
+        "file": "ThietKeGiaoDien\\images\\p015-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 15,
+        "file": "ThietKeGiaoDien\\images\\p015-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 15,
+        "file": "ThietKeGiaoDien\\images\\p015-i03.png",
+        "bytes": 36982,
+        "source_name": "Image180.png"
+      },
+      {
+        "page": 16,
+        "file": "ThietKeGiaoDien\\images\\p016-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 16,
+        "file": "ThietKeGiaoDien\\images\\p016-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 16,
+        "file": "ThietKeGiaoDien\\images\\p016-i03.png",
+        "bytes": 206726,
+        "source_name": "Image184.png"
+      },
+      {
+        "page": 17,
+        "file": "ThietKeGiaoDien\\images\\p017-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 17,
+        "file": "ThietKeGiaoDien\\images\\p017-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 17,
+        "file": "ThietKeGiaoDien\\images\\p017-i03.png",
+        "bytes": 84753,
+        "source_name": "Image188.png"
+      },
+      {
+        "page": 18,
+        "file": "ThietKeGiaoDien\\images\\p018-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 18,
+        "file": "ThietKeGiaoDien\\images\\p018-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 19,
+        "file": "ThietKeGiaoDien\\images\\p019-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 19,
+        "file": "ThietKeGiaoDien\\images\\p019-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 20,
+        "file": "ThietKeGiaoDien\\images\\p020-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 20,
+        "file": "ThietKeGiaoDien\\images\\p020-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 21,
+        "file": "ThietKeGiaoDien\\images\\p021-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 21,
+        "file": "ThietKeGiaoDien\\images\\p021-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 22,
+        "file": "ThietKeGiaoDien\\images\\p022-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 22,
+        "file": "ThietKeGiaoDien\\images\\p022-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 23,
+        "file": "ThietKeGiaoDien\\images\\p023-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 23,
+        "file": "ThietKeGiaoDien\\images\\p023-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 24,
+        "file": "ThietKeGiaoDien\\images\\p024-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 24,
+        "file": "ThietKeGiaoDien\\images\\p024-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 24,
+        "file": "ThietKeGiaoDien\\images\\p024-i03.png",
+        "bytes": 11463,
+        "source_name": "Image210.png"
+      },
+      {
+        "page": 25,
+        "file": "ThietKeGiaoDien\\images\\p025-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 25,
+        "file": "ThietKeGiaoDien\\images\\p025-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 25,
+        "file": "ThietKeGiaoDien\\images\\p025-i03.png",
+        "bytes": 11944,
+        "source_name": "Image215.png"
+      },
+      {
+        "page": 26,
+        "file": "ThietKeGiaoDien\\images\\p026-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 26,
+        "file": "ThietKeGiaoDien\\images\\p026-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 27,
+        "file": "ThietKeGiaoDien\\images\\p027-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 27,
+        "file": "ThietKeGiaoDien\\images\\p027-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 28,
+        "file": "ThietKeGiaoDien\\images\\p028-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 28,
+        "file": "ThietKeGiaoDien\\images\\p028-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 29,
+        "file": "ThietKeGiaoDien\\images\\p029-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 29,
+        "file": "ThietKeGiaoDien\\images\\p029-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 29,
+        "file": "ThietKeGiaoDien\\images\\p029-i03.png",
+        "bytes": 5107,
+        "source_name": "Image229.png"
+      },
+      {
+        "page": 30,
+        "file": "ThietKeGiaoDien\\images\\p030-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 30,
+        "file": "ThietKeGiaoDien\\images\\p030-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 30,
+        "file": "ThietKeGiaoDien\\images\\p030-i03.png",
+        "bytes": 5975,
+        "source_name": "Image234.png"
+      },
+      {
+        "page": 31,
+        "file": "ThietKeGiaoDien\\images\\p031-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 31,
+        "file": "ThietKeGiaoDien\\images\\p031-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 31,
+        "file": "ThietKeGiaoDien\\images\\p031-i03.png",
+        "bytes": 4940,
+        "source_name": "Image239.png"
+      },
+      {
+        "page": 32,
+        "file": "ThietKeGiaoDien\\images\\p032-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 32,
+        "file": "ThietKeGiaoDien\\images\\p032-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 32,
+        "file": "ThietKeGiaoDien\\images\\p032-i03.png",
+        "bytes": 4712,
+        "source_name": "Image244.png"
+      },
+      {
+        "page": 33,
+        "file": "ThietKeGiaoDien\\images\\p033-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 33,
+        "file": "ThietKeGiaoDien\\images\\p033-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 33,
+        "file": "ThietKeGiaoDien\\images\\p033-i03.png",
+        "bytes": 9925,
+        "source_name": "Image249.png"
+      },
+      {
+        "page": 34,
+        "file": "ThietKeGiaoDien\\images\\p034-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 34,
+        "file": "ThietKeGiaoDien\\images\\p034-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 35,
+        "file": "ThietKeGiaoDien\\images\\p035-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 35,
+        "file": "ThietKeGiaoDien\\images\\p035-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 36,
+        "file": "ThietKeGiaoDien\\images\\p036-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 36,
+        "file": "ThietKeGiaoDien\\images\\p036-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 37,
+        "file": "ThietKeGiaoDien\\images\\p037-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 37,
+        "file": "ThietKeGiaoDien\\images\\p037-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 38,
+        "file": "ThietKeGiaoDien\\images\\p038-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 38,
+        "file": "ThietKeGiaoDien\\images\\p038-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 38,
+        "file": "ThietKeGiaoDien\\images\\p038-i03.png",
+        "bytes": 19888,
+        "source_name": "Image266.png"
+      },
+      {
+        "page": 39,
+        "file": "ThietKeGiaoDien\\images\\p039-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 39,
+        "file": "ThietKeGiaoDien\\images\\p039-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 39,
+        "file": "ThietKeGiaoDien\\images\\p039-i03.png",
+        "bytes": 21909,
+        "source_name": "Image270.png"
+      },
+      {
+        "page": 40,
+        "file": "ThietKeGiaoDien\\images\\p040-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 40,
+        "file": "ThietKeGiaoDien\\images\\p040-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 40,
+        "file": "ThietKeGiaoDien\\images\\p040-i03.png",
+        "bytes": 40951,
+        "source_name": "Image274.png"
+      },
+      {
+        "page": 41,
+        "file": "ThietKeGiaoDien\\images\\p041-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 41,
+        "file": "ThietKeGiaoDien\\images\\p041-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 41,
+        "file": "ThietKeGiaoDien\\images\\p041-i03.png",
+        "bytes": 34795,
+        "source_name": "Image278.png"
+      },
+      {
+        "page": 42,
+        "file": "ThietKeGiaoDien\\images\\p042-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 42,
+        "file": "ThietKeGiaoDien\\images\\p042-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 42,
+        "file": "ThietKeGiaoDien\\images\\p042-i03.png",
+        "bytes": 42759,
+        "source_name": "Image282.png"
+      },
+      {
+        "page": 43,
+        "file": "ThietKeGiaoDien\\images\\p043-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 43,
+        "file": "ThietKeGiaoDien\\images\\p043-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 44,
+        "file": "ThietKeGiaoDien\\images\\p044-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 44,
+        "file": "ThietKeGiaoDien\\images\\p044-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 45,
+        "file": "ThietKeGiaoDien\\images\\p045-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 45,
+        "file": "ThietKeGiaoDien\\images\\p045-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 46,
+        "file": "ThietKeGiaoDien\\images\\p046-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 46,
+        "file": "ThietKeGiaoDien\\images\\p046-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 46,
+        "file": "ThietKeGiaoDien\\images\\p046-i03.png",
+        "bytes": 71465,
+        "source_name": "Image295.png"
+      },
+      {
+        "page": 47,
+        "file": "ThietKeGiaoDien\\images\\p047-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 47,
+        "file": "ThietKeGiaoDien\\images\\p047-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 48,
+        "file": "ThietKeGiaoDien\\images\\p048-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 48,
+        "file": "ThietKeGiaoDien\\images\\p048-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 49,
+        "file": "ThietKeGiaoDien\\images\\p049-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 49,
+        "file": "ThietKeGiaoDien\\images\\p049-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 50,
+        "file": "ThietKeGiaoDien\\images\\p050-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 50,
+        "file": "ThietKeGiaoDien\\images\\p050-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 51,
+        "file": "ThietKeGiaoDien\\images\\p051-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 51,
+        "file": "ThietKeGiaoDien\\images\\p051-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 52,
+        "file": "ThietKeGiaoDien\\images\\p052-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 52,
+        "file": "ThietKeGiaoDien\\images\\p052-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 53,
+        "file": "ThietKeGiaoDien\\images\\p053-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 53,
+        "file": "ThietKeGiaoDien\\images\\p053-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 54,
+        "file": "ThietKeGiaoDien\\images\\p054-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 54,
+        "file": "ThietKeGiaoDien\\images\\p054-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 55,
+        "file": "ThietKeGiaoDien\\images\\p055-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 55,
+        "file": "ThietKeGiaoDien\\images\\p055-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 56,
+        "file": "ThietKeGiaoDien\\images\\p056-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 56,
+        "file": "ThietKeGiaoDien\\images\\p056-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 57,
+        "file": "ThietKeGiaoDien\\images\\p057-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 57,
+        "file": "ThietKeGiaoDien\\images\\p057-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 57,
+        "file": "ThietKeGiaoDien\\images\\p057-i03.png",
+        "bytes": 188527,
+        "source_name": "Image336.png"
+      },
+      {
+        "page": 58,
+        "file": "ThietKeGiaoDien\\images\\p058-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 58,
+        "file": "ThietKeGiaoDien\\images\\p058-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 58,
+        "file": "ThietKeGiaoDien\\images\\p058-i03.jpg",
+        "bytes": 77017,
+        "source_name": "Image340.jpg"
+      },
+      {
+        "page": 59,
+        "file": "ThietKeGiaoDien\\images\\p059-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 59,
+        "file": "ThietKeGiaoDien\\images\\p059-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 60,
+        "file": "ThietKeGiaoDien\\images\\p060-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 60,
+        "file": "ThietKeGiaoDien\\images\\p060-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 60,
+        "file": "ThietKeGiaoDien\\images\\p060-i03.jpg",
+        "bytes": 88623,
+        "source_name": "Image352.jpg"
+      },
+      {
+        "page": 61,
+        "file": "ThietKeGiaoDien\\images\\p061-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 61,
+        "file": "ThietKeGiaoDien\\images\\p061-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 62,
+        "file": "ThietKeGiaoDien\\images\\p062-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 62,
+        "file": "ThietKeGiaoDien\\images\\p062-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 63,
+        "file": "ThietKeGiaoDien\\images\\p063-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 63,
+        "file": "ThietKeGiaoDien\\images\\p063-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 63,
+        "file": "ThietKeGiaoDien\\images\\p063-i03.png",
+        "bytes": 55905,
+        "source_name": "Image362.png"
+      },
+      {
+        "page": 64,
+        "file": "ThietKeGiaoDien\\images\\p064-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 64,
+        "file": "ThietKeGiaoDien\\images\\p064-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 65,
+        "file": "ThietKeGiaoDien\\images\\p065-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 65,
+        "file": "ThietKeGiaoDien\\images\\p065-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 66,
+        "file": "ThietKeGiaoDien\\images\\p066-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 66,
+        "file": "ThietKeGiaoDien\\images\\p066-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 66,
+        "file": "ThietKeGiaoDien\\images\\p066-i03.png",
+        "bytes": 15534,
+        "source_name": "Image372.png"
+      },
+      {
+        "page": 67,
+        "file": "ThietKeGiaoDien\\images\\p067-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 67,
+        "file": "ThietKeGiaoDien\\images\\p067-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 67,
+        "file": "ThietKeGiaoDien\\images\\p067-i03.png",
+        "bytes": 15680,
+        "source_name": "Image376.png"
+      },
+      {
+        "page": 68,
+        "file": "ThietKeGiaoDien\\images\\p068-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 68,
+        "file": "ThietKeGiaoDien\\images\\p068-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 68,
+        "file": "ThietKeGiaoDien\\images\\p068-i03.png",
+        "bytes": 20830,
+        "source_name": "Image380.png"
+      },
+      {
+        "page": 68,
+        "file": "ThietKeGiaoDien\\images\\p068-i04.png",
+        "bytes": 15794,
+        "source_name": "Image381.png"
+      },
+      {
+        "page": 69,
+        "file": "ThietKeGiaoDien\\images\\p069-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 69,
+        "file": "ThietKeGiaoDien\\images\\p069-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 69,
+        "file": "ThietKeGiaoDien\\images\\p069-i03.png",
+        "bytes": 18890,
+        "source_name": "Image385.png"
+      },
+      {
+        "page": 69,
+        "file": "ThietKeGiaoDien\\images\\p069-i04.png",
+        "bytes": 8048,
+        "source_name": "Image386.png"
+      },
+      {
+        "page": 70,
+        "file": "ThietKeGiaoDien\\images\\p070-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 70,
+        "file": "ThietKeGiaoDien\\images\\p070-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 70,
+        "file": "ThietKeGiaoDien\\images\\p070-i03.png",
+        "bytes": 29628,
+        "source_name": "Image390.png"
+      },
+      {
+        "page": 70,
+        "file": "ThietKeGiaoDien\\images\\p070-i04.png",
+        "bytes": 11524,
+        "source_name": "Image391.png"
+      },
+      {
+        "page": 71,
+        "file": "ThietKeGiaoDien\\images\\p071-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 71,
+        "file": "ThietKeGiaoDien\\images\\p071-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 71,
+        "file": "ThietKeGiaoDien\\images\\p071-i03.png",
+        "bytes": 36459,
+        "source_name": "Image395.png"
+      },
+      {
+        "page": 72,
+        "file": "ThietKeGiaoDien\\images\\p072-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 72,
+        "file": "ThietKeGiaoDien\\images\\p072-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 72,
+        "file": "ThietKeGiaoDien\\images\\p072-i03.png",
+        "bytes": 89403,
+        "source_name": "Image399.png"
+      },
+      {
+        "page": 73,
+        "file": "ThietKeGiaoDien\\images\\p073-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 73,
+        "file": "ThietKeGiaoDien\\images\\p073-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 73,
+        "file": "ThietKeGiaoDien\\images\\p073-i03.png",
+        "bytes": 41046,
+        "source_name": "Image403.png"
+      },
+      {
+        "page": 73,
+        "file": "ThietKeGiaoDien\\images\\p073-i04.png",
+        "bytes": 44118,
+        "source_name": "Image404.png"
+      },
+      {
+        "page": 74,
+        "file": "ThietKeGiaoDien\\images\\p074-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 74,
+        "file": "ThietKeGiaoDien\\images\\p074-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 74,
+        "file": "ThietKeGiaoDien\\images\\p074-i03.jpg",
+        "bytes": 64876,
+        "source_name": "Image408.jpg"
+      },
+      {
+        "page": 75,
+        "file": "ThietKeGiaoDien\\images\\p075-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 75,
+        "file": "ThietKeGiaoDien\\images\\p075-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 75,
+        "file": "ThietKeGiaoDien\\images\\p075-i03.jpg",
+        "bytes": 64712,
+        "source_name": "Image412.jpg"
+      },
+      {
+        "page": 76,
+        "file": "ThietKeGiaoDien\\images\\p076-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 76,
+        "file": "ThietKeGiaoDien\\images\\p076-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 76,
+        "file": "ThietKeGiaoDien\\images\\p076-i03.png",
+        "bytes": 51190,
+        "source_name": "Image416.png"
+      },
+      {
+        "page": 77,
+        "file": "ThietKeGiaoDien\\images\\p077-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 77,
+        "file": "ThietKeGiaoDien\\images\\p077-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 77,
+        "file": "ThietKeGiaoDien\\images\\p077-i03.png",
+        "bytes": 87490,
+        "source_name": "Image420.png"
+      },
+      {
+        "page": 78,
+        "file": "ThietKeGiaoDien\\images\\p078-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 78,
+        "file": "ThietKeGiaoDien\\images\\p078-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 78,
+        "file": "ThietKeGiaoDien\\images\\p078-i03.png",
+        "bytes": 102823,
+        "source_name": "Image424.png"
+      },
+      {
+        "page": 79,
+        "file": "ThietKeGiaoDien\\images\\p079-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 79,
+        "file": "ThietKeGiaoDien\\images\\p079-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 79,
+        "file": "ThietKeGiaoDien\\images\\p079-i03.png",
+        "bytes": 169050,
+        "source_name": "Image428.png"
+      },
+      {
+        "page": 80,
+        "file": "ThietKeGiaoDien\\images\\p080-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 80,
+        "file": "ThietKeGiaoDien\\images\\p080-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 80,
+        "file": "ThietKeGiaoDien\\images\\p080-i03.png",
+        "bytes": 9515,
+        "source_name": "Image432.png"
+      },
+      {
+        "page": 81,
+        "file": "ThietKeGiaoDien\\images\\p081-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 81,
+        "file": "ThietKeGiaoDien\\images\\p081-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 81,
+        "file": "ThietKeGiaoDien\\images\\p081-i03.png",
+        "bytes": 7810,
+        "source_name": "Image436.png"
+      },
+      {
+        "page": 82,
+        "file": "ThietKeGiaoDien\\images\\p082-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 82,
+        "file": "ThietKeGiaoDien\\images\\p082-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 82,
+        "file": "ThietKeGiaoDien\\images\\p082-i03.png",
+        "bytes": 11913,
+        "source_name": "Image440.png"
+      },
+      {
+        "page": 83,
+        "file": "ThietKeGiaoDien\\images\\p083-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 83,
+        "file": "ThietKeGiaoDien\\images\\p083-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 83,
+        "file": "ThietKeGiaoDien\\images\\p083-i03.png",
+        "bytes": 64252,
+        "source_name": "Image444.png"
+      },
+      {
+        "page": 84,
+        "file": "ThietKeGiaoDien\\images\\p084-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 84,
+        "file": "ThietKeGiaoDien\\images\\p084-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 84,
+        "file": "ThietKeGiaoDien\\images\\p084-i03.png",
+        "bytes": 18002,
+        "source_name": "Image448.png"
+      },
+      {
+        "page": 85,
+        "file": "ThietKeGiaoDien\\images\\p085-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 85,
+        "file": "ThietKeGiaoDien\\images\\p085-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 85,
+        "file": "ThietKeGiaoDien\\images\\p085-i03.png",
+        "bytes": 8669,
+        "source_name": "Image452.png"
+      },
+      {
+        "page": 86,
+        "file": "ThietKeGiaoDien\\images\\p086-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 86,
+        "file": "ThietKeGiaoDien\\images\\p086-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 87,
+        "file": "ThietKeGiaoDien\\images\\p087-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 87,
+        "file": "ThietKeGiaoDien\\images\\p087-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 87,
+        "file": "ThietKeGiaoDien\\images\\p087-i03.png",
+        "bytes": 7115,
+        "source_name": "Image466.png"
+      },
+      {
+        "page": 87,
+        "file": "ThietKeGiaoDien\\images\\p087-i04.png",
+        "bytes": 7408,
+        "source_name": "Image467.png"
+      },
+      {
+        "page": 87,
+        "file": "ThietKeGiaoDien\\images\\p087-i05.png",
+        "bytes": 8668,
+        "source_name": "Image468.png"
+      },
+      {
+        "page": 88,
+        "file": "ThietKeGiaoDien\\images\\p088-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 88,
+        "file": "ThietKeGiaoDien\\images\\p088-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 88,
+        "file": "ThietKeGiaoDien\\images\\p088-i03.png",
+        "bytes": 6462,
+        "source_name": "Image472.png"
+      },
+      {
+        "page": 89,
+        "file": "ThietKeGiaoDien\\images\\p089-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 89,
+        "file": "ThietKeGiaoDien\\images\\p089-i02.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      }
+    ]
+  },
+  {
+    "file": "YeuCauNguoiSuDung.pdf",
+    "pages": 67,
+    "title": "Slide 1",
+    "author": "Tran Minh Triet",
+    "text_file": "YeuCauNguoiSuDung\\text.txt",
+    "text_chars": 20461,
+    "images": [
+      {
+        "page": 1,
+        "file": "YeuCauNguoiSuDung\\images\\p001-i01.jpg",
+        "bytes": 20472,
+        "source_name": "Image6.jpg"
+      },
+      {
+        "page": 1,
+        "file": "YeuCauNguoiSuDung\\images\\p001-i02.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 1,
+        "file": "YeuCauNguoiSuDung\\images\\p001-i03.png",
+        "bytes": 27889,
+        "source_name": "Image9.png"
+      },
+      {
+        "page": 1,
+        "file": "YeuCauNguoiSuDung\\images\\p001-i04.png",
+        "bytes": 42642,
+        "source_name": "Image11.png"
+      },
+      {
+        "page": 2,
+        "file": "YeuCauNguoiSuDung\\images\\p002-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 2,
+        "file": "YeuCauNguoiSuDung\\images\\p002-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 3,
+        "file": "YeuCauNguoiSuDung\\images\\p003-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 3,
+        "file": "YeuCauNguoiSuDung\\images\\p003-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 4,
+        "file": "YeuCauNguoiSuDung\\images\\p004-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 4,
+        "file": "YeuCauNguoiSuDung\\images\\p004-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 5,
+        "file": "YeuCauNguoiSuDung\\images\\p005-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 5,
+        "file": "YeuCauNguoiSuDung\\images\\p005-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 6,
+        "file": "YeuCauNguoiSuDung\\images\\p006-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 6,
+        "file": "YeuCauNguoiSuDung\\images\\p006-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 7,
+        "file": "YeuCauNguoiSuDung\\images\\p007-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 7,
+        "file": "YeuCauNguoiSuDung\\images\\p007-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 8,
+        "file": "YeuCauNguoiSuDung\\images\\p008-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 8,
+        "file": "YeuCauNguoiSuDung\\images\\p008-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 9,
+        "file": "YeuCauNguoiSuDung\\images\\p009-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 9,
+        "file": "YeuCauNguoiSuDung\\images\\p009-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 10,
+        "file": "YeuCauNguoiSuDung\\images\\p010-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 10,
+        "file": "YeuCauNguoiSuDung\\images\\p010-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 11,
+        "file": "YeuCauNguoiSuDung\\images\\p011-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 11,
+        "file": "YeuCauNguoiSuDung\\images\\p011-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 12,
+        "file": "YeuCauNguoiSuDung\\images\\p012-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 12,
+        "file": "YeuCauNguoiSuDung\\images\\p012-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 13,
+        "file": "YeuCauNguoiSuDung\\images\\p013-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 13,
+        "file": "YeuCauNguoiSuDung\\images\\p013-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 13,
+        "file": "YeuCauNguoiSuDung\\images\\p013-i03.jpg",
+        "bytes": 232524,
+        "source_name": "Image83.jpg"
+      },
+      {
+        "page": 14,
+        "file": "YeuCauNguoiSuDung\\images\\p014-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 14,
+        "file": "YeuCauNguoiSuDung\\images\\p014-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 15,
+        "file": "YeuCauNguoiSuDung\\images\\p015-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 15,
+        "file": "YeuCauNguoiSuDung\\images\\p015-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 15,
+        "file": "YeuCauNguoiSuDung\\images\\p015-i03.jpg",
+        "bytes": 164885,
+        "source_name": "Image90.jpg"
+      },
+      {
+        "page": 16,
+        "file": "YeuCauNguoiSuDung\\images\\p016-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 16,
+        "file": "YeuCauNguoiSuDung\\images\\p016-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 16,
+        "file": "YeuCauNguoiSuDung\\images\\p016-i03.jpg",
+        "bytes": 247175,
+        "source_name": "Image94.jpg"
+      },
+      {
+        "page": 17,
+        "file": "YeuCauNguoiSuDung\\images\\p017-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 17,
+        "file": "YeuCauNguoiSuDung\\images\\p017-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 18,
+        "file": "YeuCauNguoiSuDung\\images\\p018-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 18,
+        "file": "YeuCauNguoiSuDung\\images\\p018-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 18,
+        "file": "YeuCauNguoiSuDung\\images\\p018-i03.jpg",
+        "bytes": 228974,
+        "source_name": "Image101.jpg"
+      },
+      {
+        "page": 19,
+        "file": "YeuCauNguoiSuDung\\images\\p019-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 19,
+        "file": "YeuCauNguoiSuDung\\images\\p019-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 20,
+        "file": "YeuCauNguoiSuDung\\images\\p020-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 20,
+        "file": "YeuCauNguoiSuDung\\images\\p020-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 21,
+        "file": "YeuCauNguoiSuDung\\images\\p021-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 21,
+        "file": "YeuCauNguoiSuDung\\images\\p021-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 22,
+        "file": "YeuCauNguoiSuDung\\images\\p022-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 22,
+        "file": "YeuCauNguoiSuDung\\images\\p022-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 23,
+        "file": "YeuCauNguoiSuDung\\images\\p023-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 23,
+        "file": "YeuCauNguoiSuDung\\images\\p023-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 24,
+        "file": "YeuCauNguoiSuDung\\images\\p024-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 24,
+        "file": "YeuCauNguoiSuDung\\images\\p024-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 25,
+        "file": "YeuCauNguoiSuDung\\images\\p025-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 25,
+        "file": "YeuCauNguoiSuDung\\images\\p025-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 26,
+        "file": "YeuCauNguoiSuDung\\images\\p026-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 26,
+        "file": "YeuCauNguoiSuDung\\images\\p026-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 27,
+        "file": "YeuCauNguoiSuDung\\images\\p027-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 27,
+        "file": "YeuCauNguoiSuDung\\images\\p027-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 28,
+        "file": "YeuCauNguoiSuDung\\images\\p028-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 28,
+        "file": "YeuCauNguoiSuDung\\images\\p028-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 29,
+        "file": "YeuCauNguoiSuDung\\images\\p029-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 29,
+        "file": "YeuCauNguoiSuDung\\images\\p029-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 30,
+        "file": "YeuCauNguoiSuDung\\images\\p030-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 30,
+        "file": "YeuCauNguoiSuDung\\images\\p030-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 31,
+        "file": "YeuCauNguoiSuDung\\images\\p031-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 31,
+        "file": "YeuCauNguoiSuDung\\images\\p031-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 32,
+        "file": "YeuCauNguoiSuDung\\images\\p032-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 32,
+        "file": "YeuCauNguoiSuDung\\images\\p032-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 33,
+        "file": "YeuCauNguoiSuDung\\images\\p033-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 33,
+        "file": "YeuCauNguoiSuDung\\images\\p033-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 34,
+        "file": "YeuCauNguoiSuDung\\images\\p034-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 34,
+        "file": "YeuCauNguoiSuDung\\images\\p034-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 35,
+        "file": "YeuCauNguoiSuDung\\images\\p035-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 35,
+        "file": "YeuCauNguoiSuDung\\images\\p035-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 36,
+        "file": "YeuCauNguoiSuDung\\images\\p036-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 36,
+        "file": "YeuCauNguoiSuDung\\images\\p036-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 37,
+        "file": "YeuCauNguoiSuDung\\images\\p037-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 37,
+        "file": "YeuCauNguoiSuDung\\images\\p037-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 38,
+        "file": "YeuCauNguoiSuDung\\images\\p038-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 38,
+        "file": "YeuCauNguoiSuDung\\images\\p038-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 39,
+        "file": "YeuCauNguoiSuDung\\images\\p039-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 39,
+        "file": "YeuCauNguoiSuDung\\images\\p039-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 40,
+        "file": "YeuCauNguoiSuDung\\images\\p040-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 40,
+        "file": "YeuCauNguoiSuDung\\images\\p040-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 41,
+        "file": "YeuCauNguoiSuDung\\images\\p041-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 41,
+        "file": "YeuCauNguoiSuDung\\images\\p041-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 42,
+        "file": "YeuCauNguoiSuDung\\images\\p042-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 42,
+        "file": "YeuCauNguoiSuDung\\images\\p042-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 43,
+        "file": "YeuCauNguoiSuDung\\images\\p043-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 43,
+        "file": "YeuCauNguoiSuDung\\images\\p043-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 44,
+        "file": "YeuCauNguoiSuDung\\images\\p044-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 44,
+        "file": "YeuCauNguoiSuDung\\images\\p044-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 45,
+        "file": "YeuCauNguoiSuDung\\images\\p045-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 45,
+        "file": "YeuCauNguoiSuDung\\images\\p045-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 46,
+        "file": "YeuCauNguoiSuDung\\images\\p046-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 46,
+        "file": "YeuCauNguoiSuDung\\images\\p046-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 47,
+        "file": "YeuCauNguoiSuDung\\images\\p047-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 47,
+        "file": "YeuCauNguoiSuDung\\images\\p047-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 48,
+        "file": "YeuCauNguoiSuDung\\images\\p048-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 48,
+        "file": "YeuCauNguoiSuDung\\images\\p048-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 49,
+        "file": "YeuCauNguoiSuDung\\images\\p049-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 49,
+        "file": "YeuCauNguoiSuDung\\images\\p049-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 50,
+        "file": "YeuCauNguoiSuDung\\images\\p050-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 50,
+        "file": "YeuCauNguoiSuDung\\images\\p050-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 50,
+        "file": "YeuCauNguoiSuDung\\images\\p050-i03.png",
+        "bytes": 44153,
+        "source_name": "Image206.png"
+      },
+      {
+        "page": 50,
+        "file": "YeuCauNguoiSuDung\\images\\p050-i04.png",
+        "bytes": 37695,
+        "source_name": "Image208.png"
+      },
+      {
+        "page": 51,
+        "file": "YeuCauNguoiSuDung\\images\\p051-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 51,
+        "file": "YeuCauNguoiSuDung\\images\\p051-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 52,
+        "file": "YeuCauNguoiSuDung\\images\\p052-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 52,
+        "file": "YeuCauNguoiSuDung\\images\\p052-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 52,
+        "file": "YeuCauNguoiSuDung\\images\\p052-i03.png",
+        "bytes": 27129,
+        "source_name": "Image216.png"
+      },
+      {
+        "page": 53,
+        "file": "YeuCauNguoiSuDung\\images\\p053-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 53,
+        "file": "YeuCauNguoiSuDung\\images\\p053-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 53,
+        "file": "YeuCauNguoiSuDung\\images\\p053-i03.png",
+        "bytes": 13294,
+        "source_name": "Image220.png"
+      },
+      {
+        "page": 54,
+        "file": "YeuCauNguoiSuDung\\images\\p054-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 54,
+        "file": "YeuCauNguoiSuDung\\images\\p054-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 54,
+        "file": "YeuCauNguoiSuDung\\images\\p054-i03.png",
+        "bytes": 15746,
+        "source_name": "Image224.png"
+      },
+      {
+        "page": 55,
+        "file": "YeuCauNguoiSuDung\\images\\p055-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 55,
+        "file": "YeuCauNguoiSuDung\\images\\p055-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 55,
+        "file": "YeuCauNguoiSuDung\\images\\p055-i03.png",
+        "bytes": 54751,
+        "source_name": "Image228.png"
+      },
+      {
+        "page": 56,
+        "file": "YeuCauNguoiSuDung\\images\\p056-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 56,
+        "file": "YeuCauNguoiSuDung\\images\\p056-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 56,
+        "file": "YeuCauNguoiSuDung\\images\\p056-i03.png",
+        "bytes": 36771,
+        "source_name": "Image232.png"
+      },
+      {
+        "page": 57,
+        "file": "YeuCauNguoiSuDung\\images\\p057-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 57,
+        "file": "YeuCauNguoiSuDung\\images\\p057-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 57,
+        "file": "YeuCauNguoiSuDung\\images\\p057-i03.png",
+        "bytes": 57458,
+        "source_name": "Image236.png"
+      },
+      {
+        "page": 58,
+        "file": "YeuCauNguoiSuDung\\images\\p058-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 58,
+        "file": "YeuCauNguoiSuDung\\images\\p058-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 58,
+        "file": "YeuCauNguoiSuDung\\images\\p058-i03.png",
+        "bytes": 31677,
+        "source_name": "Image240.png"
+      },
+      {
+        "page": 59,
+        "file": "YeuCauNguoiSuDung\\images\\p059-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 59,
+        "file": "YeuCauNguoiSuDung\\images\\p059-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 59,
+        "file": "YeuCauNguoiSuDung\\images\\p059-i03.png",
+        "bytes": 36291,
+        "source_name": "Image244.png"
+      },
+      {
+        "page": 60,
+        "file": "YeuCauNguoiSuDung\\images\\p060-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 60,
+        "file": "YeuCauNguoiSuDung\\images\\p060-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 60,
+        "file": "YeuCauNguoiSuDung\\images\\p060-i03.png",
+        "bytes": 54160,
+        "source_name": "Image248.png"
+      },
+      {
+        "page": 61,
+        "file": "YeuCauNguoiSuDung\\images\\p061-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 61,
+        "file": "YeuCauNguoiSuDung\\images\\p061-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 61,
+        "file": "YeuCauNguoiSuDung\\images\\p061-i03.png",
+        "bytes": 44256,
+        "source_name": "Image252.png"
+      },
+      {
+        "page": 62,
+        "file": "YeuCauNguoiSuDung\\images\\p062-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 62,
+        "file": "YeuCauNguoiSuDung\\images\\p062-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 62,
+        "file": "YeuCauNguoiSuDung\\images\\p062-i03.png",
+        "bytes": 33683,
+        "source_name": "Image256.png"
+      },
+      {
+        "page": 63,
+        "file": "YeuCauNguoiSuDung\\images\\p063-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 63,
+        "file": "YeuCauNguoiSuDung\\images\\p063-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 63,
+        "file": "YeuCauNguoiSuDung\\images\\p063-i03.png",
+        "bytes": 31949,
+        "source_name": "Image260.png"
+      },
+      {
+        "page": 64,
+        "file": "YeuCauNguoiSuDung\\images\\p064-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 64,
+        "file": "YeuCauNguoiSuDung\\images\\p064-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 64,
+        "file": "YeuCauNguoiSuDung\\images\\p064-i03.png",
+        "bytes": 46200,
+        "source_name": "Image264.png"
+      },
+      {
+        "page": 65,
+        "file": "YeuCauNguoiSuDung\\images\\p065-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 65,
+        "file": "YeuCauNguoiSuDung\\images\\p065-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 65,
+        "file": "YeuCauNguoiSuDung\\images\\p065-i03.png",
+        "bytes": 31159,
+        "source_name": "Image268.png"
+      },
+      {
+        "page": 66,
+        "file": "YeuCauNguoiSuDung\\images\\p066-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 66,
+        "file": "YeuCauNguoiSuDung\\images\\p066-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 66,
+        "file": "YeuCauNguoiSuDung\\images\\p066-i03.png",
+        "bytes": 42950,
+        "source_name": "Image272.png"
+      },
+      {
+        "page": 67,
+        "file": "YeuCauNguoiSuDung\\images\\p067-i01.png",
+        "bytes": 102,
+        "source_name": "Image8.png"
+      },
+      {
+        "page": 67,
+        "file": "YeuCauNguoiSuDung\\images\\p067-i02.png",
+        "bytes": 29687,
+        "source_name": "Image22.png"
+      },
+      {
+        "page": 67,
+        "file": "YeuCauNguoiSuDung\\images\\p067-i03.png",
+        "bytes": 59904,
+        "source_name": "Image276.png"
+      }
+    ]
+  }
+]

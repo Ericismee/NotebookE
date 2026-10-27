@@ -1,11 +1,11 @@
 import os
 import traceback
-from typing import Dict, List, Optional
+from typing import Dict, List, Literal, Optional
 
 from esperanto import AIFactory
-from fastapi import APIRouter, HTTPException, Query
+from fastapi import APIRouter, HTTPException, Query, Response
 from loguru import logger
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 from api.models import (
     DefaultModelsResponse,
@@ -30,6 +30,47 @@ from notebooke.exceptions import (
 )
 
 router = APIRouter()
+
+
+@router.get("/models/{model_id}/voices")
+async def list_model_voices(model_id: str, language: Optional[str] = None):
+    """List voice metadata without returning provider credentials."""
+    from notebooke.ai.speech import list_speech_voices
+
+    return await list_speech_voices(model_id, language)
+
+
+class VoicePreviewRequest(BaseModel):
+    voice: str = Field(min_length=1, max_length=100)
+    language: Literal["vi", "en"] = "vi"
+
+
+@router.get("/models/{model_id}/voices/preview")
+async def cached_model_voice(
+    model_id: str,
+    voice: str = Query(min_length=1, max_length=100),
+    language: Literal["vi", "en"] = "vi",
+):
+    from notebooke.ai.speech import preview_speech
+
+    audio = await preview_speech(model_id, voice, language, cached_only=True)
+    return Response(
+        content=audio.audio_data,
+        media_type=audio.content_type,
+        headers={"Cache-Control": "private, max-age=3600"},
+    )
+
+
+@router.post("/models/{model_id}/voices/preview")
+async def preview_model_voice(model_id: str, request: VoicePreviewRequest):
+    from notebooke.ai.speech import preview_speech
+
+    audio = await preview_speech(model_id, request.voice, request.language)
+    return Response(
+        content=audio.audio_data,
+        media_type=audio.content_type,
+        headers={"Cache-Control": "no-store"},
+    )
 
 
 # =============================================================================
@@ -319,7 +360,11 @@ async def get_default_models():
             default_embedding_model=defaults.default_embedding_model,  # type: ignore[attr-defined]
             default_tools_model=defaults.default_tools_model,  # type: ignore[attr-defined]
             default_video_model=defaults.default_video_model,  # type: ignore[attr-defined]
-            default_image_model=(getattr(defaults, "default_image_model", None) if isinstance(getattr(defaults, "default_image_model", None), str) else None),
+            default_image_model=(
+                getattr(defaults, "default_image_model", None)
+                if isinstance(getattr(defaults, "default_image_model", None), str)
+                else None
+            ),
         )
     except HTTPException:
         raise
@@ -375,7 +420,11 @@ async def update_default_models(defaults_data: DefaultModelsResponse):
             default_embedding_model=defaults.default_embedding_model,  # type: ignore[attr-defined]
             default_tools_model=defaults.default_tools_model,  # type: ignore[attr-defined]
             default_video_model=defaults.default_video_model,  # type: ignore[attr-defined]
-            default_image_model=(getattr(defaults, "default_image_model", None) if isinstance(getattr(defaults, "default_image_model", None), str) else None),
+            default_image_model=(
+                getattr(defaults, "default_image_model", None)
+                if isinstance(getattr(defaults, "default_image_model", None), str)
+                else None
+            ),
         )
     except HTTPException:
         raise
@@ -452,12 +501,11 @@ async def get_provider_availability():
             or _check_openai_compatible_support("STT")
             or _check_openai_compatible_support("TTS")
         )
-        provider_status["anthropic_compatible"] = (
-            await _check_provider_has_credential("anthropic_compatible")
-            or (
-                bool((os.environ.get("ANTHROPIC_COMPATIBLE_BASE_URL") or "").strip())
-                and bool((os.environ.get("ANTHROPIC_COMPATIBLE_API_KEY") or "").strip())
-            )
+        provider_status["anthropic_compatible"] = await _check_provider_has_credential(
+            "anthropic_compatible"
+        ) or (
+            bool((os.environ.get("ANTHROPIC_COMPATIBLE_BASE_URL") or "").strip())
+            and bool((os.environ.get("ANTHROPIC_COMPATIBLE_API_KEY") or "").strip())
         )
 
         available_providers = [k for k, v in provider_status.items() if v]
@@ -535,9 +583,7 @@ async def get_provider_availability():
 # =============================================================================
 
 
-@router.get(
-    "/models/discover/{provider}", response_model=List[DiscoveredModelResponse]
-)
+@router.get("/models/discover/{provider}", response_model=List[DiscoveredModelResponse])
 async def discover_models(provider: str):
     """
     Discover available models from a provider without registering them.
@@ -566,7 +612,8 @@ async def discover_models(provider: str):
     except Exception as e:
         logger.error(f"Error discovering models for {provider}: {str(e)}")
         raise HTTPException(
-            status_code=500, detail="Error discovering models. Check server logs for details."
+            status_code=500,
+            detail="Error discovering models. Check server logs for details.",
         )
 
 
@@ -598,7 +645,10 @@ async def sync_models(provider: str):
         raise
     except Exception as e:
         logger.error(f"Error syncing models for {provider}: {str(e)}")
-        raise HTTPException(status_code=500, detail="Error syncing models. Check server logs for details.")
+        raise HTTPException(
+            status_code=500,
+            detail="Error syncing models. Check server logs for details.",
+        )
 
 
 @router.post("/models/sync", response_model=AllProvidersSyncResponse)
@@ -703,9 +753,7 @@ async def get_models_by_provider(provider: str):
         raise
     except Exception as e:
         logger.error(f"Error fetching models for {provider}: {str(e)}")
-        raise HTTPException(
-            status_code=500, detail=f"Error fetching models: {str(e)}"
-        )
+        raise HTTPException(status_code=500, detail=f"Error fetching models: {str(e)}")
 
 
 def _get_preferred_model(

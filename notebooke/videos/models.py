@@ -34,6 +34,7 @@ class VideoEpisode(ObjectModel):
         "character_id",
         "custom_prompt",
         "aspect_ratio",
+        "voice_model",
     }
 
     # User-facing
@@ -50,6 +51,7 @@ class VideoEpisode(ObjectModel):
     image_workflow: Optional[str] = Field(default=None, description="Image generation workflow")
     visual_mode: str = Field(default="auto", description="Visual direction mode")
     tts_voice: str = Field(default="vi-VN-HoaiMyNeural", description="TTS voice used")
+    voice_model: Optional[str] = None
     language: Optional[str] = Field(default=None, description="Video language")
     video_type: Optional[str] = Field(default="summary", description="Type of video")
     style: Optional[str] = Field(default="auto", description="Visual template preset")

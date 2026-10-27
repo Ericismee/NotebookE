@@ -138,6 +138,9 @@ async def generate_podcast(request: PodcastGenerationRequest):
             notebook_id=request.notebook_id,
             content=request.content,
             briefing_suffix=request.briefing_suffix,
+            language=request.language,
+            voice_model=request.voice_model,
+            speaker_voices=request.speaker_voices,
         )
 
         return PodcastGenerationResponse(
@@ -154,9 +157,7 @@ async def generate_podcast(request: PodcastGenerationRequest):
         raise
     except Exception as e:
         logger.error(f"Error generating podcast: {str(e)}")
-        raise HTTPException(
-            status_code=500, detail="Failed to generate podcast"
-        )
+        raise HTTPException(status_code=500, detail="Failed to generate podcast")
 
 
 @router.get("/podcasts/jobs/{job_id}")
@@ -172,9 +173,7 @@ async def get_podcast_job_status(job_id: str):
         raise
     except Exception as e:
         logger.error(f"Error fetching podcast job status: {str(e)}")
-        raise HTTPException(
-            status_code=500, detail="Failed to fetch job status"
-        )
+        raise HTTPException(status_code=500, detail="Failed to fetch job status")
 
 
 @router.get("/podcasts/episodes", response_model=List[PodcastEpisodeResponse])
@@ -259,9 +258,7 @@ async def list_podcast_episodes():
         raise
     except Exception as e:
         logger.error(f"Error listing podcast episodes: {str(e)}")
-        raise HTTPException(
-            status_code=500, detail="Failed to list podcast episodes"
-        )
+        raise HTTPException(status_code=500, detail="Failed to list podcast episodes")
 
 
 @router.get("/podcasts/episodes/{episode_id}", response_model=PodcastEpisodeResponse)
@@ -396,6 +393,13 @@ async def retry_podcast_episode(episode_id: str):
             speaker_profile_name=sp_profile_name,
             episode_name=episode_name,
             content=content,
+            language=episode.episode_profile.get("language"),
+            voice_model=episode.speaker_profile.get("voice_model"),
+            speaker_voices=[
+                speaker.get("voice_id", "")
+                for speaker in episode.speaker_profile.get("speakers", [])
+            ]
+            or None,
         )
 
         return {"job_id": job_id, "message": "Retry submitted successfully"}
@@ -406,9 +410,7 @@ async def retry_podcast_episode(episode_id: str):
         raise
     except Exception as e:
         logger.error(f"Error retrying podcast episode: {str(e)}")
-        raise HTTPException(
-            status_code=500, detail="Failed to retry episode"
-        )
+        raise HTTPException(status_code=500, detail="Failed to retry episode")
 
 
 @router.delete("/podcasts/episodes/{episode_id}")
@@ -433,9 +435,7 @@ async def delete_podcast_episode(episode_id: str):
         raise
     except Exception as e:
         logger.error(f"Error deleting podcast episode: {str(e)}")
-        raise HTTPException(
-            status_code=500, detail="Failed to delete episode"
-        )
+        raise HTTPException(status_code=500, detail="Failed to delete episode")
 
 
 @router.post("/podcasts/episodes/{episode_id}/cancel")
@@ -449,7 +449,7 @@ async def cancel_podcast_episode(episode_id: str):
                 status_code=400,
                 detail="Episode does not have an associated background job",
             )
-            
+
         detail = await episode.get_job_detail()
         if detail["status"] not in ("running", "processing", "pending", "submitted"):
             raise HTTPException(
@@ -463,7 +463,10 @@ async def cancel_podcast_episode(episode_id: str):
                 status_code=500, detail="Failed to cancel the background job"
             )
 
-        return {"message": "Episode job cancelled successfully", "episode_id": episode_id}
+        return {
+            "message": "Episode job cancelled successfully",
+            "episode_id": episode_id,
+        }
 
     except HTTPException:
         raise
@@ -471,7 +474,4 @@ async def cancel_podcast_episode(episode_id: str):
         raise
     except Exception as e:
         logger.error(f"Error cancelling podcast episode: {str(e)}")
-        raise HTTPException(
-            status_code=500, detail="Failed to cancel episode"
-        )
-
+        raise HTTPException(status_code=500, detail="Failed to cancel episode")

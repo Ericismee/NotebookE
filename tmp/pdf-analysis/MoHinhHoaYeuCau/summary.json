@@ -1,0 +1,1126 @@
+{
+  "file": "MoHinhHoaYeuCau.pdf",
+  "pages": 61,
+  "title": "Slide 1",
+  "author": "Tran Minh Triet",
+  "text_file": "MoHinhHoaYeuCau\\text.txt",
+  "text_chars": 29206,
+  "images": [
+    {
+      "page": 1,
+      "file": "MoHinhHoaYeuCau\\images\\p001-i01.jpg",
+      "bytes": 20472,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 1,
+      "file": "MoHinhHoaYeuCau\\images\\p001-i02.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 1,
+      "file": "MoHinhHoaYeuCau\\images\\p001-i03.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 1,
+      "file": "MoHinhHoaYeuCau\\images\\p001-i04.png",
+      "bytes": 51382,
+      "source_name": "Image11.png"
+    },
+    {
+      "page": 2,
+      "file": "MoHinhHoaYeuCau\\images\\p002-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 2,
+      "file": "MoHinhHoaYeuCau\\images\\p002-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 3,
+      "file": "MoHinhHoaYeuCau\\images\\p003-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 3,
+      "file": "MoHinhHoaYeuCau\\images\\p003-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 4,
+      "file": "MoHinhHoaYeuCau\\images\\p004-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 4,
+      "file": "MoHinhHoaYeuCau\\images\\p004-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 5,
+      "file": "MoHinhHoaYeuCau\\images\\p005-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 5,
+      "file": "MoHinhHoaYeuCau\\images\\p005-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 5,
+      "file": "MoHinhHoaYeuCau\\images\\p005-i03.jpg",
+      "bytes": 44618,
+      "source_name": "Image52.jpg"
+    },
+    {
+      "page": 6,
+      "file": "MoHinhHoaYeuCau\\images\\p006-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 6,
+      "file": "MoHinhHoaYeuCau\\images\\p006-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 6,
+      "file": "MoHinhHoaYeuCau\\images\\p006-i03.png",
+      "bytes": 7751,
+      "source_name": "Image66.png"
+    },
+    {
+      "page": 6,
+      "file": "MoHinhHoaYeuCau\\images\\p006-i04.jp2",
+      "bytes": 8122,
+      "source_name": "Image68.jp2"
+    },
+    {
+      "page": 6,
+      "file": "MoHinhHoaYeuCau\\images\\p006-i05.jp2",
+      "bytes": 111703,
+      "source_name": "Image70.jp2"
+    },
+    {
+      "page": 6,
+      "file": "MoHinhHoaYeuCau\\images\\p006-i06.png",
+      "bytes": 10013,
+      "source_name": "Image72.png"
+    },
+    {
+      "page": 6,
+      "file": "MoHinhHoaYeuCau\\images\\p006-i07.png",
+      "bytes": 6952,
+      "source_name": "Image74.png"
+    },
+    {
+      "page": 6,
+      "file": "MoHinhHoaYeuCau\\images\\p006-i08.jp2",
+      "bytes": 40562,
+      "source_name": "Image76.jp2"
+    },
+    {
+      "page": 6,
+      "file": "MoHinhHoaYeuCau\\images\\p006-i09.png",
+      "bytes": 10726,
+      "source_name": "Image78.png"
+    },
+    {
+      "page": 6,
+      "file": "MoHinhHoaYeuCau\\images\\p006-i10.png",
+      "bytes": 10632,
+      "source_name": "Image80.png"
+    },
+    {
+      "page": 6,
+      "file": "MoHinhHoaYeuCau\\images\\p006-i11.png",
+      "bytes": 13820,
+      "source_name": "Image82.png"
+    },
+    {
+      "page": 7,
+      "file": "MoHinhHoaYeuCau\\images\\p007-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 7,
+      "file": "MoHinhHoaYeuCau\\images\\p007-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 7,
+      "file": "MoHinhHoaYeuCau\\images\\p007-i03.png",
+      "bytes": 7751,
+      "source_name": "Image66.png"
+    },
+    {
+      "page": 7,
+      "file": "MoHinhHoaYeuCau\\images\\p007-i04.jp2",
+      "bytes": 8122,
+      "source_name": "Image68.jp2"
+    },
+    {
+      "page": 7,
+      "file": "MoHinhHoaYeuCau\\images\\p007-i05.jp2",
+      "bytes": 111703,
+      "source_name": "Image70.jp2"
+    },
+    {
+      "page": 7,
+      "file": "MoHinhHoaYeuCau\\images\\p007-i06.png",
+      "bytes": 10013,
+      "source_name": "Image72.png"
+    },
+    {
+      "page": 7,
+      "file": "MoHinhHoaYeuCau\\images\\p007-i07.png",
+      "bytes": 6952,
+      "source_name": "Image74.png"
+    },
+    {
+      "page": 7,
+      "file": "MoHinhHoaYeuCau\\images\\p007-i08.jp2",
+      "bytes": 40562,
+      "source_name": "Image76.jp2"
+    },
+    {
+      "page": 7,
+      "file": "MoHinhHoaYeuCau\\images\\p007-i09.png",
+      "bytes": 10726,
+      "source_name": "Image78.png"
+    },
+    {
+      "page": 7,
+      "file": "MoHinhHoaYeuCau\\images\\p007-i10.png",
+      "bytes": 10632,
+      "source_name": "Image80.png"
+    },
+    {
+      "page": 7,
+      "file": "MoHinhHoaYeuCau\\images\\p007-i11.png",
+      "bytes": 13820,
+      "source_name": "Image82.png"
+    },
+    {
+      "page": 7,
+      "file": "MoHinhHoaYeuCau\\images\\p007-i12.png",
+      "bytes": 8880,
+      "source_name": "Image90.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i03.png",
+      "bytes": 1433,
+      "source_name": "Image105.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i04.png",
+      "bytes": 183,
+      "source_name": "Image107.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i05.png",
+      "bytes": 192,
+      "source_name": "Image113.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i06.png",
+      "bytes": 220,
+      "source_name": "Image115.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i07.png",
+      "bytes": 269,
+      "source_name": "Image119.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i08.png",
+      "bytes": 214,
+      "source_name": "Image123.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i09.png",
+      "bytes": 353,
+      "source_name": "Image127.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i10.png",
+      "bytes": 307,
+      "source_name": "Image134.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i11.png",
+      "bytes": 261,
+      "source_name": "Image144.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i12.png",
+      "bytes": 206,
+      "source_name": "Image146.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i13.png",
+      "bytes": 655,
+      "source_name": "Image148.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i14.png",
+      "bytes": 482,
+      "source_name": "Image152.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i15.png",
+      "bytes": 428,
+      "source_name": "Image154.png"
+    },
+    {
+      "page": 8,
+      "file": "MoHinhHoaYeuCau\\images\\p008-i16.png",
+      "bytes": 207,
+      "source_name": "Image156.png"
+    },
+    {
+      "page": 9,
+      "file": "MoHinhHoaYeuCau\\images\\p009-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 9,
+      "file": "MoHinhHoaYeuCau\\images\\p009-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 9,
+      "file": "MoHinhHoaYeuCau\\images\\p009-i03.png",
+      "bytes": 15523,
+      "source_name": "Image182.png"
+    },
+    {
+      "page": 10,
+      "file": "MoHinhHoaYeuCau\\images\\p010-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 10,
+      "file": "MoHinhHoaYeuCau\\images\\p010-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 11,
+      "file": "MoHinhHoaYeuCau\\images\\p011-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 11,
+      "file": "MoHinhHoaYeuCau\\images\\p011-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 11,
+      "file": "MoHinhHoaYeuCau\\images\\p011-i03.png",
+      "bytes": 15523,
+      "source_name": "Image182.png"
+    },
+    {
+      "page": 12,
+      "file": "MoHinhHoaYeuCau\\images\\p012-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 12,
+      "file": "MoHinhHoaYeuCau\\images\\p012-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 12,
+      "file": "MoHinhHoaYeuCau\\images\\p012-i03.png",
+      "bytes": 7751,
+      "source_name": "Image66.png"
+    },
+    {
+      "page": 12,
+      "file": "MoHinhHoaYeuCau\\images\\p012-i04.jp2",
+      "bytes": 8122,
+      "source_name": "Image68.jp2"
+    },
+    {
+      "page": 12,
+      "file": "MoHinhHoaYeuCau\\images\\p012-i05.jp2",
+      "bytes": 111703,
+      "source_name": "Image70.jp2"
+    },
+    {
+      "page": 12,
+      "file": "MoHinhHoaYeuCau\\images\\p012-i06.png",
+      "bytes": 10013,
+      "source_name": "Image72.png"
+    },
+    {
+      "page": 12,
+      "file": "MoHinhHoaYeuCau\\images\\p012-i07.png",
+      "bytes": 6952,
+      "source_name": "Image74.png"
+    },
+    {
+      "page": 12,
+      "file": "MoHinhHoaYeuCau\\images\\p012-i08.jp2",
+      "bytes": 40562,
+      "source_name": "Image76.jp2"
+    },
+    {
+      "page": 12,
+      "file": "MoHinhHoaYeuCau\\images\\p012-i09.png",
+      "bytes": 10726,
+      "source_name": "Image78.png"
+    },
+    {
+      "page": 12,
+      "file": "MoHinhHoaYeuCau\\images\\p012-i10.png",
+      "bytes": 10632,
+      "source_name": "Image80.png"
+    },
+    {
+      "page": 12,
+      "file": "MoHinhHoaYeuCau\\images\\p012-i11.png",
+      "bytes": 13820,
+      "source_name": "Image82.png"
+    },
+    {
+      "page": 12,
+      "file": "MoHinhHoaYeuCau\\images\\p012-i12.png",
+      "bytes": 8880,
+      "source_name": "Image196.png"
+    },
+    {
+      "page": 13,
+      "file": "MoHinhHoaYeuCau\\images\\p013-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 13,
+      "file": "MoHinhHoaYeuCau\\images\\p013-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 13,
+      "file": "MoHinhHoaYeuCau\\images\\p013-i03.jp2",
+      "bytes": 87623,
+      "source_name": "Image202.jp2"
+    },
+    {
+      "page": 14,
+      "file": "MoHinhHoaYeuCau\\images\\p014-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 14,
+      "file": "MoHinhHoaYeuCau\\images\\p014-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 14,
+      "file": "MoHinhHoaYeuCau\\images\\p014-i03.png",
+      "bytes": 7751,
+      "source_name": "Image66.png"
+    },
+    {
+      "page": 14,
+      "file": "MoHinhHoaYeuCau\\images\\p014-i04.jp2",
+      "bytes": 8122,
+      "source_name": "Image68.jp2"
+    },
+    {
+      "page": 14,
+      "file": "MoHinhHoaYeuCau\\images\\p014-i05.jp2",
+      "bytes": 111703,
+      "source_name": "Image70.jp2"
+    },
+    {
+      "page": 14,
+      "file": "MoHinhHoaYeuCau\\images\\p014-i06.png",
+      "bytes": 10013,
+      "source_name": "Image72.png"
+    },
+    {
+      "page": 14,
+      "file": "MoHinhHoaYeuCau\\images\\p014-i07.png",
+      "bytes": 6952,
+      "source_name": "Image74.png"
+    },
+    {
+      "page": 14,
+      "file": "MoHinhHoaYeuCau\\images\\p014-i08.jp2",
+      "bytes": 40562,
+      "source_name": "Image76.jp2"
+    },
+    {
+      "page": 14,
+      "file": "MoHinhHoaYeuCau\\images\\p014-i09.png",
+      "bytes": 10726,
+      "source_name": "Image78.png"
+    },
+    {
+      "page": 14,
+      "file": "MoHinhHoaYeuCau\\images\\p014-i10.png",
+      "bytes": 10632,
+      "source_name": "Image80.png"
+    },
+    {
+      "page": 14,
+      "file": "MoHinhHoaYeuCau\\images\\p014-i11.png",
+      "bytes": 13820,
+      "source_name": "Image82.png"
+    },
+    {
+      "page": 14,
+      "file": "MoHinhHoaYeuCau\\images\\p014-i12.png",
+      "bytes": 8880,
+      "source_name": "Image211.png"
+    },
+    {
+      "page": 15,
+      "file": "MoHinhHoaYeuCau\\images\\p015-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 15,
+      "file": "MoHinhHoaYeuCau\\images\\p015-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 16,
+      "file": "MoHinhHoaYeuCau\\images\\p016-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 16,
+      "file": "MoHinhHoaYeuCau\\images\\p016-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 17,
+      "file": "MoHinhHoaYeuCau\\images\\p017-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 17,
+      "file": "MoHinhHoaYeuCau\\images\\p017-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 18,
+      "file": "MoHinhHoaYeuCau\\images\\p018-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 18,
+      "file": "MoHinhHoaYeuCau\\images\\p018-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 18,
+      "file": "MoHinhHoaYeuCau\\images\\p018-i03.jpg",
+      "bytes": 25765,
+      "source_name": "Image227.jpg"
+    },
+    {
+      "page": 19,
+      "file": "MoHinhHoaYeuCau\\images\\p019-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 19,
+      "file": "MoHinhHoaYeuCau\\images\\p019-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 20,
+      "file": "MoHinhHoaYeuCau\\images\\p020-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 20,
+      "file": "MoHinhHoaYeuCau\\images\\p020-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 21,
+      "file": "MoHinhHoaYeuCau\\images\\p021-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 21,
+      "file": "MoHinhHoaYeuCau\\images\\p021-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 22,
+      "file": "MoHinhHoaYeuCau\\images\\p022-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 22,
+      "file": "MoHinhHoaYeuCau\\images\\p022-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 23,
+      "file": "MoHinhHoaYeuCau\\images\\p023-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 23,
+      "file": "MoHinhHoaYeuCau\\images\\p023-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 23,
+      "file": "MoHinhHoaYeuCau\\images\\p023-i03.png",
+      "bytes": 1378,
+      "source_name": "Image244.png"
+    },
+    {
+      "page": 24,
+      "file": "MoHinhHoaYeuCau\\images\\p024-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 24,
+      "file": "MoHinhHoaYeuCau\\images\\p024-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 25,
+      "file": "MoHinhHoaYeuCau\\images\\p025-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 25,
+      "file": "MoHinhHoaYeuCau\\images\\p025-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 26,
+      "file": "MoHinhHoaYeuCau\\images\\p026-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 26,
+      "file": "MoHinhHoaYeuCau\\images\\p026-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 27,
+      "file": "MoHinhHoaYeuCau\\images\\p027-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 27,
+      "file": "MoHinhHoaYeuCau\\images\\p027-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 28,
+      "file": "MoHinhHoaYeuCau\\images\\p028-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 28,
+      "file": "MoHinhHoaYeuCau\\images\\p028-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 29,
+      "file": "MoHinhHoaYeuCau\\images\\p029-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 29,
+      "file": "MoHinhHoaYeuCau\\images\\p029-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 30,
+      "file": "MoHinhHoaYeuCau\\images\\p030-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 30,
+      "file": "MoHinhHoaYeuCau\\images\\p030-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 31,
+      "file": "MoHinhHoaYeuCau\\images\\p031-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 31,
+      "file": "MoHinhHoaYeuCau\\images\\p031-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 32,
+      "file": "MoHinhHoaYeuCau\\images\\p032-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 32,
+      "file": "MoHinhHoaYeuCau\\images\\p032-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 33,
+      "file": "MoHinhHoaYeuCau\\images\\p033-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 33,
+      "file": "MoHinhHoaYeuCau\\images\\p033-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 34,
+      "file": "MoHinhHoaYeuCau\\images\\p034-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 34,
+      "file": "MoHinhHoaYeuCau\\images\\p034-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 35,
+      "file": "MoHinhHoaYeuCau\\images\\p035-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 35,
+      "file": "MoHinhHoaYeuCau\\images\\p035-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 36,
+      "file": "MoHinhHoaYeuCau\\images\\p036-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 36,
+      "file": "MoHinhHoaYeuCau\\images\\p036-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 37,
+      "file": "MoHinhHoaYeuCau\\images\\p037-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 37,
+      "file": "MoHinhHoaYeuCau\\images\\p037-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 38,
+      "file": "MoHinhHoaYeuCau\\images\\p038-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 38,
+      "file": "MoHinhHoaYeuCau\\images\\p038-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 39,
+      "file": "MoHinhHoaYeuCau\\images\\p039-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 39,
+      "file": "MoHinhHoaYeuCau\\images\\p039-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 40,
+      "file": "MoHinhHoaYeuCau\\images\\p040-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 40,
+      "file": "MoHinhHoaYeuCau\\images\\p040-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 41,
+      "file": "MoHinhHoaYeuCau\\images\\p041-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 41,
+      "file": "MoHinhHoaYeuCau\\images\\p041-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 41,
+      "file": "MoHinhHoaYeuCau\\images\\p041-i03.png",
+      "bytes": 10726,
+      "source_name": "Image307.png"
+    },
+    {
+      "page": 42,
+      "file": "MoHinhHoaYeuCau\\images\\p042-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 42,
+      "file": "MoHinhHoaYeuCau\\images\\p042-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 42,
+      "file": "MoHinhHoaYeuCau\\images\\p042-i03.png",
+      "bytes": 5825,
+      "source_name": "Image311.png"
+    },
+    {
+      "page": 43,
+      "file": "MoHinhHoaYeuCau\\images\\p043-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 43,
+      "file": "MoHinhHoaYeuCau\\images\\p043-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 44,
+      "file": "MoHinhHoaYeuCau\\images\\p044-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 44,
+      "file": "MoHinhHoaYeuCau\\images\\p044-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 44,
+      "file": "MoHinhHoaYeuCau\\images\\p044-i03.png",
+      "bytes": 13531,
+      "source_name": "Image318.png"
+    },
+    {
+      "page": 45,
+      "file": "MoHinhHoaYeuCau\\images\\p045-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 45,
+      "file": "MoHinhHoaYeuCau\\images\\p045-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 46,
+      "file": "MoHinhHoaYeuCau\\images\\p046-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 46,
+      "file": "MoHinhHoaYeuCau\\images\\p046-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 47,
+      "file": "MoHinhHoaYeuCau\\images\\p047-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 47,
+      "file": "MoHinhHoaYeuCau\\images\\p047-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 48,
+      "file": "MoHinhHoaYeuCau\\images\\p048-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 48,
+      "file": "MoHinhHoaYeuCau\\images\\p048-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 49,
+      "file": "MoHinhHoaYeuCau\\images\\p049-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 49,
+      "file": "MoHinhHoaYeuCau\\images\\p049-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 50,
+      "file": "MoHinhHoaYeuCau\\images\\p050-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 50,
+      "file": "MoHinhHoaYeuCau\\images\\p050-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 51,
+      "file": "MoHinhHoaYeuCau\\images\\p051-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 51,
+      "file": "MoHinhHoaYeuCau\\images\\p051-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 52,
+      "file": "MoHinhHoaYeuCau\\images\\p052-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 52,
+      "file": "MoHinhHoaYeuCau\\images\\p052-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 53,
+      "file": "MoHinhHoaYeuCau\\images\\p053-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 53,
+      "file": "MoHinhHoaYeuCau\\images\\p053-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 54,
+      "file": "MoHinhHoaYeuCau\\images\\p054-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 54,
+      "file": "MoHinhHoaYeuCau\\images\\p054-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 55,
+      "file": "MoHinhHoaYeuCau\\images\\p055-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 55,
+      "file": "MoHinhHoaYeuCau\\images\\p055-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 56,
+      "file": "MoHinhHoaYeuCau\\images\\p056-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 56,
+      "file": "MoHinhHoaYeuCau\\images\\p056-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 57,
+      "file": "MoHinhHoaYeuCau\\images\\p057-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 57,
+      "file": "MoHinhHoaYeuCau\\images\\p057-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 58,
+      "file": "MoHinhHoaYeuCau\\images\\p058-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 58,
+      "file": "MoHinhHoaYeuCau\\images\\p058-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 59,
+      "file": "MoHinhHoaYeuCau\\images\\p059-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 59,
+      "file": "MoHinhHoaYeuCau\\images\\p059-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 60,
+      "file": "MoHinhHoaYeuCau\\images\\p060-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 60,
+      "file": "MoHinhHoaYeuCau\\images\\p060-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 61,
+      "file": "MoHinhHoaYeuCau\\images\\p061-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 61,
+      "file": "MoHinhHoaYeuCau\\images\\p061-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+
+===== PAGE 1 =====
+THIẾT KẾ DỮ LIỆU LƯU TRỮ
+
+===== PAGE 2 =====
+                    Nội dung
+
+❖ Lưu trữ dữ liệu bằng CSDL quan hệ
+   ▪ Một số kỹ thuật để ánh xạ sơ đồ lớp sang sơ
+     đồ logic (tổ chức lưu trữ dữ liệu bằng CSDL
+     quan hệ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              2
+
+===== PAGE 3 =====
+                Quy tắc #1
+
+❖ Thông thường, mỗi lớp đối tượng đơn giản
+  được ánh xạ thành một bảng
+                                       🖎   Ví dụ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          3
+
+===== PAGE 4 =====
+                       Quy tắc #1
+
+❖  Chuyển đổi lớp –          bảng (class –        table)
+    ▪ Một lớp 🡪     một bảng
+    ▪ Một thuộc tính 🡪      một cột: chỉ có các thuộc tính có
+      nhu cầu lưu trử và được đòi hỏi bởi ứng dụng sẽ
+      được chuyển thành cột của bảng.
+    ▪ Một đối tượng (thể hiện) 🡪       một dòng
+
+
+   KháchHàng
+tênKháchHàng                   Tên_KH   Họ_KH    MãPIN    Số_Thẻ
+họKháchHàng
+mãPIN
+sốThẻ
+
+
+
+
+
+
+                                                           4
+
+===== PAGE 5 =====
+Ví dụ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       5
+
+===== PAGE 6 =====
+                Quy tắc #2
+
+❖ Quan hệ 1-1                        A           B
+
+                                    MA           …
+   A   1   1   B                    …            MA
+                                                 …
+
+                                     A           B
+
+                                    …            MB
+                                    MB           …
+                                    …
+                  AB                 A           B
+
+
+                                    MA           MB
+                                    MB           MA
+                                    …            …
+
+
+                          6
+                                   🖎   Ví dụ?
+
+===== PAGE 7 =====
+Chuyển đổi sang mô hình Quan hệ
+
+
+❖  Chuyển đổi liên kết (association,
+   agregration)
+    ▪ 1-1                 Bảng KháchHàng
+ KháchHàng
+tênKháchHàn                Tên_KH   Họ_KH     MãPIN    Số_TK
+họKháchHàng
+g
+mãPIN
+sốThẻ
+
+      1
+      1                   Bảng TàiKhoản
+
+  TàiKhoản                 Số_TK      Loại_TK Số_Dư_TK   Số_Thẻ
+sốTàiKhoản
+loạiTàiKhoản
+sốDư
+
+
+
+
+                                                                7
+
+===== PAGE 8 =====
+     Chuyển đổi sang mô hình Quan hệ
+
+
+  ❖  Chuyển đổi liên kết (association,
+     agregration)
+      ▪  1-1
+KháchHàng
+tênKháchHàng
+họKháchHàng     Bảng KháchHàng_TàiKhoản
+mãPIN
+sốThẻ
+     1          Tên_KH   Họ_KH    MãPIN     Số_Thẻ   Số_TK  Loại_TK Số_Dư_TK
+
+     1
+ TàiKhoản
+sốTàiKhoản
+loạiTàiKhoản
+sốDư
+
+
+
+
+
+                                                                  8
+
+===== PAGE 9 =====
+                Quy tắc #3
+
+❖ Quan hệ 1-n
+
+
+   A   1   *   B                  A           B
+
+
+                                 MA           …
+                                  …           MA
+                                              …
+            🖎  Ví dụ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          9
+
+===== PAGE 10 =====
+   Chuyển đổi sang mô hình Quan hệ
+
+  ❖  Chuyển đổi liên kết (association,
+     agregration)                                     GiaoDịch
+      ▪  1-n        TàiKhoản                      giaoDịchID
+                  sốTàiKhoản          có          ngàyGiaoDịch
+                  loạiTàiKhoản                    thờiGianGiaoDịch
+                  sốDư       11               0..nloạiGiaoDịc
+                                                  sốTiền
+                                                  h
+                                                  sốDư
+
+Bảng TàiKhoản
+
+              Số_TK    Loại_TK   Số_Dư_TK      Số_Thẻ
+
+
+Bảng GiaoDịch
+
+  GD_ID    Ngày_GD     Giờ_GD      Loại_GD     Số_Tiền    Số_Dư     Số_TK
+
+
+
+
+                                                                   10
+
+===== PAGE 11 =====
+11
+
+===== PAGE 12 =====
+12
+
+===== PAGE 13 =====
+                 Quy tắc #4
+
+❖ Quan hệ m-n
+
+
+   A   *    C*  B            A          C         B
+
+
+                             MA        MA         MB
+                             …         MB         …
+                                       …
+            🖎   Ví dụ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           13
+
+===== PAGE 14 =====
+           Chuyển đổi sang mô hình
+   ❖  Chuyển đổi liên kết (association, agregration)Quan hệ
+       ▪  n-n
+                    NhânViên                         CôngViệc
+                  mãNhânViên        Tham gia        côngViệcI
+                  tênNhânViên                       môTảCôngViệ
+                  sốĐiệnThoại  0..n                 D
+                                               0..n ngàyBắtĐầu
+                                                    c
+
+
+
+Bảng NhânViên            Mã_NV     Tên_NV        Số_ĐT
+
+
+
+
+
+                              Mã_NV           Công_Việc_ID
+Bảng NhânViên_CôngViệc
+(ThamGia)
+
+
+Bảng CôngViệc          Công_việc_ID   Mô_tả_CV           Ngày_BĐ   14
+
+===== PAGE 15 =====
+         Chuyển đổi sang mô hình
+  ❖  Chuyển đổi liên kết (association, agregration)Quan hệ
+      ▪  n-n      ĐơnHàng                               NguyênLiệu
+                sốĐơnHàng                             mãSố
+                ngàyĐơnHàng   1..n                    tênNLiệu
+                diễnGiải                         0..n ĐVT
+
+
+                                   dòngĐH
+                                 sốLượng
+                                 đơnGiá
+
+
+
+
+ Bảng ĐơnHàng                               Bảng DòngĐH
+
+Số_ĐH   Ngày_ĐH    DiễnGiải_ĐH         Số_ĐH     MS_NL   SốLượn    ĐơnGiá
+                                                            g
+
+
+
+      Bảng Nguyên Liệu            MS_NL        TênNL           ĐVT15
+
+===== PAGE 16 =====
+16
+
+===== PAGE 17 =====
+17
+
+===== PAGE 18 =====
+18
+
+===== PAGE 19 =====
+                          Quy tắc #5
+
+❖  Quan hệ kế thừa
+                                           A                B               C
+
+             A                        A(MA, x, y, z) B(MB, x, y, t, u) C(MC, x, y, v)
+          + x               + Đơn giản
+          # y               - Không thấy mối liên hệ giữa các loại đối tượng A, B, C
+          - z               - Khó thống kê tổng quát
+
+
+
+
+   B                     C                                   🖎     Ví dụ?
+# t                   -v
+# u
+
+
+
+
+
+
+
+
+
+
+                                         19
+
+===== PAGE 20 =====
+   Chuyển đổi sang mô hình Quan hệ
+  ❖   Chuyển đổi liên kết kế thừa                   NhânViên
+                                                  mãNhânViên
+                                                  tênNhânViên
+                                                  sốĐiệnThoại
+
+
+
+
+                                 NhânViênCôngNhật                   NhânViênBiênChế
+                                lươngNgày                          lươngTháng
+                                                                   bậcLươn
+                                                                   g
+
+
+Bảng NhânViên                       Bảng NhânViênBiênChế
+
+Mã_NV    Tên_NV   Điện_Thoạ    Mã_NV    Tên_NV     Điện_Thoạ  Lương_Tháng   Bậc_Lương
+                     i                                 i
+
+            Bảng NhânViênCôngNhật
+
+        Mã_NV       Tên_NV          Điện_Thoại        Lương_Ngày
+
+
+
+                                                                        20
+
+===== PAGE 21 =====
+                          Quy tắc #5
+
+❖  Quan hệ kế thừa                                        A
+
+
+                                              A(M, Loại, x, y, z, t, u, v)
+             A
+          + x               + Có được cái nhìn tổng quát về các đối tượng
+          # y               - Lãng phí không gian lưu trữ
+          - z
+
+
+                                          Loại    x     y      z      t     u     v
+                                           A
+   B                     C                 B
+# t                   -v
+# u                                        C
+                                                       🖎     Ví dụ?
+
+                                         21
+
+===== PAGE 22 =====
+    Chuyển đổi sang mô hình Quan hệ
+
+  ❖  Chuyển đổi liên kết kế thừa                NhânViên
+
+                                              mãNhânViên
+                                              tênNhânViên
+                                              sốĐiệnThoại
+
+
+
+
+                              NhânViênCôngNhật                 NhânViênBiênChế
+                             lươngNgày                        lươngTháng
+                                                              bậcLươn
+                                                              g
+
+
+Mã_NV     Tên_NV     Điện_Thoại Lương_Ngày    Lương_Tháng   Bậc_Lương    Loại_NV
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                     22
+
+===== PAGE 23 =====
+                         Quy tắc #5
+
+❖  Quan hệ kế thừa
+                                                     Chung_
+                                                        A
+             A                                    Chung_A(M, x, y)
+          + x
+          # y                         R_B              R_A            R_C
+          -z
+                                    R_B(M, t, u)     R_B(M, z)      R_C(M, v)
+
+
+   B                    C
+# t                  -v                   + Tiết kiệm không gian lưu trữ
+# u                                       + Cho phép có cái nhìn tổng quát
+                                          -Tổ chức khá phức tạp
+
+
+
+
+
+
+
+                                       23       🖎    Ví dụ?
+
+===== PAGE 24 =====
+ Chuyển đổi sang mô hình Quan hệ
+
+
+                                              NhânViên
+                                             mãNhânViên
+❖  Chuyển đổi liên kết kế thừa               tênNhânViên
+                                             sốĐiệnThoại
+
+
+
+
+                            NhânViênCôngNhật                 NhânViênBiênChế
+                            lươngNgày                       lươngTháng
+                                                            bậcLươn
+                                                            g
+ Bảng NhânViênBiênChế
+
+     Mã_NV       Tên_NV       Điện_Thoại    Lương_Tháng      Bậc_Lương
+
+
+         Bảng  NhânViênCôngNhật
+
+       Mã_NV      Tên_NV         Điện_Thoại       Lương_Ngày
+
+
+
+
+                                                                  24
+
+===== PAGE 25 =====
+    Chuyển đổi sang mô hình Quan hệ
+
+
+                                                NhânViên
+                                              mãNhânViên
+                                              tênNhânViên
+  ❖  Chuyển đổi liên kết kế thừa              sốĐiệnThoại
+
+
+
+
+                              NhânViênCôngNhật                 NhânViênBiênChế
+                              lươngNgày                       lươngTháng
+                                                              bậcLươn
+                                                              g
+
+
+              Bảng NhânViên                     Bảng NhânViênBiênChế
+
+Mã_NV      Tên_NV      Điện_Thoại     Mã_NV      Lương_Tháng       Bậc_Lương
+
+
+                         Bảng NhânViênCôngNhật
+
+                     Mã_NV           Lương_Ngày
+
+
+
+                                                                   25
+
+===== PAGE 26 =====
+             Ví dụ -         Quan hệ kế thừa
+
+
+
+
+NHAN_VIEN                                   QUA_TRINH_TANG_LUONG
+MA_NV                                       NGAY_HIEU_LUC
+TEN_NV             1                  1..*  LUONG_MOI
+DIA_CHI
+
+
+
+                            HOA_HONG
+
+                                                     DON_HANG
+                                                     SO_DDH
+NV_KINH_DOANH     1..*                         0..*  KHACH_HANG
+                                                     TRI_GIA
+                            Thương lượng
+
+
+
+NV_KD_LAU_NAM       1                  0..*  NV_KD_TAP_SU
+
+                       Hướng dẫn cho
+
+                                   26
+
+===== PAGE 27 =====
+      Ví dụ -      Quan hệ kế thừa
+
+
+
+
+QUA_TRINH_               DON_HANG
+TANG_LUONG               SO_DDH             Cách 1
+MA_NV                    KHACH_HANG
+NGAY_HIEU_LUC            TRI_GIA
+LUONG_MOI
+
+
+                         THUONG_LUONG
+NHAN_VIEN                MA_NV
+MA_NV                    SO_DDH
+TEN_NV                   HOA_HONG
+DIA_CHI
+LOAI_NV
+NV_HUONGDAN
+
+
+
+
+                        27
+
+===== PAGE 28 =====
+              Ví dụ -       Quan hệ kế thừa
+
+❖ Ràng    buộc    toàn   vẹn:
+   ▪  Loai_nv nhận  một trong ba giá trị:nhân viên lâu năm, hoặc
+      nhân viên tập sự hoặc  nhân  viênkhác
+   ▪  Nếu nhân  viên có loai_nv=“Nhân  viên tập sự” thì:
+       • Thuộc  tínhnhân  viên hướng  dẫn  <> null
+       • Ngược   lạithuộc tínhnhân  viên hướng  dẫn  = null
+   ▪  Ràng  buộc  chỉ có nhân   viên kinh doanh  mới  có  thương
+      lượng đơn  hàng
+       ∀ t∈ THUONG_LUONG,        ∃ n ∈ NHAN_VIEN     sao cho:
+         n.MA_NV=t.MA_VN      thìn.Loai_NV<>’Nhân    viên khác’
+       Cuối ∀
+
+
+
+
+
+                                 28
+
+===== PAGE 29 =====
+          Ví dụ -     Quan hệ kế thừa
+
+
+
+QUA_TRINH_                                   DON_HANG
+TANG_LUONG                Cách 2             SO_DDH
+
+MA_NV                                        KHACH_HANG
+NGAY_HIEU_LUC                                TRI_GIA
+LUONG_MOI
+
+                                            THUONG_LUONG
+NHAN_VIEN                                   MA_NV
+MA_NV                                       SO_DDH
+TEN_NV           1                          HOA_HONG
+DIA_CHI                    0..1
+LOAI_NV                NV_KINHDOANH
+                       MA_NV
+                       LOAI_NV_KD
+                       NV_HUONGDAN
+                           29
+
+===== PAGE 30 =====
+                   Quy tắc #6
+
+❖ Lớp đối tượng có thuộc tính có cấu trúc
+  phức tạp
+❖ Tách thành bảng phụ để lưu trữ thuộc tính
+  có cấu trúc phức tạp đó
+     class A                             A              B
+     {                                  MA              …
+     …                                   …              MA
+        B    x;                                     ThuocTinh1
+     …                                              ThuocTinh2
+     }                                                  …
+              Cấu trúc của B gồm:
+                 Thuộc tính 1
+                 Thuộc tính 2
+                     …
+
+
+
+
+                               30
+
+===== PAGE 31 =====
+                  Quy tắc #7
+
+❖ Lớp đối tượng có thuộc tính kiểu mảng
+❖ Tách thành bảng chi tiết
+
+
+     class A                          A             B
+     {                               MA             …
+     …                                …            MA
+       B[]      x;                                  …
+     …
+     }
+
+
+
+
+
+
+
+
+
+
+
+                            31
+
+===== PAGE 32 =====
+                 Quy tắc #8
+
+❖ Thuộc tính có giá trị rời rạc: Tách thành
+  bảng danh mục
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           32
+
+===== PAGE 33 =====
+                      Quy tắc #9
+
+❖  Bảng tham số
+    ▪ Dạng 1
+            Khóa   ThamSố#1     ThamSố#2        …      ThamSố#N
+            …      …            …           …          …
+
+Mỗi tham số  tương ứng với một cột  trong bảng tham số
+Bảng tham số thường    chỉ gồm 1 dòng  (chứa giá trị các tham số hiện hành)
+
+      Cần bổ sung tham số mới?
+?     Cần vô hiệu hóa tác dụng của một tham số?
+
+
+
+
+
+
+
+
+
+                                    33
+
+===== PAGE 34 =====
+                        Quy tắc #9
+
+❖  Bảng tham số                                 Được lưu
+                                                dạng chuỗi
+    ▪  Dạng 2
+      MãThamSố       TênThamSố       Kiểu   GiáTrị    TìnhTrạng
+           …               …          …       …           …
+
+Mỗi tham số   tương ứng với một dòng     trong bảng tham số
+Giá trị hiện tạicủa tham số được lưu bằng dạng chuỗi
+Mỗi tham số cần lưu trữ kiểu giá trị   để phần mềm “hiểu” đúng nội dung
+giá trị hiện tại của tham số
+
+       Cần bổ sung tham số mới?
+?      Cần vô hiệu hóa tác dụng của một tham số?
+
+
+
+
+                                       34
+
+===== PAGE 35 =====
+                   Thiết kế dữ liệu
+
+❖ Phải chú ý đến các vấn đề sau:
+
+   ▪ Không gian
+
+   ▪ Thời gian
+
+   ▪ Khối lượng dữ liệu phát sinh rất nhanh theo
+     thời gian
+
+   ▪ Đáp ứng yêu cầu truy xuất nhanh
+
+   ▪ ….
+
+
+
+
+                             35
+
+===== PAGE 36 =====
+  Chuyển đổi sang mô hình Quan hệ
+
+
+ ❖  Mô hình dữ liệu quan hệ của hệ thống ATM
+
+   Bảng KháchHàng
+   Tên_KH     Họ_KH     MãPIN     Số_Thẻ
+
+
+   Bảng TàiKhoản
+   Số_TK      Loại_T  Số_Dư_TK       Số_Thẻ
+                 K
+
+
+   Bảng GiaoDịch
+GD_ID   Ngày_GD     Giờ_GD    Loại_GD  Số_Tiền      Số_Dư     Số_TK
+
+
+
+
+                                                         36
+
+===== PAGE 37 =====
+37
+
+===== PAGE 38 =====
+38
+
+===== PAGE 39 =====
+39
+
+===== PAGE 40 =====
+40
+
+===== PAGE 41 =====
+41
+
+===== PAGE 42 =====
+42
+
+===== PAGE 43 =====
+43
+
+===== PAGE 44 =====
+44

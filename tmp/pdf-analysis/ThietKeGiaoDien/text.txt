@@ -1,0 +1,3078 @@
+
+===== PAGE 1 =====
+Thiết kế giao diện
+
+===== PAGE 2 =====
+                         Nội dung
+
+❖ Vai trò và mục tiêu của thiết kế giao diện (TKGD)
+❖ Các thành phần giao diện
+❖ Loại giao diện
+❖ Hình thức tương tác
+❖ Một số vấn đề cần lưu ý
+❖ Những vấn đề về chất lượng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    2
+
+===== PAGE 3 =====
+                Vai trò của giao diện
+
+
+
+
+
+                                  WAN
+Multimedia
+
+              LAN
+                                                    Dial
+                                                              Giao dịch điện tử
+
+
+
+
+                DSL                       Wireless
+
+
+
+
+                                                             …..
+
+ Cable                         FR/ATM                           Tài liệu điện tử
+
+
+
+
+         Xử lý thông tin               3
+                                     Tìm kiếm thông tin
+
+===== PAGE 4 =====
+                             Mục tiêu
+
+❖ Mục    tiêu:  mô   tả  chi   tiết cách    thức   giao  tiếp   giữa   người
+  dùng    và  phần   mềm     trong   quá   trình  thực   hiện   các  nghiệp
+  vụ liên quan
+                                               Người dùng
+
+                                               D1     D2
+                                                 Xử lý
+
+                                               D3      D4
+   ▪ Nội dung trình bày của D1, D2
+   ▪ Hình thức trình bày của D1, D2
+   ▪ Biến cố phải xử lý
+
+
+                                        4
+
+===== PAGE 5 =====
+Các thành phần của giao diện
+
+
+
+                                   Giao diện
+Multimedia                         tương tác
+
+
+
+                                                            Giao dịch điện tử
+
+                            Giao diện
+
+
+
+
+       Giao diện                              Giao diện
+       nhập liệu                               kết xuất       Tài liệu điện tử
+
+
+
+
+           Xử lý thông tin           5
+                                     Tìm kiếm thông tin
+
+===== PAGE 6 =====
+                            Thiết bị
+
+❖ Thiết bị vào và ra
+   ▪ Màn hình
+   ▪ Bàn phím
+   ▪ Mouse, bút từ, ...
+   ▪ Màn hình cảm biến
+   ▪ Mic/Speaker
+   ▪ Smart cards,…
+   ▪ Máy in
+❖ Cả thiết bị lẫn phương thức đều đang tiến hóa
+   ▪ Nhận dạng tiếng nói, chữ viết…
+
+
+                                       6
+
+===== PAGE 7 =====
+Loại giao diện
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             7
+
+===== PAGE 8 =====
+Loại giao diện
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             8
+
+===== PAGE 9 =====
+Loại giao diện
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             9
+
+===== PAGE 10 =====
+Hình thức tương tác
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                10
+
+===== PAGE 11 =====
+Hình thức tương tác
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                11
+
+===== PAGE 12 =====
+Một số vấn đề cần lưu ý
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   12
+
+===== PAGE 13 =====
+Một số vấn đề cần lưu ý
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   13
+
+===== PAGE 14 =====
+Một số vấn đề cần lưu ý
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   14
+
+===== PAGE 15 =====
+Một số vấn đề cần lưu ý
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   15
+
+===== PAGE 16 =====
+Một số vấn đề cần lưu ý
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   16
+
+===== PAGE 17 =====
+Một số vấn đề cần lưu ý
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   17
+
+===== PAGE 18 =====
+                           Các yêu cầu chất lượng
+
+❖  Tính tiện dụng
+    ▪  Dễ học
+    ▪  Thứ tự nhập trực quan, dễ sử dụng
+❖  Tính hiệu quả
+    ▪  Quy trình nhập đơn giản nhất, tự nhiên nhất
+    ▪  Tận dụng những bước xử lý trên màn hình
+    ▪  Tránh thêm những công đoạn (thao tác) thừa (không cần thiết)
+    ▪  Tốc độ thực hiện nhanh
+❖  Tính tiến hóa
+    ▪  Các tùy chọn về nội dung
+    ▪  Hình thức trình bày
+    ▪  Biến cố phải xử lý
+
+
+                                                     18
+
+===== PAGE 19 =====
+                        Các yêu cầu chất lượng
+
+–  Tính thân thiện
+
+    ▪  Chức năng dễ hiểu
+
+    ▪  Phát hiện ngay sai sót
+
+    ▪  Dự trù sẵn phản ứng khi người sử dụng (NSD) phạm sai sót
+
+    ▪  Đủ uyển chuyển
+
+    ▪  Trình tự khai thác có tự nhiên hay không?
+
+    ▪  Câu hỏi đối với NSD:
+         – Tôi đang ở đâu?
+         – Tôi đã đến đây như thế nào?
+         – Tôi có thể làm gì tại đây?
+         – Sau giao diện này, tôi có thể đi đến đâu?
+–  Tính “ergonomic”:
+    ⚫  Màu sắc
+    ⚫  Vị trí
+    ⚫  Cách giao tiếp hệ thống
+
+                                                        19
+
+===== PAGE 20 =====
+                     Các yêu cầu chất lượng
+
+❖ Phải quan sát thói quen của người sử dụng
+❖ Thói quen phải tôn trọng => bắt buộc phải tôn trọng
+   ▪Quen với phím enter khi nhập liệu
+❖ Thói quen chưa hợp lý hoặc mâu thuẫn với kỹ thuật
+  => Phải trao đổi, thuyết phục và thống nhất với người sử
+  dụng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    20
+
+===== PAGE 21 =====
+                         Nâng cao chất lượng
+
+1. Bổ sung nội dung
+   ▪  Hướng dẫn sử dụng
+   ▪  Thuộc tính tính toán
+   ▪  Thông tin chi tiết liên quan
+2. Tăng tốc thao tác
+   ▪  Dùng giá trị định sẵn
+   ▪  Chuyển ô nhập liệu thành cột nhập liệu
+   ▪  Sử dụng giá trị thay thế
+   ▪  …
+
+
+
+                                        21
+
+===== PAGE 22 =====
+                          Nâng cao chất lượng
+
+3. Xử lý lỗi
+   ▪   Thông báo lỗi chính xác, cơ hội sửa lỗi
+   ▪   Hạn chế lỗi
+   ▪   Cấm tuyệt đối lỗi
+4. Bổ sung, thay thế hình thức trình bày
+   ▪   Dùng biểu tượng
+   ▪   Dùng thực đơn động
+   ▪   Dùng cây
+   ▪   Dùng sơ đồ
+   ▪   Thao tác trực tiếp
+
+
+                                          22
+
+===== PAGE 23 =====
+                    Tính nhất quán về “chuẩn”
+
+-   Chuẩn về dữ liệu: tên gọi, chiều dài, kiểu, cách trình bày
+–  Chuẩn về mã
+    ⚫  Độc lập với việc Tin học hóa, có ý nghĩa về mặt nghiệp vụ
+    => xem như dữ liệu bình thường
+    ⚫  Do yêu cầu của việc Tin học hóa => đừng làm rối cho NSD
+–  Chuẩn về cấu trúc hệ thống
+    ⚫  Cách trình bày thực đơn
+    ⚫  Cách trình bày các thành phần trên màn hình
+    ⚫  Cách xử lý trên màn hình
+–  Chuẩn về sưu liệu:
+    ⚫  Hướng dẫn trực tuyến
+    ⚫  Hướng dẫn trong tài liệu
+
+
+
+
+
+
+
+                                                     23
+
+===== PAGE 24 =====
+                               Ví dụ
+
+❖ Xét  phần   mềm    Quản   lý học  sinh với   chức  năng   tiếp  nhận
+  học sinh mới
+
+
+
+
+
+
+
+
+
+
+❖ Hãy thiết kế dữ liệu và giao diện
+
+                                    24
+
+===== PAGE 25 =====
+Ví dụ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     25
+
+===== PAGE 26 =====
+                                  Ví dụ
+
+
+❖  Mô tả các thành phần của giao diện
+
+ STT        Tên            Kiểu           Ý nghĩa        Miền giá    Giá trị    Ghi
+                                                            trị     mặc định    chú
+   1   Lb_Tieu_de      A_Label       Tiêu đề màn hình
+
+   2   Lb_Hoten        A_Label       Tiêu đề họ tên
+
+   3   Txt_Hoten       A_Textbox     Text box nhập họ
+                                     tên
+   4   Ch_Phai         A_Checkbox
+
+   5   Lb_Ngaysinh     A_Datetime
+
+  …    …               …             …                  …          …          …
+
+
+
+
+
+
+
+
+
+                                           26
+
+===== PAGE 27 =====
+                                                 Bài tập
+
+❖  Xét phần mềm quản lý giải bóng đá với các yêu cầu sau:
+    ▪  Tiếp nhận đăng ký tham gia
+    ▪  Xếp lịch thi đấu
+    ▪  Ghi nhận kết quả thi đấu
+    ▪  Lập bảng xếp hạng
+❖  Giải gồm có 4 đội tham gia.
+    ▪  Thông tin về mỗi đội bao gồm: Tên đội, danh sách các cầu thủ của đội
+    ▪  Thông tin về mỗi cầu thủ bao gồm: Tên cầu thủ, vị trí sở trường
+❖  Xếp lịch thi đấu
+    ▪  Các   đội  thi đấu  vòng   tròn  hai lượt.  Thông    tin về trận  đấu  được    xếp  lịch: Hai  đội  bóng
+       tham dự, ngày giờ thi đấu, sân thi đấu (giải diễn ra trên hai sân: A, B)
+
+
+
+
+
+
+
+
+
+                                                         27
+
+===== PAGE 28 =====
+                                 Bài tập
+
+❖  Ghi nhận kết quả thi đấu, chỉ yêu cầu ghi nhận:
+   ▪  Tỉ số
+❖  Lập bảng xếp hạng:
+   ▪  Hạng được dựa trên các tiêu chí sau:
+      •  Điểm số
+      •  Hiệu số
+      •  Số bàn thắng
+   ▪  Điểm cho mỗi trân thua là 0, hòa là 1, thắng là 3
+1. Hãy lập sơ đồ luồng dữ liệu cho mỗi yêu cầu
+2. Lập sơ đồ logic dữ liệu
+
+                                       28
+3. Thiết kế màn hình giao diện cho từng yêu cầu.
+
+===== PAGE 29 =====
+                 Giao diện ghi nhận KQTĐ
+❖ Cách 1:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                29
+
+===== PAGE 30 =====
+                 Giao diện ghi nhận KQTĐ
+
+❖ Cách 2:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                30
+
+===== PAGE 31 =====
+                 Giao diện ghi nhận KQTĐ
+
+❖ Cách 3:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                31
+
+===== PAGE 32 =====
+                 Giao diện ghi nhận KQTĐ
+
+❖ Cách 4:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                32
+
+===== PAGE 33 =====
+                 Giao diện ghi nhận KQTĐ
+
+❖ Cách 5:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                33
+
+===== PAGE 34 =====
+                         Thiết kế giao diện
+
+❖ Quản lý thiết bị nhập (bàn phím, chuột)
+❖ Hiệu chỉnh thông tin input
+❖ Kiểm soát lỗi và hiển thị thông báo lỗi
+❖ Cung cấp trợ giúp và hiển thị thông báo nhắc nhở
+❖ Cung cấp feedback (ví dụ như tự động hiển thị ký tự đánh vào)
+❖ Kiểm soát cửa sổ và vùng, khả năng cuộn
+❖ Thiết lập giao tiếp giữa chương trình với giao diện (vd: hàm đáp ứng)
+❖ Cách ly chương trình với các hàm quản lý giao diện
+❖ Cho phép tuỳ biến giao diện: màu sắc, kích thước,..
+
+===== PAGE 35 =====
+           Một số định hướng về thiết kế giao diện
+
+Một số hướng dẫn chung
+❖   Nên đồng nhất (menu, lệnh, hiển thị...)
+❖   Nên cung cấp feedback cho người dùng
+❖   Yêu cầu xác nhận những tác vụ mang tính phá hoại (xoá file, account)
+❖   Nên hỗ trợ UNDO, REDO
+❖   Hạn chế lượng thông tin phải ghi nhớ giữa 2 tác vụ liên tiếp
+❖   Tối ưu trong trình bày hộp thoại và di chuyển mouse
+❖   Chấp nhận lỗi từ phía người sử dụng
+❖   Cung cấp trợ giúp trực tuyến
+❖   Dùng động từ đơn giản và ngắn gọn để đặt tên các lệnh
+
+===== PAGE 36 =====
+        Một số định hướng về thiết kế giao diện
+
+Đối với thông tin hiển thị
+❖  Chỉ hiển thị những thông tin phù hợp với ngữ cảnh hiện
+  tại
+❖  Dùng tên, từ viết tắt và màu gợi nhớ
+❖  Cho phép tương tác trực quan
+❖  Tạo thông báo lỗi có ý nghĩa
+❖  Hiển thị dữ liệu ở nhiều dạng khác nhau trong cửa sổ
+❖  Thiết lập biểu diễn tương tự
+❖  Sử dụng không gian màn hình một cách tối ưu
+
+===== PAGE 37 =====
+        Một số định hướng về thiết kế giao diện
+Đối với thông tin input
+❖  Hạn chế input trực tiếp (có thể chọn lựa từ một số dữ
+  liệu có sẵn)
+❖  Nên đồng nhất giữa thông tin input và hiển thị
+❖  Nên cho phép tuỳ biến input
+❖  Cấm các chức năng không thích hợp trong ngữ cảnh hiện
+  tại
+❖  Cho phép input ở nhiều dạng khác nhau
+❖  Để cho người sử dụng kiểm soát dòng sự kiện tương tác
+❖  Tự động tính các giá trị input cho người sử dụng nếu có
+  thể
+
+===== PAGE 38 =====
+Ví dụ 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         38
+
+===== PAGE 39 =====
+Ví dụ 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         39
+
+===== PAGE 40 =====
+          Thiết kế theo hướng tin học
+
+❖ Các chức năng được     phân nhóm theo ý
+  nghĩa tin học
+❖ Ví dụ: PM quản lý giáo vụ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                40
+
+===== PAGE 41 =====
+         Thiết kế theo hướng đối tượng
+
+Các chức  năng được phân nhóm theo đối tượng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  41
+
+===== PAGE 42 =====
+      Thiết kế theo hướng nghiệp vụ
+
+❖ Các chức  năng được    phân nhóm qui trình
+  nghiệp vụ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              42
+
+===== PAGE 43 =====
+                Thiết kế giao diện nhập
+
+⚫ Tránh tình trạng cổ chai nhưng vẫn cho phép nhiều người
+  cùng nhập
+   – Tận dụng những bước xử lý trên màn hình
+   – Tránh thường xuyên truy xuất dữ liệu
+⚫ Tránh tạo cơ hội cho NSD phạm lỗi/sơ xuất
+⚫ Tránh thêm những công đoạn thừa
+⚫ Quy trình nhập đơn giản nhất, tự nhiên nhất
+   ⚫ Phải đảm bảo thói quen xử lý chứng từ gốc
+
+
+
+
+
+
+
+
+
+
+
+                                     43
+
+===== PAGE 44 =====
+                Thiết kế giao diện nhập
+
+❖ Phát hiện sai sót và kiểm tra ràng buộc toàn vẹn
+   – Kiểm tra ngay?
+   – Kiểm tra cuối màn hình?
+   – Kiểm tra cuối kỳ khai thác?
+  => Phải quan sát thói quen của người sử dụng
+❖ Thói quen phải tôn trọng => bắt buộc phải tôn trọng
+❖  Thói quen chưa hợp lý hoặc mâu thuẫn với kỹ thuật
+  => Phải trao đổi, thuyết phục và thống nhất với NSD
+
+
+
+
+
+
+
+
+
+
+
+
+                                      44
+
+===== PAGE 45 =====
+                Thiết kế giao diện nhập
+
+❖ Có bao nhiêu chức năng nhập?
+   ▪ Danh mục: mỗi bảng là 1 chức năng nhập (Thêm, Xoá, Sửa)
+   ▪ Đối tượng: mỗi bảng là 1 chức năng nhập (Thêm, Xoá, Sửa)
+❖ Quan hệ m – n: tùy các mối quan hệ (1-n, n-m)
+  chung quanh đối tượng này         và tùy ngữ    cảnh trong thế
+  giới thực sẽ có thêm các chức năng nhập cho các quan
+  hệ đó..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     45
+
+===== PAGE 46 =====
+          Thiết kế giao diện nhập
+
+❖ Danh mục
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            46
+
+===== PAGE 47 =====
+                 Thiết kế giao diện xuất
+
+❖ Nội dung:
+   - Dữ liệu trong HTTT,
+   - Dữ liệu tính toán,
+   - Dữ liệu vừa được nhập vào
+❖ Ai sẽ sử dụng nội dung kết xuất:
+   -  Đối tượng trong HT: dùng kết xuất cho mục tiêu gì?
+   -  Đối  tượng   ngoài   môi   trường:  muốn    đưa   nội  dung   gì  bên
+     ngoài?
+❖ Khối lượng dữ liệu xuất hiện trên kết xuất
+❖ Khi nào thực hiện kết xuất đó?
+❖ Kết   xuất   ra  dạng    gì?  Màn    hình,   giấy   in, file  theo   định
+                                       47
+  dạng nào?
+
+===== PAGE 48 =====
+                Thiết kế giao diện xuất
+
+❖ Trình bày bảng biểu
+   ▪Nếu dữ liệu nhiều thì lấy những nội dung gì
+   ▪Cách bố trí nội dung theo cột/dòng/tiểu cột/ tiểu
+    dòng…, tổng các tiểu dòng/tiểu cột, thứ tự trình bày
+    các tổng trước hay sau thông tin chi tiết, chữ
+    hoa/thường, thứ tự trình bày dữ liệu, chấm/phẩy đối
+    với số lẻ, canh lề, số lượng số lẻ
+    Phải mô phỏng nội dung dữ liệu trong phần thiết
+    kế giao diện, không nên chỉ đưa cho NSD xem
+    những template rỗng
+
+
+
+
+
+
+                                    48
+
+===== PAGE 49 =====
+❖ Trình bày biểu đồ
+   ▪ Chỉ chứa dữ liệu tổng hợp, không có dữ liệu chi tiết
+ Thể hiện khuynh hướng, so sánh. Không hiệu qua khi cần
+  xác định số liệu cụ thể
+   ▪ Trình bày biểu đồ dạng nào?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       49
+
+===== PAGE 50 =====
+                     Thiết kế đối thoại
+
+❖ Đặc điểm:
+   ▪ Giao diện tương tác
+   ▪ Giao diện đồ họa
+   ▪ Thao tác “trực tiếp”
+   ▪ Nguyên tắc: LOOK and FEEL
+   ▪ Mô hình WIMP: Window – Icon – Menu – Pointer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       50
+
+===== PAGE 51 =====
+                      Thiết kế đối thoại
+
+❖ Các mức thiết kế
+    ▪  Mức ngữ nghĩa: nội dung dữ liệu,nội dung chức năng
+    ▪  Mức cú pháp: quá trình tương tác đối thoại, kịch bản khai thác
+      diễn ra như thế nào?
+    ▪  Mức từ vựng: từ ngữ và cách trình bày nội dung ngữ nghĩa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         51
+
+===== PAGE 52 =====
+          Thiết kế đối thoại – mức ngữ nghĩa
+
+❖ Mức ngữ nghĩa
+   - Hệ thống hướng dẫn trực tuyến đi song song với từng chức năng trong hệ thống
+  thực đơn
+   - Các hộp thoại cần thiết thông báo lỗi/hướng dẫn
+   - Dựa vào hệ thống thực đơn để xác định các giao diện đối thoại
+❖ Tính “ergonomic” và tính nhất quán
+   - Gây chú ý nhưng không được làm NSD mệt mỏi
+   - Nhất quán
+   - Giá trị mặc định (câu trả lời thường hay xảy ra nhất)
+   - Nội dung thông báo phải thể hiện đúng nội dung phản ứng của hệ thống
+❖ Mức ngữ nghĩa tốt
+=> Có thể dễ dàng thay đổi ngôn ngữ
+
+
+
+
+
+                                               52
+
+===== PAGE 53 =====
+          Thiết kế đối thoại – mức cú pháp
+
+❖ Chọn kiểu đối thoại và kiểu điều khiển đối thoại
+    ▪ Hỏi – Trả lời
+    ▪ Thực đơn
+    ▪ Mẫu biểu để điền vào
+    ▪ Ngôn ngữ lệnh nhập qua bàn phím
+    ▪ Dùng các phím chức năng
+    ▪ Ngôn ngữ tự nhiên
+    ▪ …..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       53
+
+===== PAGE 54 =====
+           Thiết kế đối thoại - Mức từ vựng
+
+❖ Nên dùng biểu tượng
+  ▪  Thể hiện đúng nội dung mong muốn
+  ▪  Đi kèm tên gọi ngắn gọn, súc tích và nhất quán
+  ▪  Cách   sử dụng   các  vật  thể:  ý nghĩa  khi nhấn    bên  trái/phải,  nhấn
+     đúp trên mouse…
+      • Cách di chuyển con trỏ
+      •  Cách dùng màu:
+         o  Phân biệt các cửa sổ khác nhau lần lượt được mở ra
+         o  Tạo mối liên hệ giữa các đối tượng thông tin
+         o  Tình trạng khác nhau của đối tượng
+         o  Gây chú ý đặc biệt
+         o  Các màu phải hòa hợp
+
+                                         54
+
+===== PAGE 55 =====
+              Hệ thống thực đơn (Menu)
+
+❖ Hệ thống thực đơn chính
+   ▪ Hệ thống thực đơn trong màn hình chính của mỗi phân hệ
+     (module)
+❖ Hệ thống thực đơn ngữ cảnh
+   ▪ Thực đơn sử dụng khi click chuột phải lên một hoặc một nhóm
+     đối tượng trên màn hình
+   ▪ Thực đơn sử dụng khi click chuột phải lên một dòng trong lưới
+     (Grid)
+
+
+
+
+
+
+
+
+
+
+
+
+                                       55
+
+===== PAGE 56 =====
+         Tổ chức hệ thống thực đơn chính
+
+❖ Hệ thống
+❖ Danh mục
+❖ Nhóm chức năng 1 (nghiệp vụ 1)
+❖ Nhóm chức năng 2 (nghiệp vụ 2)
+❖ Tra cứu
+❖ Báo cáo (Report)
+❖ Công cụ/tiện ích (Tools/Utilities)
+❖ Trợ giúp (Help)
+
+
+
+
+
+
+
+
+
+
+                                  56
+
+===== PAGE 57 =====
+Tổ chức hệ thống thực đơn chính
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        57
+
+===== PAGE 58 =====
+Tổ chức hệ thống thực đơn chính
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        58
+
+===== PAGE 59 =====
+         Tổ chức hệ thống thực đơn chính
+
+❖ Hệ thống
+  ▪ Cấu hình hệ thống
+  ▪ Đăng nhập
+  ▪ Đổi mật khẩu
+  ▪ Thoát
+❖ Danh mục
+  ▪ Danh mục nhân viên
+  ▪ Danh mục quận huyện
+  ▪ Danh mục tỉnh thành
+  ▪ Danh mục hàng hóa
+  ▪ ….                             59
+
+===== PAGE 60 =====
+Tổ chức hệ thống thực đơn chính
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        60
+
+===== PAGE 61 =====
+        Tổ chức hệ thống thực đơn chính
+❖ Tra cứu
+   ▪  Tra cứu điểm thi
+   ▪  Tra cứu thông tin sinh viên
+   ▪  Tra cứu lịch thi
+   ▪  Tra cứu thời khóa biểu
+   ▪  …
+❖ Báo cáo/thống kê
+   ▪  Bảng điểm sinh viên
+   ▪  Hồ sơ sinh viên/nhân viên/học sinh
+   ▪  Thống kê doanh số bán trong ngày/tháng/năm
+   ▪  Bảng lương tháng nhân viên
+   ▪  Thống kê số lượng hàng tồn kho
+
+
+                                         61
+
+===== PAGE 62 =====
+          Tổ chức hệ thống thực đơn chính
+
+❖ Công cụ/tiện ích
+   ▪ Sao lưu dữ liệu (Backup Data)
+   ▪ Phục hồi dữ liệu (Restore Data)
+   ▪ Archive Data
+   ▪ Tùy chọn (Options/Customize)
+   ▪ …
+❖ Giúp đỡ
+   ▪ Hướng dẫn sử dụng (Online Help)
+   ▪ Thông tin tác giả (About)
+   ▪ Đăng ký sử dụng (Register)
+   ▪ Nâng cấp (Upgrade/Online Update)
+   ▪ …                                   62
+
+===== PAGE 63 =====
+Tổ chức hệ thống thực đơn chính
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        63
+
+===== PAGE 64 =====
+                   Phân loại màn hình
+
+❖ Màn hình giới thiệu
+❖ Màn hình chính
+❖ Màn hình tác giả
+❖ Màn hình danh mục
+❖ Màn hình nhập liệu
+   ▪Nhập liệu trực tiếp
+   ▪Nhập liệu gián tiếp (import)
+❖ Màn hình tra cứu
+❖ Màn hình xử lý tính toán
+❖ Màn hình thể hiện báo biểu/thống kê
+❖ Màn hình thể hiện đối tượng: sơ đồ, cây, biểu tượng64
+
+===== PAGE 65 =====
+          Các tính chất thiết kế giao diện
+
+❖ Tính đúng đắn
+❖ Tính nhất quán
+❖ Tính trực quan
+❖ Tính hiệu quả
+❖ Tính tiện dụng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   65
+
+===== PAGE 66 =====
+                   Ví dụ về menu
+
+❖ Tính đúng đắn: đơn giản là xác định danh sách các
+  công việc và các nghiệp vụ mà phần mềm hỗ trợ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 66
+
+===== PAGE 67 =====
+                 Tính đúng đắn
+
+❖ Tính đúng đắn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               67
+
+===== PAGE 68 =====
+               Menu quản lý thư viện
+
+❖ Tính đúng đắn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 68
+
+===== PAGE 69 =====
+            Menu quản lý thư viện
+
+❖ Tính đúng đắn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               69
+
+===== PAGE 70 =====
+            Menu quản lý thư viện
+
+❖ Tính đúng đắn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               70
+
+===== PAGE 71 =====
+           Menu quản lý thư viện
+
+❖ Tính đúng đắn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             71
+
+===== PAGE 72 =====
+Tính nhất quán
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             72
+
+===== PAGE 73 =====
+Tính nhất quán
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             73
+
+===== PAGE 74 =====
+Tính trực quan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             74
+
+===== PAGE 75 =====
+Tính trực quan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        75
+
+===== PAGE 76 =====
+Tính trực quan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             76
+
+===== PAGE 77 =====
+                  Tính hiệu quả
+
+❖ Tính hiệu quả
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               77
+
+===== PAGE 78 =====
+                   Tính hiệu quả
+
+❖ Tính hiệu quả
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                78
+
+===== PAGE 79 =====
+Tính hiệu quả
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             79
+
+===== PAGE 80 =====
+                   Tính hiệu quả
+
+❖ Menu quản lý thư viện
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                80
+
+===== PAGE 81 =====
+                  Tính hiệu quả
+
+❖ Menu quản lý thư viện
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               81
+
+===== PAGE 82 =====
+                     Tính hiệu quả
+
+❖ Menu quản lý thư viện
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   82
+
+===== PAGE 83 =====
+                   Tính tiện dụng
+
+❖ Tính tiện dụng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 83
+
+===== PAGE 84 =====
+                    Tính tiện dụng
+
+❖ Tính tiện dụng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  84
+
+===== PAGE 85 =====
+                Tính tiện dụng
+
+❖ Menu quản lý thư viện
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              85
+
+===== PAGE 86 =====
+                          Màn hình tra cứu
+
+❖ Tiêu chuẩn: là các thuộc tính của đối tượng
+   ▪  Nhập  liệu: ô textBox(NSD tự gõ)
+   ▪  Chọn những giá trị: comboBox (Mã khóa ngoại)
+   ▪  Thuộc tính kiểu số: cho chọn 1 đoạn giá trị.
+❖ Danh sách đối tượng: 2 cách thể                     hiện:
+   ▪  Tĩnh: Số lượng thuộc tính trong danh sách là cốđịnh
+   ▪  Động: Số  lượng thuộc tính trong danh sách do NSD quyết định.
+❖ Chi tiết:
+   ▪  Xác định chi tiết trong khoảng thời gian từ ngày …… đến ngày
+   ▪  Có nhiều nút điều khiển khác nhau cho các chi tiết khác nhau
+❖ Biểu thức logic: Mặc nhiên là phép AND. Mở rộng: Phủ
+  định (NOT), Và (AND), Hay (OR)
+
+                                               86
+   →Thêm comboBox để chọn lựa phép tóan
+
+===== PAGE 87 =====
+                 Màn hình tra cứu
+
+❖ Hình thức trình bày
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                87
+
+===== PAGE 88 =====
+                                        Bài tập
+
+❖  Cho CSDL của phần mềm quản lý bán hàng như sau:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+❖  Hãy thiết kế giao diện và mô tả các thành phần của giao diện:
+    ▪ Lập phiếu nhập, lập phiếu xuất
+    ▪ Tra cứu hàng hóa
+
+
+                                                  88
+
+===== PAGE 89 =====
+                                Bài tập
+
+1. Lập  sơ  đồ   phối  hợp   cho   các  biến  cố  còn   lại trong   ví dụ
+   trên.
+2. Đánh giá các sơ đồ phối hợp dựa trên các tính chất
+   - Tính đúng đắn
+   - Tính tái sử dụng
+   - Tính dễ bảo trì
+   - Tính dễ mang chuyển
+   - …
+
+
+
+
+
+
+                                      89

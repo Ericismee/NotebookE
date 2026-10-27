@@ -94,6 +94,9 @@ export interface PodcastEpisode {
 }
 
 export interface PodcastGenerationRequest {
+  language?: string
+  voice_model?: string
+  speaker_voices?: string[]
   episode_profile: string
   /** speaker_profile record ID (the API also accepts a profile name) */
   speaker_profile: string

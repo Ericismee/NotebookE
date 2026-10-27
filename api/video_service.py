@@ -23,7 +23,8 @@ class VideoGenerationRequest(BaseModel):
     duration_minutes: Literal[1, 3, 5] = 3
     image_workflow: Optional[str] = Field(default=None, max_length=180)
     visual_mode: str = Field(default="auto", max_length=80)
-    tts_voice: str = Field(default="vi-VN-HoaiMyNeural", min_length=1, max_length=100)
+    tts_voice: Optional[str] = Field(default=None, min_length=1, max_length=100)
+    voice_model: Optional[str] = None
     language: Optional[str] = Field(default=None, max_length=80)
     video_type: str = Field(default="summary", min_length=1, max_length=100)
     style: str = Field(default="auto", min_length=1, max_length=100)
@@ -40,7 +41,6 @@ class VideoGenerationResponse(BaseModel):
 
 
 class VideoService:
-
     @staticmethod
     async def submit_generation_job(
         name: str,
@@ -50,7 +50,8 @@ class VideoService:
         duration_minutes: Literal[1, 3, 5] = 3,
         image_workflow: Optional[str] = None,
         visual_mode: str = "auto",
-        tts_voice: str = "vi-VN-HoaiMyNeural",
+        tts_voice: Optional[str] = None,
+        voice_model: Optional[str] = None,
         language: Optional[str] = None,
         video_type: str = "summary",
         style: str = "auto",
@@ -69,7 +70,9 @@ class VideoService:
                     notebook = await Notebook.get(notebook_id)
                     content = await notebook.get_context()
                 except Exception as e:
-                    logger.warning(f"[video-service] Could not get notebook context: {e}")
+                    logger.warning(
+                        f"[video-service] Could not get notebook context: {e}"
+                    )
                     raise ValueError(
                         "Unable to read content from the selected notebook"
                     ) from e
@@ -80,6 +83,50 @@ class VideoService:
                     "The selected notebook has no usable source or note content"
                 )
 
+            # Honor the configured VieNeu default for API callers too, not only
+            # for requests sent by the video creation dialog.
+            from notebooke.ai.models import DefaultModels, Model
+            from notebooke.domain.content_settings import ContentSettings
+
+            selected_model = None
+            if voice_model:
+                selected_model = await Model.get(voice_model)
+            else:
+                defaults = await DefaultModels.get_instance()
+                if defaults.default_text_to_speech_model:
+                    preferred = await Model.get(defaults.default_text_to_speech_model)
+                    if preferred.name.lower().startswith("vieneu"):
+                        selected_model = preferred
+                        voice_model = str(preferred.id)
+            if selected_model and selected_model.type != "text_to_speech":
+                raise ValueError("Video voice model must be text-to-speech")
+            if language and selected_model:
+                from notebooke.ai.speech import list_speech_voices
+
+                choices = await list_speech_voices(str(selected_model.id), language)
+                if not choices:
+                    raise ValueError("No voices are available for the selected language")
+                voice_model = choices[0]["model_id"]
+                if tts_voice not in {v["id"] for v in choices}:
+                    tts_voice = choices[0]["id"]
+            if tts_voice is None:
+                settings = await ContentSettings.get_instance()
+                configured_voice = settings.default_video_voice
+                if selected_model and selected_model.name.lower().startswith("vieneu"):
+                    tts_voice = (
+                        configured_voice
+                        if configured_voice
+                        and not configured_voice.startswith(("vi-", "en-"))
+                        else "Minh Quân"
+                    )
+                else:
+                    tts_voice = (
+                        configured_voice
+                        if configured_voice
+                        and configured_voice.startswith(("vi-", "en-"))
+                        else "vi-VN-HoaiMyNeural"
+                    )
+
             command_args = {
                 "name": name,
                 "content": content,
@@ -89,6 +136,7 @@ class VideoService:
                 "image_workflow": image_workflow,
                 "visual_mode": visual_mode,
                 "tts_voice": tts_voice,
+                "voice_model": voice_model,
                 "language": language,
                 "video_type": video_type,
                 "style": style,
@@ -118,6 +166,10 @@ class VideoService:
             logger.warning(f"[video-service] Request rejected: {e}")
             raise HTTPException(status_code=400, detail=str(e)) from e
         except Exception as e:
+            from notebooke.exceptions import OpenNotebookError
+
+            if isinstance(e, OpenNotebookError):
+                raise
             logger.error(f"[video-service] Failed to submit job: {e}")
             raise HTTPException(
                 status_code=500,
@@ -130,23 +182,33 @@ class VideoService:
             status = await get_command_status(job_id)
             if not status:
                 return {"job_id": job_id, "status": "unknown"}
-            
+
             job_status = status.status
-            
-            result_dict = status.result if isinstance(status.result, dict) else getattr(status.result, "model_dump", lambda: {})()
-            error_message = getattr(status, "error_message", None) or result_dict.get("error_message")
+
+            result_dict = (
+                status.result
+                if isinstance(status.result, dict)
+                else getattr(status.result, "model_dump", lambda: {})()
+            )
+            error_message = getattr(status, "error_message", None) or result_dict.get(
+                "error_message"
+            )
             success = result_dict.get("success")
-            
+
             if job_status == "completed" and (success is False or error_message):
                 job_status = "failed"
-                
+
             return {
                 "job_id": job_id,
                 "status": job_status,
                 "result": status.result,
                 "error_message": error_message,
-                "created": str(status.created) if getattr(status, "created", None) else None,
-                "updated": str(status.updated) if getattr(status, "updated", None) else None,
+                "created": str(status.created)
+                if getattr(status, "created", None)
+                else None,
+                "updated": str(status.updated)
+                if getattr(status, "updated", None)
+                else None,
             }
         except Exception as e:
             logger.error(f"[video-service] get_job_status error: {e}")

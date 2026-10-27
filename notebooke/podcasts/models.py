@@ -92,6 +92,13 @@ class EpisodeProfile(ObjectModel):
         description="Max output tokens for outline/transcript generation (passed through to podcast_creator)",
     )
 
+    @field_validator("language", mode="before")
+    @classmethod
+    def normalize_language(cls, value):
+        from notebooke.podcasts.language import normalize_podcast_language
+
+        return normalize_podcast_language(value)
+
     @field_validator("num_segments")
     @classmethod
     def validate_segments(cls, v):

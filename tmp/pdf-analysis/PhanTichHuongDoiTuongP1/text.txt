@@ -1,0 +1,1372 @@
+
+===== PAGE 1 =====
+PHÂN TÍCH HƯỚNG ĐỐI TƯỢNG
+             (P1)
+
+===== PAGE 2 =====
+Nội dung
+
+
+
+1. Sơ đồ lớp ở mức phân tích
+
+
+2. Sơ đồ trạng thái
+
+===== PAGE 3 =====
+Sơ đồ lớp ở mức phân tích
+
+       1. Xác định các lớp đối tượng chính
+
+        2. Xác định các thông tin
+        và hành động/trách nhiệm của
+        mỗi lớp đối tượng chính
+
+
+         3. Xác định các quan hệ chính
+
+        4. Xác định các lớp đối tượng phụ,
+        các danh mục
+
+===== PAGE 4 =====
+        Một số khái niệm mở đầu
+
+
+❖ Vấn đề: Mô tả lại bằng một ngôn ngữ nào
+  đó (thường là các sơ đồ) nhằm diễn tả
+  trực quan về vấn đề
+
+❖ Phân tích: xây dựng mô hình Thế giới thực
+
+❖ Phân tích theo hướng đối tượng: xây dựng
+  các mô hình về các đối tượng của Thế giới
+  thực
+
+
+
+
+
+
+
+
+                           4
+
+===== PAGE 5 =====
+         Một số khái niệm mở đầu
+
+❖ Một số loại Sơ đồ:
+
+   ▪ Sơ  đồ  lớp  đối tượng:   Mô   tả hệ  thống  các  lớp
+     đối  tượng   (thuộc   tính, hành   động)   cùng   với
+     các quan hệ giữa chúng
+
+   ▪ Sơ đồ trạng thái: Mô tả chu trình sống của đối
+     tượng
+
+   ▪ …
+
+
+
+
+
+                              5
+
+===== PAGE 6 =====
+Nhắc lại về hướng đối tượng
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               6
+
+===== PAGE 7 =====
+     Nhắc lại về hướng đối tượng
+
+
+Một số ký hiệu
+
+    Tên class                                   Tên class
+
+                                             (Các) thuộc tính
+
+                                            (Các) phương thức
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 7
+
+===== PAGE 8 =====
+            Public/Protected/Private
+
+
++                 Thuộc tính/Phương thức public
+#                 Thuộc tính/Phương thức protected
+-                 Thuộc tính/Phương thức private
+
+          Class
+- privateAttribute
+# protectedAttribute
+                                                                 Phương thực
++publicOp()                                                      Private
+# protectedOp()
+- privateOp()                                                          Phương thức
+                                                                       Protected
+       Phương thức
+       Public
+
+                                        8
+
+===== PAGE 9 =====
+                      Nhận xét
+
+
+
+                                   Bình thường: Class bình thường
+                                   In nghiêng: Class thuần ảo
+                                   Gạch dưới: Object (không phải class)
+     Tên class
+
+ (Các) thuộc tính                  Bình thường: Thuộc tính bình thường
+                                   In nghiêng: không sử dụng
+(Các) phương thức                  Gạch dưới: Thuộc tính static
+
+                                    Bình thường: Phương thức bình thường
+                                    In nghiêng: Phương thức virtual
+                                    Gạch dưới: Phương thức static
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     9
+
+===== PAGE 10 =====
+Ví dụ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       10
+
+===== PAGE 11 =====
+     Quan hệ giữa các lớp đối tượng
+
+❖ Quan hệ kế thừa
+
+
+
+
+
+
+
+   ▪ ClassB kế thừa từ ClassA
+   ▪ ClassB là một trường hợp đặc biệt của ClassA
+   ▪ ClassA là trường hợp tổng quát của ClassB
+
+
+
+
+
+
+                             11
+
+===== PAGE 12 =====
+      Quan hệ giữa các lớp đối tượng
+❖ Quan hệ liên kết
+
+
+
+
+   ▪ Hoặc
+       • Trong ClassA có thuộc tính có kiểu là ClassB
+   ▪ Hoặc
+       • Trong ClassB có thuộc tính có kiểu là ClassA
+   ▪ Nhận    xét:  Về  mặt   lập  trình,  thuộc   tính có  thể
+     được    lưu  trữ  dạng   biến   đơn,   biến  mảng,    hay
+     biến con trỏ
+
+
+
+
+                                12
+
+===== PAGE 13 =====
+      Quan hệ giữa các lớp đối tượng
+❖ Quan hệ liên kết
+
+
+
+
+
+
+
+
+      Mỗi người trong lớp Nguoi có thể không có hoặc có
+      nhiều ô tô (thuộc lớp Oto) và ngược lại một ô tô phải
+      là sở hữu của ít nhất một người nào đó thuộc lớp
+      Nguoi.
+
+
+
+
+
+
+
+                                  13
+
+===== PAGE 14 =====
+      Quan hệ giữa các lớp đối tượng
+❖ Quan hệ tập hợp
+
+
+   ▪  Đã xác định được ClassA và ClassB có quan
+      hệ liên kết với nhau
+   ▪  Xác định rõ hơn:
+       • Trong   object  của  ClassA    có  chứa   (trong  phần
+         thuộc tính) object của ClassB
+       • ObjectX của ClassA bị hủy thì ObjectY của ClassB
+         (bên trong ObjectX) vẫn có thể còn tồn tại
+
+
+
+
+
+
+
+
+
+
+                                 14
+
+===== PAGE 15 =====
+      Quan hệ giữa các lớp đối tượng
+❖ Quan hệ tập hợp
+
+
+
+
+
+
+   Mỗi dự án có thể có nhiều người tham gia và mỗi người
+   lại có thể tham gia nhiều nhất là hai dự án.
+   Trong quan hệ này, ta có thể loại bỏ, hay thành lập một
+   dự án (phía tổng thể) nhưng không nhất thiết phải loại
+   bỏ, hay phải tuyển thêm những người tham gia (phía bộ
+   phận) vào dự án như kiểu kết nhập ở trên.
+
+
+
+
+
+
+                                   15
+
+===== PAGE 16 =====
+      Quan hệ giữa các lớp đối tượng
+❖ Quan hệ hợp thành
+
+
+   ▪ Đã xác định được ClassA và ClassB có quan
+     hệ liên kết với nhau
+   ▪ Xác định rõ hơn:
+       • Trong   object  của  ClassA    có  chứa   (trong  phần
+         thuộc tính) object của ClassB
+       • ObjectX của ClassA bị hủy thì ObjectY của ClassB
+         (bên trong ObjectX) không thể còn tồn tại
+
+
+
+
+
+
+
+
+
+
+                                16
+
+===== PAGE 17 =====
+      Quan hệ giữa các lớp đối tượng
+❖ Quan hệ hợp thành
+
+
+
+
+
+
+   Ta có thể loại bỏ một số tàu chiến của một hạm đội sao
+   cho số còn lại ít nhất là 3, tương tự có thể bổ sung vào
+   một số tàu chiến sao cho không quá 10.
+   Nhưng khi đã loại bỏ một hạm đội thì phải loại bỏ tất cả
+   các tàu chiến của hạm đội đó vì mỗi tàu chiến chỉ thuộc
+   một hạm đội.
+
+
+
+
+
+
+
+
+                                   17
+
+===== PAGE 18 =====
+     Quan hệ giữa các lớp đối tượng
+
+❖ Chiều của quan hệ (Liên kết, Tập hợp, Hợp
+  thành)
+
+
+
+
+   ▪ Nếu quan hệ là 1 chiều: có mũi tên
+   ▪ Nếu quan hệ là 2 chiều: không vẽ mũi tên
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             18
+
+===== PAGE 19 =====
+      Quan hệ giữa các lớp đối tượng
+
+❖ Bản số - Multiplicity (Liên kết, Tập hợp, Hợp
+  thành)
+
+
+
+   ▪ Ví dụ:
+       •1
+       •2
+       •1..*
+       •0..*
+       •*
+       •1, 3, 5..9
+
+
+
+                               19
+
+===== PAGE 20 =====
+          Quan hệ giữa các lớp đối tượng
+
+  ❖   Quan hệ phụ thuộc
+
+
+
+       ▪  ClassA và ClassB không có quan hệ liên kết
+       ▪  ClassA “phụ thuộc” vào ClassB
+
+
+Tham số truyền vào        Kết quả trả ra         Biến cục bộ
+ class A                class A                class A                Trong   ClassA  có
+ {                      {                      {                      sử dụng  biến toàn
+     void    F(B   x)       B    F()               void    F()        cục (kiểu B), hoặc
+     {                      {                      {                  sử  dụng   phương
+      …                      …                          B    x;       thức/thuộc     tính
+     }                      }                      }                  static của ClassB
+ };                     };                     };
+                                              20
+
+===== PAGE 21 =====
+Xây dựng sơ đồ lớp
+ở mức phân tích
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           21
+
+===== PAGE 22 =====
+         Lập danh sách các đối tượng
+❖  Tiêu chuẩn nhận dạng đối tượng
+    ▪ Định danh: Đối tượng phải có tên (thường là danh       từ/ngữ  danh
+      từ)
+    ▪ Chu   trình sống: có thời điểm   sinh ra, có khoảng   thời gian hoạt
+      động, có thời điểm chấm dứt
+    ▪ Sự độc lập tương đối với các đối tượng khác
+
+❖  Đề nghị:
+    ▪ Con người
+    ▪ Vật thể
+    ▪ Tổ chức
+    ▪ Vật lý
+    ▪ Không gian
+    ▪ Thời gian…
+
+
+
+
+                                      22
+
+===== PAGE 23 =====
+         Lập danh sách các đối tượng
+
+❖  Lập danh sách các đối tượng liên quan đến
+   hệ thống
+                       Đối tượng đề nghị
+
+
+
+Không là đối tượng              Là đối tượng
+
+
+
+               Không được quan tâm         Được quan tâm
+
+
+                               Đối tượng phụ          Đối tượng chính
+
+
+    Tiêu chuẩn nhận dạng đối tượng: có rất nhiều trường phái
+
+
+                                    23
+
+===== PAGE 24 =====
+                     Ví dụ
+
+❖ Ví dụ:   Xét  ngữ  cảnh   là  1 trường    PTTH   với
+  phần mềm quản lý trường cấp 3:
+❖ Danh sách đề nghị:
+   ▪ Học sinh     Tổ Bộ môn          Số tiết
+   ▪ Giáo viên    BGH                TKB
+   ▪ Môn học      Khối               Bảng điểm
+   ▪ Lớp          Phụ huynh          Phòng
+   ▪ Học kỳ              ĐTB         Học phí
+   ▪ Năm học      Diện HS      …
+❖ Đối tượng/Không phải đối tượng?
+
+
+
+                           24
+
+===== PAGE 25 =====
+                        Ví dụ
+
+❖ Được quan tâm?
+   ▪ Phần mềm quản lý học sinh:
+       • Học sinh, Giáo viên, Môn học, Lớp, Khối, Phụ
+         huynh, Học kỳ, Năm học…
+   ▪ Phần mềm quản lý giáo viên:
+       • Giáo viên, Tổ bộ môn, Môn học, Khối, Lớp, Học
+         kỳ, Năm học…
+   ▪ Phần mềm xếp thời khóa biểu:
+       • Giáo viên, Môn học, Lớp, Phòng, Học kỳ,Năm
+         học…
+
+
+
+
+
+
+
+                                25
+
+===== PAGE 26 =====
+                        Ví dụ
+
+❖ Đối tượng chính?Đối tượng phụ
+   ▪ Phần mềm quản lý học sinh:
+       •Học sinh, Giáo viên, Môn học, Lớp, Khối, Phụ
+        huynh, Học kỳ, Năm học…
+   ▪ Phần mềm quản lý giáo viên:
+       •Giáo viên, Tổ bộ môn, Môn học, Khối, Lớp, Học
+        kỳ, Năm học…
+   ▪ Phần mềm xếp thời khóa biểu:
+       •Giáo viên, Môn học, Lớp, Phòng, Học kỳ,Năm
+        học…
+
+
+
+
+
+
+
+                                26
+
+===== PAGE 27 =====
+         Lập danh sách các quan hệ
+❖ Tiêu chí đánh giá:
+   ▪  Động từ
+   ▪  Sự phụ thuộc giữa các đối tượng (chủ yếu xét các đối
+      tượng chính)
+❖ Đề nghị:
+   ▪  Quan hệ theo thời gian
+       • Ít biến   động:   sau   1  thời  gian  dài  mới   thay  đổi
+         (thường làm về mặt tổ chức)
+       • Biến   động:    quan   hệ  xảy   ra  vào  lúc  nào,  trong
+         thông   tin có thuộc   tính về  thời gian,  thay  đổi theo
+         thời gian (thường quan tâm nhiều đến loại quan hệ
+         này)
+
+
+
+
+
+
+                                  27
+
+===== PAGE 28 =====
+   Lập danh sách các quan hệ(tt)
+▪ Quan   hệ  về  tổ chức   (thường    liên quan   đến  đối
+  tượng phụ)
+▪ Quan   hệ  về  không    gian  (thường   liên  quan  đến
+  đối tượng phụ
+▪ Quan hệ theo vai trò: Chủ động/Bị động
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            28
+
+===== PAGE 29 =====
+             Nhận dạng thuộc tính
+
+❖ Sự phụ thuộc (không có ý nghĩa rõ ràng khi
+  đứng độc lập)
+   ▪ Phụ thuộc một đối tượng ➔ Thuộc tính của đối tượng
+   ▪ Phụ thuộc nhiều đối tượng ➔ Thuộc tính của quan hệ
+❖ Các loại thuộc tính
+   ▪ Định danh (thường của đối tượng)
+   ▪ Phân loại
+   ▪ Thời gian
+   ▪ Không gian
+   ▪ Định lượng
+   ▪ …
+❖ Ví dụ:?
+
+
+                                29
+
+===== PAGE 30 =====
+                 Các bước xây dựng
+            sơ đồ lớp ở mức phân tích
+
+❖ Bước 1: Xác định các lớp đối tượng, quan
+  hệ và thuộc tính trực tiếp từ yêu cầu của
+  hệ thống
+   ▪  Xét lần lượt từng biểu mẫu và quy định
+       • Nếu trong sơ đồ lớp hiện tại chưa có thể lưu trữ
+         được thông tin cần thiết:
+           – Cần bổ sung thuộc tính vào lớp đối tượng đã có?
+           – Cần bổ sung thuộc tính vào quan hệ đã có?
+           – Cần bổ sung thêm quan hệ giữa các lớp đối tượng đã có?
+           – Cần bổ sung thêm lớp đối tượng mới?
+
+
+
+
+
+
+
+
+                                   30
+
+===== PAGE 31 =====
+               Các bước xây dựng
+          sơ đồ lớp ở mức phân tích
+❖ Bước 2:
+   ▪ Nếu   một   lớp  đối  tượng   có  thuộc   tính có  cấu
+     trúc  phức   tạp  hoặc   có  các  thuộc   tính có  liên
+     hệ  chặt  chẽ  với  nhau   và  có ngữ   nghĩa   cụ  thể
+     thì nên tách ra thành lớp đối tượng phụ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              31
+
+===== PAGE 32 =====
+              Các bước xây dựng
+          sơ đồ lớp ở mức phân tích
+❖ Bước 3:
+   ▪ 3.1. Nhiều    lớp  đối tượng   có  nhiều   đặc  điểm
+     chung
+     ➔   Xây  dựng    lớp  đối tượng   tổng  quát  chung
+     cho các lớp đối tượng cụ thể này
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             32
+
+===== PAGE 33 =====
+               Các bước xây dựng
+          sơ đồ lớp ở mức phân tích
+❖ Bước 3:
+   ▪ 3.2. Một lớp đối tượng có thuộc tính phân loại
+     và cách xử     lý trong  các  phương     thức  của  đối
+     tượng thuộc lớp này phụ thuộc vào giá trị của
+     thuộc tính phân loại
+     ➔   Tách    lớp  đối  tượng    này  thành   nhiều   lớp
+     đối  tượng   con   tương   ứng   với mỗi   (nhóm)   giá
+     trị của thuộc tính phân loại
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               33
+
+===== PAGE 34 =====
+             Các bước xây dựng
+         sơ đồ lớp ở mức phân tích
+❖ Bước 4:
+   ▪ Hiệu chỉnh các quan hệ đã có để phù hợp với
+     các lớp đối tượng vừa được điều chỉnh
+❖ Bước 5:
+   ▪ Kiểm tra lại sơ đồ lớp và hiệu chỉnh (theo kinh
+     nghiệm)
+❖ Bước 6:
+   ▪ Bổ  sung   các  trách  nhiệm   (phương    thức)  vào
+     các lớp đối tượng ở mức phân tích
+
+
+
+
+
+
+
+
+                             34
+
+===== PAGE 35 =====
+  Kết quả: Sơ đồ lớp ở mức phân tích
+
+❖ Sơ đồ lớp
+❖ Danh sách các lớp đối tượng và quan hệ
+
+
+
+
+     STT   Tên lớp/quan hệLoại          Ý nghĩa/ghi chú
+     …     …              …             …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             35
+
+===== PAGE 36 =====
+   Kết quả: Sơ đồ lớp ở mức phân tích
+
+❖ Sơ đồ lớp
+❖ Danh sách các lớp đối tượng và quan hệ
+❖ Mô tả chi tiết từng lớp đối tượng và quan hệ
+   ▪  Với mỗi lớp đối tượng:
+       • Mô tả các thuộc tính
+
+          STT     Tên thuộc tính   Kiểu  Ràng buộc    Ý nghĩa/ghi chú
+          …       …                …     …            …
+       • Danh sách các trách nhiệm chính
+   ▪  Với mỗi quan hệ:
+
+         STT     Tên thuộc tính   Kiểu  Ràng buộc    Ý nghĩa/ghi chú
+         …       …                …     …            …
+
+
+
+
+                                   36
+
+===== PAGE 37 =====
+                       Áp dụng
+
+❖ Áp dụng thực tế vào các bài tập
+   ▪  Xác định các lớp đối tượng chính
+   ▪  Xác định các thông tin và hành động/trách nhiệm của
+      mỗi lớp đối tượng chính
+   ▪  Xác định các quan hệ chính
+   ▪  Xác định các lớp đối tượng phụ, các danh mục
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  37
+
+===== PAGE 38 =====
+38
+
+===== PAGE 39 =====
+39
+
+===== PAGE 40 =====
+40
+
+===== PAGE 41 =====
+41
+
+===== PAGE 42 =====
+Sơ đồ trạng thái
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              42
+
+===== PAGE 43 =====
+                 Các khái niệm
+
+❖ Sơ đồ trạng thái
+   ▪ Mô tả chu trình sống của các đối tượng chính
+     từ khi sinh ra, hoạt động & mất đi
+   ▪ Mỗi đối tượng có thể có nhiều sơ đồ trạng
+     thái theo các góc nhìn khác nhau
+❖ Trạng thái & biến cố
+   ▪ Trạng thái của đối tượng diễn đạt tình trạng
+     hiện có của đối tượng (có ý nghĩa trong một
+     đoạn thời gian)
+   ▪ Biến cố là các sự kiện xảy ra làm cho đối
+     tượng chuyển trạng thái.
+
+
+                               43
+
+===== PAGE 44 =====
+                   Một số ký hiệu
+
+
+
+
+
+     Tên trạng thái                      Trạng thái
+
+
+      Tên trạng thái
+
+stateVar : type = value
+
+entry/ entry action
+do/ activity
+exit/ exit action
+
+
+Tên biến cố (tham số)
+Tên hành động (tham số)                   Chuyển đổi trạng thái
+
+      [Điều kiện]
+
+
+
+
+                                        44
+
+===== PAGE 45 =====
+              Các trạng thái đặc biệt
+
+❖  Trang thái bắt đầu
+    ▪ Là trạng thái khi mới được khởi tạo của object
+    ▪ Bắt buộc phải có
+    ▪ Chỉ có thể có 1 trạng thái bắt đầu
+                                              Tr/thái bắt đầu
+❖  Trang thái kết thúc
+    ▪ Chỉ vị trí kết thúc đời sống của object
+    ▪ Không nhất thiết phải thể hiện
+    ▪ Có thể có nhiều
+                                                         Tr/thái kết thúc
+
+
+
+
+
+
+
+
+
+
+                                      45
+
+===== PAGE 46 =====
+                        Sơ đồ trạng thái
+
+❖  Là đồ thị có hướng với các node là các trạng thái nối với nhau bới
+   các cung mô tả việc chuyển đổi trạng thái
+
+
+         Trạng thái                    Biến cố
+
+
+                Tên trạng thái                        Biến cố(tham số)
+                                                      [Biểu thức điều kiện]
+           stateVar : type = value                    / Hành động (tham số)
+
+           entry/ entry action
+           do/ activity                          Hành động
+           exit/ exit action
+
+  Hành động                                                        Chuyển đổi trạng thái
+
+
+
+
+
+
+
+                                              46
+
+===== PAGE 47 =====
+                  Sơ đồ trạng thái
+
+
+                                            B1, B2: biến cố sinh
+                                            B4, B8, B9: biến cố mất
+                                            B3, B5, B6, B7: biến cố hoạt động
+ B1                   B3                         B4
+            S1
+
+                               S2            B5
+B2
+           S4          B7                                      S6
+                                 B6        S3
+
+
+                 B8
+                            S5           B9
+
+
+
+
+
+
+
+
+                                      47
+
+===== PAGE 48 =====
+                     Sơ đồ trạng thái
+
+❖  Mỗi sơ đồ trạng thái sẽ ánh xạ thành một thuộc tính của đối
+   tượng
+❖  Các trạng thái của đối tượng trong 1 sơ đồ trạng thái không
+   giao nhau và giá trị của thuộc tính tương ứng chỉ mang 1
+   trong các giá trị tương ứng
+❖  Sơ đồ trạng thái càng chi tiết sẽ phục vụ:
+    ▪  Có những xử lý thích hợp trong kiểm tra ràng buộc
+    ▪  Có những xử lý thích hợp trong xử lý biến cố
+    ▪  Phục vụ tra cứu, tìm kiếm
+❖  Khi đã quan tâm đến sơ đồ trạng thái của 1 đối tượng
+    ▪  Thường trong ứng dụng không còn chức năng xóa (thật sự) đối
+       tượng này
+    ▪  Các đối tượng sẽ tồn tại ở trạng thái mất thay vì bị xóa thật sự
+
+
+
+
+
+
+
+                                        48
+
+===== PAGE 49 =====
+                Sơ đồ trạng thái
+
+❖ Thông thường, sơ đồ trạng thái của 1 đối
+  tượng có dạng
+
+
+                      Sẵn sàng                Chấm dứt
+
+
+
+
+
+
+     Hoạt động                     Tạm dừng
+
+
+
+
+
+
+
+
+
+
+
+
+                              49
+
+===== PAGE 50 =====
+50
+
+===== PAGE 51 =====
+      Cách xây dựng sơ đồ trạng thái
+
+❖ Cách 1:
+   ▪  Xác định quá trình hoạt động bình thường của đối
+      tượng từ khi sinh ra đến khi mất đi
+   ▪  Bổ sung các trạng thái và biến cố liên quan đến
+       • Sinh ra
+       • Hoạt động
+       • Tạm từng
+       • Mất đi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  51
+
+===== PAGE 52 =====
+      Cách xây dựng sơ đồ trạng thái
+
+❖ Cách 2:
+   ▪  Xác định các trạng thái sinh
+   ▪  Xác định các trạng thái cuối
+   ▪  Xác định các trạng thái trung gian và các biến
+      cố/hành động làm chuyển trạng thái
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  52
+
+===== PAGE 53 =====
+          Kết quả: Sơ đồ trạng thái
+
+
+
+
+Sơ đồ trạng thái                   B1   S1    B3            B4
+
+                                                  S2
+                                  B2                      B5
+                                       S4     B7         S3        S6
+                                                    B6
+
+                                           B8   S5
+                                                        B9
+Bảng mô tả các trạng thái
+STT    Trạng thái   Ý nghĩa       Xử lý liên quan   Ghi chú
+…      …            …             …                 …
+
+Bảng mô tả các biến cố
+ STT   Biến cố       Ý nghĩa      Xử lý liên quan    Ghi chú
+ …     …             …            …                  …
+
+
+                                     53
+
+===== PAGE 54 =====
+54
+
+===== PAGE 55 =====
+       Ví dụ
+
+
+
+
+
+
+
+            Unassigned
+
+
+                  addProfessor
+removeProfessor
+
+             Assigned
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    55
+
+===== PAGE 56 =====
+                                                           Ví dụ
+
+
+
+
+                    add student / numStudents = numStudents + 1
+
+     / numStudents = 0                             remove student / numStudents = numStudents - 1
+
+                                   Unassigned
+
+                                                                   closeRegistration
+
+
+                                          addProfessor              cancel                                  Cancelled
+                                                                                               do: Send cancellation notices
+                                                                  close
+
+                      removeProfessor                                                              [ numStudents = 10 ]        cancel
+                                                                cancel
+                                                                                                                                   Full
+
+
+                                                                 close[ numStudents < 3 ]                                                    close
+
+
+add student /                                                        [ numStudents = 10 ]           closeRegistration [ has Professor assigned ]
+numStudents = numStudents + 1
+
+                                    Assigned                     closeRegistration[ numStudents >= 3 ]                         Committed
+
+                                                                                                                     do: Generate class roster
+
+
+                                                                   close[ numStudents >= 3 ]56
+   remove student / numStudents = numStudents - 1
+
+===== PAGE 57 =====
+Ví dụ: trạng thái lồng nhau
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     57
+
+===== PAGE 58 =====
+                            Ví dụ: trạng thái lồng nhau
+
+                           superstate
+
+     / numStudents = 0                     Open                     closeRegistration                                Closed
+
+
+                                                                           close                                       Cancelled
+                                 Unassigned                                                                 do: Send cancellation notices
+
+
+                                                                                                                           cancel
+substate                                                                     cancel
+
+                                                                        close[ numStudents < 3 ]                        Full
+
+                    remove a professor
+                                                                             [ numStudents = 10 ]                                  close
+                                       add a professor
+                                                                                                closeRegistration [ has Professor assigned ]
+
+
+                                  Assigned                  closeRegistration[ numStudents >= 3 ]                   Committed
+ add student /                                                                                             do: Generate class roster
+ numStudents = numStudents + 1
+                     H                                                 close[ numStudents >= 3 ]
+
+
+
+
+
+     remove student / numStudents = numStudents - 1                            58
+
+===== PAGE 59 =====
+                 Luyện tập
+
+❖ Vẽ sơ đồ trạng thái của thang máy
+❖ Vẽ sơ đồ trạng thái của 1 đèn giao thông
+❖ Vẽ sơ đồ trạng thái của 1 cặp đèn giao
+  thông tại ngã tư
+❖ Vẽ sơ đồ trạng thái của 1 độc giả
+❖ Vẽ sơ đồ trạng thái của 1 cuốn sách
+❖ Vẽ sơ đồ trạng thái của 1 phòng trong
+  khách sạn
+❖ Vẽ sơ đồ trạng thái của 1 quân cờ
+❖ …
+
+
+
+
+                           59

@@ -1,0 +1,1262 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/vaxsvy10",
+    "id": "vaxsvy10",
+    "slide": 15,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#F1F1F1",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Times New Roman",
+      "Times New Roman Bold"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "8/1/2011",
+          "textPreview": "8/1/2011",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "8/1/2011",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "8/1/2011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "text": "8/1/2011",
+          "textPreview": "8/1/2011",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "8/1/2011",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "8/1/2011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/547mhg3m",
+      "id": "2",
+      "name": "Freeform 2",
+      "bbox": [
+        875.05,
+        892.01,
+        1205.47,
+        289.31
+      ],
+      "rotation": -5.1,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image35.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 6578
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3y5ov21",
+      "id": "3",
+      "name": "Freeform 3",
+      "bbox": [
+        -211.7,
+        -364.34,
+        794.78,
+        471.9
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image8.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 936842
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/76p4jqls",
+      "id": "4",
+      "name": "TextBox 4",
+      "bbox": [
+        394.75,
+        52.73,
+        1094.94,
+        102.2
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Kết Luận & Hướng Phát Triển",
+      "textPreview": "Kết Luận & Hướng Phát Triển",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Kết Luận & Hướng Phát Triển"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Kết Luận & Hướng Phát Triển",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Kết Luận & Hướng Phát Triển",
+              "fontSize": 80.03,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65gnqlk7",
+      "id": "5",
+      "name": "Freeform 5",
+      "bbox": [
+        435.58,
+        607.42,
+        937.25,
+        70.29
+      ],
+      "rotation": 90,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image48.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 6438
+      }
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t87ml0ji",
+      "id": "6",
+      "name": "TextBox 6",
+      "bbox": [
+        78.18,
+        257.21,
+        790.87,
+        351.69
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Kiến trúc 3 tầng rõ ràng, async-first, scalable\n18+ AI providers — không vendor lock-in\nMulti-model DB (graph + vector + full-text) trong 1 hệ thống\n6 LangGraph workflows cho AI orchestration\nPodcast generation đa speaker chuyên nghiệp\nREST API đầy đủ (24 routers, auto-docs)\nJob queue cho long-running tasks — UX mượt\nPrivacy-first — self-hosted, mã hóa credentials",
+      "textPreview": "Kiến trúc 3 tầng rõ ràng, async-first, scalable | 18+ AI providers — không vendor lock-in | Multi-model DB (graph + vector + full-text) t...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "•Kiến trúc 3 tầng rõ ràng, async-first, scalable"
+          },
+          {
+            "index": 2,
+            "text": "•18+ AI providers — không vendor lock-in"
+          },
+          {
+            "index": 3,
+            "text": "•Multi-model DB (graph + vector + full-text) trong 1 hệ"
+          },
+          {
+            "index": 4,
+            "text": "thống"
+          },
+          {
+            "index": 5,
+            "text": "•6 LangGraph workflows cho AI orchestration"
+          },
+          {
+            "index": 6,
+            "text": "•Podcast generation đa speaker chuyên nghiệp"
+          },
+          {
+            "index": 7,
+            "text": "•REST API đầy đủ (24 routers, auto-docs)"
+          },
+          {
+            "index": 8,
+            "text": "•Job queue cho long-running tasks — UX mượt"
+          },
+          {
+            "index": 9,
+            "text": "•Privacy-first — self-hosted, mã hóa credentials"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Kiến trúc 3 tầng rõ ràng, async-first, scalable",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Kiến trúc 3 tầng rõ ràng, async-first, scalable",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 2,
+          "text": "18+ AI providers — không vendor lock-in",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "18+ AI providers — không vendor lock-in",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 3,
+          "text": "Multi-model DB (graph + vector + full-text) trong 1 hệ thống",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Multi-model DB (graph + vector + full-text) trong 1 hệ thống",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 4,
+          "text": "6 LangGraph workflows cho AI orchestration",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "6 LangGraph workflows cho AI orchestration",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 5,
+          "text": "Podcast generation đa speaker chuyên nghiệp",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Podcast generation đa speaker chuyên nghiệp",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 6,
+          "text": "REST API đầy đủ (24 routers, auto-docs)",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REST API đầy đủ (24 routers, auto-docs)",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 7,
+          "text": "Job queue cho long-running tasks — UX mượt",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Job queue cho long-running tasks — UX mượt",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 8,
+          "text": "Privacy-first — self-hosted, mã hóa credentials",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Privacy-first — self-hosted, mã hóa credentials",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s7y5sv2x",
+      "id": "7",
+      "name": "TextBox 7",
+      "bbox": [
+        95.56,
+        202.31,
+        234.77,
+        46.42
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Kết quả đạt được",
+      "textPreview": "Kết quả đạt được",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Kết quả đạt được"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Kết quả đạt được",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Kết quả đạt được",
+              "fontSize": 32.88,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/na5476l8",
+      "id": "8",
+      "name": "TextBox 8",
+      "bbox": [
+        95.56,
+        615.85,
+        111.41,
+        46.42
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Hạn chế",
+      "textPreview": "Hạn chế",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Hạn chế"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Hạn chế",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Hạn chế",
+              "fontSize": 32.88,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m9c3e1kn",
+      "id": "9",
+      "name": "TextBox 9",
+      "bbox": [
+        78.18,
+        670.28,
+        665.58,
+        175.69
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Single-user (chưa hỗ trợ multi-user)\nAuth cơ bản (password-only, chưa OAuth/JWT)\nSurrealDB còn tương đối mới, cộng đồng nhỏ\nCitation cơ bản (chưa bằng Google Notebook LM)",
+      "textPreview": "Single-user (chưa hỗ trợ multi-user) | Auth cơ bản (password-only, chưa OAuth/JWT) | SurrealDB còn tương đối mới, cộng đồng nhỏ | Citatio...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "•Single-user (chưa hỗ trợ multi-user)"
+          },
+          {
+            "index": 2,
+            "text": "•Auth cơ bản (password-only, chưa OAuth/JWT)"
+          },
+          {
+            "index": 3,
+            "text": "•SurrealDB còn tương đối mới, cộng đồng nhỏ"
+          },
+          {
+            "index": 4,
+            "text": "•Citation cơ bản (chưa bằng Google Notebook"
+          },
+          {
+            "index": 5,
+            "text": "LM)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Single-user (chưa hỗ trợ multi-user)",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Single-user (chưa hỗ trợ multi-user)",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 2,
+          "text": "Auth cơ bản (password-only, chưa OAuth/JWT)",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Auth cơ bản (password-only, chưa OAuth/JWT)",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 3,
+          "text": "SurrealDB còn tương đối mới, cộng đồng nhỏ",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SurrealDB còn tương đối mới, cộng đồng nhỏ",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 4,
+          "text": "Citation cơ bản (chưa bằng Google Notebook LM)",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Citation cơ bản (chưa bằng Google Notebook LM)",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wrm9kvep",
+      "id": "10",
+      "name": "TextBox 10",
+      "bbox": [
+        960,
+        202.31,
+        235.69,
+        46.42
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Hướng phát triển",
+      "textPreview": "Hướng phát triển",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Hướng phát triển"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Hướng phát triển",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Hướng phát triển",
+              "fontSize": 32.88,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hsvat0fa",
+      "id": "11",
+      "name": "TextBox 11",
+      "bbox": [
+        960,
+        257.21,
+        906.59,
+        615.69
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "1. Hỗ trợ đa người dùng\nThiết kế lại hệ thống xác thực (OAuth/JWT) và phân quyền để nhiều người dùng có thể sử dụng độc lập trên cùng một hệ thống.\n2. Chia sẻ và kết nối ngang hàng (P2P)\nHỗ trợ tạo Link chia sẻ trực tiếp (P2P) trong các phiên Chat, cho phép nhiều người dùng kết nối và sử dụng chung một không gian nghiên cứu một cách dễ dàng và bảo mật.\n3. Đa dạng hóa định dạng xuất ra\nHỗ trợ AI tự động tạo Video, bài thuyết trình (slide), và sơ đồ tư duy (mind map) từ kết quả nghiên cứu.\n4. Tích hợp giao thức MCP\nCho phép các AI Agent bên ngoài kết nối và sử dụng NotebookE như một \"bộ nhớ nghiên cứu\" cung cấp kiến thức chuẩn.\n",
+      "textPreview": "1. Hỗ trợ đa người dùng | Thiết kế lại hệ thống xác thực (OAuth/JWT) và phân quyền để nhiều người dùng có thể sử dụng độc lập trên cùng m...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 14,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1. Hỗ trợ đa người dùng"
+          },
+          {
+            "index": 2,
+            "text": "•Thiết kế lại hệ thống xác thực (OAuth/JWT) và phân quyền để nhiều"
+          },
+          {
+            "index": 3,
+            "text": "người dùng có thể sử dụng độc lập trên cùng một hệ thống."
+          },
+          {
+            "index": 4,
+            "text": "2. Chia sẻ và kết nối ngang hàng (P2P)"
+          },
+          {
+            "index": 5,
+            "text": "•Hỗ trợ tạo Link chia sẻ trực tiếp (P2P) trong các phiên Chat, cho phép"
+          },
+          {
+            "index": 6,
+            "text": "nhiều người dùng kết nối và sử dụng chung một không gian nghiên"
+          },
+          {
+            "index": 7,
+            "text": "cứu một cách dễ dàng và bảo mật."
+          },
+          {
+            "index": 8,
+            "text": "3. Đa dạng hóa định dạng xuất ra"
+          },
+          {
+            "index": 9,
+            "text": "•Hỗ trợ AI tự động tạo Video, bài thuyết trình (slide), và sơ đồ tư duy"
+          },
+          {
+            "index": 10,
+            "text": "(mind map) từ kết quả nghiên cứu."
+          },
+          {
+            "index": 11,
+            "text": "4. Tích hợp giao thức MCP"
+          },
+          {
+            "index": 12,
+            "text": "•Cho phép các AI Agent bên ngoài kết nối và sử dụng NotebookE như"
+          },
+          {
+            "index": 13,
+            "text": "một \"bộ nhớ nghiên cứu\" cung cấp kiến thức chuẩn."
+          },
+          {
+            "index": 14,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1. Hỗ trợ đa người dùng",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1. Hỗ trợ đa người dùng",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Thiết kế lại hệ thống xác thực (OAuth/JWT) và phân quyền để nhiều người dùng có thể sử dụng độc lập trên cùng một hệ thống.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Thiết kế lại hệ thống xác thực (OAuth/JWT) và phân quyền để nhiều người dùng có thể sử dụng độc lập trên cùng một hệ thống.",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 3,
+          "text": "2. Chia sẻ và kết nối ngang hàng (P2P)",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2. Chia sẻ và kết nối ngang hàng (P2P)",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "Hỗ trợ tạo Link chia sẻ trực tiếp (P2P) trong các phiên Chat, cho phép nhiều người dùng kết nối và sử dụng chung một không gian nghiên cứu một cách dễ dàng và bảo mật.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Hỗ trợ tạo Link chia sẻ trực tiếp (P2P) trong các phiên Chat, cho phép nhiều người dùng kết nối và sử dụng chung một không gian nghiên cứu một cách dễ dàng và bảo mật.",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 5,
+          "text": "3. Đa dạng hóa định dạng xuất ra",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3. Đa dạng hóa định dạng xuất ra",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "Hỗ trợ AI tự động tạo Video, bài thuyết trình (slide), và sơ đồ tư duy (mind map) từ kết quả nghiên cứu.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Hỗ trợ AI tự động tạo Video, bài thuyết trình (slide), và sơ đồ tư duy (mind map) từ kết quả nghiên cứu.",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        },
+        {
+          "index": 7,
+          "text": "4. Tích hợp giao thức MCP",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4. Tích hợp giao thức MCP",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "Cho phép các AI Agent bên ngoài kết nối và sử dụng NotebookE như một \"bộ nhớ nghiên cứu\" cung cấp kiến thức chuẩn.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Cho phép các AI Agent bên ngoài kết nối và sử dụng NotebookE như một \"bộ nhớ nghiên cứu\" cung cấp kiến thức chuẩn.",
+              "fontSize": 31.55,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 457200
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

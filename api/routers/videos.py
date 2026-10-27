@@ -58,6 +58,7 @@ async def generate_video(request: VideoGenerationRequest):
             image_workflow=request.image_workflow,
             visual_mode=request.visual_mode,
             tts_voice=request.tts_voice,
+            voice_model=request.voice_model,
             language=request.language,
             video_type=request.video_type,
             style=request.style,

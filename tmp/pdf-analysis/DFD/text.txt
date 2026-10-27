@@ -1,0 +1,1279 @@
+
+===== PAGE 1 =====
+            Sơ đồ luồng dữ liệu
+
+
+◼ Khái    niệm:   Sơ   đồ  luồng   dữ  liệu, viết  tắt là DFD    (Data
+  Flow Diagram) là sơ đồ biểu thị các thông tin liên quan
+  đến việc thực hiện các công việc trong thế giới thực bên
+  trong máy tính.
+◼ Mục tiêu: Mô hình hóa thế giới thực với các yêu cầu đã
+  xác định.
+◼ Kết quả:
+     + Sơ đồ luồng dữ liệu của từng công việc;
+     + Sơ đồ phối hợp giữa các công việc.
+
+
+                  1                August 26
+
+===== PAGE 2 =====
+Danh sách các ký hiệu
+
+  TênTênTên       Người dùng/Thiết bị
+
+   Tên            Khối xử lý
+
+ Tên              Luồng dữ liệu
+
+
+  Tên             Bộ nhớ phụ
+
+
+
+
+
+
+
+
+       2             August 26
+
+===== PAGE 3 =====
+   Sơ đồ luồng dữ liệu tổng quát
+
+
+                          Người dùng
+
+                            D1            D6
+
+                    D2                       D5
+Thiết bị nhập               Tên xử lý              Thiết bị xuất
+
+                            D3            D4
+
+                                Tên
+
+
+
+
+
+
+
+
+
+
+                  3               August 26
+
+===== PAGE 4 =====
+        Mô tả các luồng dữ liệu
+
+
+◼   D1: Thông tin xuất phát từ người dùng
+◼   D2: Thông tin xuất phát từ thiết bị nhập khác chuẩn
+◼   D3: Thông tin xuất phát từ bộ nhớ phụ
+◼   D4: Thông tin ghi xuống bộ nhớ phụ
+◼   D5: Thông tin đưa ra thiết bị xuất khác chuẩn
+◼   D6: Thông tin trả về cho người dùng
+***D (Data): là thông tin, không phải hành động.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   4                   August 26
+
+===== PAGE 5 =====
+                   Một số lưu ý
+
+
+◼  Mỗi khối xử lý phải có ít nhất 1 luồng vào và 1 luồng ra.
+◼  Không có luồng dữ liệu trực tiếp giữa các tác nhân và giữa
+   tác nhân với kho dữ liệu.
+◼  Quá   trình lập sơ   đồ  luồng dữ    liệu  cho  một   công việc   được
+   tiến hành qua 3 bước:
+    B1: Xác định dữ liệu nhập
+    B2: Xác định dữ liệu xuất
+    B3: Mô tả xử lý
+
+
+
+
+
+
+                    5                 August 26
+
+===== PAGE 6 =====
+      B1: Xác định dữ liệu nhập
+
+
+
+Dữ liệu nhập bao gồm D1, D2 và D3
+◼  D1 dựa vào biểu mẫu liên quan.
+◼  D2 được nhập từ thiết bị khác chuột và bàn phím.
+◼  D3 là thông tin liên quan đọc từ bộ nhớ phụ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  6                August 26
+
+===== PAGE 7 =====
+ B1: Xác định dữ liệu nhập (tt)
+
+
+Nguyên tắc của dữ liệu nhập D1 và D2:
+ ➢  Không nhập vào các dữ liệu đã được lưu trữ trước đó.
+ ➢  Không nhập vào các dữ liệu có thể tính toán được dựa
+    trên qui định hay công thức đã có.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                7                August 26
+
+===== PAGE 8 =====
+        B2: Xác định dữ liệu xuất
+
+
+
+Dữ liệu xuất bao gồm D4, D5 và D6.
+◼  D4:  ngoài   dữ  liệu  nhập   cần  ghi, còn   ghi  các  kết quả   mới   tạo lập
+   hoặc các dữ liệu đã có nhưng bị thay đổi sau khi thực hiện xử lý đó.
+◼  D5 dựa vào biểu mẫu liên quan, xuất ra thiết bị khác màn hình.
+◼  D6 dựa vào biểu mẫu liên quan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     8                  August 26
+
+===== PAGE 9 =====
+   B2: Xác định dữ liệu xuất (tt)
+
+
+
+Một số lưu ý:
+  ➢  Phải   có  thông   báo   cho  biết  công   việc  được   thực   hiện  thành
+     công hay thất bại.
+  ➢  Không phải tất     cả  dữ liệu xuất ra màn      hình  đều  hỗ trợ xuất   ra
+     máy   in, tùy  vào  yêu  cầu   cụ  thể mà   có  thể thay   đổi cách   trình
+     bày khi in hoặc không hỗ trợ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    9                 August 26
+
+===== PAGE 10 =====
+               B3: Mô tả xử lý
+
+
+Mô   tả quá trình sử dụng dữ liệu nhập         (D1,  D2,  D3) để    tạo ra
+dữ liệu xuất (D4, D5, D6).
+Một số lưu ý:
+    ➢  Chỉ mô tả xử lý mà không         cần quan tâm      đến cách thực
+       hiện nhập xuất.
+    ➢  Mô tả các xử lý theo nhóm các xử lý có liên quan.
+    ➢  Sắp xếp các xử lý theo trình tự hợp lý:
+       + Dựa vào ý nghĩa của xử lý;
+       + Dựa vào độ phức tạp của xử lý.
+
+
+                  10                August 26
+
+===== PAGE 11 =====
+                   Ví dụ
+
+
+
+
+Lập sơ đồ luồng dữ liệu cho yêu cầu Lập thẻ Độc giả
+               (trong đề tài Quản lý Thư viện)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               11                August 26
+
+===== PAGE 12 =====
+                   Ví dụ (tt)
+
+
+Biểu mẫu và qui định liên quan:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  12                August 26
+
+===== PAGE 13 =====
+                    Ví dụ (tt)
+
+
+1. Sơ đồ luồng dữ liệu:
+                              Thủ thư
+
+                              D1            D6
+               D2                                      D5
+Tb nhập                   Lập thẻ Độc giả                      Tb xuất
+
+                              D3            D4
+
+                                   Tên
+
+
+
+
+
+                   13               August 26
+
+===== PAGE 14 =====
+                   Ví dụ (tt)
+
+
+2. Mô tả các luồng dữ liệu:
+D1: Thông     tin về  Thẻ   độc  giả  (Họ   tên, Loại   độc  giả, Ngày
+sinh, Địa chỉ, Email, Ngày lập thẻ).
+D2: Không có
+D3:  Danh    sách  các   Loại  độc   giả, thời  hạn   thẻ, tuổi  tối đa,
+tuổi tối thiểu.
+D4: D1 + Ngày hết hạn
+D5: D4
+D6: Không có
+
+
+
+
+                  14                August 26
+
+===== PAGE 15 =====
+                        Ví dụ (tt)
+
+3. Thuật toán:
+B1: Nhận D1 từ người dùng
+B2: Kết nối cơ sở dữ liệu
+B3: Đọc D3 từ bộ nhớ phụ
+B4: Kiểm    tra Loại độc giả (D1) có thuộc danh sách các Loại độc giả (D3)
+hay không?
+B5: Tính tuổi độc giả
+B6: Kiểm tra tuổi tối thiểu <=  tuổi độc giả <= tuổi tối đa?
+B7: Nếu không thỏa một trong các
+điều kiện trên thì -> B11
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       15                   August 26
+
+===== PAGE 16 =====
+                     Ví dụ (tt)
+
+
+3. Thuật toán (tt)
+
+B8: Tính ngày hết hạn của thẻ
+B9: Lưu D4 xuống bộ nhớ phụ
+
+B10: Xuất D5 ra máy in
+B11:  Đóng    kết nối cơ sở dữ liệu
+
+B12: Kết thúc
+
+
+
+
+
+
+
+
+
+
+
+
+                    16               August 26
+
+===== PAGE 17 =====
+             SƠ ĐỒ DFD
+
+
+I.   Sơ đồ luồng dữ liệu cho yêu cầu lưu trữ
+II.  Sơ đồ luồng dữ liệu cho yêu cầu tra cứu
+III. Sơ đồ luồng dữ liệu cho yêu cầu kết xuất
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              17              August 26
+
+===== PAGE 18 =====
+   Sơ đồ luồng dữ liệu tổng quát
+
+
+                           Người dùng
+
+                            D1            D6
+
+                    D2                       D5
+Thiết bị nhập               Tên xử lý               Thiết bị xuất
+
+                            D3            D4
+
+                                 Tên
+
+
+
+
+
+
+
+
+
+
+                 18               August 26
+
+===== PAGE 19 =====
+       Mô tả các luồng dữ liệu
+
+
+
+D1: Thông tin xuất phát từ người dùng
+
+D2: Thông tin xuất phát từ thiết bị nhập khác chuẩn
+
+D3: Thông tin xuất phát từ bộ nhớ phụ
+
+D4: Thông tin ghi xuống bộ nhớ phụ
+
+D5: Thông tin đưa ra thiết bị xuất khác chuẩn
+
+D6: Thông tin trả về cho người dùng
+
+
+
+
+
+
+
+
+                 19               August 26
+
+===== PAGE 20 =====
+I. Sơ đồ luồng dữ liệu cho yêu cầu Lưu trữ
+
+
+                              Người dùng
+
+                               D1            D6
+
+                      D2                         D5
+ Thiết bị nhập                 Tên xử lý                Thiết bị xuất
+
+                               D3            D4
+
+                                    Tên
+
+
+
+
+
+
+
+
+
+
+                    20               August 26
+
+===== PAGE 21 =====
+ Mô tả các luồng dữ liệu
+
+
+
+D1: Thông tin cần lưu trữ
+
+D2: Không có
+
+D3: Thông tin về qui định
+
+D4: D1 +…
+
+D5: D4
+
+D6: Không có
+
+
+
+
+
+
+
+
+
+
+
+
+            21               August 26
+
+===== PAGE 22 =====
+Ví dụ mô hình hóa yêu cầu Lưu trữ
+
+
+
+  Lập sơ đồ luồng dữ liệu cho yêu cầu Tiếp nhận đại lý
+                (trong đề tài Quản lý các đại lý)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  22              August 26
+
+===== PAGE 23 =====
+Ví dụ mô hình hóa yêu cầu Lưu trữ (tt)
+
+
+ Biểu mẫu và qui định liên quan:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   23               August 26
+
+===== PAGE 24 =====
+Ví dụ mô hình hóa yêu cầu Lưu trữ (tt)
+
+
+
+1. Sơ đồ luồng dữ liệu:
+
+                            Người dùng
+
+                              D1        D6
+             D2                                           D5
+  Tb nhập                  Lập hồ sơ đại lý                  Tb xuất
+
+
+                              D3        D4
+
+                             Bộ nhớ phụ
+
+
+
+
+
+
+
+
+
+                  24               August 26
+
+===== PAGE 25 =====
+Ví dụ mô hình hóa yêu cầu Lưu trữ (tt)
+
+
+
+ 2. Mô tả các luồng dữ liệu:
+ D1: Tên đại lý, loại đại lý, điện thoại, địa chỉ, quận, ngày tiếp nhận.
+ D2: Không có
+ D3: Danh sách các Loại đại lý, danh sách các Quận, số đại lý tối đa
+ trong mỗi quận, danh sách các Đại lý tương ứng với quận (D1).
+ D4: D1
+ D5: D4
+ D6: Không có
+
+
+
+
+
+
+
+                     25                 August 26
+
+===== PAGE 26 =====
+Ví dụ mô hình hóa yêu cầu Lưu trữ (tt)
+
+
+3. Thuật toán:
+B1: Nhận D1 từ người dùng
+B2: Kết nối cơ sở dữ liệu
+B3: Đọc D3 từ bộ nhớ phụ
+B4: Kiểm tra quận (D1) có thuộc danh sách các Quận (D3) hay không.
+B5: Tính số đại lý hiện có của quận (D1).
+B6: Kiểm tra số đại lý của quận (D1) có < số đại lý tối đa?
+B7: Kiểm    tra loại đại  lý (D1)   có thuộc   danh   sách  các Loại   đại lý (D3)
+hay không.
+
+
+
+                      26                August 26
+
+===== PAGE 27 =====
+Ví dụ mô hình hóa yêu cầu Lưu trữ (tt)
+
+
+
+   3. Thuật toán (tt)
+
+   B8: Nếu không thỏa mãn 1 trong các điều kiện trên thì đến B11
+
+   B9: Lưu D4 xuống bộ nhớ phụ
+
+   B10: Xuất D5 ra máy in
+
+   B11: Đóng kết     nối cơ sở dữ liệu
+
+   B12: Kết thúc
+
+
+
+
+
+
+
+
+
+
+
+
+                     27                August 26
+
+===== PAGE 28 =====
+II. Sơ đồ luồng dữ liệu cho yêu cầu Tra cứu
+
+
+                              Người dùng
+
+                               D1            D6
+
+                       D2                        D5
+ Thiết bị nhập                  Tên xử lý                Thiết bị xuất
+
+                                D3            D4
+
+                                    Tên
+
+
+
+
+
+
+
+
+
+
+                    28               August 26
+
+===== PAGE 29 =====
+ Mô tả các luồng dữ liệu
+
+
+
+D1: Thông tin về tiêu chuẩn tra cứu
+
+D2: Không có
+
+D3:  Thông    tin về  danh  sách   các  đối tượng   thỏa  mãn
+tiêu chuẩn tra cứu
+
+D4: Không có
+
+D5: D3
+
+D6: D5
+
+
+
+
+
+
+
+            29                August 26
+
+===== PAGE 30 =====
+Ví dụ mô hình hóa yêu cầu Tra cứu
+
+
+
+Lập sơ đồ luồng dữ liệu cho yêu cầu Tra cứu bệnh nhân
+             (trong đề tài Quản lý Phòng mạch tư)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  30             August 26
+
+===== PAGE 31 =====
+Ví dụ mô hình hóa yêu cầu Tra cứu (tt)
+
+
+
+   Biểu mẫu liên quan:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    31              August 26
+
+===== PAGE 32 =====
+Ví dụ mô hình hóa yêu cầu Tra cứu (tt)
+
+
+
+  1. Sơ đồ luồng dữ liệu:
+
+                              Người dùng
+
+                               D1       D6
+                   D2                                D5
+  Thiết bị nhập           Tra cứu bệnh nhân              Thiết bị xuất
+
+
+                               D3        D4
+                              Bộ nhớ phụ
+
+
+
+
+
+
+
+
+
+                    32              August 26
+
+===== PAGE 33 =====
+Ví dụ mô hình hóa yêu cầu Tra cứu (tt)
+
+
+
+    2. Mô tả các luồng dữ liệu:
+    D1: Tiêu chuẩn tra cứu (họ tên, ngày khám, loại bệnh, triệu chứng).
+    D2: Không có
+    D3:   Danh    sách  phiếu   khám   bệnh   (họ  tên,  ngày   khám,   loại  bệnh,
+    triệu chứng).
+    D4: Không có
+    D5:   Danh    sách   bệnh   nhân   (họ  tên,  ngày   khám,   loại  bệnh,   triệu
+    chứng) thoả tiêu chuẩn tra cứu (D1).
+    D6: D5
+
+
+
+
+                       33                August 26
+
+===== PAGE 34 =====
+Ví dụ mô hình hóa yêu cầu Tra cứu (tt)
+
+
+         3. Thuật toán:
+         B1: Nhận D1 từ người dùng
+         B2: Kết nối cơ sở dữ liệu
+         B3: Đọc D3 từ bộ nhớ phụ
+         B4: Xuất D5 ra máy in
+         B5: Trả D6 cho người dùng
+         B6: Đóng kết nối cơ sở dữ liệu
+         B7: Kết thúc
+
+
+
+
+
+
+
+                      34               August 26
+
+===== PAGE 35 =====
+III. Sơ đồ luồng dữ liệu cho yêu cầu Kết xuất
+
+
+                               Người dùng
+
+                                D1            D6
+
+                       D2                         D5
+ Thiết bị nhập                  Tên xử lý                Thiết bị xuất
+
+                                D3            D4
+
+                                     Tên
+
+
+
+
+
+
+
+
+
+
+                    35                August 26
+
+===== PAGE 36 =====
+ Mô tả các luồng dữ liệu
+
+
+
+D1: Thời gian
+
+D2: Không có
+
+D3: Thông tin cần cho việc lập báo cáo
+
+D4: Thông tin về báo cáo
+
+D5: D4
+
+D6: D5
+
+
+
+
+
+
+
+
+
+
+
+
+            36                August 26
+
+===== PAGE 37 =====
+Ví dụ mô hình hóa yêu cầu Kết xuất
+
+
+
+             Lập sơ đồ luồng dữ liệu cho yêu cầu
+    Báo cáo thống kê tình hình mượn sách theo thể loại
+                 (trong đề tài Quản lý Thư viện)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  37              August 26
+
+===== PAGE 38 =====
+Ví dụ mô hình hóa yêu cầu Kết xuất (tt)
+
+
+  Biểu mẫu liên quan:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   38               August 26
+
+===== PAGE 39 =====
+Ví dụ mô hình hóa yêu cầu Kết xuất (tt)
+
+
+1. Sơ đồ luồng dữ liệu:
+
+                              Người dùng
+
+                                D1       D6
+
+              D2          Lập  b/c thống kê tình            D5
+   Tb nhập              hình mượn sách theo thể                 Tb xuất
+                                    loại
+
+                                D3       D4
+                              Bộ nhớ phụ
+
+
+
+
+
+
+
+                    39               August 26
+
+===== PAGE 40 =====
+Ví dụ mô hình hóa yêu cầu Kết xuất (tt)
+
+
+ 2. Mô tả các luồng dữ liệu:
+ D1: Tháng + Năm
+ D2: Không có
+ D3: Danh sách các phiếu mượn sách trong tháng (D1) (*)
+ D4:   D1   +  thông   tin thống   kê  theo  từng   thể  loại có  mượn    trong
+ tháng (tên thể loại, số lượt mượn, tỉ lệ mượn) + tổng số lượt mượn.
+ D5: D4
+ D6: D5
+ (*)  Mượn    thời  điểm  nào   tính theo  thời  điểm   đó, không    tính 2  lần
+ nếu lượt mượn rơi vào thời điểm giữa 2 tháng.
+
+
+
+
+
+                     40                 August 26
+
+===== PAGE 41 =====
+Ví dụ mô hình hóa yêu cầu Kết xuất (tt)
+
+
+3. Thuật toán:
+B1: Nhận D1 từ người dùng
+B2: Kết nối cơ sở dữ liệu
+B3: Đọc D3 từ bộ nhớ phụ
+B4:   Đếm    số  lượt  mượn    theo  từng   thể  loại  từ danh   sách   các  phiếu
+mượn trong tháng (từ D3).
+B5: Tính tổng số lượt mượn của tất cả các thể loại (≠ số phiếu mượn).
+B6: Tính tỉ lệ mượn theo từng thể loại dựa vào số lượt mượn của từng
+thể loại và tổng số lượt mượn của tất cả các thể loại.
+
+
+
+
+                     41                 August 26
+
+===== PAGE 42 =====
+Ví dụ mô hình hóa yêu cầu Kết xuất (tt)
+
+
+
+        3. Thuật toán (tt)
+
+        B7: Lưu D4 xuống bộ nhớ phụ
+
+        B8: Xuất D5 ra máy in
+
+        B9: Trả D6 cho người dùng
+
+        B10: Đóng kết nối cơ sở dữ liệu
+
+        B11:  Kết thúc
+
+
+
+
+
+
+
+
+
+
+
+
+                     42                August 26

@@ -1,0 +1,5 @@
+import path from 'node:path';
+import {pathToFileURL} from 'node:url';
+const ROOT=process.cwd(), SKILL='C:/Users/Mera/.codex/plugins/cache/openai-primary-runtime/presentations/26.909.12148/skills/presentations';
+const {finalizePresentation}=await import(pathToFileURL(path.join(SKILL,'container_tools/artifact_tool_utils.mjs')));
+const result=await finalizePresentation({workspaceDir:ROOT,candidatePath:path.join(ROOT,'tmp/slides-build/work/candidate.pptx'),finalPath:path.join(ROOT,'output/presentations/NotebookE_Phan_tich_thiet_ke_27_slide_final.pptx'),pythonExecutable:'C:/Users/Mera/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe',integrityValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','18288000,10287000'],explicitTotalSlideCount:27,verifyArtifactToolImport:true,receiptPath:path.join(ROOT,'tmp/slides-build/work/validation-final.json')});console.log(result.finalPath);

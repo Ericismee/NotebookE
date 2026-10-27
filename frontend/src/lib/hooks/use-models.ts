@@ -20,6 +20,16 @@ export function useModels() {
   })
 }
 
+export function useModelVoices(modelId: string, language?: string) {
+  return useQuery({
+    queryKey: [...MODEL_QUERY_KEYS.model(modelId), 'voices', language],
+    queryFn: () => modelsApi.voices(modelId, language),
+    enabled: !!modelId,
+    staleTime: 60_000,
+    retry: false,
+  })
+}
+
 export function useModel(id: string) {
   return useQuery({
     queryKey: MODEL_QUERY_KEYS.model(id),

@@ -23,6 +23,7 @@ export interface VideoGenerationRequest {
   image_workflow?: string
   visual_mode?: string
   tts_voice?: string
+  voice_model?: string
   language?: string
   video_type?: string
   style?: string

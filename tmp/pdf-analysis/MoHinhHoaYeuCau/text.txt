@@ -1,0 +1,1757 @@
+
+===== PAGE 1 =====
+MÔ HÌNH HÓA YÊU CẦU
+
+===== PAGE 2 =====
+                                   Nội dung
+
+❖  Mô hình hóa yêu cầu:
+    ▪ Lược đồ Use-case
+    ▪ Khái niệm Actor và Usecase
+    ▪ Ví dụ
+❖  Actvity Diagram
+❖  Sequence Diagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                2
+
+===== PAGE 3 =====
+                                   Mở đầu
+
+❖ Đặt vấn đề:
+   ▪  Các mô tả về yêu cầu trong giai đoạn xác định yêu cầu:
+       • Chỉ  mô   tả  chủ  yếu  các   thông  tin liên  quan   đến  việc  thực  hiện   các
+         nghiệp   vụ trong  thế  giới thực,  chưa  thể  hiện  rõ nét việc thực   hiện  các
+         nghiệp vụ trên máy tính
+       • Mô tả thông quá các văn bản dễ gây ra nhầm lẫn và không trực quan
+   ➔ Mô hình hóa yêu cầu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                              3
+
+===== PAGE 4 =====
+                Mục đích của mô hình
+
+❖ Trực quan hóa hệ thống
+❖ Chỉ rõ cấu trúc và ứng xử của hệ thống
+❖ Cho chúng ta một khuôn mẫu để hướng dẫn chúng ta
+  trong quá trình xây dựng hệ thống
+❖ Đưa ra các dẫn chứng bằng tài liệu về các quyết định mà
+  chúng ta đã đưa ra trong quá trình thiết kế hệ thống
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   4
+
+===== PAGE 5 =====
+        Mô hình hóa các quan điểm khác nhau
+
+❖ Mô hình hóa các quan điểm khác nhau
+
+
+
+
+
+
+
+
+         Các mô hình giúp thể hiện những khía
+         cạnh khác nhau của hệ thống, sử dụng
+            các mức độ trừu tượng khác nhau.
+
+===== PAGE 6 =====
+                Khái niệm Actor
+
+
+
+
+                     ❑Tác nhân BÊN NGOÀI hệ thống
+                     ❑Có tương tác với hệ thống
+
+                                                Con người
+
+
+Tên Actor
+
+
+                                       Phần mềm
+
+
+                                                           Phần mềm khác
+
+
+                                Phần cứng
+                                    6
+
+===== PAGE 7 =====
+     Actor  Nhóm người sử dụng
+
+
+
+
+                    ❑Tác nhân BÊN NGOÀI hệ thống
+                    ❑Có tương tác với hệ thống
+
+                                              Con người
+
+
+Tên Actor
+
+
+                                     Phần mềm
+
+
+                                                        Phần mềm khác
+
+
+                              Phần cứng
+                                  7
+
+===== PAGE 8 =====
+Actor  Nhóm người sử dụng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Tác nhân
+
+                                                 8
+
+===== PAGE 9 =====
+                                 Ví dụ
+
+
+             Xét phần mềm Quản lý học sinh cấp III
+
+STT            Yêu cầu                                         Nhóm người dùng
+ 1     Tiếp nhận học sinh                            Giáo vụ?
+ 2     Lập danh sách lớp                             Giáo vụ?
+ 3     Tra cứu học sinh                              Mọi người? Phụ huynh? Học sinh?
+ 4     Nhận bảng điểm môn                            Giáo viên? Giáo vụ?
+ 5     Xem báo cáo tổng kết                          Ban giám hiệu?
+ 6     Thay đổi quy định                             Ban giám hiệu? Quản trị hệ thống?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               9
+
+===== PAGE 10 =====
+                         Ví dụ
+
+
+         Xét phần mềm Quản lý học sinh cấp III
+
+❖  Một nhóm người dùng tương ứng với một Actor
+❖  Mỗi Nhóm người      dùng (Actor) được quyền        sử dụng một
+   hay nhiều  chức năng trong hệ thống
+❖  Một chức năng có thể cho phép nhiều Nhóm người dùng
+   sử dụng
+❖  Nhiều   nhóm   người   dùng   có  cùng   các  quyền   hạn   giống
+   nhau
+➔ Nên xét là 1 Actor hay nhiều Actor?
+❖  Việc  xác  định   Actor  phụ   thuộc  ngữ   cảnh   và  quy   trình
+   thực tế
+
+
+
+
+
+
+                                    10
+
+===== PAGE 11 =====
+                              Ví dụ
+
+
+          Xét phần mềm Quản lý thư viện
+
+
+STT          Yêu cầu                                     Nhóm người dùng
+ 1     Lập thẻ độc giả                           Thủ thư
+ 2     Nhận sách mới                             Thủ thư
+ 3     Tra cứu học sinh                          Thủ thư? Độc giả? Khách bất kỳ?
+ 4     Lập phiếu mượn                            Thủ thư
+ 5     Nhận trả sách                             Thủ thư
+ 6     Thay đổi quy định                         Thủ thư? Quản trị hệ thống?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          11
+
+===== PAGE 12 =====
+       Actor  Phần cứng ngoại vi
+
+
+
+
+                    ❑Tác nhân BÊN NGOÀI hệ thống
+                    ❑Có tương tác với hệ thống
+
+                                               Con người
+
+
+Tên Actor
+
+
+                                      Phần mềm
+
+
+                                                          Phần mềm khác
+
+
+                               Phần cứng
+                                  12
+
+===== PAGE 13 =====
+                                                 Ví dụ
+
+❖  Ví dụ:
+     ▪  Phần mềm quản lý Siêu thị:
+          • Đọc thông tin từ thiết bị đọc mã vạch
+     ▪  Phần mềm quản lý cửa tự động:                                        Các thiết bị ngoại vi
+          • Đọc thông tin từ camera                                            mà phần mềm
+          • Phát lệnh điều khiển mở cửa                                        cần tương tác
+     ▪  Phần mềm quản lý ra vào các phòng trong công sở
+          • Đọc tín hiệu từ đầu đọc thẻ từ
+          • Phát lệnh điều khiển mở cửa
+     ▪  Phần mềm chống trộm
+          • Đọc tín hiệu từ camera, sensor                                        Có cần liệt kê
+          • Phát lệnh điều khiển ra loa, đèn, điện thoại…                     tất cả thiết bị ngoại vi?
+
+
+
+
+
+
+
+
+
+
+
+                                                             13
+
+===== PAGE 14 =====
+         Actor  Phần mềm khác
+
+
+
+
+                    ❑Tác nhân BÊN NGOÀI hệ thống
+                    ❑Có tương tác với hệ thống
+
+                                              Con người
+
+
+Tên Actor
+
+
+                                      Phần mềm
+
+
+                                                         Phần mềm khác
+
+
+                               Phần cứng
+                                  14
+
+===== PAGE 15 =====
+                                       Ví dụ
+
+❖  Kết xuất/nạp dữ liệu từ Excel
+❖  Kết xuất dữ liệu báo cáo ra phần mềm gửi email (Microsoft Outlook, Outlook
+   Express…)
+❖  Phần mềm trung gian kết nối để chuyển đổi email từ dạng Web-based sang POP3
+   (ví dụ Yahoo!Pop)
+❖  …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 15
+
+===== PAGE 16 =====
+               Khái niệm Use-Case
+
+
+
+
+
+
+
+
+
+                             Use-Case
+
+
+• Một  Use-Case     là một   chuỗi  các   hành   động   mà  hệ   thống
+thực hiện mang lại một kết quả quan sát được đối với actor.
+• Có thể  hiểu  một Use-Case     là một   chức  năng của hệ thống,
+mang một ý nghĩa nhất định đối với người dùng
+
+
+
+                                    16
+
+===== PAGE 17 =====
+            Use - Case
+
+
+
+
+
+
+                                  Kiểm tra cá nhân (check-in)
+
+
+Hành khách
+
+
+
+                                        Kiểm tra nhóm
+
+
+
+Hướng dẫn viên
+
+
+
+
+
+
+
+
+
+
+                              17
+
+===== PAGE 18 =====
+Tổng quát hóa giữa các use-case
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        18
+
+===== PAGE 19 =====
+                            Ví dụ
+
+
+          Xét phần mềm Quản lý thư viện
+
+
+STT         Yêu cầu
+ 1     Lập thẻ độc giả
+ 2     Nhận sách mới
+ 3     Tra cứu học sinh
+ 4     Lập phiếu mượn
+ 5     Nhận trả sách
+ 6     Mua thêm sách
+❖  Có bao nhiêu Use-case trong Ví dụ này?
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       19
+
+===== PAGE 20 =====
+   Ví dụ
+
+
+
+                                                Mượn sách
+
+
+
+       Độc giả                                   Trả sách
+
+
+
+
+                                         Đăng ký thành viên
+                Tra cứu thông tin                                     Nhà cung cấp
+
+
+                                              Mua sách
+Các use case của hệ thống thư viện
+
+
+
+                                                                                      20
+
+===== PAGE 21 =====
+  Xác định tác nhân và use case nghiệp vụ
+
+  Ví dụ: các use case trong một tổ chức nhà hàng
+
+
+                                             Nghiệp vụ
+
+                                                    Tiếp thị
+                                                                         Thị trường
+
+                                                    Phục vụ ăn
+                                                       trưa
+
+               Quản lý                            Phục vụ ăn tối           Khách
+
+                     Thực thi nghiệp
+                           vụ                       Mua nguyên
+Tổng quản lý                                            liệu             Nhà cung cấp
+                    Phát triển nghiệp        Hỗ trợ
+                           vụ                       Phát triển qui
+
+                                                        trình
+
+                                                      Phát triển                      21
+                                                     nguồn lực
+
+===== PAGE 22 =====
+    Mô hình use case
+
+Ví dụ: mô hình use case của siêu thị - sơ đồ ngữ cảnh
+
+
+
+
+                               Quản lý
+                              xuất hàng
+     Nhà cung cấp                                  Kiểm kê
+                               Quản lý             hàng hoá           Khách hàng
+                              nhập hàng
+                                                 Quản lý khách
+                               Quản lý           hàng thân thiết
+                              nhân viên
+
+      Ban giám đốc            Thống kê              Quản lý
+                               báo cáo             bán hàng
+
+                                                                            22
+
+===== PAGE 23 =====
+                               Ví dụ
+
+
+            Xét phần mềm Quản lý học sinh cấp III
+
+STT           Yêu cầu
+ 1    Tiếp nhận học sinh                             Bao gồm cả tính năng
+ 2    Lập danh sách lớp                             Thêm mới, Xóa, và Sửa
+
+ 3    Tra cứu học sinh
+ 4    Nhận bảng điểm môn
+ 5    Xem báo cáo tổng kết
+ 6    Thay đổi quy định
+  ❖  Có bao nhiêu Use-case trong Ví dụ này?
+
+
+
+
+
+
+
+
+
+
+
+                                           23
+
+===== PAGE 24 =====
+                            Ví dụ
+
+
+
+     Phần mềm thí nghiệm mạch điện
+
+  STT              Yêu cầu
+  1      Sắp đặt mạch điện
+  2      Cung cấp nguồn điện
+  3      Thay đổi thông số
+  4      Lưu bài thí nghiệm
+  5      Lấy lại thí nghiệm
+  6      Thay đổi quy định
+❖  Có bao nhiêu Use-case trong Ví dụ này?
+
+
+
+
+
+
+
+
+
+                                         24
+
+===== PAGE 25 =====
+   Sơ đồ Use-case
+
+
+
+
+
+
+
+
+
+Sự tương tác giữa Actor và Use-case
+Chiều của mũi tên thể hiển vai trò chủ động trong sự tương tác
+
+
+
+
+
+                Khách hàng             Kiểm tra tài khoản
+
+
+
+
+
+
+
+
+
+
+
+
+                           25Rút tiền
+
+===== PAGE 26 =====
+Tổng quát hóa giữa các Actor
+
+
+
+
+
+
+
+                   Người sử dụng
+
+
+
+
+
+
+
+
+            Giáo viên          Giáo vụ
+
+
+
+
+
+
+
+
+
+
+
+
+                           26
+
+===== PAGE 27 =====
+                 Mô tả use case
+
+❖ Nôi dung của một use case được mô tả
+  ban đầu theo hai phần:
+  Giới thiệu về use case
+  Các dòng cơ bản (basic flow): bao gồm các hoạt
+  động chính và thứ tự mô tả nội dung chính của
+  use case
+
+  Các thay thế (alternative flow): mô tả các nhánh
+  hoạt động bất thường để xử lý ngoại lệ ngoài
+  các dòng chính
+
+
+                                                          27
+
+===== PAGE 28 =====
+Mô tả use case
+
+❖  Ví dụ: mô tả use case mượn sách
+  Use case bắt đầu khi một có đọc giả đến mượn sách. Mục tiêu của use
+  case nhằm xử lý mượn sách cho đọc giả
+
+  Các dòng cơ bản:
+  1. Xác định thẻ thư viện của đọc giả: nhân viên yêu cầu đọc giả xuất
+  trình thẻ thư viện để kiểm tra
+  2. Xác định thông tin nợ sách: kiểm tra thông tin các sách đang nợ của
+  đọc giả
+  3. Ghi nhận thông tin lần mượn: cập nhật vào hệ thống thông tin về lần
+  mượn của đọc giả
+  4. Gởi sách cho đọc giả và thông báo ngày giới hạn trả sách
+
+
+
+
+
+                                                                                28
+
+===== PAGE 29 =====
+Mô tả use case
+
+❖ Ví dụ: mô tả use case mượn sách
+
+
+ Các dòng thay thế:
+
+ -Xử lý thẻ hết hạn: nếu thẻ sinh viên của đọc giả hết hạn,
+ thủ thư sẽ thông báo cho đọc giả và yêu cầu làm thẻ mới
+
+ -Xử lý không cho mượn: nếu số lượng sách mà đọc giả
+ đang mượn >3, thủ thư sẽ từ chối lần mượn của đọc giả
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  29
+
+===== PAGE 30 =====
+Mô tả use case
+
+              ❖  Ví dụ: mô tả use case Đăng ký
+                Use case mô tả hoạt động đăng kiểm tại quầy đăng ký khi hành khách
+                tới để đăng ký đi chuyến bay của mình.
+
+                Các dòng cơ bản:
+                1. Tìm kiếm chỗ ngồi: sau khi nhận vé từ hành khách, nhân viên sẽ tìm
+                một chỗ ngồi cho hành khách từ hệ thống. Hệ thống sẽ đánh dấu chỗ
+                đó không còn trống.
+                2. In thẻ lên máy bay: in thẻ lên máy bay cho hành khách.
+                3. Xử lý hành lý: kiểm tra vá xác nhận hành lý, in ra thẻ đánh dấu hành
+                lý và thẻ kiểm soát hành lý cho nhân viên.
+
+                Các dòng thay thế
+                1. Xử lý hành lý đặc biệt: xử lý các hành lý chứa một loại hàng đặc biệt
+                hoặc quá nặng (được mô tả trong use case ….).                                   30
+
+===== PAGE 31 =====
+              Mô tả Use-case
+
+
+  Ví dụ: mô tả use case Rút tiền ATM
+
+1. Use-Case bắt đầu khi khách hàng đưa thẻ tín dụng vào.
+  Hệ thống đọc và thẩm tra thông tin của thẻ.
+2. Hệ thông nhắc nhập số PIN. Hệ thống kiểm tra số PIN.
+3. Hệ thống hỏi tác vụ nào khách hàng muốn thực hiện.
+  Khách hàng chọn  “Rút tiền.”
+4. Hệ thống hỏi số lượng. Khách hàng nhập số lượng.
+5. Hệ thống yêu cầu nhập kiểu tài khoản. Khách hàng chọn
+  checking hoặc savings.
+6. Hệ thống liên lạc với ATM network . . .
+
+
+
+
+
+
+
+
+
+
+
+
+                                 31
+
+===== PAGE 32 =====
+                                   Mô tả use-case
+
+❖  basic flow (“Happy Path”)
+❖  Một số alternative flows
+    ▪   Các biến thể thường gặp (Regular variants)
+    ▪   Các trường hợp bất thường (Odd cases)
+    ▪   Exceptional flows xử lý các tình huống lỗi
+
+                        “Happy Path”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      32
+
+===== PAGE 33 =====
+          Các câu hỏi thường dùng để xác định actor
+
+❖  Đối với một vấn đề cụ thể nào đó thì Ai là người quan tâm ?
+
+❖  Hệ thống được dùng ở nơi nào trong tổ chức?
+
+❖  Ai là người được lợi khi sử dụng hệ thống?
+
+❖  Ai là người cung cấp thông tin cho hệ thống, sử dụng thông tin của
+  hệ thống và xóa các thông tin đó?
+
+❖  Ai là người hỗ trợ và bảo trì hệ thống?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          33
+
+===== PAGE 34 =====
+Các câu hỏi thường dùng để xác định actor
+
+❖ Hệ thống có sử dụng nguồn lực nào từ bên ngoài?
+
+❖ Có  người  nào  đóng  một  vài vai trò trong  hệ thống?
+  (Có  thể phân  thành   2 actor)
+
+❖ Có  vai trò nào  mà   nhiều  người  cùng  thể  hiện?  Có
+  thể chỉ là một  actor
+
+❖ Hệ  thống  có  tương  tác  với các  hệ thống   nào  khác
+  không?
+
+
+
+
+
+
+
+
+
+
+
+
+                             34
+
+===== PAGE 35 =====
+                       Các nhóm Actor
+
+❖ Nhóm đòi hỏi sự trợ giúp của hệ thống trong hoạt động của mình.
+
+❖ Nhóm cần thiết cho sự thực hiện các chức năng của hệ thống.
+
+❖ Nhóm các thiết bị hay hệ thống mềm có liên quan đến hệ thống.
+
+❖ Nhóm thực hiện các chức năng phụ trợ như quản trị duy tu hệ
+  thống
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        35
+
+===== PAGE 36 =====
+              Các nhóm Actor
+
+ ❖ Nhóm đòi hỏi sự trợ giúp của hệ thống
+
+
+
+
+
+
+
+            Trong hệ thống ATM            Trong hệ thư viện
+Khách hàng                        Thủ thư
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               36
+
+===== PAGE 37 =====
+             Các nhóm Actor
+
+❖  Nhóm cần thiết cho sự thực hiện các chức
+   năng của hệ thống.
+
+
+
+
+
+          Trong hệ thống ATM                 Trong hệ thư viện
+Nhân viên                           Quản trị
+vận hành                           hệ thống
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             37
+
+===== PAGE 38 =====
+           Các nhóm Actor
+
+❖ Nhóm các thiết bị hay hệ thống mềm có
+  liên quan đến hệ thống.
+
+
+
+
+
+
+                          Bán hàng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          38
+
+===== PAGE 39 =====
+                 Xác định tác nhân hệ thống
+
+❖ Xác định tác nhân (actor)
+   ▪  Xác định tác nhân từ kết quả của mô hình hoá nghiệp vụ
+       • Ví dụ: trong hệ thống thư viện
+
+
+                                                    Tên use case có thể thay
+                                                    đổi để phù hợp với tác
+                                                    nhân mới
+
+                                                                         Xử lý
+                                   Mượn sách                             mượn
+              Đọc giả                                                    sách
+                                                         Thủ thư
+                                   Thủ thư
+
+
+
+
+
+
+
+
+
+
+                                              39
+
+===== PAGE 40 =====
+          Các câu hỏi thường dùng          xác định Use Case
+
+❖ Nhiệm vụ của mỗi actor là gì?
+❖ Có actor nào sẽ tạo, lưu trữ, thay đổi, xóa hoặc đọc thông tin trong
+  hệ thống?
+❖ Có actor nào cần báo tin cho hệ thống về một thay đổi đột ngột từ
+  bên ngoài?
+❖ Có actor nào cần được thông báo về một sự việc cụ thể xảy ra
+  trong hệ thống?
+❖ Use - Case    nào sẽ hỗ trợ và bảo trì hệ thống?
+❖ Tất cả các yêu cầu về mặt chức năng có được thể hiện hết thông
+  qua các trường hợp sử dụng chưa?
+
+
+
+
+
+
+
+
+
+
+
+
+                                          40
+
+===== PAGE 41 =====
+          Liên quan giữa các Use - Case
+
+❖ Liên quan khái quát hóa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 41
+
+===== PAGE 42 =====
+  Liên quan giữa các Use - Case
+
+❖ Liên quan bao hàm:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Use-case cơ sở
+
+
+
+
+
+                           42
+
+===== PAGE 43 =====
+                     <<include>>
+
+❖ Mối liên kết <<include>> là một kết nối giữa hai use-
+  case, cho thấy một use-case được sử dụng bởi một use-
+  case khác
+
+❖ Liên kết đến các chức năng thường dùng, được nhiều use-
+  case khác sử dụng
+
+❖ Mũi tên đi từ use-case cơ sở (base usecase) đến use-case
+  được sử dụng (used use-case).
+
+
+
+
+
+
+
+
+                                   43
+
+===== PAGE 44 =====
+  Liên quan giữa các Use - Case
+
+❖ Liên quan mở rộng:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        44
+
+===== PAGE 45 =====
+                        <<extend>>
+
+❖ Mối  liên  kết  <<extend>>      là một   kết  nối  giữa  hai  use-case,   mở
+  rộng một use-case bằng cách thêm vào một hành vi mới.
+
+❖ Use-case chuyên biệt hóa (specialized        use-case) mở rộng use-case
+  phổ quát (general use-case).
+
+❖ Mũi  tên đi từ use-case   chuyên   biệt hóa  đến use-case phổ quát.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        45
+
+===== PAGE 46 =====
+                         Xác định use case
+
+❖ Xác định use case thông qua tác nhân
+   ▪  Tìm các nhiệm vụ và chức năng mà tác nhân sẽ thi hành hoặc
+      hệ thống cần tác nhân để thi hành và mô hình hoá nó như là
+      use case
+   ▪  Ví dụ: hệ thống ATM
+
+
+
+                           Gửi tiền                    Khởi động hệ
+
+                                          Rút tiền        thống
+
+
+          Khách hàng                                                     Nhân viên
+                                Truy vấn thông tin   Đóng hệ thống       vận hành
+
+                                   tài khoản
+
+
+
+
+
+                                             46
+
+===== PAGE 47 =====
+                          Xác định use case
+
+❖  Xác định use case thông qua tác nhân
+    ▪ Ví dụ: hệ thống thư viện
+
+
+
+
+                       Xử lý mượn sách
+
+
+
+                       Xử lý trả sách              Thủ thư       Nhà cung cấp
+
+
+
+                      Đăng ký thành viên
+
+                                                             Mua sách
+
+                        Tra cứu sách            Độc giả
+
+
+
+
+
+                                                47
+
+===== PAGE 48 =====
+                     Xác định use case
+
+❖ Xác định use case thông qua tác nhân
+   ▪ Đặt tên use case: tên use case nên đặt nhằm phản ánh một mô
+     tả tổng quan về chức năng của use case
+
+
+      • Tên use case = động từ (do) + danh từ (what)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        48
+
+===== PAGE 49 =====
+            Tinh chế và nâng cấp sơ đồ use case
+
+❖ Bổ sung các use case mô tả chức năng đặc trưng phần
+  mềm:
+   ▪ Các use case quản trị hệ thống:
+      • Quản trị người dùng
+      • Quản trị thông số hệ thống
+   ▪ Các use case quản trị dữ liệu
+      • Quản trị danh mục dữ liệu
+      • Quản trị an toàn (backup/restore)
+   ▪ …
+
+
+
+
+
+
+
+
+
+
+
+                                         49
+
+===== PAGE 50 =====
+    Tinh chế và nâng cấp sơ đồ use case
+
+  ❖  Bổ sung các use case mô tả chức năng
+     đặc trưng phần mềm:
+      ▪  Ví dụ:
+                                                      Đăng nhập
+
+Xử lý mượn sách
+
+
+                                               Đăng xuất
+Xử lý trả sách          Thủ thư                                        Quản trị hệ thống
+
+
+
+Đăng ký thành viên
+                                  Mua sách        Quản trị
+                                                   người
+  Tra cứu sách                                      dùng
+                      Độc giả                                 Quản trị nhà
+                                                               cung cấp
+
+
+
+
+
+                                         50
+
+===== PAGE 51 =====
+   Tinh chế và nâng cấp sơ đồ use case
+
+ ❖  Bổ sung các use case mô tả chức năng
+    đặc trưng phần mềm:
+     ▪ Ví dụ:
+
+
+
+                 Gửi tiền                     Khởi động hệ
+
+                                Rút tiền         thống
+
+
+Khách hàng                                                      Nhân viên
+                      Truy vấn thông tin    Đóng hệ thống       vận hành
+
+                         tài khoản
+
+
+
+
+
+
+
+
+
+
+                                    51
+
+===== PAGE 52 =====
+               Tinh chế và nâng cấp sơ đồ use case
+
+❖  Tinh chế use case
+    ▪ Phát triển các liên kết <<extend>>:
+        • tách những dòng xử lý đặc biệt → use case mở rộng
+
+
+
+
+                                                          Xử lý mượn sách
+                      Đăng nhập
+
+                                                       <<extend>>       <<extend>>
+                           <<extend>>
+                     Giải quyết PIN            Mượn sách từ thư           Xử lý từ chối
+                     không hợp lệ                viện thành viên          mượn sách
+
+                  Hệ thống ATM                            Hệ thống thư viện
+
+
+
+
+
+
+
+
+                                                   52
+
+===== PAGE 53 =====
+             Tinh chế và nâng cấp sơ đồ use case
+
+❖  Tinh chế use case
+    ▪ Phát triển các liên kết <<extend>>:
+        • Tổng quát hoá các use case có dòng xử lý chung → use case tổng
+          quát
+
+
+                                                    Giao dịch
+
+
+
+                                                      <<extend>>
+                               <<extend>>
+                                                    Truy vấn thông tin
+                                     <<extend>>        tài  khoản
+
+                         Gửi tiền
+                                         Rút tiền
+
+
+
+
+                                                53
+
+===== PAGE 54 =====
+            Tinh chế và nâng cấp sơ đồ use case
+
+❖ Tinh chế use case
+   ▪  Phát triển các liên kết <<include>>:
+
+
+
+
+
+
+
+
+
+                                      Giao dịch              Đăng nhập
+                                                 <<include>>
+
+
+               Khách hàng
+
+                               Hệ thống ATM
+
+
+
+
+
+
+
+                                           54
+
+===== PAGE 55 =====
+                 Tinh chế và nâng cấp sơ đồ use case
+
+❖  Sơ đồ use case của hệ thống ATM
+
+
+
+                                                    Giao dịch   <<include>>   Đăng nhập
+
+                                                                                   <<extend>>
+                           Khách hàng                     <<extend>>         Giải quyết PIN
+                                                                              không hợp lệ
+                                     <<extend>>     Truy vấn thông
+                                                     tin tài  khoản
+                                                                     Nhân viên vận hành
+                      Gửi tiền                <<extend>>
+
+                                     Rút tiền
+                                                                 Khởi động      Đóng hệ thống
+                                                                  hệ thống
+
+
+
+
+                                                                           Ngân hàng
+
+
+                                                           55
+
+===== PAGE 56 =====
+                  Tinh chế và nâng cấp sơ đồ use case
+
+❖  Sơ đồ use case của hệ thống thư viện
+
+
+
+                            Mượn sách từ thư            Xử lý từ chối
+                             viện thành viên            mượn sách               Đăng nhập
+
+                          <<extend>>                 <<extend>>
+
+
+                        <<include>>
+                                    Xử lý mượn sách                                Đăng xuất
+                Kiểm tra thẻ                                                                      Quản trị
+
+                     <<include>>    Xử lý trả sách          Thủ thư                   Quản trị
+                                                                                       người
+                                                                                        dùng
+                                   Đăng ký thành viên
+                                                                         Mua sách             Quản trị nhà
+                                                                                               cung cấp
+
+                                      Tra cứu sách         Độc giả
+
+
+
+
+                                                             56
+
+===== PAGE 57 =====
+                Mô tả use case
+
+
+Tóm tắt: tóm tắt nội dung hoạt động của use case
+Dòng sự kiện chính: các sự kiện và hoạt động xảy ra bình
+thường của use case
+Dòng sự kiện phụ: các sự kiện và những hoạt động bất
+thường của use case ngoài những hoạt động chính
+Tiền điều kiện (pre-condition): mô tả trạng thái của hệ
+thống phải đạt được để use case có thể bắt đầu
+Hậu điều kiện (post-condition): liệt kê các trạng thái có thể
+của hệ thống tại cuối use case. Hệ thống phải thuộc một
+trong những trạng thái đó khi use case kết thúc
+
+
+
+
+                                  57
+
+===== PAGE 58 =====
+                           Mô tả use case
+  ❖   Ví dụ: mô tả use case Giao dịch
+Tóm tắt: use case bắt đầu khi có khách hàng đưa thẻ vào máy ATM. Hệ
+thống sẽ cho phép khách hàng thực hiện các giao dịch
+Dòng sự kiện chính:
+1. Xác nhận thẻ và kiểm tra đăng nhập của khách hàng (thực hiện bởi use
+     case đăng nhập)
+2. Hiển thị giao diện thực đơn yêu cầu khách hàng chọn dịch vụ thực hiện
+3. Khách hàng chọn dịch vụ thực hiện
+4. Thi hành dịch vụ tương ứng khi khách hàng chọn (rút tiền, gửi tiền, xem
+     thông tin tài khoản: được mô tả trong từng use case tương ứng)
+5. Đóng giao diện thực đơn và thông báo khách hàng rút thẻ
+6. Khách hàng rút thẻ và hệ thống trở về trạng thái sẵn sàng
+
+
+
+
+
+
+                                          58
+
+===== PAGE 59 =====
+                      Mô tả use case
+❖  Ví dụ: mô tả use case Giao dịch
+
+Dòng sự kiện phụ:
+
+1.  Xử lý thẻ không hợp lệ và đăng nhập không thành công
+Tiền điều kiện:
+
+1.  ATM phải thông kết nối với mạng ngân hàng
+
+2.  ATM phải có đủ giấy để in hoá đơn
+Hậu điều kiện:
+
+1.  ATM phải ở trạng thái sẵn sàng cho một khách hàng mới
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    59
+
+===== PAGE 60 =====
+                       Mô tả use case
+
+❖  Ví dụ: mô tả use case Rút tiền
+Tóm tắt: use case bắt đầu khi khách hàng chọn thực hiện rút tiền từ
+     thực đơn chính. Hệ thống sẽ xử lý yêu cầu rút tiền của khách
+     hàng
+Dóng sự kiện chính:
+
+1.   Yêu cầu xác định tài khoản
+
+2.   Yêu cầu nhập số tiền cần rút
+
+3.   Khách hàng nhập số tiền
+
+4.   Kiểm tra số tiền nhập với số dư tài khoản
+
+5.   Chuyển tiền ra cho khách hàng
+
+6.   In hoá đơn rút tiền cho khách hàng
+
+
+
+
+
+                                      60
+
+===== PAGE 61 =====
+                        Mô tả use case
+  ❖  Ví dụ: mô tả use case Rút tiền
+
+Dòng sự kiện phụ:
+
+1.  Nếu số tiền vượt quá số dư thì thông báo cho khách hàng điều
+    chỉnh hoặc huỷ bỏ giao dịch
+Tiền điều kiện:
+
+1.  ATM phải có đủ tiền mặt trong máy
+
+2.  ATM phải có đủ giấy để in hoá đơn
+Hậu điều kiện:
+
+1.  ATM phải ở trạng thái cho thực hiện một giao dịch mới
+
+
+
+
+
+
+
+
+
+                                       61

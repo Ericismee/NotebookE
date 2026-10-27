@@ -24,7 +24,9 @@ except ImportError as e:
     raise ValueError("podcast_creator library not available")
 
 
-def build_episode_output_dir(podcasts_folder: str = PODCASTS_FOLDER) -> tuple[str, Path]:
+def build_episode_output_dir(
+    podcasts_folder: str = PODCASTS_FOLDER,
+) -> tuple[str, Path]:
     """Build a filesystem-safe output directory path for a podcast episode.
 
     Uses a UUID as the directory name so the path is safe regardless of
@@ -41,12 +43,19 @@ def build_episode_output_dir(podcasts_folder: str = PODCASTS_FOLDER) -> tuple[st
     return episode_dir_name, output_dir
 
 
-def apply_language_voice_preset(profile: dict, language: Optional[str]) -> None:
+def apply_language_voice_preset(
+    profile: dict, language: Optional[str], preserve_selected: bool = False
+) -> None:
     """Select voices and pacing that match the episode language.
 
     Vietnamese uses Microsoft's native Vietnamese voices. English uses native
     US English voices. Each preset also tunes pacing for spoken narration.
     """
+    # Provider-specific voice IDs must survive language selection. Legacy
+    # profiles without a provider still use the historical Edge preset.
+    provider = profile.get("tts_provider", "edgetts")
+    if provider.lower().replace("-", "").replace("_", "") != "edgetts":
+        return
     normalized = (language or "").strip().lower()
     if normalized.startswith("en") or normalized == "english":
         voices = (
@@ -75,6 +84,14 @@ def apply_language_voice_preset(profile: dict, language: Optional[str]) -> None:
         "rate": rate,
     }
     for index, speaker in enumerate(profile.get("speakers", [])):
+        if preserve_selected:
+            continue
+        speaker_provider = speaker.get("tts_provider", provider)
+        if (
+            speaker.get("voice_model")
+            or speaker_provider.lower().replace("-", "").replace("_", "") != "edgetts"
+        ):
+            continue
         speaker["voice_id"] = voices[index % len(voices)]
         speaker["tts_config"] = {
             **(speaker.get("tts_config") or {}),
@@ -87,7 +104,9 @@ def apply_presenter_names(profile: dict) -> None:
     """Use the NotebookE presenter names in prompts and stored snapshots."""
     for index, speaker in enumerate(profile.get("speakers", [])):
         voice = str(speaker.get("voice_id", "")).lower()
-        if any(marker in voice for marker in ("hoaimy", "jenny", "female", "ava", "emma")):
+        if any(
+            marker in voice for marker in ("hoaimy", "jenny", "female", "ava", "emma")
+        ):
             speaker["name"] = "Luna"
         elif any(marker in voice for marker in ("namminh", "guy", "male", "andrew")):
             speaker["name"] = "Eric"
@@ -124,7 +143,9 @@ async def _select_language_fallback(tried_model_ids: set[str]):
 
     all_models = await Model.get_models_by_type("language")
     models_by_id = {str(model.id): model for model in all_models}
-    ordered = [models_by_id[model_id] for model_id in preferred_ids if model_id in models_by_id]
+    ordered = [
+        models_by_id[model_id] for model_id in preferred_ids if model_id in models_by_id
+    ]
 
     return next(
         (model for model in ordered if str(model.id) not in tried_model_ids),
@@ -142,6 +163,9 @@ class PodcastGenerationInput(CommandInput):
     content: str
     notebook_id: Optional[str] = None
     briefing_suffix: Optional[str] = None
+    language: Optional[str] = None
+    voice_model: Optional[str] = None
+    speaker_voices: Optional[list[str]] = None
 
 
 class PodcastGenerationOutput(CommandOutput):
@@ -200,6 +224,32 @@ async def generate_podcast_command(
         logger.info(f"Loaded episode profile: {episode_profile.name}")
         logger.info(f"Loaded speaker profile: {speaker_profile.name}")
 
+        if input_data.language or input_data.voice_model or input_data.speaker_voices:
+            from notebooke.ai.speech import list_speech_voices, speech_language
+
+            episode_profile = episode_profile.model_copy(deep=True)
+            speaker_profile = speaker_profile.model_copy(deep=True)
+            lang = speech_language(
+                input_data.language or episode_profile.language or "vi"
+            )
+            episode_profile.language = lang
+            voice_model = input_data.voice_model or str(speaker_profile.voice_model)
+            available = await list_speech_voices(voice_model, lang)
+            if not available:
+                raise ValueError("No voices are available for the selected language")
+            speaker_profile.voice_model = available[0]["model_id"]
+            for index, speaker in enumerate(speaker_profile.speakers):
+                selected = (
+                    input_data.speaker_voices[index]
+                    if input_data.speaker_voices
+                    and index < len(input_data.speaker_voices)
+                    else speaker.get("voice_id")
+                )
+                if selected not in {v["id"] for v in available}:
+                    selected = available[index % len(available)]["id"]
+                speaker["voice_id"] = selected
+                speaker["voice_model"] = None
+
         # 2. Validate that model registry fields are populated
         if not episode_profile.outline_llm:
             raise ValueError(
@@ -218,15 +268,21 @@ async def generate_podcast_command(
             )
 
         # 3. Resolve model configs with credentials
-        outline_provider, outline_model_name, outline_config = (
-            await episode_profile.resolve_outline_config()
-        )
-        transcript_provider, transcript_model_name, transcript_config = (
-            await episode_profile.resolve_transcript_config()
-        )
-        tts_provider, tts_model_name, tts_config = (
-            await speaker_profile.resolve_tts_config()
-        )
+        (
+            outline_provider,
+            outline_model_name,
+            outline_config,
+        ) = await episode_profile.resolve_outline_config()
+        (
+            transcript_provider,
+            transcript_model_name,
+            transcript_config,
+        ) = await episode_profile.resolve_transcript_config()
+        (
+            tts_provider,
+            tts_model_name,
+            tts_config,
+        ) = await speaker_profile.resolve_tts_config()
 
         logger.info(
             f"Resolved models - outline: {outline_provider}/{outline_model_name}, "
@@ -245,6 +301,13 @@ async def generate_podcast_command(
         speaker_profiles_dict = {
             profile["name"]: profile for profile in speaker_profiles
         }
+        if input_data.language or input_data.voice_model or input_data.speaker_voices:
+            episode_profiles_dict[episode_profile.name] = full_model_dump(
+                episode_profile.model_dump()
+            )
+            speaker_profiles_dict[speaker_profile.name] = full_model_dump(
+                speaker_profile.model_dump()
+            )
 
         # Map speaker_profile record ID -> name so podcast-creator keeps
         # receiving speaker names (its EpisodeProfile.speaker_config is a
@@ -259,6 +322,9 @@ async def generate_podcast_command(
         # Remove profiles that fail resolution to prevent validation errors.
         for ep_name in list(episode_profiles_dict.keys()):
             ep_dict = episode_profiles_dict[ep_name]
+            from notebooke.podcasts.language import normalize_podcast_language
+
+            ep_dict["language"] = normalize_podcast_language(ep_dict.get("language"))
 
             # Since migration 20, speaker_config stores a record ID (and is
             # None when the referenced speaker profile no longer exists).
@@ -287,7 +353,7 @@ async def generate_podcast_command(
                     prov, model, conf = await _resolve_model_config(
                         str(ep_dict["outline_llm"]),
                         max_tokens=ep_dict.get("max_tokens"),
-                        model_type="language"
+                        model_type="language",
                     )
                     ep_dict["outline_provider"] = prov
                     ep_dict["outline_model"] = model
@@ -296,7 +362,7 @@ async def generate_podcast_command(
                     prov, model, conf = await _resolve_model_config(
                         str(ep_dict["transcript_llm"]),
                         max_tokens=ep_dict.get("max_tokens"),
-                        model_type="language"
+                        model_type="language",
                     )
                     ep_dict["transcript_provider"] = prov
                     ep_dict["transcript_model"] = model
@@ -315,8 +381,7 @@ async def generate_podcast_command(
             if sp_dict.get("voice_model"):
                 try:
                     prov, model, conf = await _resolve_model_config(
-                        str(sp_dict["voice_model"]),
-                        model_type="text_to_speech"
+                        str(sp_dict["voice_model"]), model_type="text_to_speech"
                     )
                     sp_dict["tts_provider"] = prov
                     sp_dict["tts_model"] = model
@@ -334,8 +399,7 @@ async def generate_podcast_command(
                 if speaker.get("voice_model"):
                     try:
                         prov, model, conf = await _resolve_model_config(
-                            str(speaker["voice_model"]),
-                            model_type="text_to_speech"
+                            str(speaker["voice_model"]), model_type="text_to_speech"
                         )
                         speaker["tts_provider"] = prov
                         speaker["tts_model"] = model
@@ -345,7 +409,12 @@ async def generate_podcast_command(
                             f"Failed to resolve per-speaker TTS for '{speaker.get('name')}': {e}"
                         )
 
-            apply_language_voice_preset(sp_dict, episode_profile.language)
+            apply_language_voice_preset(
+                sp_dict,
+                episode_profile.language,
+                preserve_selected=bool(input_data.speaker_voices)
+                and sp_name == speaker_profile.name,
+            )
             if sp_name == speaker_profile.name:
                 apply_presenter_names(sp_dict)
 
@@ -356,7 +425,14 @@ async def generate_podcast_command(
 
         # Create the record for the episode and associate with the ongoing command
         speaker_profile_snapshot = full_model_dump(speaker_profile.model_dump())
-        apply_language_voice_preset(speaker_profile_snapshot, episode_profile.language)
+        # Keep resolved credentials out of the persisted episode snapshot.
+        speaker_profile_snapshot["tts_provider"] = tts_provider
+        speaker_profile_snapshot["tts_model"] = tts_model_name
+        apply_language_voice_preset(
+            speaker_profile_snapshot,
+            episode_profile.language,
+            preserve_selected=bool(input_data.speaker_voices),
+        )
         apply_presenter_names(speaker_profile_snapshot)
 
         episode = PodcastEpisode(
@@ -405,11 +481,14 @@ async def generate_podcast_command(
 
         max_attempts = 3
         attempt = 1
-        tried_model_ids = {str(episode_profile.outline_llm), str(episode_profile.transcript_llm)}
-        
+        tried_model_ids = {
+            str(episode_profile.outline_llm),
+            str(episode_profile.transcript_llm),
+        }
+
         result = None
         audio_error: Optional[str] = None
-        
+
         while attempt <= max_attempts:
             try:
                 result = await create_podcast(
@@ -420,15 +499,19 @@ async def generate_podcast_command(
                     speaker_config=speaker_profile.name,
                     episode_profile=episode_profile.name,
                 )
-                
+
                 # Check for in-band audio combination errors
-                raw_audio_path = result.get("final_output_file_path") if result else None
-                if raw_audio_path is not None and str(raw_audio_path).startswith("ERROR:"):
+                raw_audio_path = (
+                    result.get("final_output_file_path") if result else None
+                )
+                if raw_audio_path is not None and str(raw_audio_path).startswith(
+                    "ERROR:"
+                ):
                     audio_error = str(raw_audio_path)
                     result["final_output_file_path"] = None
-                    
+
                 break  # Success
-                
+
             except Exception as e:
                 error_msg = str(e).lower()
                 is_quota_error = any(
@@ -482,12 +565,15 @@ async def generate_podcast_command(
                         "profile and ensure their provider is running."
                     ) from e
 
-                
-                logger.info(f"Auto-Fallback: Switching to model {fallback_model.name} ({fallback_model.provider})")
+                logger.info(
+                    f"Auto-Fallback: Switching to model {fallback_model.name} ({fallback_model.provider})"
+                )
                 tried_model_ids.add(str(fallback_model.id))
-                
+
                 try:
-                    prov, model_name, conf = await _resolve_model_config(str(fallback_model.id), max_tokens=episode_profile.max_tokens)
+                    prov, model_name, conf = await _resolve_model_config(
+                        str(fallback_model.id), max_tokens=episode_profile.max_tokens
+                    )
                     fallback_profile = episode_profiles_dict.get(episode_profile.name)
                     if fallback_profile:
                         fallback_profile["outline_provider"] = prov
@@ -502,7 +588,7 @@ async def generate_podcast_command(
                         f"Failed to configure fallback model '{fallback_model.name}': "
                         f"{resolve_err}"
                     ) from resolve_err
-                
+
                 attempt += 1
 
         # podcast-creator reports audio-combination failures IN-BAND: on

@@ -521,6 +521,8 @@ async def test_individual_model(model) -> Tuple[bool, str]:
                 return False, f"Model type mismatch: expected a text-to-speech model, got {type(esp_model).__name__}"
             # For ElevenLabs, look up first available voice (API uses voice_id, not name)
             voice = DEFAULT_TEST_VOICES.get(model.provider)
+            if model.name.lower().startswith("vieneu"):
+                voice = "Minh Quân"
             if not voice and hasattr(esp_model, "available_voices"):
                 try:
                     voices = esp_model.available_voices

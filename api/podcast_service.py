@@ -18,6 +18,9 @@ class PodcastGenerationRequest(BaseModel):
     content: Optional[str] = Field(default=None, max_length=2_000_000)
     notebook_id: Optional[str] = Field(default=None, max_length=200)
     briefing_suffix: Optional[str] = Field(default=None, max_length=4_000)
+    language: Optional[str] = Field(default=None, max_length=32)
+    voice_model: Optional[str] = None
+    speaker_voices: Optional[list[str]] = Field(default=None, max_length=4)
 
 
 class PodcastGenerationResponse(BaseModel):
@@ -41,6 +44,9 @@ class PodcastService:
         notebook_id: Optional[str] = None,
         content: Optional[str] = None,
         briefing_suffix: Optional[str] = None,
+        language: Optional[str] = None,
+        voice_model: Optional[str] = None,
+        speaker_voices: Optional[list[str]] = None,
     ) -> str:
         """Submit a podcast generation job for background processing"""
         try:
@@ -84,6 +90,9 @@ class PodcastService:
                 "content": content,
                 "notebook_id": notebook_id,
                 "briefing_suffix": briefing_suffix,
+                "language": language,
+                "voice_model": voice_model,
+                "speaker_voices": speaker_voices,
             }
 
             # Ensure command modules are imported before submitting

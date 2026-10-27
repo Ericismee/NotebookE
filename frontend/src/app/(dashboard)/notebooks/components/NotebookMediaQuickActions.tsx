@@ -20,7 +20,11 @@ import { useGeneratePodcast, useEpisodeProfiles, usePodcastJobStatus } from '@/l
 import { podcastsApi, resolvePodcastAssetUrl } from '@/lib/api/podcasts'
 import { useToast } from '@/lib/hooks/use-toast'
 import { useSettings } from '@/lib/hooks/use-settings'
-import { useModels } from '@/lib/hooks/use-models'
+import { useModels, useModelDefaults } from '@/lib/hooks/use-models'
+import { ModelSelector } from '@/components/common/ModelSelector'
+import { VoiceSelector } from '@/components/common/VoiceSelector'
+import { PodcastSpeechOptions, PodcastSpeechSelection } from '@/components/podcasts/PodcastSpeechOptions'
+import { languageModel } from '@/lib/tts-voices'
 import { useTranslation } from '@/lib/hooks/use-translation'
 
 interface NotebookMediaQuickActionsProps {
@@ -43,12 +47,14 @@ export function NotebookMediaQuickActions({ notebookId, notebookName }: Notebook
   // Form State
   const [videoLanguage, setVideoLanguage] = useState('Tiếng Việt')
   const [podcastLanguage, setPodcastLanguage] = useState('Tiếng Việt')
+  const [podcastSpeech, setPodcastSpeech] = useState<PodcastSpeechSelection>({ modelId: '', voices: [] })
   const [episodeProfileName, setEpisodeProfileName] = useState('')
   const [videoType, setVideoType] = useState('Tạo video tóm tắt')
   const [videoDuration, setVideoDuration] = useState('3')
   const [videoStyle, setVideoStyle] = useState('auto')
   const [videoCharacter, setVideoCharacter] = useState('AI tự chọn')
   const [videoVoice, setVideoVoice] = useState('vi-VN-HoaiMyNeural')
+  const [videoVoiceModel, setVideoVoiceModel] = useState('')
   const [videoAspectRatio, setVideoAspectRatio] = useState('16:9') // Ngang
   const [imageWorkflow, setImageWorkflow] = useState('')
   const [visualMode, setVisualMode] = useState('auto')
@@ -58,6 +64,19 @@ export function NotebookMediaQuickActions({ notebookId, notebookName }: Notebook
   const { data: videoTemplatesData } = useVideoTemplates()
   const videoTemplates = videoTemplatesData?.templates ?? []
   const { data: models = [], isLoading: modelsLoading } = useModels()
+  const { data: modelDefaults } = useModelDefaults()
+  const voicePreferenceInitialized = useRef(false)
+  const preferredVieNeuApplied = useRef(false)
+  useEffect(() => {
+    if (voicePreferenceInitialized.current || !modelDefaults || modelsLoading) return
+    voicePreferenceInitialized.current = true
+    const preferred = models.find(model => model.id === modelDefaults?.default_text_to_speech_model)
+    if (preferred?.name.toLowerCase().startsWith('vieneu')) {
+      preferredVieNeuApplied.current = true
+      setVideoVoiceModel(preferred.id)
+      setVideoVoice('Hải Đăng')
+    }
+  }, [modelDefaults, models, modelsLoading])
   const imageModels = useMemo(
     () => models.filter(model =>
       ['openai', 'openai_compatible', 'openai-compatible'].includes(model.provider.toLowerCase()) &&
@@ -71,7 +90,7 @@ export function NotebookMediaQuickActions({ notebookId, notebookName }: Notebook
       if (settings.default_video_duration) setVideoDuration(settings.default_video_duration)
       if (settings.default_video_style) setVideoStyle(normalizeVideoTemplateId(settings.default_video_style))
       if (settings.default_video_character) setVideoCharacter(settings.default_video_character)
-      if (settings.default_video_voice) setVideoVoice(settings.default_video_voice)
+      if (settings.default_video_voice && !preferredVieNeuApplied.current) setVideoVoice(settings.default_video_voice)
       if (settings.default_video_aspect_ratio) setVideoAspectRatio(settings.default_video_aspect_ratio)
     }
   }, [settings])
@@ -256,6 +275,9 @@ export function NotebookMediaQuickActions({ notebookId, notebookName }: Notebook
         episode_name: `${notebookName} - Podcast`,
         notebook_id: notebookId,
         briefing_suffix: `[LANGUAGE REQUIREMENT]: Create the entire podcast script and dialogue strictly in ${podcastLanguage}.`,
+        language: podcastLanguage,
+        voice_model: podcastSpeech.modelId || undefined,
+        speaker_voices: podcastSpeech.voices.length ? podcastSpeech.voices : undefined,
       })
       setShowCreatePodcastDialog(false)
       setActivePodcastJobId(res.job_id)
@@ -280,6 +302,7 @@ export function NotebookMediaQuickActions({ notebookId, notebookName }: Notebook
         n_scenes: sceneCount,
         duration_minutes: durationMinutes,
         tts_voice: videoVoice,
+        voice_model: videoVoiceModel || undefined,
         language: videoLanguage,
         video_type: videoType,
         style: videoStyle,
@@ -302,11 +325,8 @@ export function NotebookMediaQuickActions({ notebookId, notebookName }: Notebook
 
   const handleVideoLanguageChange = (language: string) => {
     setVideoLanguage(language)
-    setVideoVoice(currentVoice => {
-      if (language === 'English' && currentVoice.startsWith('vi-')) return 'en-US-JennyNeural'
-      if (language !== 'English' && currentVoice.startsWith('en-')) return 'vi-VN-HoaiMyNeural'
-      return currentVoice
-    })
+    setVideoVoiceModel(languageModel(models, language, videoVoiceModel))
+    setVideoVoice(language === 'English' ? 'en-US-JennyNeural' : 'Hải Đăng')
   }
 
   const isPodcastLoading = activePodcastJobId !== null || generatePodcast.isPending
@@ -383,6 +403,8 @@ export function NotebookMediaQuickActions({ notebookId, notebookName }: Notebook
                 <option value="English">English</option>
               </select>
             </div>
+            <PodcastSpeechOptions profileId={epProfiles?.find(profile => profile.name === episodeProfileName)?.speaker_config}
+              language={podcastLanguage} value={podcastSpeech} onChange={setPodcastSpeech} />
             <Button onClick={handleGeneratePodcastSubmit} disabled={generatePodcast.isPending} className="w-full mt-2">
               {generatePodcast.isPending ? (
                 <IconLoader2 className="w-4 h-4 mr-2 animate-spin" />
@@ -499,13 +521,18 @@ export function NotebookMediaQuickActions({ notebookId, notebookName }: Notebook
             </div>
             </div>
             <div className="grid gap-2">
-              <label className="text-sm font-medium">5. Voice</label>
-              <select className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm" value={videoVoice} onChange={e => setVideoVoice(e.target.value)}>
-                <option value="vi-VN-NamMinhNeural">Vietnamese Male (Eric)</option>
-                <option value="vi-VN-HoaiMyNeural">Vietnamese Female (Luna)</option>
-                <option value="en-US-GuyNeural">English Male (Eric)</option>
-                <option value="en-US-JennyNeural">English Female (Luna)</option>
-              </select>
+              <ModelSelector
+                label={t('podcasts.voiceModel')}
+                modelType="text_to_speech"
+                value={videoVoiceModel}
+                onChange={value => {
+                  setVideoVoiceModel(value)
+                  const selected = models.find(model => model.id === value)
+                  setVideoVoice(videoLanguage === 'English' ? 'en-US-JennyNeural' : selected?.name.toLowerCase().startsWith('vieneu') ? 'Hải Đăng' : 'vi-VN-HoaiMyNeural')
+                }}
+              />
+              <label htmlFor="video-voice" className="text-sm font-medium">{t('podcasts.voiceId')}</label>
+              <VoiceSelector id="video-voice" modelId={videoVoiceModel} language={videoLanguage} value={videoVoice} onChange={setVideoVoice} onModelChange={setVideoVoiceModel} />
             </div>
             <div className="grid gap-2">
               <label className="text-sm font-medium">6. Aspect Ratio (Tỷ lệ khung hình)</label>

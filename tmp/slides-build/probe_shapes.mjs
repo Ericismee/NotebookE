@@ -1,0 +1,11 @@
+import path from 'node:path';
+import { pathToFileURL } from 'node:url';
+const skillDir = 'C:/Users/Mera/.codex/plugins/cache/openai-primary-runtime/presentations/26.909.12148/skills/presentations';
+const { importRuntimeModule } = await import(pathToFileURL(path.join(skillDir, 'container_tools/runtime_helpers.mjs')).href);
+const { FileBlob, PresentationFile } = await importRuntimeModule('@oai/artifact-tool');
+const p = await PresentationFile.importPptx(await FileBlob.load('pdf/Xây dựng NotebookLM đơn giản.pptx'));
+const s = p.slides.items[16];
+console.log('slides', p.slides.count, Array.isArray(p.slides.items));
+console.log('shape keys', Object.keys(s.shapes));
+console.log('items?', Array.isArray(s.shapes.items), s.shapes.count);
+if (Array.isArray(s.shapes.items)) console.log(s.shapes.items.slice(0,3).map(x=>({name:x.name,id:x.id,keys:Object.keys(x).slice(0,20), proto:Object.getOwnPropertyNames(Object.getPrototypeOf(x)).slice(0,50)})));

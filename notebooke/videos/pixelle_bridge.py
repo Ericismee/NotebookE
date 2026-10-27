@@ -386,7 +386,8 @@ def split_into_display_sentences(text: str) -> list[str]:
 
 
 async def build_pixelle_core(
-    language: str = "Vietnamese", template_preset: str = "editorial-light"
+    language: str = "Vietnamese", template_preset: str = "editorial-light",
+    voice_model: str | None = None,
 ):
     """
     Build and initialise a PixelleVideoCore instance using NotebookE credentials.
@@ -469,6 +470,24 @@ async def build_pixelle_core(
 
     # Intercept audio generation to speak the FULL analytical text with phonetic normalization
     if hasattr(core, 'frame_processor'):
+        speech_model = None
+        if voice_model:
+            from notebooke.ai.models import Model, model_manager
+            from notebooke.exceptions import ConfigurationError
+
+            selected = await Model.get(voice_model)
+            if selected.type != "text_to_speech":
+                raise ConfigurationError("Video voice model must be text-to-speech")
+            speech_model = await model_manager.get_model(voice_model)
+
+        async def generate_audio(**params):
+            if speech_model is None:
+                return await core.tts(**params)
+            return await speech_model.agenerate_speech(
+                text=params["text"], voice=params.get("voice") or "Minh Quân",
+                output_file=params["output_path"],
+            )
+
         original_audio = core.frame_processor._step_generate_audio
         original_step_compose = core.frame_processor._step_compose_frame
         original_step_segment = core.frame_processor._step_create_video_segment
@@ -487,7 +506,7 @@ async def build_pixelle_core(
             main_audio_path = get_task_frame_path(config.task_id, frame.index, "audio")
             os.makedirs(os.path.dirname(main_audio_path), exist_ok=True)
 
-            if len(sentences) <= 1:
+            if len(sentences) <= 1 and speech_model is None:
                 tts_text = sentences[0] if sentences else speech_text
                 if language.lower() in ["tiếng việt", "vietnamese", "vi"]:
                     tts_text = normalize_vietnamese_tts(tts_text)
@@ -507,7 +526,7 @@ async def build_pixelle_core(
             for idx, sentence in enumerate(sentences):
                 sub_audio_path = main_audio_path.replace(".mp3", f"_sentence_{idx}.mp3")
                 tts_sentence = sentence
-                if language.lower() in ["tiếng việt", "vietnamese", "vi"]:
+                if (speech_model is None or speech_model.PROVIDER == "edgetts") and language.lower() in ["tiếng việt", "vietnamese", "vi"]:
                     tts_sentence = normalize_vietnamese_tts(sentence)
 
                 tts_params = {
@@ -521,7 +540,7 @@ async def build_pixelle_core(
                 if config.tts_speed is not None:
                     tts_params["speed"] = config.tts_speed
 
-                await core.tts(**tts_params)
+                await generate_audio(**tts_params)
                 dur = await core.frame_processor._get_audio_duration(sub_audio_path)
                 sub_audios.append((sentence, sub_audio_path, dur))
 

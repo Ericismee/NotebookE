@@ -1,0 +1,396 @@
+{"kind":"deck","id":"pr/92a9vr","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"subtitle","type":"subtitle","textPreview":"Click to edit Master subtitle style"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"Title and Content","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"Section Header","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"Two Content","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"Comparison","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 5","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"Title Only","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"Blank","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"Content with Caption","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"Picture with Caption","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"Title and Vertical Text","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"Vertical Title and Text","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"Xây dựng NotebookLM đơn giản","textShapes":5}
+{"kind":"shape","id":"sh/547294r6","slide":1,"name":"Freeform 2","bbox":[-112.63,945.97,738.34,177.2]}
+{"kind":"shape","id":"sh/k3yl0zql","slide":1,"name":"Freeform 3","bbox":[1358.51,-6.45,733.61,176.07]}
+{"kind":"shape","id":"sh/7qp4be9c","slide":1,"name":"Freeform 4","bbox":[490.84,395.78,938.31,119.42]}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"name":"TextBox 5","text":"Xây dựng NotebookLM đơn giản","textPreview":"Xây dựng NotebookLM đơn giản","textChars":28,"textLines":1,"bbox":[69.14,334.82,1825.61,129.92]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"name":"TextBox 6","text":"GVHD: Ths. Đoàn Minh Khuê","textPreview":"GVHD: Ths. Đoàn Minh Khuê","textChars":25,"textLines":1,"bbox":[510.18,696.2,861.21,53.37]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"name":"TextBox 7","text":"Báo cáo tiến độ","textPreview":"Báo cáo tiến độ","textChars":15,"textLines":1,"bbox":[616.44,167.42,687.11,137.84]}
+{"kind":"textbox","id":"sh/fu94fe98","slide":1,"name":"TextBox 8","text":"2312607     Nguyễn Ngọc Hân\n2312697     Nguyễn Thị Trường Nga\n2312576     Trần Đức Anh","textPreview":"2312607     Nguyễn Ngọc Hân | 2312697     Nguyễn Thị Trường Nga | 2312576     Trần Đức Anh","textChars":86,"textLines":3,"bbox":[712.31,812.63,582.93,159.37]}
+{"kind":"textbox","id":"sh/utg3698n","slide":1,"name":"TextBox 9","text":"Thành Viên","textPreview":"Thành Viên","textChars":10,"textLines":1,"bbox":[369.86,754.26,861.21,53.37]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"Nội dung báo cáo","textShapes":13}
+{"kind":"shape","id":"sh/9072xkry","slide":2,"name":"Freeform 2","bbox":[319.65,346.57,85.39,95.14]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"TextBox 3","text":"Nội dung báo cáo","textPreview":"Nội dung báo cáo","textChars":16,"textLines":1,"bbox":[460.92,101,947.16,106.04]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"TextBox 4","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[333.77,359.94,57.15,56.16]}
+{"kind":"shape","id":"sh/a10jqpsj","slide":2,"name":"Freeform 5","bbox":[324.12,523.52,85.39,95.14]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"TextBox 6","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[338.24,536.89,57.15,56.16]}
+{"kind":"textbox","id":"sh/w3i1sfa9","slide":2,"name":"TextBox 7","text":"TỔNG QUAN VỀ NOTEBOOKE","textPreview":"TỔNG QUAN VỀ NOTEBOOKE","textChars":22,"textLines":1,"bbox":[448.57,366.02,436.16,42]}
+{"kind":"shape","id":"sh/r65knqtk","slide":2,"name":"Freeform 8","bbox":[319.65,697.09,85.39,95.14]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"TextBox 9","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[333.77,710.46,57.15,56.16]}
+{"kind":"shape","id":"sh/ove9o7yd","slide":2,"name":"Freeform 10","bbox":[1101.27,342.45,85.39,95.14]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"TextBox 11","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1115.39,355.82,57.15,56.16]}
+{"kind":"shape","id":"sh/mtwrmxg7","slide":2,"name":"Freeform 12","bbox":[1434.81,692.41,794.78,471.9]}
+{"kind":"shape","id":"sh/nu58f2hs","slide":2,"name":"Freeform 13","bbox":[-250.79,-252.51,794.78,471.9]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"name":"TextBox 14","text":"KIẾN TRÚC HỆ THỐNG","textPreview":"KIẾN TRÚC HỆ THỐNG","textChars":18,"textLines":1,"bbox":[409.51,542.97,436.16,42]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"TextBox 15","text":"CÔNG NGHỆ SỬ DỤNG","textPreview":"CÔNG NGHỆ SỬ DỤNG","textChars":17,"textLines":1,"bbox":[405.04,724.24,436.16,42]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"TextBox 16","text":"CƠ SỞ DỮ LIỆU","textPreview":"CƠ SỞ DỮ LIỆU","textChars":13,"textLines":1,"bbox":[1224.54,359.51,234.78,42]}
+{"kind":"shape","id":"sh/bip8jmho","slide":2,"name":"Freeform 17","bbox":[1106.67,520.06,85.39,95.14]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"TextBox 18","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1120.79,533.43,57.15,56.16]}
+{"kind":"shape","id":"sh/do3q9szq","slide":2,"name":"Freeform 19","bbox":[1106.67,700.67,85.39,95.14]}
+{"kind":"textbox","id":"sh/t8byxkn2","slide":2,"name":"TextBox 20","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1120.79,714.04,57.15,56.16]}
+{"kind":"textbox","id":"sh/s72xofmh","slide":2,"name":"TextBox 21","text":"LUỒNG XỬ LÝ","textPreview":"LUỒNG XỬ LÝ","textChars":11,"textLines":1,"bbox":[1235.59,539.51,212.68,42]}
+{"kind":"textbox","id":"sh/76twva5c","slide":2,"name":"TextBox 22","text":"DEMO & TỔNG KẾT","textPreview":"DEMO & TỔNG KẾT","textChars":15,"textLines":1,"bbox":[1235.13,720.12,300.1,42]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"Bối cảnh & vấn đề","textShapes":5}
+{"kind":"shape","id":"sh/cza94vmx","slide":3,"name":"Freeform 2","bbox":[-619.18,-44.56,904.93,217.18]}
+{"kind":"shape","id":"sh/298ryl4v","slide":3,"name":"Freeform 4","bbox":[1723.84,44,127.92,127.92]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"Freeform 5","bbox":[-162.03,896.14,375.71,367.72]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"Freeform 6","bbox":[233.64,516.54,1460.6,414.45]}
+{"kind":"shape","id":"sh/pcjqtg36","slide":3,"name":"Freeform 7","bbox":[1466.28,718.92,794.78,471.9]}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"name":"TextBox 8","text":"Bối cảnh & vấn đề","textPreview":"Bối cảnh & vấn đề","textChars":17,"textLines":1,"bbox":[564.05,40.43,823.79,126.14]}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"name":"TextBox 9","text":"Vấn đề hiện tại:\nGoogle Notebook LM là closed-source, dữ liệu lưu trên Google Cloud\nChỉ hỗ trợ AI models của Google, không đổi được provider\nKhông có API để tích hợp hoặc tự động hóa\nPodcast chỉ hỗ trợ 2 speakers cố định\nNgười dùng không kiểm soát dữ liệu nhạy cảm","textPreview":"Vấn đề hiện tại: | Google Notebook LM là closed-source, dữ liệu lưu trên Google Cloud | Chỉ hỗ trợ AI models của Google, không đổi được p...","textChars":264,"textLines":6,"bbox":[128.72,240.65,847.22,315.44]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"TextBox 10","text":"Mục tiêu\nXây dựng công cụ nghiên cứu AI mã nguồn mở\nHỗ trợ đa nhà cung cấp AI (18+ providers)\nSelf-hosted — toàn quyền kiểm soát dữ liệu\nAPI-first — mọi tính năng đều có REST API\n","textPreview":"Mục tiêu | Xây dựng công cụ nghiên cứu AI mã nguồn mở | Hỗ trợ đa nhà cung cấp AI (18+ providers) | Self-hosted — toàn quyền kiểm soát dữ...","textChars":179,"textLines":6,"bbox":[1004.53,244.29,847.22,270.44]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"TextBox 11","text":"Quyền riêng tư: Dữ liệu người dùng được lưu trữ hoàn toàn trên máy chủ riêng của người dùng\nĐa AI Provider: Hỗ trợ 18+ providers: OpenAI, Anthropic, Google, Ollama (local), Groq, Mistral…\nĐa phương tiện: PDF, video, audio, web pages, Office docs - trích xuất từ 50+ loại file\nPodcast chuyên nghiệp: 1- 4 speakers, tùy chỉnh profile, đa ngôn ngữ\n","textPreview":"Quyền riêng tư: Dữ liệu người dùng được lưu trữ hoàn toàn trên máy chủ riêng của người dùng | Đa AI Provider: Hỗ trợ 18+ providers: OpenA...","textChars":345,"textLines":5,"bbox":[306.26,673.8,1354.1,225.44]}
+{"kind":"textbox","id":"sh/943mhgre","slide":3,"name":"TextBox 12","text":"Giải pháp: NotebookE","textPreview":"Giải pháp: NotebookE","textChars":20,"textLines":1,"bbox":[730.25,595.93,405,55.09]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":""}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"Kiến trúc hệ thống","textShapes":14}
+{"kind":"shape","id":"sh/0ba143al","slide":4,"name":"Freeform 3","bbox":[153.53,253.08,651.83,167.15]}
+{"kind":"shape","id":"sh/rm1k7yt4","slide":4,"name":"TextBox 4","bbox":[167.03,222.71,530.33,197.53]}
+{"kind":"shape","id":"sh/doj29oba","slide":4,"name":"Freeform 6","bbox":[162.9,279.61,115.1,114.1]}
+{"kind":"shape","id":"sh/sna103ap","slide":4,"name":"TextBox 7","bbox":[162.9,263.09,115.1,130.62]}
+{"kind":"shape","id":"sh/3ihk3et8","slide":4,"name":"Freeform 8","bbox":[674.11,93.32,414.99,73.94]}
+{"kind":"shape","id":"sh/ih8ju9sn","slide":4,"name":"Freeform 9","bbox":[28.78,922.71,134.12,140.99]}
+{"kind":"shape","id":"sh/kbm987y5","slide":4,"name":"Freeform 10","bbox":[1684.85,41.16,127.15,133.67]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"Freeform 11","bbox":[-66.61,-213.87,514.55,305.51]}
+{"kind":"shape","id":"sh/i94r6xgz","slide":4,"name":"Freeform 12","bbox":[172.47,288.28,96.76,96.76]}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"name":"Freeform 14","bbox":[153.53,495.96,651.83,167.15]}
+{"kind":"shape","id":"sh/x8vaxsfe","slide":4,"name":"TextBox 15","bbox":[167.03,465.58,530.33,197.53]}
+{"kind":"shape","id":"sh/v6tsv2xo","slide":4,"name":"Freeform 17","bbox":[162.9,522.48,115.1,114.1]}
+{"kind":"shape","id":"sh/g36tgryd","slide":4,"name":"TextBox 18","bbox":[162.9,505.96,115.1,130.62]}
+{"kind":"shape","id":"sh/h4fa9wfy","slide":4,"name":"Freeform 19","bbox":[171.39,530.48,98.11,98.11]}
+{"kind":"shape","id":"sh/oz29krqh","slide":4,"name":"Freeform 21","bbox":[162.9,738.84,651.83,167.15]}
+{"kind":"shape","id":"sh/3ytsrmpw","slide":4,"name":"TextBox 22","bbox":[176.4,708.46,530.33,197.53]}
+{"kind":"shape","id":"sh/1wbapc7q","slide":4,"name":"Freeform 24","bbox":[172.27,765.36,115.1,114.1]}
+{"kind":"shape","id":"sh/gv29g7q5","slide":4,"name":"TextBox 25","bbox":[172.27,748.84,115.1,130.62]}
+{"kind":"shape","id":"sh/fu9sn2p0","slide":4,"name":"Freeform 26","bbox":[190.01,778.5,79.22,87.22]}
+{"kind":"shape","id":"sh/tsrqlc7u","slide":4,"name":"Freeform 28","bbox":[950.84,243.55,651.83,167.15]}
+{"kind":"shape","id":"sh/sri9s7q9","slide":4,"name":"TextBox 29","bbox":[964.34,213.18,530.33,197.53]}
+{"kind":"shape","id":"sh/jm5gze1g","slide":4,"name":"Freeform 31","bbox":[960.21,271.25,115.1,114.1]}
+{"kind":"shape","id":"sh/knex8j21","slide":4,"name":"TextBox 32","bbox":[960.21,254.73,115.1,130.62]}
+{"kind":"shape","id":"sh/5ony1oj6","slide":4,"name":"Freeform 33","bbox":[966.95,277.48,101.63,101.63]}
+{"kind":"shape","id":"sh/vy5gbe14","slide":4,"name":"Freeform 35","bbox":[943.49,508.66,868.51,385.77]}
+{"kind":"shape","id":"sh/wzex4z2p","slide":4,"name":"TextBox 36","bbox":[943.49,467.33,868.51,344.44]}
+{"kind":"textbox","id":"sh/xknyx4ja","slide":4,"name":"TextBox 37","text":"Kiến trúc hệ thống ","textPreview":"Kiến trúc hệ thống","textChars":19,"textLines":1,"bbox":[568.75,42.61,708,96.51]}
+{"kind":"textbox","id":"sh/mtcfypkn","slide":4,"name":"TextBox 38","text":"TẦNG 1 - GIAO DIỆN","textPreview":"TẦNG 1 - GIAO DIỆN","textChars":18,"textLines":1,"bbox":[305.02,275.56,370.81,37.49]}
+{"kind":"textbox","id":"sh/nulw7u18","slide":4,"name":"TextBox 39","text":"Three-Tier Architecture: Frontend → Backend API → Database","textPreview":"Three-Tier Architecture: Frontend → Backend API → Database","textChars":58,"textLines":1,"bbox":[522.87,148.12,841.24,46.42]}
+{"kind":"textbox","id":"sh/fm5c3q54","slide":4,"name":"TextBox 40","text":"Next.js 15 + React 19\nTypeScript, Tailwind CSS, Shadcn/ui\n","textPreview":"Next.js 15 + React 19 | TypeScript, Tailwind CSS, Shadcn/ui |","textChars":58,"textLines":3,"bbox":[305.02,323.47,450.32,113.49]}
+{"kind":"textbox","id":"sh/elwba54j","slide":4,"name":"TextBox 41","text":"TẦNG 2 - lOGIC NGHIỆP VỤ","textPreview":"TẦNG 2 - lOGIC NGHIỆP VỤ","textChars":24,"textLines":1,"bbox":[305.02,518.43,370.81,37.49]}
+{"kind":"textbox","id":"sh/18nu50nu","slide":4,"name":"TextBox 42","text":"FastAPI (Python 3.11+)\nLangGraph, Pydantic v2, Esperanto\n","textPreview":"FastAPI (Python 3.11+) | LangGraph, Pydantic v2, Esperanto |","textChars":57,"textLines":3,"bbox":[305.02,566.35,450.32,113.49]}
+{"kind":"textbox","id":"sh/0netcvm9","slide":4,"name":"TextBox 43","text":"TẦNG 3 - DỮ LIỆU (DATABASE)","textPreview":"TẦNG 3 - DỮ LIỆU (DATABASE)","textChars":27,"textLines":1,"bbox":[314.4,761.31,390.68,37.49]}
+{"kind":"textbox","id":"sh/rilczq5s","slide":4,"name":"TextBox 44","text":"SurrealDB v2\nGraph + Document + Vector DB\n","textPreview":"SurrealDB v2 | Graph + Document + Vector DB |","textChars":42,"textLines":3,"bbox":[314.4,809.22,450.32,113.49]}
+{"kind":"textbox","id":"sh/qhcb6l47","slide":4,"name":"TextBox 45","text":"▼ REST API + SSE","textPreview":"▼ REST API + SSE","textChars":16,"textLines":1,"bbox":[320.8,438.47,218.75,37.49]}
+{"kind":"textbox","id":"sh/dknu10ny","slide":4,"name":"TextBox 46","text":"▼ SurrealQL (async)","textPreview":"▼ SurrealQL (async)","textChars":19,"textLines":1,"bbox":[320.8,679.73,226.92,37.49]}
+{"kind":"textbox","id":"sh/sjut8vmd","slide":4,"name":"TextBox 47","text":"Worker (Background)","textPreview":"Worker (Background)","textChars":19,"textLines":1,"bbox":[1102.33,267.2,390.68,37.49]}
+{"kind":"textbox","id":"sh/3elcv65w","slide":4,"name":"TextBox 48","text":"Surreal-Commands\nAsync jobs: embed, podcast, process\n","textPreview":"Surreal-Commands | Async jobs: embed, podcast, process |","textChars":53,"textLines":3,"bbox":[1102.33,315.11,450.32,113.49]}
+{"kind":"textbox","id":"sh/idcb2lob","slide":4,"name":"TextBox 49","text":"ĐẶC ĐIỂM KIẾN TRÚC","textPreview":"ĐẶC ĐIỂM KIẾN TRÚC","textChars":18,"textLines":1,"bbox":[950.84,452.71,350.19,46.42]}
+{"kind":"shape","id":"sh/tkjq5c3e","slide":4,"name":"Freeform 51","bbox":[949.84,515.14,877.74,588.78]}
+{"kind":"textbox","id":"sh/6x8rahk3","slide":4,"name":"TextBox 52","text":"API-First: Mọi tính năng đều qua REST API. Frontend chỉ là client - không truy cập DB trực tiếp. Next.js proxy /api/* về FastAPI.\nAsync-First: Toàn bộ I/O bất đồng bộ: DB queries, LLM calls, file I/O, graph invocations. Sử dụng async/await xuyên suốt.\nDomain-Driven Design: Phân tách rõ: Domain Models (Pydantic) → Repository (SurrealQL) → Services → Routers.\nJob Queue: Long-running tasks (embed, podcast, source processing) chạy background qua Surreal-Commands worker. UI poll trạng thái.\n\n\n\n","textPreview":"API-First: Mọi tính năng đều qua REST API. Frontend chỉ là client - không truy cập DB trực tiếp. Next.js proxy /api/* về FastAPI. | Async...","textChars":494,"textLines":8,"bbox":[949.84,475.85,877.74,508.34]}
+{"kind":"shape","id":"sh/7ih83mlo","slide":4,"name":"Freeform 53","bbox":[1520.59,826.66,514.55,305.51]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"Công nghệ sử dụng","textShapes":11}
+{"kind":"shape","id":"sh/dgbulwnm","slide":5,"name":"Freeform 2","bbox":[846.76,826.51,80.78,106.29]}
+{"kind":"shape","id":"sh/cf2tcr61","slide":5,"name":"Freeform 3","bbox":[728.61,106.71,366.43,65.29]}
+{"kind":"shape","id":"sh/z2tcnm5s","slide":5,"name":"Freeform 4","bbox":[700.25,359.3,425.52,432]}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"Freeform 5","bbox":[668.16,283.53,525.94,528.58]}
+{"kind":"shape","id":"sh/032tgr6d","slide":5,"name":"Freeform 7","bbox":[108,228.58,795.14,281.25]}
+{"kind":"shape","id":"sh/n6dcr65o","slide":5,"name":"TextBox 8","bbox":[123.82,198.91,652.72,310.92]}
+{"kind":"shape","id":"sh/w32dkbuh","slide":5,"name":"Freeform 10","bbox":[114.43,233.41,788.34,276.43]}
+{"kind":"shape","id":"sh/x4vedgvm","slide":5,"name":"TextBox 11","bbox":[128.98,206.13,657.42,303.7]}
+{"kind":"shape","id":"sh/ahkvi1cb","slide":5,"name":"Freeform 12","bbox":[1415.61,5.87,500.67,500.67]}
+{"kind":"shape","id":"sh/k7mxovud","slide":5,"name":"Freeform 14","bbox":[1009.1,238.21,821.61,181.5]}
+{"kind":"shape","id":"sh/58vehgvy","slide":5,"name":"TextBox 15","bbox":[1024.81,208.76,680.25,210.95]}
+{"kind":"shape","id":"sh/j6dwfqds","slide":5,"name":"Freeform 17","bbox":[1015.63,243,815.08,176.7]}
+{"kind":"shape","id":"sh/sb6xsvu9","slide":5,"name":"TextBox 18","bbox":[1030.07,215.93,685.12,203.78]}
+{"kind":"shape","id":"sh/hgrmpwj2","slide":5,"name":"Freeform 20","bbox":[1015.07,502.06,745.88,190.06]}
+{"kind":"shape","id":"sh/gfi5grih","slide":5,"name":"TextBox 21","bbox":[1031.52,471.22,597.85,220.91]}
+{"kind":"shape","id":"sh/ud0ne10b","slide":5,"name":"Freeform 23","bbox":[1021.76,507.08,739.2,185.05]}
+{"kind":"shape","id":"sh/pkr6tgjy","slide":5,"name":"TextBox 24","bbox":[1036.88,478.73,603.11,213.4]}
+{"kind":"shape","id":"sh/3i94r61s","slide":5,"name":"Freeform 26","bbox":[1012.09,762.85,748.87,189.97]}
+{"kind":"shape","id":"sh/2h0ni107","slide":5,"name":"TextBox 27","bbox":[1028.53,732.02,600.9,220.8]}
+{"kind":"shape","id":"sh/kny587i9","slide":5,"name":"Freeform 29","bbox":[1018.77,767.86,742.19,184.96]}
+{"kind":"shape","id":"sh/atcjidg7","slide":5,"name":"TextBox 30","bbox":[1033.88,739.52,606.16,213.3]}
+{"kind":"shape","id":"sh/vu5kbihc","slide":5,"name":"Freeform 31","bbox":[-1.28,576.18,500.67,500.67]}
+{"kind":"shape","id":"sh/xwn2dszi","slide":5,"name":"Freeform 33","bbox":[108,593.44,794.77,307.78]}
+{"kind":"shape","id":"sh/ihw3mxg3","slide":5,"name":"TextBox 34","bbox":[123.82,563.78,652.42,337.44]}
+{"kind":"shape","id":"sh/kjelony9","slide":5,"name":"Freeform 36","bbox":[114.43,599.34,787.98,302.96]}
+{"kind":"shape","id":"sh/5kn2hszu","slide":5,"name":"TextBox 37","bbox":[128.97,572.07,657.12,330.22]}
+{"kind":"shape","id":"sh/e1sjatgz","slide":5,"name":"Freeform 38","bbox":[-236.57,-119.42,604.2,432]}
+{"kind":"shape","id":"sh/zmlk3yhk","slide":5,"name":"Freeform 39","bbox":[1472.78,801.87,604.2,432]}
+{"kind":"textbox","id":"sh/fid07u98","slide":5,"name":"TextBox 40","text":"Công nghệ sử dụng","textPreview":"Công nghệ sử dụng","textChars":17,"textLines":1,"bbox":[573.59,34.77,707.91,108.91]}
+{"kind":"textbox","id":"sh/ehkzepsn","slide":5,"name":"TextBox 41","text":"Frontend","textPreview":"Frontend","textChars":8,"textLines":1,"bbox":[107.97,172.69,150.2,47.74]}
+{"kind":"textbox","id":"sh/1kvi94re","slide":5,"name":"TextBox 42","text":"Next.js 15: Framework React, hỗ trợ SSR và App Router\nReact 19: Xây dựng giao diện theo mô hình component\nTypeScript: Kiểm tra kiểu dữ liệu, chế độ nghiêm ngặt\nTailwind CSS: Thiết kế giao diện bằng các lớp tiện ích\nZustand: Quản lý trạng thái toàn cục\nTanStack Query: Quản lý dữ liệu từ máy chủ và bộ nhớ đệm \n","textPreview":"Next.js 15: Framework React, hỗ trợ SSR và App Router | React 19: Xây dựng giao diện theo mô hình component | TypeScript: Kiểm tra kiểu d...","textChars":310,"textLines":7,"bbox":[126.46,239.31,706.92,287.24]}
+{"kind":"textbox","id":"sh/gjmhgzqt","slide":5,"name":"TextBox 43","text":"Database","textPreview":"Database","textChars":8,"textLines":1,"bbox":[1009.78,182.32,148.78,47.74]}
+{"kind":"textbox","id":"sh/3md0bu94","slide":5,"name":"TextBox 44","text":"SurrealDB v2: Cơ sở dữ liệu đa mô hình, hỗ trợ đồ thị và vector\nRocksDB: Công cụ lưu trữ dữ liệu\nSurrealQL: Ngôn ngữ truy vấn cơ sở dữ liệu của SurrealDB\n","textPreview":"SurrealDB v2: Cơ sở dữ liệu đa mô hình, hỗ trợ đồ thị và vector | RocksDB: Công cụ lưu trữ dữ liệu | SurrealQL: Ngôn ngữ truy vấn cơ sở d...","textChars":154,"textLines":4,"bbox":[1030.07,259.32,777.61,172.85]}
+{"kind":"textbox","id":"sh/2l4zip8j","slide":5,"name":"TextBox 45","text":"Devops","textPreview":"Devops","textChars":6,"textLines":1,"bbox":[1031.47,446.17,117.36,47.74]}
+{"kind":"textbox","id":"sh/povid4ra","slide":5,"name":"TextBox 46","text":"Docker Compose: Quản lý và điều phối các container\nSupervisord: Quản lý và giám sát các tiến trình\nMakefile: Tự động hóa và đơn giản hóa \ncác lệnh trong quá trình phát triển\n","textPreview":"Docker Compose: Quản lý và điều phối các container | Supervisord: Quản lý và giám sát các tiến trình | Makefile: Tự động hóa và đơn giản ...","textChars":174,"textLines":5,"bbox":[1035.68,509.96,641.09,213.31]}
+{"kind":"textbox","id":"sh/onmhkzqp","slide":5,"name":"TextBox 47","text":"Quản  lý","textPreview":"Quản  lý","textChars":8,"textLines":1,"bbox":[1017.98,706.96,138.37,47.74]}
+{"kind":"textbox","id":"sh/bqx0fe9g","slide":5,"name":"TextBox 48","text":"Visual Studio Code: Môi trường phát triển mã nguồn\nGitHub: Quản lý và lưu trữ mã nguồn, hỗ trợ làm việc nhóm\nDocker: Đóng gói và triển khai ứng dụng trong container\n","textPreview":"Visual Studio Code: Môi trường phát triển mã nguồn | GitHub: Quản lý và lưu trữ mã nguồn, hỗ trợ làm việc nhóm | Docker: Đóng gói và triể...","textChars":165,"textLines":4,"bbox":[1032.68,788.79,720.19,170.74]}
+{"kind":"textbox","id":"sh/qp4jm98v","slide":5,"name":"TextBox 49","text":"Backend","textPreview":"Backend","textChars":7,"textLines":1,"bbox":[112.86,537.55,140.44,47.74]}
+{"kind":"textbox","id":"sh/8f6hcj6t","slide":5,"name":"TextBox 50","text":"Python 3.11+: Ngôn ngữ lập trình chính\nFastAPI: Framework web hỗ trợ xử lý bất đồng bộ\nPydantic v2: Kiểm tra và xác thực dữ liệu\nLangGraph: Xây dựng và quản lý quy trình xử lý AI\nEsperanto: Lớp trung gian hỗ trợ hơn 18 nhà cung cấp AI\ncontent-core: Trích xuất nội dung từ hơn 50 định dạng tệp\npodcast-creator: Tạo podcast với nhiều người dẫn/giọng nói\n","textPreview":"Python 3.11+: Ngôn ngữ lập trình chính | FastAPI: Framework web hỗ trợ xử lý bất đồng bộ | Pydantic v2: Kiểm tra và xác thực dữ liệu | La...","textChars":352,"textLines":8,"bbox":[126.45,603.99,692.35,327.97]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":""}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"Sơ đồ quan hệ thực thể","textShapes":1}
+{"kind":"shape","id":"sh/yhg7epsj","slide":6,"name":"Freeform 2","bbox":[1623.58,1013.68,571.76,137.22]}
+{"kind":"shape","id":"sh/zi98nu94","slide":6,"name":"Freeform 3","bbox":[-62.78,-45.57,571.76,137.22]}
+{"kind":"shape","id":"sh/87ipkzal","slide":6,"name":"Freeform 4","bbox":[770.57,11.09,981.77,1048.44]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"name":"TextBox 5","text":"Sơ đồ quan hệ thực thể","textPreview":"Sơ đồ quan hệ thực thể","textChars":22,"textLines":1,"bbox":[69.55,109.77,857.91,100.31]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":""}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"1","textShapes":17}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"name":"Freeform 2","bbox":[1683.22,-52.88,530.23,282.35]}
+{"kind":"shape","id":"sh/dcbud0ra","slide":7,"name":"Freeform 3","bbox":[-136.63,978.05,530.23,282.35]}
+{"kind":"shape","id":"sh/zedcfa9g","slide":7,"name":"Freeform 5","bbox":[78.81,204.42,71.75,71.75]}
+{"kind":"textbox","id":"sh/kzmdova1","slide":7,"name":"TextBox 6","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[85.53,206.94,58.3,62.5]}
+{"kind":"shape","id":"sh/eh0ba1sr","slide":7,"name":"Freeform 8","bbox":[78.81,315.77,71.75,71.75]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"TextBox 9","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[85.53,318.29,58.3,62.5]}
+{"kind":"shape","id":"sh/a9ojq5kz","slide":7,"name":"Freeform 11","bbox":[78.81,427.51,71.75,71.75]}
+{"kind":"textbox","id":"sh/xcz2l03q","slide":7,"name":"TextBox 12","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[85.53,430.04,58.3,62.5]}
+{"kind":"shape","id":"sh/n6x0fqlo","slide":7,"name":"Freeform 14","bbox":[78.81,539.26,71.75,71.75]}
+{"kind":"textbox","id":"sh/25ojml43","slide":7,"name":"TextBox 15","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[85.53,541.78,58.3,62.5]}
+{"kind":"shape","id":"sh/o761ov2t","slide":7,"name":"Freeform 17","bbox":[78.81,651.01,71.75,71.75]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"TextBox 18","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[85.53,653.53,58.3,62.5]}
+{"kind":"shape","id":"sh/id4ju1oz","slide":7,"name":"Freeform 20","bbox":[78.81,762.76,71.75,71.75]}
+{"kind":"textbox","id":"sh/jedkn654","slide":7,"name":"TextBox 21","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[85.53,765.28,58.3,62.5]}
+{"kind":"shape","id":"sh/50v2pgna","slide":7,"name":"Freeform 23","bbox":[78.81,874.51,71.75,71.75]}
+{"kind":"textbox","id":"sh/q143ylov","slide":7,"name":"TextBox 24","text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[85.53,877.03,58.3,62.5]}
+{"kind":"shape","id":"sh/r2dkrq5g","slide":7,"name":"Freeform 25","bbox":[811.05,53.53,1089.03,726.02]}
+{"kind":"shape","id":"sh/d4f2t0nm","slide":7,"name":"Freeform 27","bbox":[809.71,794.43,1110.29,283.64]}
+{"kind":"shape","id":"sh/e5o32lor","slide":7,"name":"TextBox 28","bbox":[809.71,769.63,1110.29,249.17]}
+{"kind":"textbox","id":"sh/f6xkvq5c","slide":7,"name":"TextBox 29","text":"Luồng xử lý","textPreview":"Luồng xử lý","textChars":11,"textLines":1,"bbox":[20.54,-0.07,401.81,101.19]}
+{"kind":"textbox","id":"sh/p0zmlk7u","slide":7,"name":"TextBox 30","text":"User Upload\nUpload file/URL/text qua giao diện","textPreview":"User Upload | Upload file/URL/text qua giao diện","textChars":46,"textLines":2,"bbox":[167.72,199.42,373,75.49]}
+{"kind":"textbox","id":"sh/ozq5szq9","slide":7,"name":"TextBox 31","text":"API tạo Source record\nPOST /sources → title=\"Processing...\" + liên kết Notebook\n","textPreview":"API tạo Source record | POST /sources → title=\"Processing...\" + liên kết Notebook |","textChars":80,"textLines":3,"bbox":[167.72,310.77,621.58,113.49]}
+{"kind":"textbox","id":"sh/nyh4jupo","slide":7,"name":"TextBox 32","text":"Submit Job (fire-and-forget)\nsurreal-commands worker nhận task\n","textPreview":"Submit Job (fire-and-forget) | surreal-commands worker nhận task |","textChars":63,"textLines":3,"bbox":[167.72,422.51,381.94,113.49]}
+{"kind":"textbox","id":"sh/2x8nqp83","slide":7,"name":"TextBox 33","text":"content_process\ncontent-core trích xuất text (50+ file types)\n","textPreview":"content_process | content-core trích xuất text (50+ file types) |","textChars":62,"textLines":3,"bbox":[167.72,534.26,449.73,113.49]}
+{"kind":"textbox","id":"sh/x4j6p47q","slide":7,"name":"TextBox 34","text":"save_source\nCập nhật Source + vectorize (chunk → embed)\n","textPreview":"save_source | Cập nhật Source + vectorize (chunk → embed) |","textChars":56,"textLines":3,"bbox":[167.72,646.01,507.37,113.49]}
+{"kind":"textbox","id":"sh/c3a5wzq5","slide":7,"name":"TextBox 35","text":"transform_content\nÁp dụng transformations (song song)\n","textPreview":"transform_content | Áp dụng transformations (song song) |","textChars":54,"textLines":3,"bbox":[167.72,757.76,392.39,113.49]}
+{"kind":"textbox","id":"sh/b2h4nupk","slide":7,"name":"TextBox 36","text":"Frontend Poll\nGET /commands/{id} → hiển thị kết quả\n","textPreview":"Frontend Poll | GET /commands/{id} → hiển thị kết quả |","textChars":52,"textLines":3,"bbox":[167.72,869.51,434.05,113.49]}
+{"kind":"textbox","id":"sh/a18nup8z","slide":7,"name":"TextBox 37","text":"LangGraph Workflow — Xử lý tài liệu bất đồng bộ qua Job Queue","textPreview":"LangGraph Workflow — Xử lý tài liệu bất đồng bộ qua Job Queue","textChars":61,"textLines":1,"bbox":[20.54,96.12,703.94,37.49]}
+{"kind":"textbox","id":"sh/lsj6t47m","slide":7,"name":"TextBox 38","text":"Đặc điểm\nHội thoại nhiều lượt – Lưu lại lịch sử trò chuyện để AI có thể duy trì ngữ cảnh giữa các lượt.\nTùy chọn model cho từng tin nhắn – Cho phép mỗi tin nhắn sử dụng một model AI khác nhau.\nĐếm token – Kiểm tra số lượng token để tránh vượt quá giới hạn ngữ cảnh của model.\nStreaming thời gian thực qua SSE – Phản hồi được gửi và hiển thị từng phần ngay khi AI tạo ra,\n giúp trải nghiệm nhanh và mượt hơn.","textPreview":"Đặc điểm | Hội thoại nhiều lượt – Lưu lại lịch sử trò chuyện để AI có thể duy trì ngữ cảnh giữa các lượt. | Tùy chọn model cho từng tin n...","textChars":407,"textLines":6,"bbox":[830.09,801.68,1069.99,231.06]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"1","textShapes":17}
+{"kind":"shape","id":"sh/18byd4zy","slide":8,"name":"Freeform 2","bbox":[1683.22,-52.88,530.23,282.35]}
+{"kind":"shape","id":"sh/g72x4zyd","slide":8,"name":"Freeform 3","bbox":[-136.63,978.05,530.23,282.35]}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"name":"Freeform 5","bbox":[78.81,204.42,71.75,71.75]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"TextBox 6","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[85.53,206.94,58.3,62.5]}
+{"kind":"shape","id":"sh/je9g3ahk","slide":8,"name":"Freeform 8","bbox":[78.81,315.77,71.75,71.75]}
+{"kind":"textbox","id":"sh/id0fu50z","slide":8,"name":"TextBox 9","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[85.53,318.29,58.3,62.5]}
+{"kind":"shape","id":"sh/98rehwve","slide":8,"name":"Freeform 11","bbox":[78.81,427.51,71.75,71.75]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"TextBox 12","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[85.53,430.04,58.3,62.5]}
+{"kind":"shape","id":"sh/0jydkreh","slide":8,"name":"Freeform 14","bbox":[78.81,539.26,71.75,71.75]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"TextBox 15","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[85.53,541.78,58.3,62.5]}
+{"kind":"shape","id":"sh/zipwbmdc","slide":8,"name":"Freeform 17","bbox":[78.81,651.01,71.75,71.75]}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"name":"TextBox 18","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[85.53,653.53,58.3,62.5]}
+{"kind":"shape","id":"sh/tw7e9gnq","slide":8,"name":"Freeform 20","bbox":[78.81,762.76,71.75,71.75]}
+{"kind":"textbox","id":"sh/svydgb65","slide":8,"name":"TextBox 21","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[85.53,765.28,58.3,62.5]}
+{"kind":"shape","id":"sh/6twve1oz","slide":8,"name":"Freeform 23","bbox":[78.81,874.51,71.75,71.75]}
+{"kind":"textbox","id":"sh/5sne5wne","slide":8,"name":"TextBox 24","text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[85.53,877.03,58.3,62.5]}
+{"kind":"shape","id":"sh/jq5w365o","slide":8,"name":"Freeform 26","bbox":[825.36,794.43,1070.97,273.59]}
+{"kind":"shape","id":"sh/i5wva1o3","slide":8,"name":"TextBox 27","bbox":[825.36,770.51,1070.97,240.35]}
+{"kind":"shape","id":"sh/x4ne1wni","slide":8,"name":"Freeform 28","bbox":[829.16,74.45,1067.17,706.14]}
+{"kind":"textbox","id":"sh/w3ed8r6x","slide":8,"name":"TextBox 29","text":"Luồng Xử Lý: Chat AI","textPreview":"Luồng Xử Lý: Chat AI","textChars":20,"textLines":1,"bbox":[20.54,-0.07,808.62,101.19]}
+{"kind":"textbox","id":"sh/m9sb2x4v","slide":8,"name":"TextBox 30","text":"User gửi tin nhắn\nTrong Chat Panel của Notebook\n","textPreview":"User gửi tin nhắn | Trong Chat Panel của Notebook |","textChars":48,"textLines":3,"bbox":[167.72,199.42,338.06,113.49]}
+{"kind":"textbox","id":"sh/na1sb2lg","slide":8,"name":"TextBox 31","text":"Build Context\nLấy selected sources \n(full_text + insights) + notes (content) → format context string\n","textPreview":"Build Context | Lấy selected sources  | (full_text + insights) + notes (content) → format context string |","textChars":101,"textLines":4,"bbox":[167.72,291.77,657.64,151.49]}
+{"kind":"textbox","id":"sh/8bat47ml","slide":8,"name":"TextBox 32","text":"Render System Prompt\nJinja2 template (chat/system) + context + message history\n","textPreview":"Render System Prompt | Jinja2 template (chat/system) + context + message history |","textChars":79,"textLines":3,"bbox":[167.72,422.51,607.91,113.49]}
+{"kind":"textbox","id":"sh/9w3uds36","slide":8,"name":"TextBox 33","text":"Provision Model\nEsperanto → chọn LLM (hoặc model override)\n","textPreview":"Provision Model | Esperanto → chọn LLM (hoặc model override) |","textChars":59,"textLines":3,"bbox":[167.72,534.26,498.61,113.49]}
+{"kind":"textbox","id":"sh/y5sbed4j","slide":8,"name":"TextBox 34","text":"LLM Invoke\nmodel.invoke(payload) → AI response\n","textPreview":"LLM Invoke | model.invoke(payload) → AI response |","textChars":47,"textLines":3,"bbox":[167.72,646.01,507.37,113.49]}
+{"kind":"textbox","id":"sh/z61s7il4","slide":8,"name":"TextBox 35","text":"Clean & Stream\nXóa <think> tags → Stream SSE → Frontend","textPreview":"Clean & Stream | Xóa <think> tags → Stream SSE → Frontend","textChars":55,"textLines":2,"bbox":[167.72,757.76,484.25,75.49]}
+{"kind":"textbox","id":"sh/07atgnmp","slide":8,"name":"TextBox 36","text":"Persist History\nLangGraph SqliteSaver checkpoint → lưu hội thoại","textPreview":"Persist History | LangGraph SqliteSaver checkpoint → lưu hội thoại","textChars":64,"textLines":2,"bbox":[167.72,869.51,542.42,75.49]}
+{"kind":"textbox","id":"sh/l8ja9s3a","slide":8,"name":"TextBox 37","text":"Hội thoại đa lượt với AI, tham chiếu ngữ cảnh nghiên cứu","textPreview":"Hội thoại đa lượt với AI, tham chiếu ngữ cảnh nghiên cứu","textChars":56,"textLines":1,"bbox":[20.54,96.12,607.72,37.49]}
+{"kind":"textbox","id":"sh/q18bad4n","slide":8,"name":"TextBox 38","text":"Đặc điểm\nHội thoại nhiều lượt – Lưu trữ lịch sử trò chuyện để duy trì ngữ cảnh giữa các lượt.\nTùy chọn model theo từng tin nhắn – Cho phép thay đổi model AI cho từng yêu cầu.\nĐếm token – Kiểm soát số lượng token để tránh vượt giới hạn context của model.\nStreaming thời gian thực qua SSE – Truyền và hiển thị phản hồi AI từng phần ngay khi được tạo.\n","textPreview":"Đặc điểm | Hội thoại nhiều lượt – Lưu trữ lịch sử trò chuyện để duy trì ngữ cảnh giữa các lượt. | Tùy chọn model theo từng tin nhắn – Cho...","textChars":349,"textLines":6,"bbox":[845.74,801.68,1069.99,273.43]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":""}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"1","textShapes":11}
+{"kind":"shape","id":"sh/1cfmhgne","slide":9,"name":"Freeform 2","bbox":[1683.22,-52.88,530.23,282.35]}
+{"kind":"shape","id":"sh/0b65obm9","slide":9,"name":"Freeform 3","bbox":[-145.33,969.35,530.23,282.35]}
+{"kind":"shape","id":"sh/mdonql4z","slide":9,"name":"Freeform 5","bbox":[28.98,216.51,71.75,71.75]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"TextBox 6","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[35.71,219.03,58.3,62.5]}
+{"kind":"shape","id":"sh/bih4na5w","slide":9,"name":"Freeform 8","bbox":[28.98,360.01,71.75,71.75]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"name":"TextBox 9","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[35.71,362.53,58.3,62.5]}
+{"kind":"shape","id":"sh/p0ji9kf2","slide":9,"name":"Freeform 11","bbox":[28.98,488.5,71.75,71.75]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"name":"TextBox 12","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[35.71,491.02,58.3,62.5]}
+{"kind":"shape","id":"sh/cnu1kzyd","slide":9,"name":"Freeform 14","bbox":[28.98,623.99,71.75,71.75]}
+{"kind":"textbox","id":"sh/do3id4fy","slide":9,"name":"TextBox 15","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[35.71,626.51,58.3,62.5]}
+{"kind":"shape","id":"sh/bml0buxs","slide":9,"name":"Freeform 17","bbox":[534.31,872.54,1385.29,433.32]}
+{"kind":"shape","id":"sh/0ru1ozyp","slide":9,"name":"TextBox 18","bbox":[534.31,847.74,1385.29,371.1]}
+{"kind":"shape","id":"sh/lsn2h4fa","slide":9,"name":"Freeform 19","bbox":[775.08,100,1158.81,772.54]}
+{"kind":"textbox","id":"sh/98ji147e","slide":9,"name":"TextBox 20","text":"Luồng Xử Lý: Ask -Tìm Kiếm Thông Minh","textPreview":"Luồng Xử Lý: Ask -Tìm Kiếm Thông Minh","textChars":37,"textLines":1,"bbox":[20.63,-6,1541.65,82.15]}
+{"kind":"textbox","id":"sh/87a18zqt","slide":9,"name":"TextBox 21","text":"Agent — Plan Strategy\nLLM phân tích câu hỏi \n→ sinh ra Strategy: danh sách search terms + instructions\n","textPreview":"Agent — Plan Strategy | LLM phân tích câu hỏi  | → sinh ra Strategy: danh sách search terms + instructions |","textChars":103,"textLines":4,"bbox":[117.89,199.33,603.09,151.49]}
+{"kind":"textbox","id":"sh/76h0zup8","slide":9,"name":"TextBox 22","text":"Trigger Queries (Fan-out)\nMỗi search term → Send(\"provide_answer\") - chạy song song\n","textPreview":"Trigger Queries (Fan-out) | Mỗi search term → Send(\"provide_answer\") - chạy song song |","textChars":84,"textLines":3,"bbox":[117.89,355.01,655.19,113.49]}
+{"kind":"textbox","id":"sh/ml8j6p8n","slide":9,"name":"TextBox 23","text":"Provide Answer (×N)\nVector search (cosine similarity) \n→ top 10 kết quả → LLM tổng hợp sub-answer\n","textPreview":"Provide Answer (×N) | Vector search (cosine similarity)  | → top 10 kết quả → LLM tổng hợp sub-answer |","textChars":98,"textLines":4,"bbox":[110.79,472.5,504.86,151.49]}
+{"kind":"textbox","id":"sh/hcji5o7a","slide":9,"name":"TextBox 24","text":"Write Final Answer\nLLM tổng hợp tất cả sub-answers → final answer + citations\n","textPreview":"Write Final Answer | LLM tổng hợp tất cả sub-answers → final answer + citations |","textChars":78,"textLines":3,"bbox":[116.89,618.99,639.3,113.49]}
+{"kind":"textbox","id":"sh/wba1cjqp","slide":9,"name":"TextBox 25","text":"LangGraph Workflow — AI lập chiến lược tìm kiếm, tổng hợp câu trả lời","textPreview":"LangGraph Workflow — AI lập chiến lược tìm kiếm, tổng hợp câu trả lời","textChars":69,"textLines":1,"bbox":[-3.37,70.51,830.09,37.49]}
+{"kind":"textbox","id":"sh/va103ep4","slide":9,"name":"TextBox 26","text":"Đặc điểm\nStreaming thời gian thực: Truyền kết quả theo từng giai đoạn: strategy → answers → final_answer.\nXử lý song song: Nhiều truy vấn tìm kiếm được thực hiện đồng thời, giúp giảm thời gian phản hồi.\nTìm kiếm kép (Dual Search): Kết hợp Full-text Search (BM25) và Vector Search (Cosine Similarity) để tăng độ chính xác.\nTrích dẫn nguồn (Citations): Đính kèm nguồn tham khảo trực tiếp trong kết quả, giúp tăng tính minh bạch và độ tin cậy.\n","textPreview":"Đặc điểm | Streaming thời gian thực: Truyền kết quả theo từng giai đoạn: strategy → answers → final_answer. | Xử lý song song: Nhiều truy...","textChars":441,"textLines":6,"bbox":[551.22,873.54,1368.78,231.06]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":""}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"1","textShapes":16}
+{"kind":"shape","id":"sh/xc3mho32","slide":10,"name":"Freeform 2","bbox":[1683.22,-52.88,530.23,282.35]}
+{"kind":"shape","id":"sh/cbu58j2h","slide":10,"name":"Freeform 3","bbox":[-156.51,955.95,530.23,282.35]}
+{"kind":"shape","id":"sh/ydcnatkn","slide":10,"name":"Freeform 5","bbox":[58.93,182.32,71.75,71.75]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"name":"TextBox 6","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[65.65,184.84,58.3,62.5]}
+{"kind":"shape","id":"sh/725onyl4","slide":10,"name":"Freeform 8","bbox":[58.93,293.67,71.75,71.75]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"TextBox 9","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[65.65,296.19,58.3,62.5]}
+{"kind":"shape","id":"sh/d87uxg3m","slide":10,"name":"Freeform 11","bbox":[58.93,405.42,71.75,71.75]}
+{"kind":"textbox","id":"sh/q5gb21kb","slide":10,"name":"TextBox 12","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[65.65,407.94,58.3,62.5]}
+{"kind":"shape","id":"sh/0bit8b2d","slide":10,"name":"Freeform 14","bbox":[58.93,517.16,71.75,71.75]}
+{"kind":"textbox","id":"sh/1cru1g3y","slide":10,"name":"TextBox 15","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[65.65,519.69,58.3,62.5]}
+{"kind":"shape","id":"sh/fapcz6ls","slide":10,"name":"Freeform 17","bbox":[58.93,628.91,71.75,71.75]}
+{"kind":"textbox","id":"sh/ozitcv29","slide":10,"name":"TextBox 18","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[65.65,631.44,58.3,62.5]}
+{"kind":"shape","id":"sh/xwnupgvy","slide":10,"name":"Freeform 20","bbox":[58.93,740.66,71.75,71.75]}
+{"kind":"textbox","id":"sh/wvetgbud","slide":10,"name":"TextBox 21","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[65.65,743.18,58.3,62.5]}
+{"kind":"shape","id":"sh/atwbelcn","slide":10,"name":"Freeform 23","bbox":[58.93,852.41,71.75,71.75]}
+{"kind":"textbox","id":"sh/lk7ut0va","slide":10,"name":"TextBox 24","text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[65.65,854.93,58.3,62.5]}
+{"kind":"shape","id":"sh/kjytkvup","slide":10,"name":"Freeform 25","bbox":[765.62,259.52,1143.38,762.25]}
+{"kind":"textbox","id":"sh/jypcrqd4","slide":10,"name":"TextBox 26","text":"Luồng Xử Lý: Podcast Generation","textPreview":"Luồng Xử Lý: Podcast Generation","textChars":31,"textLines":1,"bbox":[19.54,1.61,1167.1,96.51]}
+{"kind":"textbox","id":"sh/yxgbilcj","slide":10,"name":"TextBox 27","text":"Cấu hình Episode Profile\nChọn speakers, LLM models, language, số segments, briefing\n","textPreview":"Cấu hình Episode Profile | Chọn speakers, LLM models, language, số segments, briefing |","textChars":84,"textLines":3,"bbox":[147.84,177.32,649.78,113.49]}
+{"kind":"textbox","id":"sh/1o3ahwvq","slide":10,"name":"TextBox 28","text":"\nThu thập Context\nNotebook.get_context() → sources + notes + insight ()\n","textPreview":"| Thu thập Context | Notebook.get_context() → sources + notes + insight () |","textChars":72,"textLines":4,"bbox":[147.84,269.67,574.19,151.49]}
+{"kind":"textbox","id":"sh/0nut8rul","slide":10,"name":"TextBox 29","text":"Submit Background Job\nsurreal-commands → fire-and-forget\n","textPreview":"Submit Background Job | surreal-commands → fire-and-forget |","textChars":57,"textLines":3,"bbox":[147.84,400.42,387.73,113.49]}
+{"kind":"textbox","id":"sh/q9srixs3","slide":10,"name":"TextBox 30","text":"Outline Generation\nLLM tạo outline kịch bản từ context + briefing\n","textPreview":"Outline Generation | LLM tạo outline kịch bản từ context + briefing |","textChars":66,"textLines":3,"bbox":[147.84,512.16,491.72,113.49]}
+{"kind":"textbox","id":"sh/ru18r2to","slide":10,"name":"TextBox 31","text":"Transcript Generation\nLLM viết script chi tiết cho từng segment / speaker\n","textPreview":"Transcript Generation | LLM viết script chi tiết cho từng segment / speaker |","textChars":74,"textLines":3,"bbox":[147.84,623.91,611.78,113.49]}
+{"kind":"textbox","id":"sh/cva9k7a9","slide":10,"name":"TextBox 32","text":"Text-to-Speech\nTTS provider (OpenAI / ElevenLabs / Google) sinh audio\n","textPreview":"Text-to-Speech | TTS provider (OpenAI / ElevenLabs / Google) sinh audio |","textChars":70,"textLines":3,"bbox":[147.84,735.66,654.99,113.49]}
+{"kind":"textbox","id":"sh/dwjqtcbu","slide":10,"name":"TextBox 33","text":"Audio Merge & Serve\nGhép segments → file podcast → lưu /data/podcasts/\n\n","textPreview":"Audio Merge & Serve | Ghép segments → file podcast → lưu /data/podcasts/ |  |","textChars":72,"textLines":4,"bbox":[147.84,847.41,558.92,151.49]}
+{"kind":"textbox","id":"sh/exsrmhsf","slide":10,"name":"TextBox 34","text":"Tạo podcast chuyên nghiệp đa speaker từ nội dung nghiên cứu","textPreview":"Tạo podcast chuyên nghiệp đa speaker từ nội dung nghiên cứu","textChars":59,"textLines":1,"bbox":[19.54,93.12,666.33,37.49]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":""}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"Luồng Xử Lý: Podcast Generation","textShapes":1}
+{"kind":"shape","id":"sh/xcryxg7y","slide":11,"name":"Freeform 2","bbox":[1683.22,-52.88,530.23,282.35]}
+{"kind":"shape","id":"sh/wbih4b6d","slide":11,"name":"Freeform 3","bbox":[-156.51,955.95,530.23,282.35]}
+{"kind":"shape","id":"sh/n69grmpw","slide":11,"name":"Freeform 4","bbox":[107.6,100.83,1590.17,979.17]}
+{"kind":"textbox","id":"sh/250zy18b","slide":11,"name":"TextBox 5","text":"Luồng Xử Lý: Podcast Generation","textPreview":"Luồng Xử Lý: Podcast Generation","textChars":31,"textLines":1,"bbox":[19.54,14.05,1167.1,84.07]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":""}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"1","textShapes":15}
+{"kind":"shape","id":"sh/1gbm9s3a","slide":12,"name":"Freeform 2","bbox":[1683.22,-52.88,530.23,282.35]}
+{"kind":"shape","id":"sh/0f2lgnmp","slide":12,"name":"Freeform 3","bbox":[-207.89,970.28,530.23,282.35]}
+{"kind":"shape","id":"sh/q903ad4n","slide":12,"name":"Freeform 5","bbox":[20.83,140.91,71.75,71.75]}
+{"kind":"textbox","id":"sh/dcbm583y","slide":12,"name":"TextBox 6","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[27.56,143.43,58.3,62.5]}
+{"kind":"shape","id":"sh/b6d4f2lc","slide":12,"name":"Freeform 8","bbox":[20.83,252.26,71.75,71.75]}
+{"kind":"textbox","id":"sh/a543mx4r","slide":12,"name":"TextBox 9","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[27.56,254.78,58.3,62.5]}
+{"kind":"shape","id":"sh/xw3q94ne","slide":12,"name":"Freeform 11","bbox":[20.83,364,71.75,71.75]}
+{"kind":"textbox","id":"sh/atc7epon","slide":12,"name":"TextBox 12","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[27.56,366.53,58.3,62.5]}
+{"kind":"shape","id":"sh/orapcf6h","slide":12,"name":"Freeform 14","bbox":[20.83,475.75,71.75,71.75]}
+{"kind":"textbox","id":"sh/9sj65kn2","slide":12,"name":"TextBox 15","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[27.56,478.28,58.3,62.5]}
+{"kind":"shape","id":"sh/nq1o3a5w","slide":12,"name":"Freeform 17","bbox":[14.57,605.87,71.75,71.75]}
+{"kind":"textbox","id":"sh/0nap8f6l","slide":12,"name":"TextBox 18","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[21.3,608.39,58.3,62.5]}
+{"kind":"shape","id":"sh/hkbm5wzu","slide":12,"name":"Freeform 20","bbox":[8.94,735.99,71.75,71.75]}
+{"kind":"textbox","id":"sh/gj25cry9","slide":12,"name":"TextBox 21","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[15.66,738.51,58.3,62.5]}
+{"kind":"shape","id":"sh/uh0na1g3","slide":12,"name":"Freeform 23","bbox":[7.55,866.74,71.75,71.75]}
+{"kind":"textbox","id":"sh/tgrm1wzy","slide":12,"name":"TextBox 24","text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[14.28,869.26,58.3,62.5]}
+{"kind":"shape","id":"sh/sfi58ryd","slide":12,"name":"Freeform 25","bbox":[743.49,250.75,1176.51,696.86]}
+{"kind":"textbox","id":"sh/7u94zmhs","slide":12,"name":"TextBox 26","text":"Luồng Xử Lý: Videos Generation","textPreview":"Luồng Xử Lý: Videos Generation","textChars":30,"textLines":1,"bbox":[19.54,1.61,1167.1,96.51]}
+{"kind":"textbox","id":"sh/6t0n6hg7","slide":12,"name":"TextBox 27","text":"Người dùng chọn cấu hình\nChọn số cảnh, giọng đọc, tỉ lệ màn hình (16:9 / 9:16) và kiểu thiết kế\n","textPreview":"Người dùng chọn cấu hình | Chọn số cảnh, giọng đọc, tỉ lệ màn hình (16:9 / 9:16) và kiểu thiết kế |","textChars":96,"textLines":3,"bbox":[109.74,135.91,721.22,113.49]}
+{"kind":"textbox","id":"sh/dcv6dgz2","slide":12,"name":"TextBox 28","text":"Đưa vào hàng đợi xử lý\nLưu yêu cầu và chuyển sang tiến trình chạy ngầm dưới nền \n\n","textPreview":"Đưa vào hàng đợi xử lý | Lưu yêu cầu và chuyển sang tiến trình chạy ngầm dưới nền  |  |","textChars":82,"textLines":4,"bbox":[109.74,248.39,628.13,151.49]}
+{"kind":"textbox","id":"sh/cbm5kbyh","slide":12,"name":"TextBox 29","text":"AI viết kịch bản phân cảnh\nMô hình AI đọc tài liệu \n→ chia thành các cảnh gồm Tiêu đề & Lời đọc)\n","textPreview":"AI viết kịch bản phân cảnh | Mô hình AI đọc tài liệu  | → chia thành các cảnh gồm Tiêu đề & Lời đọc) |","textChars":97,"textLines":4,"bbox":[109.74,350.41,501.41,151.49]}
+{"kind":"textbox","id":"sh/alwbitsn","slide":12,"name":"TextBox 30","text":"Tạo giọng đọc AI (TTS)\nChuẩn hóa các từ viết tắt  \n→ sinh file âm thanh riêng cho từng câu văn","textPreview":"Tạo giọng đọc AI (TTS) | Chuẩn hóa các từ viết tắt   | → sinh file âm thanh riêng cho từng câu văn","textChars":94,"textLines":3,"bbox":[109.74,470.75,467.87,113.49]}
+{"kind":"textbox","id":"sh/bm5sryt8","slide":12,"name":"TextBox 31","text":"Đo thời lượng từng câu nói\nTính chính xác số giây đọc của mỗi câu để làm mốc thời gian chuyển cảnh","textPreview":"Đo thời lượng từng câu nói | Tính chính xác số giây đọc của mỗi câu để làm mốc thời gian chuyển cảnh","textChars":98,"textLines":2,"bbox":[103.48,600.87,611.78,113.49]}
+{"kind":"textbox","id":"sh/wnetkjat","slide":12,"name":"TextBox 32","text":"Chụp hình ảnh Slide bài giảng\nPlaywright (Chromium) nạp HTML template \n→ chụp ảnh PNG Full HD","textPreview":"Chụp hình ảnh Slide bài giảng | Playwright (Chromium) nạp HTML template  | → chụp ảnh PNG Full HD","textChars":93,"textLines":3,"bbox":[97.85,730.99,654.99,113.49]}
+{"kind":"textbox","id":"sh/xonutobe","slide":12,"name":"TextBox 33","text":"Ghép và xuất Video hoàn chỉnh\nKhớp khớp hình theo tiếng đọc → lồng nhạc nền\n → xuất file MP4\n\n","textPreview":"Ghép và xuất Video hoàn chỉnh | Khớp khớp hình theo tiếng đọc → lồng nhạc nền |  → xuất file MP4 |  |","textChars":94,"textLines":5,"bbox":[96.46,861.74,514.69,189.49]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":""}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"Design Patterns & Triển Khai","textShapes":11}
+{"kind":"shape","id":"sh/q50nydsj","slide":13,"name":"Freeform 2","bbox":[1777.48,-256.13,682.35,566.97]}
+{"kind":"shape","id":"sh/bq9orito","slide":13,"name":"Freeform 3","bbox":[-456.11,-506.61,835.98,694.63]}
+{"kind":"shape","id":"sh/p4r6p8by","slide":13,"name":"Freeform 5","bbox":[70.17,173.85,587.17,158.01]}
+{"kind":"shape","id":"sh/21gnuts7","slide":13,"name":"TextBox 6","bbox":[82.09,151.51,479.96,180.35]}
+{"kind":"shape","id":"sh/gzy5s3a1","slide":13,"name":"Freeform 8","bbox":[77.51,179.52,579.83,158.01]}
+{"kind":"shape","id":"sh/1076lobm","slide":13,"name":"TextBox 9","bbox":[89.42,157.19,472.62,180.35]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"name":"TextBox 10","text":"Design Patterns & Triển Khai","textPreview":"Design Patterns & Triển Khai","textChars":28,"textLines":1,"bbox":[478.25,-7.9,1026.43,94.59]}
+{"kind":"shape","id":"sh/vaxg7ulo","slide":13,"name":"Freeform 12","bbox":[73.84,355.43,723,158.01]}
+{"kind":"shape","id":"sh/u9ofyp43","slide":13,"name":"TextBox 13","bbox":[85.75,333.09,615.79,180.35]}
+{"kind":"shape","id":"sh/876xwfmx","slide":13,"name":"Freeform 15","bbox":[82.87,361.1,713.97,158.01]}
+{"kind":"shape","id":"sh/7mdg3als","slide":13,"name":"TextBox 16","bbox":[94.79,338.77,606.75,180.35]}
+{"kind":"textbox","id":"sh/6l4fu547","slide":13,"name":"TextBox 17","text":"Repository Pattern\nData access layer trung gian: \nrepo_query(), repo_create(), repo_upsert(). Tách biệt logic DB.\n\n","textPreview":"Repository Pattern | Data access layer trung gian:  | repo_query(), repo_create(), repo_upsert(). Tách biệt logic DB. |  |","textChars":115,"textLines":5,"bbox":[95.26,383.43,674.62,166.4]}
+{"kind":"shape","id":"sh/kjmxsfm1","slide":13,"name":"Freeform 19","bbox":[77.51,537.12,780.97,158.01]}
+{"kind":"shape","id":"sh/cnqh8fux","slide":13,"name":"TextBox 20","bbox":[89.42,514.78,673.76,180.35]}
+{"kind":"shape","id":"sh/q18f65cr","slide":13,"name":"Freeform 22","bbox":[87.27,542.79,771.22,158.01]}
+{"kind":"shape","id":"sh/bmhgfatc","slide":13,"name":"TextBox 23","bbox":[99.18,520.46,664,180.35]}
+{"kind":"shape","id":"sh/p0zyd0b6","slide":13,"name":"Freeform 25","bbox":[77.51,718.81,794.23,158.01]}
+{"kind":"shape","id":"sh/2xof2lcv","slide":13,"name":"TextBox 26","bbox":[89.42,696.47,687.01,180.35]}
+{"kind":"shape","id":"sh/8vahgzu5","slide":13,"name":"Freeform 28","bbox":[87.43,724.48,784.3,158.01]}
+{"kind":"shape","id":"sh/9wjyp4bq","slide":13,"name":"TextBox 29","bbox":[99.34,702.15,677.09,180.35]}
+{"kind":"shape","id":"sh/ipcjmtw7","slide":13,"name":"Freeform 31","bbox":[70.17,900.5,764.37,158.01]}
+{"kind":"shape","id":"sh/5cn2h8vy","slide":13,"name":"TextBox 32","bbox":[82.09,878.16,657.15,180.35]}
+{"kind":"shape","id":"sh/re5kjydo","slide":13,"name":"Freeform 34","bbox":[79.72,906.17,754.82,158.01]}
+{"kind":"shape","id":"sh/6dwjqtw3","slide":13,"name":"TextBox 35","bbox":[91.64,883.84,647.6,180.35]}
+{"kind":"textbox","id":"sh/tgn2l8vu","slide":13,"name":"TextBox 36","text":"Triển khai hệ thống\n","textPreview":"Triển khai hệ thống |","textChars":20,"textLines":2,"bbox":[941.02,114.77,268.73,81.08]}
+{"kind":"shape","id":"sh/7i107edk","slide":13,"name":"Freeform 38","bbox":[932.83,173.85,847.23,147.06]}
+{"kind":"shape","id":"sh/mhsje9wz","slide":13,"name":"TextBox 39","bbox":[944.75,151.51,740.02,169.39]}
+{"kind":"shape","id":"sh/z25kne5g","slide":13,"name":"Freeform 41","bbox":[941.02,179.13,836.65,147.06]}
+{"kind":"shape","id":"sh/03e1wjm1","slide":13,"name":"TextBox 42","bbox":[952.93,156.79,729.43,169.39]}
+{"kind":"shape","id":"sh/m5gjyt4r","slide":13,"name":"Freeform 44","bbox":[941.02,354.43,587.17,199.84]}
+{"kind":"shape","id":"sh/n6pkrelc","slide":13,"name":"TextBox 45","bbox":[952.93,332.09,479.96,222.17]}
+{"kind":"shape","id":"sh/9s72to3i","slide":13,"name":"Freeform 47","bbox":[948.35,361.6,579.83,199.84]}
+{"kind":"shape","id":"sh/atgj2t43","slide":13,"name":"TextBox 48","bbox":[960.26,339.27,472.62,222.17]}
+{"kind":"textbox","id":"sh/50behwr2","slide":13,"name":"TextBox 50","text":"Design Patterns sử dụng","textPreview":"Design Patterns sử dụng","textChars":23,"textLines":1,"bbox":[73.84,114.77,332.92,41.08]}
+{"kind":"textbox","id":"sh/4z2d8rah","slide":13,"name":"TextBox 51","text":"Domain-Driven Design (DDD)\nDomain Models (Pydantic) chứa business logic. \nObjectModel base class: save(), get(), delete().","textPreview":"Domain-Driven Design (DDD) | Domain Models (Pydantic) chứa business logic.  | ObjectModel base class: save(), get(), delete().","textChars":122,"textLines":3,"bbox":[91.59,201.85,518.7,100.4]}
+{"kind":"textbox","id":"sh/jytcfmtw","slide":13,"name":"TextBox 52","text":"State Machine (LangGraph)\n6 workflow graphs: \nnodes + edges + fan-out. Debuggable, maintainable AI orchestration.\n","textPreview":"State Machine (LangGraph) | 6 workflow graphs:  | nodes + edges + fan-out. Debuggable, maintainable AI orchestration. |","textChars":114,"textLines":4,"bbox":[98.93,565.12,735.61,133.4]}
+{"kind":"textbox","id":"sh/ixkv6hsb","slide":13,"name":"TextBox 53","text":"Command / Job Queue\nFire-and-forget: \nsubmit → worker process → poll status. Tránh timeout cho long tasks.\n","textPreview":"Command / Job Queue | Fire-and-forget:  | submit → worker process → poll status. Tránh timeout cho long tasks. |","textChars":107,"textLines":4,"bbox":[98.93,746.81,753.13,133.4]}
+{"kind":"textbox","id":"sh/t4velwry","slide":13,"name":"TextBox 54","text":"Adapter (Provider Abstraction)\nEsperanto:\n unified interface cho 18+ AI providers. Per-request model override.\n","textPreview":"Adapter (Provider Abstraction) | Esperanto: |  unified interface cho 18+ AI providers. Per-request model override. |","textChars":111,"textLines":4,"bbox":[91.59,928.5,725.95,133.4]}
+{"kind":"textbox","id":"sh/s3mdcrad","slide":13,"name":"TextBox 55","text":"Docker Compose (Production)\n2 containers: surrealdb (DB) + notebooke (API + Frontend + Worker). Chạy docker compose up -d → ready in 20s.\n","textPreview":"Docker Compose (Production) | 2 containers: surrealdb (DB) + notebooke (API + Frontend + Worker). Chạy docker compose up -d → ready in 20...","textChars":138,"textLines":3,"bbox":[951.85,190.5,827.21,133.4]}
+{"kind":"textbox","id":"sh/r2dwjm98","slide":13,"name":"TextBox 56","text":"Development (Local)\nmake database → SurrealDB\nmake api → FastAPI (auto-migrate)\nmake worker-start → Background worker\nmake frontend → Next.js dev server\n","textPreview":"Development (Local) | make database → SurrealDB | make api → FastAPI (auto-migrate) | make worker-start → Background worker | make fronte...","textChars":153,"textLines":6,"bbox":[962.44,382.43,446.61,199.4]}
+{"kind":"textbox","id":"sh/614va1sn","slide":13,"name":"TextBox 57","text":"Bảo mật","textPreview":"Bảo mật","textChars":7,"textLines":1,"bbox":[948.35,599.83,114.64,41.08]}
+{"kind":"shape","id":"sh/1svepgra","slide":13,"name":"Freeform 58","bbox":[427.03,612.61,937.25,70.29]}
+{"kind":"table","id":"tb/zq1kbudk","slide":13,"name":"Table 49","rows":4,"cols":2,"preview":"API Key Encryption | OPEN_NOTEBOOK_ENCRYPTION_KEY","bbox":[943.42,653.28,868.58,356]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":""}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"NotebookE vs Notebook LM","textShapes":1}
+{"kind":"shape","id":"sh/xc7eds76","slide":14,"name":"Freeform 2","bbox":[151.54,88.29,1616.92,979.9]}
+{"kind":"shape","id":"sh/wbydknq1","slide":14,"name":"Freeform 3","bbox":[1683.22,-52.88,530.23,282.35]}
+{"kind":"shape","id":"sh/jepwf2pc","slide":14,"name":"Freeform 4","bbox":[-156.51,955.95,530.23,282.35]}
+{"kind":"textbox","id":"sh/idgvmx8r","slide":14,"name":"TextBox 5","text":"NotebookE vs Notebook LM","textPreview":"NotebookE vs Notebook LM","textChars":24,"textLines":1,"bbox":[557.03,4.22,805.94,84.07]}
+{"kind":"shape","id":"sh/5grehs7i","slide":14,"name":"Freeform 6","bbox":[21.38,31.56,87.23,113.46]}
+{"kind":"shape","id":"sh/kfidonqx","slide":14,"name":"Freeform 7","bbox":[1795.35,927.12,95.96,124.83]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":""}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"Kết Luận & Hướng Phát Triển","textShapes":7}
+{"kind":"shape","id":"sh/547mhg3m","slide":15,"name":"Freeform 2","bbox":[875.05,892.01,1205.47,289.31]}
+{"kind":"shape","id":"sh/k3y5ov21","slide":15,"name":"Freeform 3","bbox":[-211.7,-364.34,794.78,471.9]}
+{"kind":"textbox","id":"sh/76p4jqls","slide":15,"name":"TextBox 4","text":"Kết Luận & Hướng Phát Triển","textPreview":"Kết Luận & Hướng Phát Triển","textChars":27,"textLines":1,"bbox":[394.75,52.73,1094.94,102.2]}
+{"kind":"shape","id":"sh/65gnqlk7","slide":15,"name":"Freeform 5","bbox":[435.58,607.42,937.25,70.29]}
+{"kind":"textbox","id":"sh/t87ml0ji","slide":15,"name":"TextBox 6","text":"Kiến trúc 3 tầng rõ ràng, async-first, scalable\n18+ AI providers — không vendor lock-in\nMulti-model DB (graph + vector + full-text) trong 1 hệ thống\n6 LangGraph workflows cho AI orchestration\nPodcast generation đa speaker chuyên nghiệp\nREST API đầy đủ (24 routers, auto-docs)\nJob queue cho long-running tasks — UX mượt\nPrivacy-first — self-hosted, mã hóa credentials","textPreview":"Kiến trúc 3 tầng rõ ràng, async-first, scalable | 18+ AI providers — không vendor lock-in | Multi-model DB (graph + vector + full-text) t...","textChars":366,"textLines":8,"bbox":[78.18,257.21,790.87,351.69]}
+{"kind":"textbox","id":"sh/s7y5sv2x","slide":15,"name":"TextBox 7","text":"Kết quả đạt được","textPreview":"Kết quả đạt được","textChars":16,"textLines":1,"bbox":[95.56,202.31,234.77,46.42]}
+{"kind":"textbox","id":"sh/na5476l8","slide":15,"name":"TextBox 8","text":"Hạn chế","textPreview":"Hạn chế","textChars":7,"textLines":1,"bbox":[95.56,615.85,111.41,46.42]}
+{"kind":"textbox","id":"sh/m9c3e1kn","slide":15,"name":"TextBox 9","text":"Single-user (chưa hỗ trợ multi-user)\nAuth cơ bản (password-only, chưa OAuth/JWT)\nSurrealDB còn tương đối mới, cộng đồng nhỏ\nCitation cơ bản (chưa bằng Google Notebook LM)","textPreview":"Single-user (chưa hỗ trợ multi-user) | Auth cơ bản (password-only, chưa OAuth/JWT) | SurrealDB còn tương đối mới, cộng đồng nhỏ | Citatio...","textChars":170,"textLines":4,"bbox":[78.18,670.28,665.58,175.69]}
+{"kind":"textbox","id":"sh/wrm9kvep","slide":15,"name":"TextBox 10","text":"Hướng phát triển","textPreview":"Hướng phát triển","textChars":16,"textLines":1,"bbox":[960,202.31,235.69,46.42]}
+{"kind":"textbox","id":"sh/hsvat0fa","slide":15,"name":"TextBox 11","text":"1. Hỗ trợ đa người dùng\nThiết kế lại hệ thống xác thực (OAuth/JWT) và phân quyền để nhiều người dùng có thể sử dụng độc lập trên cùng một hệ thống.\n2. Chia sẻ và kết nối ngang hàng (P2P)\nHỗ trợ tạo Link chia sẻ trực tiếp (P2P) trong các phiên Chat, cho phép nhiều người dùng kết nối và sử dụng chung một không gian nghiên cứu một cách dễ dàng và bảo mật.\n3. Đa dạng hóa định dạng xuất ra\nHỗ trợ AI tự động tạo Video, bài thuyết trình (slide), và sơ đồ tư duy (mind map) từ kết quả nghiên cứu.\n4. Tích hợp giao thức MCP\nCho phép các AI Agent bên ngoài kết nối và sử dụng NotebookE như một \"bộ nhớ nghiên cứu\" cung cấp kiến thức chuẩn.\n","textPreview":"1. Hỗ trợ đa người dùng | Thiết kế lại hệ thống xác thực (OAuth/JWT) và phân quyền để nhiều người dùng có thể sử dụng độc lập trên cùng m...","textChars":634,"textLines":9,"bbox":[960,257.21,906.59,615.69]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":""}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"Thank you !","textShapes":2}
+{"kind":"shape","id":"sh/9kby1g7m","slide":16,"name":"Freeform 3","bbox":[643.14,308.05,633.71,164.4]}
+{"kind":"shape","id":"sh/ytkf2h8j","slide":16,"name":"TextBox 4","bbox":[643.14,292.87,633.71,179.59]}
+{"kind":"shape","id":"sh/kv2h4rqp","slide":16,"name":"Freeform 6","bbox":[665.74,301.65,579.95,164.4]}
+{"kind":"textbox","id":"sh/lwbyxwra","slide":16,"name":"TextBox 7","text":"Thank you !","textPreview":"Thank you !","textChars":11,"textLines":1,"bbox":[665.74,286.46,579.95,179.59]}
+{"kind":"shape","id":"sh/ip4zel83","slide":16,"name":"Freeform 8","bbox":[-32.47,-214.42,504.45,299.52]}
+{"kind":"shape","id":"sh/3qdg7qpo","slide":16,"name":"Freeform 9","bbox":[1465.48,-276.56,791.76,657.16]}
+{"kind":"shape","id":"sh/fm1gzq5o","slide":16,"name":"Freeform 10","bbox":[1665.04,52.02,146.96,154.49]}
+{"kind":"shape","id":"sh/e1sf65o3","slide":16,"name":"Freeform 11","bbox":[1638.83,182.79,146.96,154.49]}
+{"kind":"shape","id":"sh/1ojy10ne","slide":16,"name":"Freeform 12","bbox":[-350.24,744.59,791.76,657.16]}
+{"kind":"shape","id":"sh/gnax8v6t","slide":16,"name":"Freeform 13","bbox":[78.42,773.9,146.96,154.49]}
+{"kind":"shape","id":"sh/nqlg3a5k","slide":16,"name":"Freeform 14","bbox":[146,888.88,146.96,154.49]}
+{"kind":"shape","id":"sh/2pcfa5oz","slide":16,"name":"Freeform 15","bbox":[1425.74,998.46,504.45,299.52]}
+{"kind":"textbox","id":"sh/ps3y5knq","slide":16,"name":"TextBox 16","text":"Cảm ơn quý thầy cô đã lắng nghe.","textPreview":"Cảm ơn quý thầy cô đã lắng nghe.","textChars":32,"textLines":1,"bbox":[629.13,530,661.75,66.49]}
+{"kind":"shape","id":"sh/oruhcf65","slide":16,"name":"Freeform 17","bbox":[1342.64,425.85,115.8,150.63]}
+{"kind":"shape","id":"sh/bulg7u5g","slide":16,"name":"Freeform 18","bbox":[416.33,425.85,115.8,150.63]}
+{"kind":"shape","id":"sh/atczepob","slide":16,"name":"Freeform 19","bbox":[741.76,909.83,115.8,150.63]}
+{"kind":"shape","id":"sh/mpgj6t8j","slide":16,"name":"Freeform 20","bbox":[1152.56,18.66,115.8,150.63]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":""}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"DEMO","textShapes":1}
+{"kind":"shape","id":"sh/gbedwfmx","slide":17,"name":"Freeform 3","bbox":[643.14,391.09,633.71,164.4]}
+{"kind":"shape","id":"sh/rm5czq50","slide":17,"name":"TextBox 4","bbox":[643.14,375.91,633.71,179.59]}
+{"kind":"shape","id":"sh/t8ne10n6","slide":17,"name":"Freeform 6","bbox":[665.74,384.69,579.95,164.4]}
+{"kind":"textbox","id":"sh/snedsvml","slide":17,"name":"TextBox 7","text":"DEMO","textPreview":"DEMO","textChars":4,"textLines":1,"bbox":[665.74,369.5,579.95,179.59]}
+{"kind":"shape","id":"sh/jilcvq54","slide":17,"name":"Freeform 8","bbox":[-32.47,-214.42,504.45,299.52]}
+{"kind":"shape","id":"sh/ihcvml4j","slide":17,"name":"Freeform 9","bbox":[1465.48,-276.56,791.76,657.16]}
+{"kind":"shape","id":"sh/4by9or6l","slide":17,"name":"Freeform 10","bbox":[1665.04,52.02,146.96,154.49]}
+{"kind":"shape","id":"sh/pc7qhwn6","slide":17,"name":"Freeform 11","bbox":[1638.83,182.79,146.96,154.49]}
+{"kind":"shape","id":"sh/29grm1of","slide":17,"name":"Freeform 12","bbox":[-350.24,744.59,791.76,657.16]}
+{"kind":"shape","id":"sh/3ap8fm50","slide":17,"name":"Freeform 13","bbox":[78.42,773.9,146.96,154.49]}
+{"kind":"shape","id":"sh/gnepkr69","slide":17,"name":"Freeform 14","bbox":[146,888.88,146.96,154.49]}
+{"kind":"shape","id":"sh/honqdwnu","slide":17,"name":"Freeform 15","bbox":[1425.74,998.46,504.45,299.52]}
+{"kind":"shape","id":"sh/ulw7ihoj","slide":17,"name":"Freeform 16","bbox":[1342.64,425.85,115.8,150.63]}
+{"kind":"shape","id":"sh/fm58bm54","slide":17,"name":"Freeform 17","bbox":[416.33,425.85,115.8,150.63]}
+{"kind":"shape","id":"sh/0ji9wb6t","slide":17,"name":"Freeform 18","bbox":[741.76,909.83,115.8,150.63]}
+{"kind":"shape","id":"sh/14rqpgne","slide":17,"name":"Freeform 19","bbox":[1152.56,18.66,115.8,150.63]}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":""}

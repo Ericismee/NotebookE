@@ -39,6 +39,7 @@ class VideoGenerationInput(CommandInput):
     image_workflow: Optional[str] = None
     visual_mode: str = "auto"
     tts_voice: str = "vi-VN-HoaiMyNeural"
+    voice_model: Optional[str] = None
     language: Optional[str] = None
     video_type: str = "summary"
     style: str = "auto"
@@ -94,6 +95,7 @@ async def generate_video_command(
         image_workflow=input_data.image_workflow,
         visual_mode=input_data.visual_mode,
         tts_voice=input_data.tts_voice,
+        voice_model=input_data.voice_model,
         language=input_data.language,
         video_type=input_data.video_type,
         style=template.id,
@@ -117,6 +119,7 @@ async def generate_video_command(
         core, llm_config = await build_pixelle_core(
             language=input_data.language or "Vietnamese",
             template_preset=template.id,
+            voice_model=input_data.voice_model,
         )
 
         # Store the model name on the episode

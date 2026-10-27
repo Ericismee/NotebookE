@@ -15,7 +15,7 @@ services:
       # for local debugging (e.g. Surrealist, `surreal sql`). Exposing this
       # on 0.0.0.0 would let anyone who can reach the host connect with the
       # default root:root credentials.
-      - "127.0.0.1:8000:8000"
+      - "127.0.0.1:${SURREAL_HOST_PORT:-8000}:8000"
     volumes:
       - ./surreal_data:/mydata
     environment:

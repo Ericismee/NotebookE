@@ -1,0 +1,2748 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/hgzapcr6",
+    "id": "hgzapcr6",
+    "slide": 13,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#F1F1F1",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Times New Roman",
+      "Times New Roman Bold"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "8/1/2011",
+          "textPreview": "8/1/2011",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "8/1/2011",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "8/1/2011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "text": "8/1/2011",
+          "textPreview": "8/1/2011",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "8/1/2011",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "8/1/2011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q50nydsj",
+      "id": "2",
+      "name": "Freeform 2",
+      "bbox": [
+        1777.48,
+        -256.13,
+        682.35,
+        566.97
+      ],
+      "rotation": 138.99,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image46.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 68548
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq9orito",
+      "id": "3",
+      "name": "Freeform 3",
+      "bbox": [
+        -456.11,
+        -506.61,
+        835.98,
+        694.63
+      ],
+      "rotation": 158.44,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image46.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 68548
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4r6p8by",
+      "id": "5",
+      "name": "Freeform 5",
+      "bbox": [
+        70.17,
+        173.85,
+        587.17,
+        158.01
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#38B6FF"
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/21gnuts7",
+      "id": "6",
+      "name": "TextBox 6",
+      "bbox": [
+        82.09,
+        151.51,
+        479.96,
+        180.35
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gzy5s3a1",
+      "id": "8",
+      "name": "Freeform 8",
+      "bbox": [
+        77.51,
+        179.52,
+        579.83,
+        158.01
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1076lobm",
+      "id": "9",
+      "name": "TextBox 9",
+      "bbox": [
+        89.42,
+        157.19,
+        472.62,
+        180.35
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcfy9k3u",
+      "id": "10",
+      "name": "TextBox 10",
+      "bbox": [
+        478.25,
+        -7.9,
+        1026.43,
+        94.59
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Design Patterns & Triển Khai",
+      "textPreview": "Design Patterns & Triển Khai",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Design Patterns & Triển Khai"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Design Patterns & Triển Khai",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Design Patterns & Triển Khai",
+              "fontSize": 73.49,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vaxg7ulo",
+      "id": "12",
+      "name": "Freeform 12",
+      "bbox": [
+        73.84,
+        355.43,
+        723,
+        158.01
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#38B6FF"
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9ofyp43",
+      "id": "13",
+      "name": "TextBox 13",
+      "bbox": [
+        85.75,
+        333.09,
+        615.79,
+        180.35
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/876xwfmx",
+      "id": "15",
+      "name": "Freeform 15",
+      "bbox": [
+        82.87,
+        361.1,
+        713.97,
+        158.01
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mdg3als",
+      "id": "16",
+      "name": "TextBox 16",
+      "bbox": [
+        94.79,
+        338.77,
+        606.75,
+        180.35
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6l4fu547",
+      "id": "17",
+      "name": "TextBox 17",
+      "bbox": [
+        95.26,
+        383.43,
+        674.62,
+        166.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Repository Pattern\nData access layer trung gian: \nrepo_query(), repo_create(), repo_upsert(). Tách biệt logic DB.\n\n",
+      "textPreview": "Repository Pattern | Data access layer trung gian:  | repo_query(), repo_create(), repo_upsert(). Tách biệt logic DB. |  |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Repository Pattern"
+          },
+          {
+            "index": 2,
+            "text": "Data access layer trung gian:"
+          },
+          {
+            "index": 3,
+            "text": "repo_query(), repo_create(), repo_upsert(). Tách biệt logic DB."
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Repository Pattern",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Rep",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "ository Pattern",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Data access layer trung gian: ",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Data access layer trung gian: ",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "repo_query(), repo_create(), repo_upsert(). Tách biệt logic DB.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "repo_query(), repo_create(), repo_upsert()",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#FF3131"
+            },
+            {
+              "index": 2,
+              "text": ". Tách biệt logic DB.",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjmxsfm1",
+      "id": "19",
+      "name": "Freeform 19",
+      "bbox": [
+        77.51,
+        537.12,
+        780.97,
+        158.01
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#38B6FF"
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cnqh8fux",
+      "id": "20",
+      "name": "TextBox 20",
+      "bbox": [
+        89.42,
+        514.78,
+        673.76,
+        180.35
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q18f65cr",
+      "id": "22",
+      "name": "Freeform 22",
+      "bbox": [
+        87.27,
+        542.79,
+        771.22,
+        158.01
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bmhgfatc",
+      "id": "23",
+      "name": "TextBox 23",
+      "bbox": [
+        99.18,
+        520.46,
+        664,
+        180.35
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0zyd0b6",
+      "id": "25",
+      "name": "Freeform 25",
+      "bbox": [
+        77.51,
+        718.81,
+        794.23,
+        158.01
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#38B6FF"
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2xof2lcv",
+      "id": "26",
+      "name": "TextBox 26",
+      "bbox": [
+        89.42,
+        696.47,
+        687.01,
+        180.35
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8vahgzu5",
+      "id": "28",
+      "name": "Freeform 28",
+      "bbox": [
+        87.43,
+        724.48,
+        784.3,
+        158.01
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9wjyp4bq",
+      "id": "29",
+      "name": "TextBox 29",
+      "bbox": [
+        99.34,
+        702.15,
+        677.09,
+        180.35
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ipcjmtw7",
+      "id": "31",
+      "name": "Freeform 31",
+      "bbox": [
+        70.17,
+        900.5,
+        764.37,
+        158.01
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#38B6FF"
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5cn2h8vy",
+      "id": "32",
+      "name": "TextBox 32",
+      "bbox": [
+        82.09,
+        878.16,
+        657.15,
+        180.35
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re5kjydo",
+      "id": "34",
+      "name": "Freeform 34",
+      "bbox": [
+        79.72,
+        906.17,
+        754.82,
+        158.01
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dwjqtw3",
+      "id": "35",
+      "name": "TextBox 35",
+      "bbox": [
+        91.64,
+        883.84,
+        647.6,
+        180.35
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgn2l8vu",
+      "id": "36",
+      "name": "TextBox 36",
+      "bbox": [
+        941.02,
+        114.77,
+        268.73,
+        81.08
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Triển khai hệ thống\n",
+      "textPreview": "Triển khai hệ thống |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Triển khai hệ thống"
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Triển khai hệ thống",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Tr",
+              "fontSize": 31.99,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "iển khai hệ thống",
+              "fontSize": 31.99,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7i107edk",
+      "id": "38",
+      "name": "Freeform 38",
+      "bbox": [
+        932.83,
+        173.85,
+        847.23,
+        147.06
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#00BF63"
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhsje9wz",
+      "id": "39",
+      "name": "TextBox 39",
+      "bbox": [
+        944.75,
+        151.51,
+        740.02,
+        169.39
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z25kne5g",
+      "id": "41",
+      "name": "Freeform 41",
+      "bbox": [
+        941.02,
+        179.13,
+        836.65,
+        147.06
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/03e1wjm1",
+      "id": "42",
+      "name": "TextBox 42",
+      "bbox": [
+        952.93,
+        156.79,
+        729.43,
+        169.39
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5gjyt4r",
+      "id": "44",
+      "name": "Freeform 44",
+      "bbox": [
+        941.02,
+        354.43,
+        587.17,
+        199.84
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#38B6FF"
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6pkrelc",
+      "id": "45",
+      "name": "TextBox 45",
+      "bbox": [
+        952.93,
+        332.09,
+        479.96,
+        222.17
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9s72to3i",
+      "id": "47",
+      "name": "Freeform 47",
+      "bbox": [
+        948.35,
+        361.6,
+        579.83,
+        199.84
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/atgj2t43",
+      "id": "48",
+      "name": "TextBox 48",
+      "bbox": [
+        960.26,
+        339.27,
+        472.62,
+        222.17
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 34,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/zq1kbudk",
+      "id": "59",
+      "name": "Table 49",
+      "bbox": [
+        943.42,
+        653.28,
+        868.58,
+        356
+      ],
+      "text": "API Key Encryption | OPEN_NOTEBOOK_ENCRYPTION_KEY\nAuth | Password middleware (basic)\nCORS | Configurable cross-origin\nDB Credentials | SURREAL_USER/PASSWORD",
+      "textPreview": "API Key Encryption | OPEN_NOTEBOOK_ENCRYPTION_KEY | Auth | Password middleware (basic) | CORS | Configurable cross-origin | DB Credential...",
+      "rows": 4,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            943.42,
+            653.28,
+            290.52,
+            89
+          ],
+          "text": "API Key Encryption",
+          "textPreview": "API Key Encryption",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "API Key Encryption",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "API Key Encryption",
+                  "fontSize": 27.55,
+                  "typeface": "Times New Roman",
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            1233.94,
+            653.28,
+            578.06,
+            89
+          ],
+          "text": "OPEN_NOTEBOOK_ENCRYPTION_KEY",
+          "textPreview": "OPEN_NOTEBOOK_ENCRYPTION_KEY",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "OPEN_NOTEBOOK_ENCRYPTION_KEY",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "OPEN_NOTEBOOK_ENCRYPTION_KEY",
+                  "fontSize": 27.55,
+                  "typeface": "Times New Roman",
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            943.42,
+            742.28,
+            290.52,
+            89
+          ],
+          "text": "Auth",
+          "textPreview": "Auth",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Auth",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Auth",
+                  "fontSize": 27.55,
+                  "typeface": "Times New Roman",
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            1233.94,
+            742.28,
+            578.06,
+            89
+          ],
+          "text": "Password middleware (basic)",
+          "textPreview": "Password middleware (basic)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Password middleware (basic)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Password middleware (basic)",
+                  "fontSize": 27.55,
+                  "typeface": "Times New Roman",
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            943.42,
+            831.28,
+            290.52,
+            89
+          ],
+          "text": "CORS",
+          "textPreview": "CORS",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "CORS",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "CORS",
+                  "fontSize": 27.55,
+                  "typeface": "Times New Roman",
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            1233.94,
+            831.28,
+            578.06,
+            89
+          ],
+          "text": "Configurable cross-origin",
+          "textPreview": "Configurable cross-origin",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Configurable cross-origin",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Configurable cross-origin",
+                  "fontSize": 27.55,
+                  "typeface": "Times New Roman",
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            943.42,
+            920.28,
+            290.52,
+            89
+          ],
+          "text": "DB Credentials",
+          "textPreview": "DB Credentials",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "DB Credentials",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "DB Credentials",
+                  "fontSize": 27.55,
+                  "typeface": "Times New Roman",
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            1233.94,
+            920.28,
+            578.06,
+            89
+          ],
+          "text": "SURREAL_USER/PASSWORD",
+          "textPreview": "SURREAL_USER/PASSWORD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "SURREAL_USER/PASSWORD",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "SURREAL_USER/PASSWORD",
+                  "fontSize": 27.55,
+                  "typeface": "Times New Roman",
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/50behwr2",
+      "id": "50",
+      "name": "TextBox 50",
+      "bbox": [
+        73.84,
+        114.77,
+        332.92,
+        41.08
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Design Patterns sử dụng",
+      "textPreview": "Design Patterns sử dụng",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Design Patterns sử dụng"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Design Patterns sử dụng",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Design Patterns sử dụng",
+              "fontSize": 31.99,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4z2d8rah",
+      "id": "51",
+      "name": "TextBox 51",
+      "bbox": [
+        91.59,
+        201.85,
+        518.7,
+        100.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Domain-Driven Design (DDD)\nDomain Models (Pydantic) chứa business logic. \nObjectModel base class: save(), get(), delete().",
+      "textPreview": "Domain-Driven Design (DDD) | Domain Models (Pydantic) chứa business logic.  | ObjectModel base class: save(), get(), delete().",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Domain-Driven Design (DDD)"
+          },
+          {
+            "index": 2,
+            "text": "Domain Models (Pydantic) chứa business logic."
+          },
+          {
+            "index": 3,
+            "text": "ObjectModel base class: save(), get(), delete()."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Domain-Driven Design (DDD)",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Domain-Driven Design (DDD)",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Domain Models (Pydantic) chứa business logic. ",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Domain Models (Pydantic) chứa business logic. ",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "ObjectModel base class: save(), get(), delete().",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ObjectModel base class: ",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": "save(), get(), delete().",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#FF3131"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jytcfmtw",
+      "id": "52",
+      "name": "TextBox 52",
+      "bbox": [
+        98.93,
+        565.12,
+        735.61,
+        133.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "State Machine (LangGraph)\n6 workflow graphs: \nnodes + edges + fan-out. Debuggable, maintainable AI orchestration.\n",
+      "textPreview": "State Machine (LangGraph) | 6 workflow graphs:  | nodes + edges + fan-out. Debuggable, maintainable AI orchestration. |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "State Machine (LangGraph)"
+          },
+          {
+            "index": 2,
+            "text": "6 workflow graphs:"
+          },
+          {
+            "index": 3,
+            "text": "nodes + edges + fan-out. Debuggable, maintainable AI orchestration"
+          },
+          {
+            "index": 4,
+            "text": "."
+          },
+          {
+            "index": 5,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "State Machine (LangGraph)",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "St",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "ate Machine (LangGraph)",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "6 workflow graphs: ",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "6 workflow graphs: ",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "nodes + edges + fan-out. Debuggable, maintainable AI orchestration.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "nodes + edges + fan-out. Debuggable, maintainable AI orchestration",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": ".",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixkv6hsb",
+      "id": "53",
+      "name": "TextBox 53",
+      "bbox": [
+        98.93,
+        746.81,
+        753.13,
+        133.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Command / Job Queue\nFire-and-forget: \nsubmit → worker process → poll status. Tránh timeout cho long tasks.\n",
+      "textPreview": "Command / Job Queue | Fire-and-forget:  | submit → worker process → poll status. Tránh timeout cho long tasks. |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Command / Job Queue"
+          },
+          {
+            "index": 2,
+            "text": "Fire-and-forget:"
+          },
+          {
+            "index": 3,
+            "text": "submit → worker process → poll status. Tránh timeout cho long tasks."
+          },
+          {
+            "index": 4,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Command / Job Queue",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "C",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "ommand / Job Queue",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Fire-and-forget: ",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Fire-and-forget: ",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "submit → worker process → poll status. Tránh timeout cho long tasks.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "submit → worker process → poll status. Tránh timeout cho long tasks",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": ".",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t4velwry",
+      "id": "54",
+      "name": "TextBox 54",
+      "bbox": [
+        91.59,
+        928.5,
+        725.95,
+        133.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Adapter (Provider Abstraction)\nEsperanto:\n unified interface cho 18+ AI providers. Per-request model override.\n",
+      "textPreview": "Adapter (Provider Abstraction) | Esperanto: |  unified interface cho 18+ AI providers. Per-request model override. |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Adapter (Provider Abstraction)"
+          },
+          {
+            "index": 2,
+            "text": "Esperanto:"
+          },
+          {
+            "index": 3,
+            "text": " unified interface cho 18+ AI providers. Per-request model override"
+          },
+          {
+            "index": 4,
+            "text": "."
+          },
+          {
+            "index": 5,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Adapter (Provider Abstraction)",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ad",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "apter (Provider Abstraction)",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Esperanto:",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Esperanto:",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": " unified interface cho 18+ AI providers. Per-request model override.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": " unified interface cho 18+ AI providers. Per-request model override",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": ".",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s3mdcrad",
+      "id": "55",
+      "name": "TextBox 55",
+      "bbox": [
+        951.85,
+        190.5,
+        827.21,
+        133.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Docker Compose (Production)\n2 containers: surrealdb (DB) + notebooke (API + Frontend + Worker). Chạy docker compose up -d → ready in 20s.\n",
+      "textPreview": "Docker Compose (Production) | 2 containers: surrealdb (DB) + notebooke (API + Frontend + Worker). Chạy docker compose up -d → ready in 20...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Docker Compose (Production)"
+          },
+          {
+            "index": 2,
+            "text": "2 containers: surrealdb (DB) + notebooke (API + Frontend + Worker). Chạy"
+          },
+          {
+            "index": 3,
+            "text": "docker compose up -d → ready in 20s."
+          },
+          {
+            "index": 4,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Docker Compose (Production)",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Docker C",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "ompose (Production)",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "2 containers: surrealdb (DB) + notebooke (API + Frontend + Worker). Chạy docker compose up -d → ready in 20s.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2 conta",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": "iners: surrealdb (DB) + notebooke (API + Frontend + Worker). Chạy docker compose up -d → ready in 20s.",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r2dwjm98",
+      "id": "56",
+      "name": "TextBox 56",
+      "bbox": [
+        962.44,
+        382.43,
+        446.61,
+        199.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Development (Local)\nmake database → SurrealDB\nmake api → FastAPI (auto-migrate)\nmake worker-start → Background worker\nmake frontend → Next.js dev server\n",
+      "textPreview": "Development (Local) | make database → SurrealDB | make api → FastAPI (auto-migrate) | make worker-start → Background worker | make fronte...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 6,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Development (Local)"
+          },
+          {
+            "index": 2,
+            "text": "make database → SurrealDB"
+          },
+          {
+            "index": 3,
+            "text": "make api → FastAPI (auto-migrate)"
+          },
+          {
+            "index": 4,
+            "text": "make worker-start → Background worker"
+          },
+          {
+            "index": 5,
+            "text": "make frontend → Next.js dev server"
+          },
+          {
+            "index": 6,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Development (Local)",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Development (Local)",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "make database → SurrealDB",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "make database → SurrealDB",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "make api → FastAPI (auto-migrate)",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "make api → FastAPI (auto-migrate)",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "make worker-start → Background worker",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "make worker-start → Background worker",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "make frontend → Next.js dev server",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "make front",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": "e",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 3,
+              "text": "nd →",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 4,
+              "text": " ",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 5,
+              "text": "N",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 6,
+              "text": "e",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 7,
+              "text": "x",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 8,
+              "text": "t",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 9,
+              "text": ".js",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 10,
+              "text": " de",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 11,
+              "text": "v s",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 12,
+              "text": "e",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 13,
+              "text": "rv",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 14,
+              "text": "e",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            },
+            {
+              "index": 15,
+              "text": "r",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/614va1sn",
+      "id": "57",
+      "name": "TextBox 57",
+      "bbox": [
+        948.35,
+        599.83,
+        114.64,
+        41.08
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Bảo mật",
+      "textPreview": "Bảo mật",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Bảo mật"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Bảo mật",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "B",
+              "fontSize": 31.99,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "ảo mật",
+              "fontSize": 31.99,
+              "typeface": "Times New Roman Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1svepgra",
+      "id": "58",
+      "name": "Freeform 58",
+      "bbox": [
+        427.03,
+        612.61,
+        937.25,
+        70.29
+      ],
+      "rotation": 90,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image48.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 6438
+      }
+    }
+  ],
+  "composeRuns": []
+}

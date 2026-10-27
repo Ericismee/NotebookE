@@ -1,0 +1,958 @@
+{
+  "file": "PhanTichHuongDoiTuongP1.pdf",
+  "pages": 59,
+  "title": "Slide 1",
+  "author": "Tran Minh Triet",
+  "text_file": "PhanTichHuongDoiTuongP1\\text.txt",
+  "text_chars": 23708,
+  "images": [
+    {
+      "page": 1,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p001-i01.jpg",
+      "bytes": 20472,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 1,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p001-i02.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 1,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p001-i03.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 1,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p001-i04.png",
+      "bytes": 53750,
+      "source_name": "Image11.png"
+    },
+    {
+      "page": 1,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p001-i05.png",
+      "bytes": 10012,
+      "source_name": "Image19.png"
+    },
+    {
+      "page": 2,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p002-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 2,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p002-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 3,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p003-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 3,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p003-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 4,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p004-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 4,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p004-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 5,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p005-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 5,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p005-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 6,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p006-i01.jpg",
+      "bytes": 20472,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 6,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p006-i02.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 7,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p007-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 7,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p007-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 8,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p008-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 8,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p008-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i03.png",
+      "bytes": 2836,
+      "source_name": "Image82.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i04.png",
+      "bytes": 115,
+      "source_name": "Image84.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i05.png",
+      "bytes": 5233,
+      "source_name": "Image86.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i06.png",
+      "bytes": 4766,
+      "source_name": "Image88.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i07.png",
+      "bytes": 2664,
+      "source_name": "Image90.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i08.png",
+      "bytes": 1674,
+      "source_name": "Image92.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i09.png",
+      "bytes": 6790,
+      "source_name": "Image96.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i10.png",
+      "bytes": 4860,
+      "source_name": "Image98.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i11.png",
+      "bytes": 3912,
+      "source_name": "Image100.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i12.png",
+      "bytes": 115,
+      "source_name": "Image102.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i13.png",
+      "bytes": 2577,
+      "source_name": "Image104.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i14.png",
+      "bytes": 4431,
+      "source_name": "Image106.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i15.png",
+      "bytes": 251,
+      "source_name": "Image108.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i16.png",
+      "bytes": 3513,
+      "source_name": "Image110.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i17.png",
+      "bytes": 6369,
+      "source_name": "Image112.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i18.png",
+      "bytes": 4544,
+      "source_name": "Image114.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i19.png",
+      "bytes": 3416,
+      "source_name": "Image116.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i20.png",
+      "bytes": 4892,
+      "source_name": "Image118.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i21.png",
+      "bytes": 18760,
+      "source_name": "Image122.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i22.png",
+      "bytes": 7836,
+      "source_name": "Image124.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i23.png",
+      "bytes": 9877,
+      "source_name": "Image126.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i24.png",
+      "bytes": 7355,
+      "source_name": "Image128.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i25.png",
+      "bytes": 9576,
+      "source_name": "Image130.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i26.png",
+      "bytes": 20597,
+      "source_name": "Image134.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i27.png",
+      "bytes": 11400,
+      "source_name": "Image136.png"
+    },
+    {
+      "page": 9,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p009-i28.png",
+      "bytes": 11999,
+      "source_name": "Image138.png"
+    },
+    {
+      "page": 10,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p010-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 10,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p010-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 11,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p011-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 11,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p011-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 12,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p012-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 12,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p012-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 13,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p013-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 13,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p013-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 13,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p013-i03.png",
+      "bytes": 5935,
+      "source_name": "Image155.png"
+    },
+    {
+      "page": 14,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p014-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 14,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p014-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 15,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p015-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 15,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p015-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 15,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p015-i03.png",
+      "bytes": 4282,
+      "source_name": "Image163.png"
+    },
+    {
+      "page": 16,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p016-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 16,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p016-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 17,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p017-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 17,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p017-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 17,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p017-i03.png",
+      "bytes": 4357,
+      "source_name": "Image170.png"
+    },
+    {
+      "page": 18,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p018-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 18,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p018-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 18,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p018-i03.png",
+      "bytes": 14717,
+      "source_name": "Image175.png"
+    },
+    {
+      "page": 19,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p019-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 19,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p019-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 20,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p020-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 20,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p020-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 21,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p021-i01.jpg",
+      "bytes": 20472,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 21,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p021-i02.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 22,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p022-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 22,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p022-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 23,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p023-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 23,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p023-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 24,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p024-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 24,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p024-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 25,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p025-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 25,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p025-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 26,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p026-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 26,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p026-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 27,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p027-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 27,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p027-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 28,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p028-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 28,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p028-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 29,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p029-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 29,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p029-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 30,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p030-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 30,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p030-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 31,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p031-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 31,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p031-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 32,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p032-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 32,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p032-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 33,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p033-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 33,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p033-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 34,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p034-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 34,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p034-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 35,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p035-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 35,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p035-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 36,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p036-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 36,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p036-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 37,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p037-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 37,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p037-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 38,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p038-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 38,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p038-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 38,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p038-i03.png",
+      "bytes": 51201,
+      "source_name": "Image254.png"
+    },
+    {
+      "page": 39,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p039-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 39,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p039-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 39,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p039-i03.jpg",
+      "bytes": 24084,
+      "source_name": "Image258.jpg"
+    },
+    {
+      "page": 40,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p040-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 40,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p040-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 40,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p040-i03.png",
+      "bytes": 27957,
+      "source_name": "Image262.png"
+    },
+    {
+      "page": 41,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p041-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 41,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p041-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 41,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p041-i03.jpg",
+      "bytes": 49984,
+      "source_name": "Image266.jpg"
+    },
+    {
+      "page": 42,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p042-i01.jpg",
+      "bytes": 20472,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 42,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p042-i02.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 43,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p043-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 43,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p043-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 44,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p044-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 44,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p044-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 45,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p045-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 45,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p045-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 46,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p046-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 46,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p046-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 47,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p047-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 47,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p047-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 48,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p048-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 48,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p048-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 49,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p049-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 49,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p049-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 50,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p050-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 50,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p050-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 50,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p050-i03.jpg",
+      "bytes": 14908,
+      "source_name": "Image304.jpg"
+    },
+    {
+      "page": 51,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p051-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 51,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p051-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 52,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p052-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 52,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p052-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 53,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p053-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 53,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p053-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 54,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p054-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 54,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p054-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 54,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p054-i03.png",
+      "bytes": 7008,
+      "source_name": "Image317.png"
+    },
+    {
+      "page": 55,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p055-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 55,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p055-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 56,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p056-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 56,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p056-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 57,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p057-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 57,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p057-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 57,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p057-i03.png",
+      "bytes": 25095,
+      "source_name": "Image327.png"
+    },
+    {
+      "page": 58,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p058-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 58,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p058-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    },
+    {
+      "page": 59,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p059-i01.png",
+      "bytes": 102,
+      "source_name": "Image8.png"
+    },
+    {
+      "page": 59,
+      "file": "PhanTichHuongDoiTuongP1\\images\\p059-i02.png",
+      "bytes": 27889,
+      "source_name": "Image9.png"
+    }
+  ]
+}

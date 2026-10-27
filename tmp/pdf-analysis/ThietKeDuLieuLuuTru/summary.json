@@ -1,0 +1,412 @@
+{
+  "file": "ThietKeDuLieuLuuTru.pdf",
+  "pages": 44,
+  "title": null,
+  "author": "Tran Minh Triet",
+  "text_file": "ThietKeDuLieuLuuTru\\text.txt",
+  "text_chars": 16999,
+  "images": [
+    {
+      "page": 1,
+      "file": "ThietKeDuLieuLuuTru\\images\\p001-i01.jpg",
+      "bytes": 20472,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 1,
+      "file": "ThietKeDuLieuLuuTru\\images\\p001-i02.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 2,
+      "file": "ThietKeDuLieuLuuTru\\images\\p002-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 3,
+      "file": "ThietKeDuLieuLuuTru\\images\\p003-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 4,
+      "file": "ThietKeDuLieuLuuTru\\images\\p004-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 5,
+      "file": "ThietKeDuLieuLuuTru\\images\\p005-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 5,
+      "file": "ThietKeDuLieuLuuTru\\images\\p005-i02.png",
+      "bytes": 13617,
+      "source_name": "Image61.png"
+    },
+    {
+      "page": 5,
+      "file": "ThietKeDuLieuLuuTru\\images\\p005-i03.png",
+      "bytes": 6645,
+      "source_name": "Image62.png"
+    },
+    {
+      "page": 5,
+      "file": "ThietKeDuLieuLuuTru\\images\\p005-i04.png",
+      "bytes": 31007,
+      "source_name": "Image63.png"
+    },
+    {
+      "page": 6,
+      "file": "ThietKeDuLieuLuuTru\\images\\p006-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 7,
+      "file": "ThietKeDuLieuLuuTru\\images\\p007-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 8,
+      "file": "ThietKeDuLieuLuuTru\\images\\p008-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 9,
+      "file": "ThietKeDuLieuLuuTru\\images\\p009-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 10,
+      "file": "ThietKeDuLieuLuuTru\\images\\p010-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 11,
+      "file": "ThietKeDuLieuLuuTru\\images\\p011-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 11,
+      "file": "ThietKeDuLieuLuuTru\\images\\p011-i02.png",
+      "bytes": 30850,
+      "source_name": "Image150.png"
+    },
+    {
+      "page": 11,
+      "file": "ThietKeDuLieuLuuTru\\images\\p011-i03.png",
+      "bytes": 24003,
+      "source_name": "Image151.png"
+    },
+    {
+      "page": 12,
+      "file": "ThietKeDuLieuLuuTru\\images\\p012-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 12,
+      "file": "ThietKeDuLieuLuuTru\\images\\p012-i02.png",
+      "bytes": 21737,
+      "source_name": "Image154.png"
+    },
+    {
+      "page": 12,
+      "file": "ThietKeDuLieuLuuTru\\images\\p012-i03.png",
+      "bytes": 24003,
+      "source_name": "Image151.png"
+    },
+    {
+      "page": 13,
+      "file": "ThietKeDuLieuLuuTru\\images\\p013-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 14,
+      "file": "ThietKeDuLieuLuuTru\\images\\p014-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 15,
+      "file": "ThietKeDuLieuLuuTru\\images\\p015-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 16,
+      "file": "ThietKeDuLieuLuuTru\\images\\p016-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 16,
+      "file": "ThietKeDuLieuLuuTru\\images\\p016-i02.png",
+      "bytes": 25172,
+      "source_name": "Image163.png"
+    },
+    {
+      "page": 17,
+      "file": "ThietKeDuLieuLuuTru\\images\\p017-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 17,
+      "file": "ThietKeDuLieuLuuTru\\images\\p017-i02.png",
+      "bytes": 50342,
+      "source_name": "Image166.png"
+    },
+    {
+      "page": 18,
+      "file": "ThietKeDuLieuLuuTru\\images\\p018-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 18,
+      "file": "ThietKeDuLieuLuuTru\\images\\p018-i02.png",
+      "bytes": 86546,
+      "source_name": "Image169.png"
+    },
+    {
+      "page": 19,
+      "file": "ThietKeDuLieuLuuTru\\images\\p019-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 20,
+      "file": "ThietKeDuLieuLuuTru\\images\\p020-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 21,
+      "file": "ThietKeDuLieuLuuTru\\images\\p021-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 22,
+      "file": "ThietKeDuLieuLuuTru\\images\\p022-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 23,
+      "file": "ThietKeDuLieuLuuTru\\images\\p023-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 24,
+      "file": "ThietKeDuLieuLuuTru\\images\\p024-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 25,
+      "file": "ThietKeDuLieuLuuTru\\images\\p025-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 26,
+      "file": "ThietKeDuLieuLuuTru\\images\\p026-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 27,
+      "file": "ThietKeDuLieuLuuTru\\images\\p027-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 27,
+      "file": "ThietKeDuLieuLuuTru\\images\\p027-i02.png",
+      "bytes": 12586,
+      "source_name": "Image188.png"
+    },
+    {
+      "page": 27,
+      "file": "ThietKeDuLieuLuuTru\\images\\p027-i03.png",
+      "bytes": 3814,
+      "source_name": "Image190.png"
+    },
+    {
+      "page": 28,
+      "file": "ThietKeDuLieuLuuTru\\images\\p028-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 29,
+      "file": "ThietKeDuLieuLuuTru\\images\\p029-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 29,
+      "file": "ThietKeDuLieuLuuTru\\images\\p029-i02.png",
+      "bytes": 12282,
+      "source_name": "Image297.png"
+    },
+    {
+      "page": 29,
+      "file": "ThietKeDuLieuLuuTru\\images\\p029-i03.png",
+      "bytes": 4313,
+      "source_name": "Image299.png"
+    },
+    {
+      "page": 30,
+      "file": "ThietKeDuLieuLuuTru\\images\\p030-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 31,
+      "file": "ThietKeDuLieuLuuTru\\images\\p031-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 32,
+      "file": "ThietKeDuLieuLuuTru\\images\\p032-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 33,
+      "file": "ThietKeDuLieuLuuTru\\images\\p033-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 34,
+      "file": "ThietKeDuLieuLuuTru\\images\\p034-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 35,
+      "file": "ThietKeDuLieuLuuTru\\images\\p035-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 36,
+      "file": "ThietKeDuLieuLuuTru\\images\\p036-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 37,
+      "file": "ThietKeDuLieuLuuTru\\images\\p037-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 37,
+      "file": "ThietKeDuLieuLuuTru\\images\\p037-i02.png",
+      "bytes": 65912,
+      "source_name": "Image413.png"
+    },
+    {
+      "page": 38,
+      "file": "ThietKeDuLieuLuuTru\\images\\p038-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 38,
+      "file": "ThietKeDuLieuLuuTru\\images\\p038-i02.png",
+      "bytes": 42892,
+      "source_name": "Image416.png"
+    },
+    {
+      "page": 39,
+      "file": "ThietKeDuLieuLuuTru\\images\\p039-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 39,
+      "file": "ThietKeDuLieuLuuTru\\images\\p039-i02.png",
+      "bytes": 64722,
+      "source_name": "Image419.png"
+    },
+    {
+      "page": 40,
+      "file": "ThietKeDuLieuLuuTru\\images\\p040-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 40,
+      "file": "ThietKeDuLieuLuuTru\\images\\p040-i02.png",
+      "bytes": 76784,
+      "source_name": "Image422.png"
+    },
+    {
+      "page": 41,
+      "file": "ThietKeDuLieuLuuTru\\images\\p041-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 41,
+      "file": "ThietKeDuLieuLuuTru\\images\\p041-i02.png",
+      "bytes": 89701,
+      "source_name": "Image425.png"
+    },
+    {
+      "page": 42,
+      "file": "ThietKeDuLieuLuuTru\\images\\p042-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 42,
+      "file": "ThietKeDuLieuLuuTru\\images\\p042-i02.png",
+      "bytes": 100729,
+      "source_name": "Image428.png"
+    },
+    {
+      "page": 43,
+      "file": "ThietKeDuLieuLuuTru\\images\\p043-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 43,
+      "file": "ThietKeDuLieuLuuTru\\images\\p043-i02.png",
+      "bytes": 33302,
+      "source_name": "Image431.png"
+    },
+    {
+      "page": 44,
+      "file": "ThietKeDuLieuLuuTru\\images\\p044-i01.png",
+      "bytes": 27907,
+      "source_name": "Image7.png"
+    },
+    {
+      "page": 44,
+      "file": "ThietKeDuLieuLuuTru\\images\\p044-i02.png",
+      "bytes": 107079,
+      "source_name": "Image434.png"
+    }
+  ]
+}

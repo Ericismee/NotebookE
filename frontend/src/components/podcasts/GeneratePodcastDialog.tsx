@@ -28,6 +28,7 @@ import { Textarea } from '@/components/ui/textarea'
 import { Label } from '@/components/ui/label'
 
 import { ContentSelectionPanel } from './ContentSelectionPanel'
+import { PodcastSpeechOptions, PodcastSpeechSelection } from './PodcastSpeechOptions'
 import {
   NotebookSelection,
   SourceMode,
@@ -44,6 +45,8 @@ interface GeneratePodcastDialogProps {
 }
 
 export function GeneratePodcastDialog({ open, onOpenChange }: GeneratePodcastDialogProps) {
+  const [speechLanguage, setSpeechLanguage] = useState('vi')
+  const [speechSelection, setSpeechSelection] = useState<PodcastSpeechSelection>({ modelId: '', voices: [] })
   const { t } = useTranslation()
   const { toast } = useToast()
   const [expandedNotebooks, setExpandedNotebooks] = useState<string[]>([])
@@ -192,6 +195,8 @@ export function GeneratePodcastDialog({ open, onOpenChange }: GeneratePodcastDia
     setEpisodeProfileId('')
     setEpisodeName('')
     setInstructions('')
+    setSpeechLanguage('vi')
+    setSpeechSelection({ modelId: '', voices: [] })
     setTokenCount(0)
     setCharCount(0)
   }, [])
@@ -261,6 +266,12 @@ export function GeneratePodcastDialog({ open, onOpenChange }: GeneratePodcastDia
     }
     return episodeProfiles.find((profile) => profile.id === episodeProfileId)
   }, [episodeProfileId, episodeProfiles])
+
+  const speechProfileId = selectedEpisodeProfile?.id
+  const speechProfileLanguage = selectedEpisodeProfile?.language
+  useEffect(() => {
+    if (speechProfileId) setSpeechLanguage(speechProfileLanguage?.toLowerCase().startsWith('en') ? 'en' : 'vi')
+  }, [speechProfileId, speechProfileLanguage])
 
   const selectedNotebookSummaries = useMemo(() => {
     return notebooks.map((notebook) => {
@@ -433,6 +444,9 @@ export function GeneratePodcastDialog({ open, onOpenChange }: GeneratePodcastDia
       }
 
       const payload: PodcastGenerationRequest = {
+        language: speechLanguage,
+        voice_model: speechSelection.modelId || undefined,
+        speaker_voices: speechSelection.voices.length ? speechSelection.voices : undefined,
         episode_profile: selectedEpisodeProfile.name,
         speaker_profile: speakerProfileRef,
         episode_name: episodeName.trim(),
@@ -470,6 +484,8 @@ export function GeneratePodcastDialog({ open, onOpenChange }: GeneratePodcastDia
     onOpenChange,
     resetState,
     selectedEpisodeProfile,
+    speechLanguage,
+    speechSelection,
     toast,
     t,
   ])
@@ -557,6 +573,14 @@ export function GeneratePodcastDialog({ open, onOpenChange }: GeneratePodcastDia
                   </div>
 
                   <div className="space-y-2">
+                    <Label htmlFor="podcast-speech-language">{t('podcasts.voiceLanguage')}</Label>
+                    <select id="podcast-speech-language" value={speechLanguage} onChange={event => setSpeechLanguage(event.target.value)}
+                      className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm">
+                      <option value="vi">{t('podcasts.voiceVietnamese')}</option>
+                      <option value="en">{t('podcasts.voiceEnglish')}</option>
+                    </select>
+                    <PodcastSpeechOptions profileId={selectedEpisodeProfile?.speaker_config} language={speechLanguage}
+                      value={speechSelection} onChange={setSpeechSelection} />
                     <Label htmlFor="episode_name">{t('podcasts.episodeName')}</Label>
                     <Input
                       id="episode_name"

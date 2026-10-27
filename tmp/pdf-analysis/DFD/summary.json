@@ -1,0 +1,310 @@
+{
+  "file": "DFD.pdf",
+  "pages": 42,
+  "title": "An Introduction to XQuery – The W3C Query Language",
+  "author": "Mike Champion",
+  "text_file": "DFD\\text.txt",
+  "text_chars": 14930,
+  "images": [
+    {
+      "page": 1,
+      "file": "DFD\\images\\p001-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 2,
+      "file": "DFD\\images\\p002-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 3,
+      "file": "DFD\\images\\p003-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 4,
+      "file": "DFD\\images\\p004-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 4,
+      "file": "DFD\\images\\p004-i02.png",
+      "bytes": 32322,
+      "source_name": "Image37.png"
+    },
+    {
+      "page": 5,
+      "file": "DFD\\images\\p005-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 6,
+      "file": "DFD\\images\\p006-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 7,
+      "file": "DFD\\images\\p007-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 8,
+      "file": "DFD\\images\\p008-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 9,
+      "file": "DFD\\images\\p009-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 10,
+      "file": "DFD\\images\\p010-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 11,
+      "file": "DFD\\images\\p011-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 12,
+      "file": "DFD\\images\\p012-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 12,
+      "file": "DFD\\images\\p012-i02.png",
+      "bytes": 14701,
+      "source_name": "Image66.png"
+    },
+    {
+      "page": 13,
+      "file": "DFD\\images\\p013-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 14,
+      "file": "DFD\\images\\p014-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 14,
+      "file": "DFD\\images\\p014-i02.png",
+      "bytes": 21293,
+      "source_name": "Image72.png"
+    },
+    {
+      "page": 15,
+      "file": "DFD\\images\\p015-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 15,
+      "file": "DFD\\images\\p015-i02.png",
+      "bytes": 21293,
+      "source_name": "Image72.png"
+    },
+    {
+      "page": 16,
+      "file": "DFD\\images\\p016-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 16,
+      "file": "DFD\\images\\p016-i02.png",
+      "bytes": 21293,
+      "source_name": "Image72.png"
+    },
+    {
+      "page": 17,
+      "file": "DFD\\images\\p017-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 18,
+      "file": "DFD\\images\\p018-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 19,
+      "file": "DFD\\images\\p019-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 20,
+      "file": "DFD\\images\\p020-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 21,
+      "file": "DFD\\images\\p021-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 22,
+      "file": "DFD\\images\\p022-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 23,
+      "file": "DFD\\images\\p023-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 23,
+      "file": "DFD\\images\\p023-i02.png",
+      "bytes": 9852,
+      "source_name": "Image91.png"
+    },
+    {
+      "page": 24,
+      "file": "DFD\\images\\p024-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 25,
+      "file": "DFD\\images\\p025-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 26,
+      "file": "DFD\\images\\p026-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 27,
+      "file": "DFD\\images\\p027-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 28,
+      "file": "DFD\\images\\p028-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 29,
+      "file": "DFD\\images\\p029-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 30,
+      "file": "DFD\\images\\p030-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 31,
+      "file": "DFD\\images\\p031-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 31,
+      "file": "DFD\\images\\p031-i02.png",
+      "bytes": 4958,
+      "source_name": "Image109.png"
+    },
+    {
+      "page": 32,
+      "file": "DFD\\images\\p032-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 33,
+      "file": "DFD\\images\\p033-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 34,
+      "file": "DFD\\images\\p034-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 35,
+      "file": "DFD\\images\\p035-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 36,
+      "file": "DFD\\images\\p036-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 37,
+      "file": "DFD\\images\\p037-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 38,
+      "file": "DFD\\images\\p038-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 38,
+      "file": "DFD\\images\\p038-i02.png",
+      "bytes": 7228,
+      "source_name": "Image125.png"
+    },
+    {
+      "page": 39,
+      "file": "DFD\\images\\p039-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 40,
+      "file": "DFD\\images\\p040-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 41,
+      "file": "DFD\\images\\p041-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    },
+    {
+      "page": 42,
+      "file": "DFD\\images\\p042-i01.jpg",
+      "bytes": 9810,
+      "source_name": "Image6.jpg"
+    }
+  ]
+}

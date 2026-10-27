@@ -1,0 +1,1706 @@
+
+===== PAGE 1 =====
+PHÂN TÍCH ĐỐI TƯỢNG(TT)
+
+===== PAGE 2 =====
+   Nội dung
+
+
+
+1. Các cách tiếp cận xác định lớp
+
+
+2. Xác định mối quan hệ giữa các lớp
+
+
+3. Xác định thuộc tính và hành vi của lớp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  2
+
+===== PAGE 3 =====
+   Nội dung
+
+
+
+1. Các cách tiếp cận xác định lớp
+
+
+2. Xác định mối quan hệ giữa các lớp
+
+
+3. Xác định thuộc tính và hành vi của lớp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  3
+
+===== PAGE 4 =====
+           Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo thực thể nghiệp vụ
+❖ Tiếp cận theo cụm danh từ
+❖ Tiếp cận theo phân loại
+❖ Tiếp cận theo phân tích hoạt động use case
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   4
+
+===== PAGE 5 =====
+              Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo thực thể nghiệp vụ
+   ▪  Đối với các thực thể sự vật: kiểm chứng xem có nhu cầu quản
+      lý thông tin về thực thể này trong hệ thống không?
+       • Nếu có, xác định một lớp trong sơ đồ phân tích biểu diễn cho thực thể
+         này
+           – Xác định tên lớp: tên của sự vật
+           – Thuộc tính: bổ sung các thuộc tính mô tả đầy đủ thông tin mà hệ thống có
+             nhu cầu quản lý về đối tượng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                              5
+
+===== PAGE 6 =====
+  Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo thực thể nghiệp vụ
+   ▪ Ví dụ:
+
+
+                                         Hành lý
+
+
+      Hành lý
+
+                                          NVL
+
+
+
+      NVL
+
+                                        Hàng hoá
+
+
+     Hàng hoá
+
+
+                               6
+
+===== PAGE 7 =====
+   Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo thực thể nghiệp vụ
+   ▪  Đối với thực thể thông tin:
+       • Nếu thực thể mô tả thông tin về một hoạt động
+         giao dịch hệ thống thì chuyển thành một lớp trong
+         mô hình phân tích
+       • Nếu thực thể là một dạng thông tin tổng hợp → có
+         thể tách thành nhiều lớp mới hoặc bổ sung thông
+         tin cho các lớp đang tồn tại
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   7
+
+===== PAGE 8 =====
+   Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo thực thể nghiệp vụ
+   ▪ Đối với thực thể thông tin:
+       • Ví dụ:
+
+
+
+
+
+                                               Hoá đơn
+             Hoá đon
+
+
+                                              Thẻ thư viện
+
+           Thẻ thư viện
+
+
+
+
+
+
+
+
+
+                                 8
+
+===== PAGE 9 =====
+               Các cách tiếp cận xác định lớp
+
+❖  Tiếp cận theo thực thể nghiệp vụ
+    ▪ Đối với thực thể thông tin:
+    ▪ Ví dụ:
+                                                                     Hoá đơn
+                      HOÁ ĐƠN
+            Số HĐ:……         Ngày:../…/…
+            Khách hàng: ……………………..
+            Địa chỉ:…………………………..                                    Khách hàng
+            Người lập:………………………..
+             Mã  Tên   ĐVT  Số lượngĐơn
+             số  hàng               giá         Chi tiết HĐ
+             001 H1    Cái  100     2000
+             004 H7    Kg   1000    3000
+             …   …     …    …       …
+                                                                      Hàng
+                        Tổng trị giá: ………
+
+
+
+                                                 9
+
+===== PAGE 10 =====
+              Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo thực thể nghiệp vụ
+   ▪  Đối với thực thể thừa tác viên và các thực thể tổ chức khác
+
+
+
+
+
+
+
+
+
+          Nhân viên bán hàngNhân viên quản lý  Thủ kho     Độc giả      Nhà CC
+
+
+
+
+
+                              Nhân viên                     Đọc giả    Nhà CCấp
+
+
+
+
+
+
+                                             10
+
+===== PAGE 11 =====
+    Các cách tiếp cận xác định lớp
+❖  Tiếp cận theo thực thể nghiệp vụ
+    ▪  Ví dụ:
+
+
+                            0..n        1            1
+                       Khách hàng          NgườI quản lý
+                                         1     1
+
+                               0..n            0..n         0..n
+
+
+
+                          Hồ sơ khách hàng  Hoá đơn      Thẻ khách hàng thân thiết
+
+
+                            Khách hàng            0..1  Thẻ KHTT
+
+                                        1
+
+                                  1
+                             1..n
+                             Hoá đơn
+
+
+                                            11
+
+===== PAGE 12 =====
+   Các cách tiếp cận xác định lớp
+❖ Tiếp cận theo cụm danh từ (noun –
+  phrase)
+   ▪ Đề xuất bởi Rebecca Wirfs-Brock, Brian
+     Wilkerson, và Lauren Wiener
+   ▪ Ý tưởng: xác định các lớp thông qua việc đọc
+     trong các văn bản mô tả use case hoặc các
+     mô tả yêu cầu để tìm kiếm và trích lọc các
+     cụm danh từ
+
+
+
+      Class hiển nhiên  Class mờ (fuzzy      Class giả tạo
+      (relevant class)      class)            (irrelevant)
+
+
+
+
+
+                                 12
+
+===== PAGE 13 =====
+    Các cách tiếp cận xác định lớp
+❖  Tiếp cận theo cụm danh từ (noun –
+   phrase)
+
+
+
+
+                                Xác định các           Danh từ, cụm
+                               danh từ, cụm               danh từ
+         Mô tả use                danh từ
+       case, yêu cầu
+
+
+        Đồng nhất các           Danh từ, cụm          Loại bỏ các danh
+          class trùng            danh từ ứng           từ mô tả class
+             nghĩa                   viên                    giả
+
+
+       Loại các danh từ          Loại các class         Danh sách các
+          thuộc tính             không có mục               class
+                                      tiêu
+
+
+                                          13
+
+===== PAGE 14 =====
+       Các cách tiếp cận xác định lớp
+❖ Tiếp cận theo cụm danh từ (noun –phrase)
+   ▪  Ví dụ: xác định các class của hệ thống ATM – Các
+      cụm danh từ tìm được
+
+  Tài khoản                  Thẻ                 Mật khẩu
+  Số dư tài khoản            Tiền mặt            Mã PIN
+  Số tiền                    Bao thư             Mẫu tin
+  Tiến trình đăng nhập       Bốn ký số           Bước
+  Thẻ ATM                    Ngân quỹ            Hệ thống
+  Máy ATM                    Tiền                Giao dịch
+  Ngân hàng                  PIN                 Lịch sử giao dịch
+  Khách hàng ngân hàng       PIN không hợp lệ
+  Khách hàng                 Thông điệp
+  Tài khoản khách hàng
+  VND
+
+                                                                    14
+
+===== PAGE 15 =====
+        Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo cụm danh từ (noun –phrase)
+   ▪  Loại bỏ các lớp giả (irrelevant):
+
+  Tài khoản                   Thẻ                 Mật khẩu
+  Số dư tài khoản             Tiền mặt            Mã PIN
+  Số tiền                     Bao thư             Mẫu tin
+  Tiến trình đăng nhập        Bốn ký số           Bước
+  Thẻ ATM                     Ngân quỹ            Hệ thống
+  Máy ATM                     Tiền                Giao dịch
+  Ngân hàng                   PIN                 Lịch sử giao dịch
+  Khách hàng ngân hàng        PIN không hợp lệ
+  Khách hàng                  Thông điệp
+  Tài khoản khách hàng
+  VND
+                                                                     15
+
+===== PAGE 16 =====
+       Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo cụm danh từ (noun –phrase)
+   ▪  Đồng nhất các ứng viên trùng lắp
+
+
+
+Khách hàng, Khách hàng ngân hàng              = Khách hàng
+Tài khoản, Tài khoản khách hàng               = Tài khoản
+PIN, Mã PIN                                   = PIN
+Tiền, Ngân quỹ                                = Ngân quỹ
+Thẻ ATM, Thẻ                                  = Thẻ ATM
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  16
+
+===== PAGE 17 =====
+       Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo cụm danh từ (noun –phrase)
+   ▪  Đồng nhất các ứng viên trùng lắp
+
+  Tài khoản                  Thẻ                 Mật khẩu
+  Số dư tài khoản            Tiền mặt            Mã PIN
+  Số tiền                    Bao thư             Mẫu tin
+  Tiến trình đăng nhập       Bốn ký số           Bước
+  Thẻ ATM                    Ngân quỹ            Hệ thống
+  Máy ATM                    Tiền                Giao dịch
+  Ngân hàng                  PIN                 Lịch sử giao dịch
+  Khách hàng ngân hàng       PIN không hợp lệ
+  Khách hàng                 Thông điệp
+  Tài khoản khách hàng
+  VND
+
+                                                                    17
+
+===== PAGE 18 =====
+         Các cách tiếp cận xác định lớp
+
+❖  Tiếp cận theo cụm danh từ (noun –phrase)
+    ▪  Xác định danh từ, cụm danh từ có thể là thuộc tính:
+        •  Chỉ được sử dụng như là giá trị
+        •  Không có nhiều hơn một đặc trưng riêng, hoặc chỉ mô tả một
+           đặc trưng của đối tượng khác
+    ▪  Ví dụ: hệ thống ATM (tiếp tục phân tích)
+        •  Số tiền: → một giá trị, không phải một lớp
+        •  Số dư tài khoản: → thuộc tính của lớp Tài khoản
+        •  PIN không hợp lệ: → một giá trị, không phải một lớp
+        •  Mật khẩu: → một thuộc tính (có thể của lớp Khách hàng)
+        •  Lịch sử giao dịch: → một thuộc tính (có thể của lớp Giao dịch)
+        •  PIN: → một thuộc tính (có thể của lớp Khách hàng)
+
+
+
+
+                                                                              18
+
+===== PAGE 19 =====
+       Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo cụm danh từ (noun –phrase)
+   ▪  Danh sách danh từ, cụm danh từ còn lại
+
+  Tài khoản                  Thẻ                 Mật khẩu
+  Số dư tài khoản            Tiền mặt            Mã PIN
+  Số tiền                    Bao thư             Mẫu tin
+  Tiến trình đăng nhập       Bốn ký số           Bước
+  Thẻ ATM                    Ngân quỹ            Hệ thống
+  Máy ATM                    Tiền                Giao dịch
+  Ngân hàng                  PIN                 Lịch sử giao dịch
+  Khách hàng ngân hàng       PIN không hợp lệ
+  Khách hàng                 Thông điệp
+  Tài khoản khách hàng
+  VND
+
+
+                                                                    19
+
+===== PAGE 20 =====
+       Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo cụm danh từ (noun –phrase)
+   ▪  Loại bỏ các ứng viên không mục tiêu hoặc không
+      thuộc phạm vi hệ thống:
+       • Thông điệp
+       • Hệ thống
+       • Mẫu tin
+       • Ngân quỹ
+       • VND
+       • Tiền mặt
+       • Tiến trình đăng nhập
+
+
+
+
+
+
+
+
+
+                                                                 20
+
+===== PAGE 21 =====
+       Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo cụm danh từ (noun –phrase)
+   ▪  Loại bỏ các ứng viên không mục tiêu hoặc không
+      thuộc phạm vi hệ thống:
+  Tài khoản                  Thẻ                 Mật khẩu
+  Số dư tài khoản            Tiền mặt            Mã PIN
+  Số tiền                    Bao thư             Mẫu tin
+  Tiến trình đăng nhập       Bốn ký số           Bước
+  Thẻ ATM                    Ngân quỹ            Hệ thống
+  Máy ATM                    Tiền                Giao dịch
+  Ngân hàng                  PIN                 Lịch sử giao dịch
+  Khách hàng ngân hàng       PIN không hợp lệ
+  Khách hàng                 Thông điệp
+  Tài khoản khách hàng
+  VND
+
+                                                                    21
+
+===== PAGE 22 =====
+         Các cách tiếp cận xác định lớp
+
+❖  Tiếp cận theo cụm danh từ (noun –phrase)
+    ▪  Kết quả các lớp được xác định:
+         • Máy ATM: cung cấp một giao diện tới ngân hàng
+         • Thẻ ATM: cung cấp một khách hàng với một khoá tới một
+           tài khoản
+         • Khách hàng: một khách hàng là một cá nhân sử dụng máy
+           ATM, có một tài khoản.
+         • Ngân hàng: các khách hàng phụ thuộc vào ngân hàng. Nó
+           là một nơi tập trung các tài khoản và xử lý các giao dịch tài
+           khoản.
+         • Tài khoản: nó mô hình hoá một tài khoản của khách hàng
+           và cung cấp các dịch vụ về tài khoản cho khách hàng
+         • Giao dịch: mô tả một giao tác của khách hàng khi sử dụng
+           thẻ ATM. Một giao tác được lưu trữ với thời gian, ngày,
+           loại, số tiền, và số dư
+                                                                              22
+
+===== PAGE 23 =====
+       Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo cụm danh từ (noun –phrase)
+   ▪ Kết quả các lớp được xác định:
+
+
+
+
+          MáyATM        ThẻATM        KháchHàng
+
+
+
+
+          NgânHàng        TàiKhoản          GiaoDịch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                             23
+
+===== PAGE 24 =====
+        Các cách tiếp cận xác định lớp
+❖  Tiếp cận theo phân loại: phân loại các lớp
+   của hệ thống dựa trên các mẫu chung.
+    ▪ Lớp khái niệm (concept): Một khái niệm là một quan
+      niệm hoặc sự hiểu biết riêng biệt về thế giới. Lớp
+      khái niệm bao gồm các nguyên lý được dùng để tổ
+      chức hoặc để lưu trữ các hoạt động và các trao đổi
+      về mặt quản lý.
+        • Ví dụ: các lớp khái niệm có thể là: phương pháp, hiệu năng,
+          mô hình,…
+    ▪ Lớp sự kiện (event): Lớp sự kiện là các điểm thời
+      gian cần được lưu trữ. Các sự việc xảy ra tại một
+      thời điểm, hoặc một bước trong một dãy tuần tự các
+      bước
+        • Ví dụ: đăng ký, hoá đơn, đơn  hàng, phiếu nhập,…
+                                                                      24
+
+===== PAGE 25 =====
+        Các cách tiếp cận xác định lớp
+
+❖  Tiếp cận theo phân loại:
+    ▪ Lớp tổ chức (organisation): tập hợp con người, tài
+      nguyên, phương tiện, hoặc những nhóm xác định
+      chức năng người dùng
+        • Ví dụ: đơn vị, bộ phận, phòng ban, chức danh,…
+    ▪ Lớp con người (people): lớp con người thể hiện các
+      vai trò khác nhau của người dùng trong việc tương
+      tác với hệ thống. Những đối tượng này thường là
+      người dùng hệ thống hoặc những người không sử
+      dụng hệ thống nhưng thông tin về họ được lưu trữ
+      bởi hệ thống
+        • Ví dụ: Sinh viên, khách hàng, giáo viên, nhân viên,…
+
+
+
+                                                                      25
+
+===== PAGE 26 =====
+        Các cách tiếp cận xác định lớp
+
+❖  Tiếp cận theo phân loại:
+    ▪ Lớp vị trí (place): Các vị trí vật lý mà hệ thống cần
+      mô tả thông tin về nó.
+        • Ví dụ: toà nhà, kho, văn phòng, chi nhánh, đại lý,…
+    ▪ Lớp sự vật hữu hình và thiết bị: các đối tượng vật lý
+      hoặc các nhóm của đối tượng hữu hình mà có thể
+      cảm nhận trực quan và các thiết bị mà hệ thống
+      tương tác.
+        • Ví dụ: xe hơi, máy bay, … là các sự vật hữu hình; thiết bị
+          cảm ứng nhiệt là một lớp thiết bị.
+
+
+
+
+
+
+
+
+
+                                                                          26
+
+===== PAGE 27 =====
+       Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo phân loại:
+   ▪  Ví dụ: hệ thống ATM
+       • Các lớp khái niệm:
+                          TàiKhoản
+
+
+
+       • Các lớp sự kiện:
+                          GiaoDịch
+
+
+
+       • Các lớp tổ chức:
+                         NgânHàng
+
+
+
+                                                                  27
+
+===== PAGE 28 =====
+       Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo phân loại:
+   ▪  Ví dụ: hệ thống ATM
+       • Các lớp con người:
+                          KháchHàng
+
+
+
+       • Các lớp sự vật hữu hình và thiết bị
+
+               MáyATM           ThẻATM
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  28
+
+===== PAGE 29 =====
+         Các cách tiếp cận xác định lớp
+
+❖  Tiếp cận theo phân tích hoạt động use case:
+
+
+    Đối tượng nào tiếp theo             :Đối tượng     :Đối tượng
+    được chuyển giao trách
+    nhiệm ?
+
+
+
+  Tác nhân                                                             …
+
+
+
+
+      Đối tượng nào của hệ
+      thống sẽ trực tiếp tương                    Hệ thống
+      tác với tác nhân?
+                                       Kết thúc mô tả kịch bản của use case cho
+                                       phép xác định tất cả các lớp liên tham gia29
+
+===== PAGE 30 =====
+         Các cách tiếp cận xác định lớp
+
+❖  Tiếp cận theo phân tích hoạt động use case:
+   Ví dụ
+
+
+
+
+
+                Thủ thư               :Hồ sơ đọc giả            :Sách
+ Độc giả
+     Yêu cầu mượn
+     sách            Kiểm tra thẻ
+      Từ chối thẻ
+      không hợp lệ    Kiểm tra điều kiện
+
+     [Không thoả]Từ chối
+                      Cập nhật hồ sơ độc giả
+     Sách gởi đọc giả Cập nhật lại trạng thái sách
+
+     Use case Mượn sách                                                         30
+
+===== PAGE 31 =====
+      Các cách tiếp cận xác định lớp
+
+❖ Tiếp cận theo phân tích hoạt động use case:
+   ▪ Ví dụ: phân tích use case “Giải quyết PIN
+     không hợp lệ”. Các hoạt động khách hàng có
+     thể thực hiện với hệ thống:
+      • Đưa vào thẻ ATM
+      • Nhập mã PIN
+      • Rút thẻ ATM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            31
+
+===== PAGE 32 =====
+         Các cách tiếp cận xác định lớp
+
+❖  Tiếp cận theo
+   phân tích hoạt                :             : MáyATM      : KháchHàngNgânHàng
+   động use case:               KháchHàngĐưa thẻ vào ATM
+    ▪  Ví dụ: phân                     Yêu cầu PIN
+       tích use case                  Nhập mã PIN
+       “Giải quyết                                   Kiểm tra mã PIN
+       PIN không                                    Mã PIN không hợp lệ
+       hợp lệ”.                 Thông báo mã PIN không hợp lệ
+                                        Nhảy thẻ
+                                      Yêu cầu lấy thẻ
+                                         Lây thẻ
+                                   Hiển thị màn hình
+                                   chính
+
+
+                                                                                  32
+
+===== PAGE 33 =====
+          Các cách tiếp cận xác định lớp
+
+                                     : KháchHàngNgânHàng         : MáyATM          : TàiKhoản
+❖  Ví dụ: phân                                    Đưa vào thẻ ATM
+                                                   Yêu cầu PIN
+   tích use case
+                                                   Nhập mã PIN         Kiểm tra mã PIN
+   “Rút tiền”.                                                          Mã PIN hợp lệ
+
+                                                  Yêu cầu số tiền
+                                                   Nhập số tiền
+                                                                       Xử lý giao tác rút
+                                                 Phân phối tiền mặt   Giao tác thành công
+
+                                                  Yêu cầu lấy thẻ
+                                                     Lấy thẻ
+                                                  Yêu cầu tiếp tục
+                                                     Kết thúc
+
+                                                    In hoá đơn
+
+
+
+
+
+
+                                                                                           33
+
+===== PAGE 34 =====
+   Nội dung
+
+
+
+1. Các cách tiếp cận xác định lớp
+
+
+2. Xác định mối quan hệ giữa các lớp
+
+
+3. Xác định thuộc tính và hành vi của lớp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 34
+
+===== PAGE 35 =====
+                     Xác định mối quan hệ
+
+❖ Xác định mối kết hợp (association):
+   ▪  Hướng dẫn xác định mối kết hợp:
+       • Một sự phụ thuộc giữa hai hay nhiều lớp có thể thiết lập thành mối kết
+         hợp. Mối kết hợp thường tương ứng với một động từ hoặc cụm giới từ
+         như là thành phần của, làm việc cho, chứa trong, …
+       • Một tham chiếu từ một lớp đến một lớp khác là một mối kết hợp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             35
+
+===== PAGE 36 =====
+          Xác định mối quan hệ
+
+❖ Xác định mối kết hợp association:
+   ▪  Các mẫu xác định mối kết hợp:
+       • Mối kết hợp vị trí (location): liên kết tới, thành phần
+         của, làm việc tại, ….
+       • Ví dụ:
+
+
+         Nhân Viên     Làm việc tại           Chi Nhánh
+
+
+
+
+         Buổi Học        Học tại              Phòng Học
+
+
+
+
+
+
+
+
+                                    36
+
+===== PAGE 37 =====
+                    Xác định mối quan hệ
+
+❖ Xác định mối kết hợp association:
+   ▪ Các mẫu xác định mối kết hợp:
+       • Mối kết hợp sở hữu: của, có, thuộc,…
+       • Ví dụ:
+
+
+
+                    Cầu Thủ       Là thành phần của    Đội Bóng
+
+
+                    Phòng           Chứa trong         Toà Nhà
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            37
+
+===== PAGE 38 =====
+                     Xác định mối quan hệ
+
+❖ Xác định mối kết hợp association:
+   ▪  Các mẫu xác định mối kết hợp:
+       • Mối kết hợp truyền thông, liên lạc (communication): đặt tới, trao đổi với,
+         gởi cho, tiếp nhận từ,…
+
+
+
+
+                     Đơn Hàng       Đặt tới               Nhà CCấp
+
+
+
+
+                    Bản Yêu Cầu      Gởi tới              Phòng Ban
+
+
+
+
+
+
+
+                                              38
+
+===== PAGE 39 =====
+                   Xác định mối quan hệ
+
+❖ Xác định mối kết hợp association:
+   ▪ Mối kết hợp phản thân: là mối quan hệ được thiết lập giữa một
+     đối tượng của một lớp với một đối tượng khác cũng thuộc lớp
+     đó.
+
+
+
+
+                Nhân Viên                           Thành Phần
+
+
+
+                          Quản lý                         Chứa trong
+
+
+
+
+
+
+
+
+
+
+                                          39
+
+===== PAGE 40 =====
+                      Xác định mối quan hệ
+
+❖ Xác định mối kết hợp association:
+   ▪  Loại bỏ các mối kết hợp không cần thiết:
+       • Mối kết hợp cài đặt: là mối kết hợp mô tả sự liên quan giữa các lớp
+         trong giai đoạn thiết kế cài đặt hệ thống bên trong môi trường phát
+         triển hoặc ngôn ngữ lập trình cụ thể và không phải là mối liên kết giữa
+         các đối tượng mô tả nghiệp vụ
+       • Mối kết hợp đa phân: là mối kết hợp giữa ba lớp trở lên, mối kết hợp
+         này phức tạp trong cách thể hiện → Nếu có thể, phát biểu lại nó dùng
+         mối kết hợp nhị phân
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               40
+
+===== PAGE 41 =====
+                    Xác định mối quan hệ
+
+❖ Xác định mối kết hợp association:
+   ▪  Loại bỏ các mối kết hợp không cần thiết – Ví dụ:
+
+
+
+
+         Lớp học                Môn học      Lớp học                  Môn học
+
+
+
+                                                         Buổi học
+
+
+
+         Giáo viên              Phòng học    Giáo viên                Phòng học
+
+
+
+
+
+
+
+
+
+
+                                            41
+
+===== PAGE 42 =====
+                      Xác định mối quan hệ
+
+❖ Xác định mối kết hợp association:
+   ▪  Loại bỏ các mối kết hợp không cần thiết:
+       • Mối kết hợp trực tiếp dư thừa: là các mối kết hợp được định nghĩa
+         trong ngữ nghĩa của những mối kết hợp khác (còn gọi là mối kết hợp
+         suy diễn hoặc bắc cầu)
+
+
+
+
+                                     0..*   Phiếu đặt hàng1
+
+                     Đặt tới                                    Liên quan
+                           1                                          0..1
+
+                   Nhà cung cấp           Từ                  Phiếu giao hàng
+                                   1                   0..*
+
+
+                                               42
+
+===== PAGE 43 =====
+         Xác định mối quan hệ
+
+❖ Xác định mối kết hợp association:
+   ▪  Xác định bản số cho mối kết hợp: (min, max)
+       • 1; 0..1;
+       • 1..*;
+       • 0..*;
+       • a..* : a là hằng
+
+
+      Bản Yêu Cầu      Gởi tới       1     Phòng Ban
+                   0..*
+
+
+
+
+                          Bản số
+
+
+                                 43
+
+===== PAGE 44 =====
+          Xác định mối quan hệ
+
+❖ Xác định mối kết hợp association:
+   ▪  Xác định bản số cho mối kết hợp: (min, max)
+       • Ví dụ:
+
+
+         Cầu Thủ         Là thành phần của1..* Đội Bóng
+
+                     1..*
+
+
+         Phòng            Chứa trong     1     Toà Nhà
+                     2..*
+
+
+         Đơn Hàng         Đặt tới        1     Nhà CCấp
+
+                      0..*
+
+
+
+                                  44
+
+===== PAGE 45 =====
+         Xác định mối quan hệ
+
+❖ Xác định mối kết hợp association:
+   ▪  Xác định bản số cho mối kết hợp: (min, max)
+       • Ví dụ: hệ thống ATM
+
+
+                          NgânHàng    1
+ Thuộc                1
+                                            Thuộc
+
+        KháchHàng                         1..* MáyATM
+
+           1  1
+
+             Của
+        1..n 1..*             Có        0..n
+    1..*TàiKhoản                         0..* GiaoDịch
+                   1 1
+
+                                 45
+
+===== PAGE 46 =====
+          Xác định mối kết hợp
+
+❖ Xác định lớp kết hợp (Association class)
+
+        Hoá Đơn      0..*                            Sản Phẩm
+                                               1..*
+
+
+
+                             Chi Tiết Hoá Đơn
+                             sốLượng
+                             đơnGiá
+
+
+
+       Sinh Viên    0..*                            Khoá Học
+                                               1..*
+                             Kết Quả
+                            điểmTB
+                            xếpLoại
+                                   46
+
+===== PAGE 47 =====
+          Xác định mối kết hợp
+
+❖ Xác định lớp kết hợp (Association class)
+
+        Hoá Đơn      0..*                            Sản Phẩm
+                                               1..*
+
+
+
+                             Chi Tiết Hoá Đơn
+                             sốLượng
+                             đơnGiá
+
+
+
+
+
+               1             Chi Tiết Hoá Đơn
+  Hoá Đơn                   sốLượng           0..*         Sản Phẩm
+                       1..* đơnGiá                    1
+
+
+                                   47
+
+===== PAGE 48 =====
+                      Xác định mối quan hệ
+
+❖  Nâng cấp mối kết hợp:
+    ▪ Xác định mối kết hợp tổng quát – chuyên biệt (generalization):
+      Thể hiện quan hệ kế thừa giữa các lớp và một cấu trúc phân
+      cấp xác định những dòng kế thừa này
+        • Tiếp cận top-down:
+            – Từ một lớp chúng ta tìm kiếm cụm danh từ chứa tên lớp và tính từ (hoặc danh
+              từ). Đánh giá xem cụm danh từ này có thể là một trường hợp đặc biệt cần được
+              quản lý trong hệ thống không
+            – Tìm kiếm xem có những đặc trưng riêng của lớp
+            – Xây dựng mối kết hợp chuyên biệt từ lớp này đến lớp ban đầu
+
+
+
+
+
+
+
+
+
+
+
+                                                48
+
+===== PAGE 49 =====
+           Xác định mối quan hệ
+
+❖  Nâng cấp mối kết hợp:
+    ▪  Xác định mối kết hợp tổng quát – chuyên biệt
+       (generalization):
+         • Tiếp cận top-down – ví dụ:
+
+   Hoá đơn                                        GiaoDịch
+
+
+
+
+
+                                      GiaoDịchRút            GiaoDịchGởi
+Hoá đơn giao hàng
+
+
+ Ghi chú: chỉ cần đưa vào các lớp chuyên biệt mà chúng ta xác định được các
+ đặc trưng riêng (thuộc tính, method, liên kết) của nó trong hệ thống.
+
+                                       49
+
+===== PAGE 50 =====
+         Xác định mối quan hệ
+
+❖ Nâng cấp mối kết hợp:
+   ▪  Xác định mối kết hợp tổng quát – chuyên biệt
+      (generalization):
+       • Tiếp cận top-down – ví dụ: phức tạp
+                            Nhân viên
+
+
+
+
+              Nhân Viên VP           Công Nhân
+
+
+
+
+ Trưởng Phòng      Thư Ký           NV Bán Hàng
+
+
+                                50
+
+===== PAGE 51 =====
+          Xác định mối quan hệ
+
+❖  Nâng cấp mối kết hợp:
+    ▪ Xác định mối kết hợp tổng quát – chuyên biệt
+      (generalization):
+        • Tiếp cận bottom-up:
+            – Tìm kiếm trong các lớp để xác định xem có các thuộc
+              tính và phương thức giống nhau. Sau đó chúng ta có thể
+              gom nhóm và đưa các thuộc tính và phương thức chung
+              này lên một lớp tổng quát (trừu tượng)
+            – Tạo mối kết hợp tổng quát hoá từ các lớp này đến lớp
+              tổng quát mới xác định
+
+
+
+
+
+
+
+
+
+
+
+                                     51
+
+===== PAGE 52 =====
+         Xác định mối quan hệ
+
+❖ Nâng cấp mối kết hợp:
+   ▪  Xác định mối kết hợp tổng quát – chuyên biệt
+      (generalization):
+       • Tiếp cận bottom-up – ví dụ:
+                             Chứng từ
+
+
+
+
+
+            Hoá đơn                           Đơn đặt hàng
+
+
+
+
+
+                             Hàng hoá
+
+
+                                 52
+
+===== PAGE 53 =====
+         Xác định mối quan hệ
+
+❖ Nâng cấp mối kết hợp:
+   ▪ Xác định mối kết hợp tổng quát – chuyên biệt
+      • Tiếp cận bottom-up – ví dụ:
+
+
+
+                            Đối Tác
+
+
+
+
+
+            Khách Hàng                      Nhà CCấp
+
+
+
+
+
+
+
+
+
+
+
+                                53
+
+===== PAGE 54 =====
+            Xác định mối quan hệ
+
+  ❖  Nâng cấp mối kết hợp:
+      ▪ Xác định mối kết hợp tổng quát – chuyên biệt
+          • Xác định sự tương quan:
+
+                                  (complete, disjoint)
+
+            Lớp A
+
+
+                                  (incomplete, disjoint)
+
+Lớp A1                 Lớp A2       (complete, overlapping)
+
+                                 (incomplete, overlapping)
+
+
+
+
+
+
+
+
+                                      54
+
+===== PAGE 55 =====
+          Xác định mối quan hệ
+
+❖  Nâng cấp mối kết hợp:
+    ▪ Xác định mối kết hợp tổng quát – chuyên biệt
+        • Xác định sự tương quan: - ví dụ
+                 Đối Tác                                   Khách Hàng
+
+                        (incomlete, disjoint)
+                                                       (incomplete)
+
+Khách Hàng                    Nhà CCấp                     Khách Quen
+
+
+                 Nhân Viên VP
+
+                           (incomplete, overlapping)
+
+  Trưởng Phòng        Thư Ký             NV Bán Hàng
+
+                                    55
+
+===== PAGE 56 =====
+         Xác định mối quan hệ
+
+❖ Nâng cấp mối kết hợp:
+   ▪  Xác định mối kết hợp tổng quát – chuyên biệt
+       • Vấn đề đa thừa kế:
+           – Phức tạp trong vấn đề kế thừa
+           → Không nên sử dụng (phiên bản gốc UML không đưa
+           vào)
+
+
+
+     Giáo Viên                    Nhà Nghiên Cứu
+
+
+
+
+                    Gviên – Nhà NgCứu
+
+
+
+
+
+                                  56
+
+===== PAGE 57 =====
+          Xác định mối quan hệ
+
+❖  Nâng cấp mối kết hợp:
+    ▪ Xác định mối kết hợp thành phần (a-part-of,
+      aggregration)
+        • Đặc trưng cơ bản
+            – Tính bắc cầu: Nếu lớp A là một thành phần của lớp B
+              và lớp B là thành phần của lớp C → lớp A là thành
+              phần của lớp C
+            – Tính đối xứng: nếu lớp A là thành phần của lớp B thì
+              lớp B không phải là thành phần của lớp A
+
+               Lớp A                         Lớp B
+
+
+
+                               Lớp C
+
+                                    57
+
+===== PAGE 58 =====
+         Xác định mối quan hệ
+
+❖  Nâng cấp mối kết hợp:
+    ▪ Xác định mối kết hợp thành phần (a-part-of,
+      Composition)
+        • Tập hợp: một đối tượng vật lý được hình thành từ
+          các đối tượng vật lý thành phần khác
+
+Toà Nhà       Đơn Hàng                     Xe Ô Tô
+
+    1              1                     1   1    1
+
+   1..*           1..*             1            4..8           1
+Phòng         Dòng HĐ         Thùng Xe       Bánh Xe        Động Cơ
+
+
+
+
+
+
+
+                                  58
+
+===== PAGE 59 =====
+         Xác định mối quan hệ
+
+❖ Nâng cấp mối kết hợp:
+   ▪  Xác định mối kết hợp thành phần (a-part-of,
+      aggregration)
+       • Vật chứa: một đối tựơng vật lý chứa đựng các
+         thành phần nhưng không được cấu tạo bởi các
+         thành phần
+
+     Container                            Phòng Học
+
+          1                            0..1 0..1  0..1
+
+         1..*                      0..*         0..*           0..1
+
+     Hàng Hoá                   Bàn            Ghế          Projector
+
+
+
+
+                                  59
+
+===== PAGE 60 =====
+         Xác định mối quan hệ
+
+❖ Nâng cấp mối kết hợp:
+   ▪  Xác định mối kết hợp thành phần (a-part-of,
+      aggregration)
+       • Tập hợp – thành viên: một đối tượng khái niệm
+         chứa các thành phần có thể vật lý hoặc khái niệm
+
+                       Lớp khái niệm
+     Phòng Ban                              Đội Bóng
+
+          1                                     1
+
+
+         0..*           Lớp vật lý              0..*
+     Nhân Viên                              Cầu Thủ
+
+
+
+
+                                  60
+
+===== PAGE 61 =====
+         Xác định mối quan hệ
+
+❖ Nâng cấp mối kết hợp:
+   ▪  Xác định mối kết hợp thành phần
+   ▪  Ví dụ: hệ thống ATM
+
+
+                          NgânHàng    1
+ Thuộc                1
+                                            Thuộc
+
+        KháchHàng                         1..* MáyATM
+
+          1    1
+
+             Của
+         1..n 1..*            Có        0..n
+    1..* TàiKhoản                        0..*  GiaoDịch
+                   1 1          61
+
+===== PAGE 62 =====
+   Nội dung
+
+
+
+1. Các cách tiếp cận xác định lớp
+
+
+2. Xác định mối quan hệ giữa các lớp
+
+
+3. Xác định thuộc tính và hành vi của lớp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 62
+
+===== PAGE 63 =====
+          Xác định thuộc tính
+
+❖ Câu hỏi:
+   ▪ Thông tin gì về đối tượng sẽ được quản lý ?
+❖ Nguyên tắc:
+   ▪ Tên: danh từ; cụm danh từ
+   ▪ Đơn giản: chỉ dùng đủ thuộc tính để diễn đạt
+     trạng thái đối tượng ở giai đoạn phân tích
+     (thuộc tính sẽ được bổ sung chi tiết hơn ở
+     các giai đoạn tiếp theo)
+   ▪ Không quá quan tâm về việc phải khám phá
+     hết thuộc tính
+   ▪ Không quan tâm đến các thuộc tính mô tả cài
+     đặt của đối tượng
+
+                               63
+
+===== PAGE 64 =====
+                     Xác định thuộc tính
+
+❖ Ví dụ: hệ thống ATM
+   ▪ Lớp Khách Hàng: Phân tích lần lượt tất cả các use case có liên
+     quan đến lớp Khách Hàng như là: “Đăng nhập”, “Xử lý PIN
+     không hợp lệ”. Các thuộc tính của lớp khách hàng như sau:
+
+
+
+
+
+
+                           KháchHàng
+                          tênKháchHàng
+                          họKháchHàng
+                          mãPIN
+                          sốThẻ
+
+
+
+
+
+                                         64
+
+===== PAGE 65 =====
+                Xác định thuộc tính
+❖  Ví dụ: hệ thống ATM
+
+                                    NgânHàng
+
+
+              KháchHàng                                      MáyATM
+             tênKháchHàng
+             họKháchHàng                                    địaChỉ
+             mãPIN                                          trạngThái
+             sốThẻ                                         sốTiềnHiệnTại
+
+                      1
+                     của1                                    GiaoDịch
+               TàiKhoản                                  giaoDịchID
+              sốTàiKhoản                có               ngàyGiaoDịch
+              loạiTàiKhoản                               thờiGianGiaoDịch
+              sốDư          1                       0..n loạiGiaoDịch
+                                                         sốTiền
+                                                         sốDư
+
+
+
+
+
+                                                 GiaoDịchRút            GiaoDịchGởi
+
+                                              65
+
+===== PAGE 66 =====
+           Xác định method
+
+❖ Xác định method qua phân tích hoạt động
+  use case:
+   ▪ Phân tích các dòng message trong sơ đồ tuần
+     tự để xem có thể chuyển một hoạt động thành
+     một method không?
+   ▪ Nếu có, đặt tên cho method ứng với hoạt
+     động đó
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            66
+
+===== PAGE 67 =====
+                         Xác định method
+❖   Ví dụ: hệ                                            NgânHàng
+    thống ATM                     KháchHàng                                       MáyATM
+                               tênKháchHàng                            có        địaChỉ
+                               họKháchHàng                                       trạngThái
+                               mãPIN                                            sốTiềnHiệnTại
+                               sốThẻ                                            khởiĐộngMáy()
+                               kiểmTraMậtKhẩu()                                 đóngMáy()
+                                           11
+                                         của
+                                          1                                       GiaoDịch
+                                   TàiKhoản                                  giaoDịchID
+                                  sốTàiKhoản                                 ngàyGiaoDịch
+                                  loạiTàiKhoản                               thờiGianGiaoDịch
+                                  sốDư                                       loạiGiaoDịch
+                                  rútTiền()       1                     0..n sốTiền
+                                  gởiTiền()                                  sốDư
+                                  xemTàiKhoản()
+    Ghi chú: các method được phát hiện trong giai
+    đoạn này thường đại diện xử lý cho một use                       GiaoDịchRút             GiaoDịchGởi
+    case
+                                                      67
+
+===== PAGE 68 =====
+Thank You !
+
+
+
+
+
+      LOGO
+
+===== PAGE 69 =====
+           Tài liệu tham khảo
+
+❖ Bài giảng dựa chính trên bài giảng “Xây dựng
+  phần mềm hướng đối tượng” - ThS Trần Minh Triết
+  – ĐH KHTN
+❖ Bài giảng “Phân tích và thiết kế hướng đối tượng”
+  – TS Phạm Ngọc Nam – ĐH BK HN
+❖ Bài giảng “Phân tích và thiết kế hướng đối tượng”
+  – ThS Phạm Nguyễn Cương – ĐH KHTN
+❖ ….
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              69
